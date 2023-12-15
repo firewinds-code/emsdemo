@@ -1,0 +1,13 @@
+[14-Sep-2023 10:04:13 Asia/Kolkata] PHP Warning:  Undefined array key "__user_logid" in D:\wamp64\www\emsdemo\AppCode\nHead.php on line 2
+[14-Sep-2023 10:04:13 Asia/Kolkata] PHP Stack trace:
+[14-Sep-2023 10:04:13 Asia/Kolkata] PHP   1. {main}() D:\wamp64\www\emsdemo\View\welcome_mail_template.php:0
+[14-Sep-2023 10:04:13 Asia/Kolkata] PHP   2. require() D:\wamp64\www\emsdemo\View\welcome_mail_template.php:5
+[14-Sep-2023 10:04:44 Asia/Kolkata] PHP Warning:  Undefined array key "txt_dateFrom" in D:\wamp64\www\emsdemo\View\message-popup.php on line 28
+[14-Sep-2023 10:04:44 Asia/Kolkata] PHP Stack trace:
+[14-Sep-2023 10:04:44 Asia/Kolkata] PHP   1. {main}() D:\wamp64\www\emsdemo\View\message-popup.php:0
+[14-Sep-2023 10:04:44 Asia/Kolkata] PHP Warning:  Undefined array key "txt_dateto" in D:\wamp64\www\emsdemo\View\message-popup.php on line 29
+[14-Sep-2023 10:04:44 Asia/Kolkata] PHP Stack trace:
+[14-Sep-2023 10:04:44 Asia/Kolkata] PHP   1. {main}() D:\wamp64\www\emsdemo\View\message-popup.php:0
+[14-Sep-2023 10:05:01 Asia/Kolkata] PHP Warning:  Undefined array key "EmployeeID" in D:\wamp64\www\emsdemo\View\welcome_mail_template.php on line 16
+[14-Sep-2023 10:05:01 Asia/Kolkata] PHP Stack trace:
+[14-Sep-2023 10:05:01 Asia/Kolkata] PHP   1. {main}() D:\wamp64\www\emsdemo\View\welcome_mail_template.php:0

@@ -1,0 +1,10 @@
+[08-Sep-2023 14:58:06 Asia/Kolkata] PHP Warning:  Undefined array key "__user_logid" in D:\wamp\www\emsdemo\AppCode\nHead.php on line 2
+[08-Sep-2023 14:58:06 Asia/Kolkata] PHP Stack trace:
+[08-Sep-2023 14:58:06 Asia/Kolkata] PHP   1. {main}() D:\wamp\www\emsdemo\View\ithdk_handle_mails.php:0
+[08-Sep-2023 14:58:06 Asia/Kolkata] PHP   2. require() D:\wamp\www\emsdemo\View\ithdk_handle_mails.php:9
+[08-Sep-2023 14:58:25 Asia/Kolkata] PHP Warning:  Undefined array key "txt_dateFrom" in D:\wamp\www\emsdemo\View\message-popup.php on line 28
+[08-Sep-2023 14:58:25 Asia/Kolkata] PHP Stack trace:
+[08-Sep-2023 14:58:25 Asia/Kolkata] PHP   1. {main}() D:\wamp\www\emsdemo\View\message-popup.php:0
+[08-Sep-2023 14:58:25 Asia/Kolkata] PHP Warning:  Undefined array key "txt_dateto" in D:\wamp\www\emsdemo\View\message-popup.php on line 29
+[08-Sep-2023 14:58:25 Asia/Kolkata] PHP Stack trace:
+[08-Sep-2023 14:58:25 Asia/Kolkata] PHP   1. {main}() D:\wamp\www\emsdemo\View\message-popup.php:0

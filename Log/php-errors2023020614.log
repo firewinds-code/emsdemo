@@ -1,0 +1,7 @@
+[06-Feb-2023 14:11:15 Asia/Kolkata] PHP Warning:  Undefined array key "__user_logid" in C:\wamp64\www\emsdemo\View\LogOut.php on line 9
+[06-Feb-2023 14:11:15 Asia/Kolkata] PHP Stack trace:
+[06-Feb-2023 14:11:15 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\emsdemo\View\LogOut.php:0
+[06-Feb-2023 14:11:17 Asia/Kolkata] PHP Warning:  Undefined array key "__user_logid" in C:\wamp64\www\emsdemo\AppCode\nHead.php on line 2
+[06-Feb-2023 14:11:17 Asia/Kolkata] PHP Stack trace:
+[06-Feb-2023 14:11:17 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\emsdemo\View\save_employeemap.php:0
+[06-Feb-2023 14:11:17 Asia/Kolkata] PHP   2. require() C:\wamp64\www\emsdemo\View\save_employeemap.php:11

@@ -1,0 +1,79 @@
+[20-Sep-2023 14:11:08 Asia/Kolkata] PHP Warning:  Undefined array key "__user_logid" in D:\wamp64\www\emsdemo\AppCode\nHead.php on line 2
+[20-Sep-2023 14:11:08 Asia/Kolkata] PHP Stack trace:
+[20-Sep-2023 14:11:08 Asia/Kolkata] PHP   1. {main}() D:\wamp64\www\emsdemo\View\expenses.php:0
+[20-Sep-2023 14:11:08 Asia/Kolkata] PHP   2. require() D:\wamp64\www\emsdemo\View\expenses.php:9
+[20-Sep-2023 14:11:22 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in D:\wamp64\www\emsdemo\View\index.php on line 356
+[20-Sep-2023 14:11:22 Asia/Kolkata] PHP Stack trace:
+[20-Sep-2023 14:11:22 Asia/Kolkata] PHP   1. {main}() D:\wamp64\www\emsdemo\View\index.php:0
+[20-Sep-2023 14:11:22 Asia/Kolkata] PHP Deprecated:  stripslashes(): Passing null to parameter #1 ($string) of type string is deprecated in D:\wamp64\www\emsdemo\Config\init.php on line 122
+[20-Sep-2023 14:11:22 Asia/Kolkata] PHP Stack trace:
+[20-Sep-2023 14:11:22 Asia/Kolkata] PHP   1. {main}() D:\wamp64\www\emsdemo\View\index.php:0
+[20-Sep-2023 14:11:22 Asia/Kolkata] PHP   2. clean($data = NULL) D:\wamp64\www\emsdemo\View\index.php:356
+[20-Sep-2023 14:11:22 Asia/Kolkata] PHP   3. stripslashes($string = NULL) D:\wamp64\www\emsdemo\Config\init.php:122
+[20-Sep-2023 14:11:39 Asia/Kolkata] PHP Warning:  Undefined array key "travel_date" in D:\wamp64\www\emsdemo\View\expenses.php on line 60
+[20-Sep-2023 14:11:39 Asia/Kolkata] PHP Stack trace:
+[20-Sep-2023 14:11:39 Asia/Kolkata] PHP   1. {main}() D:\wamp64\www\emsdemo\View\expenses.php:0
+[20-Sep-2023 14:11:39 Asia/Kolkata] PHP Warning:  Undefined array key "placeFrom" in D:\wamp64\www\emsdemo\View\expenses.php on line 61
+[20-Sep-2023 14:11:39 Asia/Kolkata] PHP Stack trace:
+[20-Sep-2023 14:11:39 Asia/Kolkata] PHP   1. {main}() D:\wamp64\www\emsdemo\View\expenses.php:0
+[20-Sep-2023 14:11:39 Asia/Kolkata] PHP Warning:  Undefined array key "placeTO" in D:\wamp64\www\emsdemo\View\expenses.php on line 62
+[20-Sep-2023 14:11:39 Asia/Kolkata] PHP Stack trace:
+[20-Sep-2023 14:11:39 Asia/Kolkata] PHP   1. {main}() D:\wamp64\www\emsdemo\View\expenses.php:0
+[20-Sep-2023 14:11:39 Asia/Kolkata] PHP Warning:  Undefined array key "modeOftravel" in D:\wamp64\www\emsdemo\View\expenses.php on line 63
+[20-Sep-2023 14:11:39 Asia/Kolkata] PHP Stack trace:
+[20-Sep-2023 14:11:39 Asia/Kolkata] PHP   1. {main}() D:\wamp64\www\emsdemo\View\expenses.php:0
+[20-Sep-2023 14:11:40 Asia/Kolkata] PHP Warning:  Undefined array key "receipt_no" in D:\wamp64\www\emsdemo\View\expenses.php on line 66
+[20-Sep-2023 14:11:40 Asia/Kolkata] PHP Stack trace:
+[20-Sep-2023 14:11:40 Asia/Kolkata] PHP   1. {main}() D:\wamp64\www\emsdemo\View\expenses.php:0
+[20-Sep-2023 14:11:40 Asia/Kolkata] PHP Warning:  Undefined array key "remarks" in D:\wamp64\www\emsdemo\View\expenses.php on line 68
+[20-Sep-2023 14:11:40 Asia/Kolkata] PHP Stack trace:
+[20-Sep-2023 14:11:40 Asia/Kolkata] PHP   1. {main}() D:\wamp64\www\emsdemo\View\expenses.php:0
+[20-Sep-2023 14:11:40 Asia/Kolkata] PHP Warning:  Undefined array key "returnDate" in D:\wamp64\www\emsdemo\View\expenses.php on line 74
+[20-Sep-2023 14:11:40 Asia/Kolkata] PHP Stack trace:
+[20-Sep-2023 14:11:40 Asia/Kolkata] PHP   1. {main}() D:\wamp64\www\emsdemo\View\expenses.php:0
+[20-Sep-2023 14:11:40 Asia/Kolkata] PHP Warning:  Undefined array key "car_km" in D:\wamp64\www\emsdemo\View\expenses.php on line 75
+[20-Sep-2023 14:11:40 Asia/Kolkata] PHP Stack trace:
+[20-Sep-2023 14:11:40 Asia/Kolkata] PHP   1. {main}() D:\wamp64\www\emsdemo\View\expenses.php:0
+[20-Sep-2023 14:11:53 Asia/Kolkata] PHP Warning:  Undefined array key "travel_date" in D:\wamp64\www\emsdemo\View\expenses.php on line 60
+[20-Sep-2023 14:11:53 Asia/Kolkata] PHP Stack trace:
+[20-Sep-2023 14:11:53 Asia/Kolkata] PHP   1. {main}() D:\wamp64\www\emsdemo\View\expenses.php:0
+[20-Sep-2023 14:11:54 Asia/Kolkata] PHP Warning:  Undefined array key "placeFrom" in D:\wamp64\www\emsdemo\View\expenses.php on line 61
+[20-Sep-2023 14:11:54 Asia/Kolkata] PHP Stack trace:
+[20-Sep-2023 14:11:54 Asia/Kolkata] PHP   1. {main}() D:\wamp64\www\emsdemo\View\expenses.php:0
+[20-Sep-2023 14:11:54 Asia/Kolkata] PHP Warning:  Undefined array key "placeTO" in D:\wamp64\www\emsdemo\View\expenses.php on line 62
+[20-Sep-2023 14:11:54 Asia/Kolkata] PHP Stack trace:
+[20-Sep-2023 14:11:54 Asia/Kolkata] PHP   1. {main}() D:\wamp64\www\emsdemo\View\expenses.php:0
+[20-Sep-2023 14:11:54 Asia/Kolkata] PHP Warning:  Undefined array key "modeOftravel" in D:\wamp64\www\emsdemo\View\expenses.php on line 63
+[20-Sep-2023 14:11:54 Asia/Kolkata] PHP Stack trace:
+[20-Sep-2023 14:11:54 Asia/Kolkata] PHP   1. {main}() D:\wamp64\www\emsdemo\View\expenses.php:0
+[20-Sep-2023 14:11:54 Asia/Kolkata] PHP Warning:  Undefined array key "receipt_no" in D:\wamp64\www\emsdemo\View\expenses.php on line 66
+[20-Sep-2023 14:11:54 Asia/Kolkata] PHP Stack trace:
+[20-Sep-2023 14:11:54 Asia/Kolkata] PHP   1. {main}() D:\wamp64\www\emsdemo\View\expenses.php:0
+[20-Sep-2023 14:11:55 Asia/Kolkata] PHP Warning:  Undefined array key "remarks" in D:\wamp64\www\emsdemo\View\expenses.php on line 68
+[20-Sep-2023 14:11:55 Asia/Kolkata] PHP Stack trace:
+[20-Sep-2023 14:11:55 Asia/Kolkata] PHP   1. {main}() D:\wamp64\www\emsdemo\View\expenses.php:0
+[20-Sep-2023 14:11:55 Asia/Kolkata] PHP Warning:  Undefined array key "returnDate" in D:\wamp64\www\emsdemo\View\expenses.php on line 74
+[20-Sep-2023 14:11:55 Asia/Kolkata] PHP Stack trace:
+[20-Sep-2023 14:11:55 Asia/Kolkata] PHP   1. {main}() D:\wamp64\www\emsdemo\View\expenses.php:0
+[20-Sep-2023 14:11:55 Asia/Kolkata] PHP Warning:  Undefined array key "car_km" in D:\wamp64\www\emsdemo\View\expenses.php on line 75
+[20-Sep-2023 14:11:55 Asia/Kolkata] PHP Stack trace:
+[20-Sep-2023 14:11:55 Asia/Kolkata] PHP   1. {main}() D:\wamp64\www\emsdemo\View\expenses.php:0
+[20-Sep-2023 14:12:21 Asia/Kolkata] PHP Warning:  Undefined array key "EmployeeID" in D:\wamp64\www\emsdemo\View\welcome_mail_template.php on line 16
+[20-Sep-2023 14:12:21 Asia/Kolkata] PHP Stack trace:
+[20-Sep-2023 14:12:21 Asia/Kolkata] PHP   1. {main}() D:\wamp64\www\emsdemo\View\welcome_mail_template.php:0
+[20-Sep-2023 14:54:41 Asia/Kolkata] PHP Warning:  Undefined array key "__user_logid" in D:\wamp64\www\emsdemo\AppCode\nHead.php on line 2
+[20-Sep-2023 14:54:41 Asia/Kolkata] PHP Stack trace:
+[20-Sep-2023 14:54:41 Asia/Kolkata] PHP   1. {main}() D:\wamp64\www\emsdemo\View\module_master_report.php:0
+[20-Sep-2023 14:54:41 Asia/Kolkata] PHP   2. require() D:\wamp64\www\emsdemo\View\module_master_report.php:9
+[20-Sep-2023 14:54:46 Asia/Kolkata] PHP Warning:  Undefined array key "__user_logid" in D:\wamp64\www\emsdemo\AppCode\nHead.php on line 2
+[20-Sep-2023 14:54:46 Asia/Kolkata] PHP Stack trace:
+[20-Sep-2023 14:54:46 Asia/Kolkata] PHP   1. {main}() D:\wamp64\www\emsdemo\View\welcome_mail_template.php:0
+[20-Sep-2023 14:54:46 Asia/Kolkata] PHP   2. require() D:\wamp64\www\emsdemo\View\welcome_mail_template.php:5
+[20-Sep-2023 14:55:13 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in D:\wamp64\www\emsdemo\View\index.php on line 356
+[20-Sep-2023 14:55:13 Asia/Kolkata] PHP Stack trace:
+[20-Sep-2023 14:55:13 Asia/Kolkata] PHP   1. {main}() D:\wamp64\www\emsdemo\View\index.php:0
+[20-Sep-2023 14:55:13 Asia/Kolkata] PHP Deprecated:  stripslashes(): Passing null to parameter #1 ($string) of type string is deprecated in D:\wamp64\www\emsdemo\Config\init.php on line 122
+[20-Sep-2023 14:55:13 Asia/Kolkata] PHP Stack trace:
+[20-Sep-2023 14:55:13 Asia/Kolkata] PHP   1. {main}() D:\wamp64\www\emsdemo\View\index.php:0
+[20-Sep-2023 14:55:13 Asia/Kolkata] PHP   2. clean($data = NULL) D:\wamp64\www\emsdemo\View\index.php:356
+[20-Sep-2023 14:55:13 Asia/Kolkata] PHP   3. stripslashes($string = NULL) D:\wamp64\www\emsdemo\Config\init.php:122

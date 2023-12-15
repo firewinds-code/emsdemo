@@ -1,0 +1,121 @@
+[20-Sep-2023 10:00:07 Asia/Kolkata] PHP Notice:  Undefined index: __user_logid in D:\wamp64\www\emsdemo\AppCode\nHead.php on line 2
+[20-Sep-2023 10:00:07 Asia/Kolkata] PHP Stack trace:
+[20-Sep-2023 10:00:07 Asia/Kolkata] PHP   1. {main}() D:\wamp64\www\emsdemo\View\module_master_new.php:0
+[20-Sep-2023 10:00:07 Asia/Kolkata] PHP   2. require() D:\wamp64\www\emsdemo\View\module_master_new.php:9
+[20-Sep-2023 10:00:18 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in D:\wamp64\www\emsdemo\View\index.php on line 356
+[20-Sep-2023 10:00:18 Asia/Kolkata] PHP Stack trace:
+[20-Sep-2023 10:00:18 Asia/Kolkata] PHP   1. {main}() D:\wamp64\www\emsdemo\View\index.php:0
+[20-Sep-2023 10:00:41 Asia/Kolkata] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in D:\wamp64\www\emsdemo\AppData\lib\PHPExcel\Shared\String.php on line 529
+[20-Sep-2023 10:00:41 Asia/Kolkata] PHP Stack trace:
+[20-Sep-2023 10:00:41 Asia/Kolkata] PHP   1. {main}() D:\wamp64\www\emsdemo\View\module_master_new.php:0
+[20-Sep-2023 10:00:41 Asia/Kolkata] PHP   2. require_once() D:\wamp64\www\emsdemo\View\module_master_new.php:10
+[20-Sep-2023 10:00:41 Asia/Kolkata] PHP   3. require() D:\wamp64\www\emsdemo\AppData\lib\PHPExcel\IOFactory.php:35
+[20-Sep-2023 10:00:41 Asia/Kolkata] PHP   4. spl_autoload_call($class_name = 'PHPExcel_Shared_String') D:\wamp64\www\emsdemo\AppData\lib\PHPExcel\Autoloader.php:36
+[20-Sep-2023 10:00:41 Asia/Kolkata] PHP   5. PHPExcel_Autoloader::Load($pClassName = 'PHPExcel_Shared_String') D:\wamp64\www\emsdemo\AppData\lib\PHPExcel\Autoloader.php:36
+[20-Sep-2023 10:00:41 Asia/Kolkata] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in D:\wamp64\www\emsdemo\AppData\lib\PHPExcel\Shared\String.php on line 530
+[20-Sep-2023 10:00:41 Asia/Kolkata] PHP Stack trace:
+[20-Sep-2023 10:00:41 Asia/Kolkata] PHP   1. {main}() D:\wamp64\www\emsdemo\View\module_master_new.php:0
+[20-Sep-2023 10:00:41 Asia/Kolkata] PHP   2. require_once() D:\wamp64\www\emsdemo\View\module_master_new.php:10
+[20-Sep-2023 10:00:41 Asia/Kolkata] PHP   3. require() D:\wamp64\www\emsdemo\AppData\lib\PHPExcel\IOFactory.php:35
+[20-Sep-2023 10:00:41 Asia/Kolkata] PHP   4. spl_autoload_call($class_name = 'PHPExcel_Shared_String') D:\wamp64\www\emsdemo\AppData\lib\PHPExcel\Autoloader.php:36
+[20-Sep-2023 10:00:41 Asia/Kolkata] PHP   5. PHPExcel_Autoloader::Load($pClassName = 'PHPExcel_Shared_String') D:\wamp64\www\emsdemo\AppData\lib\PHPExcel\Autoloader.php:36
+[20-Sep-2023 10:00:41 Asia/Kolkata] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in D:\wamp64\www\emsdemo\AppData\lib\PHPExcel\Shared\String.php on line 536
+[20-Sep-2023 10:00:41 Asia/Kolkata] PHP Stack trace:
+[20-Sep-2023 10:00:41 Asia/Kolkata] PHP   1. {main}() D:\wamp64\www\emsdemo\View\module_master_new.php:0
+[20-Sep-2023 10:00:41 Asia/Kolkata] PHP   2. require_once() D:\wamp64\www\emsdemo\View\module_master_new.php:10
+[20-Sep-2023 10:00:41 Asia/Kolkata] PHP   3. require() D:\wamp64\www\emsdemo\AppData\lib\PHPExcel\IOFactory.php:35
+[20-Sep-2023 10:00:41 Asia/Kolkata] PHP   4. spl_autoload_call($class_name = 'PHPExcel_Shared_String') D:\wamp64\www\emsdemo\AppData\lib\PHPExcel\Autoloader.php:36
+[20-Sep-2023 10:00:41 Asia/Kolkata] PHP   5. PHPExcel_Autoloader::Load($pClassName = 'PHPExcel_Shared_String') D:\wamp64\www\emsdemo\AppData\lib\PHPExcel\Autoloader.php:36
+[20-Sep-2023 10:00:41 Asia/Kolkata] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in D:\wamp64\www\emsdemo\AppData\lib\PHPExcel\Shared\String.php on line 536
+[20-Sep-2023 10:00:41 Asia/Kolkata] PHP Stack trace:
+[20-Sep-2023 10:00:41 Asia/Kolkata] PHP   1. {main}() D:\wamp64\www\emsdemo\View\module_master_new.php:0
+[20-Sep-2023 10:00:41 Asia/Kolkata] PHP   2. require_once() D:\wamp64\www\emsdemo\View\module_master_new.php:10
+[20-Sep-2023 10:00:41 Asia/Kolkata] PHP   3. require() D:\wamp64\www\emsdemo\AppData\lib\PHPExcel\IOFactory.php:35
+[20-Sep-2023 10:00:41 Asia/Kolkata] PHP   4. spl_autoload_call($class_name = 'PHPExcel_Shared_String') D:\wamp64\www\emsdemo\AppData\lib\PHPExcel\Autoloader.php:36
+[20-Sep-2023 10:00:41 Asia/Kolkata] PHP   5. PHPExcel_Autoloader::Load($pClassName = 'PHPExcel_Shared_String') D:\wamp64\www\emsdemo\AppData\lib\PHPExcel\Autoloader.php:36
+[20-Sep-2023 10:00:41 Asia/Kolkata] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in D:\wamp64\www\emsdemo\AppData\lib\PHPExcel\Shared\String.php on line 537
+[20-Sep-2023 10:00:41 Asia/Kolkata] PHP Stack trace:
+[20-Sep-2023 10:00:41 Asia/Kolkata] PHP   1. {main}() D:\wamp64\www\emsdemo\View\module_master_new.php:0
+[20-Sep-2023 10:00:41 Asia/Kolkata] PHP   2. require_once() D:\wamp64\www\emsdemo\View\module_master_new.php:10
+[20-Sep-2023 10:00:41 Asia/Kolkata] PHP   3. require() D:\wamp64\www\emsdemo\AppData\lib\PHPExcel\IOFactory.php:35
+[20-Sep-2023 10:00:41 Asia/Kolkata] PHP   4. spl_autoload_call($class_name = 'PHPExcel_Shared_String') D:\wamp64\www\emsdemo\AppData\lib\PHPExcel\Autoloader.php:36
+[20-Sep-2023 10:00:41 Asia/Kolkata] PHP   5. PHPExcel_Autoloader::Load($pClassName = 'PHPExcel_Shared_String') D:\wamp64\www\emsdemo\AppData\lib\PHPExcel\Autoloader.php:36
+[20-Sep-2023 10:00:41 Asia/Kolkata] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in D:\wamp64\www\emsdemo\AppData\lib\PHPExcel\Shared\String.php on line 537
+[20-Sep-2023 10:00:41 Asia/Kolkata] PHP Stack trace:
+[20-Sep-2023 10:00:41 Asia/Kolkata] PHP   1. {main}() D:\wamp64\www\emsdemo\View\module_master_new.php:0
+[20-Sep-2023 10:00:41 Asia/Kolkata] PHP   2. require_once() D:\wamp64\www\emsdemo\View\module_master_new.php:10
+[20-Sep-2023 10:00:41 Asia/Kolkata] PHP   3. require() D:\wamp64\www\emsdemo\AppData\lib\PHPExcel\IOFactory.php:35
+[20-Sep-2023 10:00:41 Asia/Kolkata] PHP   4. spl_autoload_call($class_name = 'PHPExcel_Shared_String') D:\wamp64\www\emsdemo\AppData\lib\PHPExcel\Autoloader.php:36
+[20-Sep-2023 10:00:41 Asia/Kolkata] PHP   5. PHPExcel_Autoloader::Load($pClassName = 'PHPExcel_Shared_String') D:\wamp64\www\emsdemo\AppData\lib\PHPExcel\Autoloader.php:36
+[20-Sep-2023 10:00:42 Asia/Kolkata] PHP Notice:  Undefined variable: classvarr in D:\wamp64\www\emsdemo\View\module_master_new.php on line 307
+[20-Sep-2023 10:00:42 Asia/Kolkata] PHP Stack trace:
+[20-Sep-2023 10:00:42 Asia/Kolkata] PHP   1. {main}() D:\wamp64\www\emsdemo\View\module_master_new.php:0
+[20-Sep-2023 10:00:42 Asia/Kolkata] PHP Notice:  Undefined variable: id in D:\wamp64\www\emsdemo\View\module_master_new.php on line 458
+[20-Sep-2023 10:00:42 Asia/Kolkata] PHP Stack trace:
+[20-Sep-2023 10:00:42 Asia/Kolkata] PHP   1. {main}() D:\wamp64\www\emsdemo\View\module_master_new.php:0
+[20-Sep-2023 10:01:00 Asia/Kolkata] PHP Notice:  Undefined variable: classvarr in D:\wamp64\www\emsdemo\View\module_master_new.php on line 307
+[20-Sep-2023 10:01:00 Asia/Kolkata] PHP Stack trace:
+[20-Sep-2023 10:01:00 Asia/Kolkata] PHP   1. {main}() D:\wamp64\www\emsdemo\View\module_master_new.php:0
+[20-Sep-2023 10:01:00 Asia/Kolkata] PHP Notice:  Undefined variable: id in D:\wamp64\www\emsdemo\View\module_master_new.php on line 458
+[20-Sep-2023 10:01:00 Asia/Kolkata] PHP Stack trace:
+[20-Sep-2023 10:01:00 Asia/Kolkata] PHP   1. {main}() D:\wamp64\www\emsdemo\View\module_master_new.php:0
+[20-Sep-2023 10:02:30 Asia/Kolkata] PHP Notice:  Undefined index: txt_Process in D:\wamp64\www\emsdemo\View\module_master_new.php on line 32
+[20-Sep-2023 10:02:30 Asia/Kolkata] PHP Stack trace:
+[20-Sep-2023 10:02:30 Asia/Kolkata] PHP   1. {main}() D:\wamp64\www\emsdemo\View\module_master_new.php:0
+[20-Sep-2023 10:02:31 Asia/Kolkata] PHP Notice:  Undefined variable: classvarr in D:\wamp64\www\emsdemo\View\module_master_new.php on line 307
+[20-Sep-2023 10:02:31 Asia/Kolkata] PHP Stack trace:
+[20-Sep-2023 10:02:31 Asia/Kolkata] PHP   1. {main}() D:\wamp64\www\emsdemo\View\module_master_new.php:0
+[20-Sep-2023 10:02:31 Asia/Kolkata] PHP Notice:  Undefined variable: id in D:\wamp64\www\emsdemo\View\module_master_new.php on line 458
+[20-Sep-2023 10:02:31 Asia/Kolkata] PHP Stack trace:
+[20-Sep-2023 10:02:31 Asia/Kolkata] PHP   1. {main}() D:\wamp64\www\emsdemo\View\module_master_new.php:0
+[20-Sep-2023 10:03:02 Asia/Kolkata] PHP Notice:  Undefined index: txt_Process in D:\wamp64\www\emsdemo\View\module_master_new.php on line 32
+[20-Sep-2023 10:03:02 Asia/Kolkata] PHP Stack trace:
+[20-Sep-2023 10:03:02 Asia/Kolkata] PHP   1. {main}() D:\wamp64\www\emsdemo\View\module_master_new.php:0
+[20-Sep-2023 10:03:03 Asia/Kolkata] PHP Notice:  Undefined variable: classvarr in D:\wamp64\www\emsdemo\View\module_master_new.php on line 307
+[20-Sep-2023 10:03:03 Asia/Kolkata] PHP Stack trace:
+[20-Sep-2023 10:03:03 Asia/Kolkata] PHP   1. {main}() D:\wamp64\www\emsdemo\View\module_master_new.php:0
+[20-Sep-2023 10:03:03 Asia/Kolkata] PHP Notice:  Undefined variable: id in D:\wamp64\www\emsdemo\View\module_master_new.php on line 458
+[20-Sep-2023 10:03:03 Asia/Kolkata] PHP Stack trace:
+[20-Sep-2023 10:03:03 Asia/Kolkata] PHP   1. {main}() D:\wamp64\www\emsdemo\View\module_master_new.php:0
+[20-Sep-2023 10:05:15 Asia/Kolkata] PHP Notice:  Undefined index: txt_Process in D:\wamp64\www\emsdemo\View\module_master_new.php on line 32
+[20-Sep-2023 10:05:15 Asia/Kolkata] PHP Stack trace:
+[20-Sep-2023 10:05:15 Asia/Kolkata] PHP   1. {main}() D:\wamp64\www\emsdemo\View\module_master_new.php:0
+[20-Sep-2023 10:05:16 Asia/Kolkata] PHP Notice:  Undefined variable: classvarr in D:\wamp64\www\emsdemo\View\module_master_new.php on line 307
+[20-Sep-2023 10:05:16 Asia/Kolkata] PHP Stack trace:
+[20-Sep-2023 10:05:16 Asia/Kolkata] PHP   1. {main}() D:\wamp64\www\emsdemo\View\module_master_new.php:0
+[20-Sep-2023 10:05:16 Asia/Kolkata] PHP Notice:  Undefined variable: id in D:\wamp64\www\emsdemo\View\module_master_new.php on line 458
+[20-Sep-2023 10:05:16 Asia/Kolkata] PHP Stack trace:
+[20-Sep-2023 10:05:16 Asia/Kolkata] PHP   1. {main}() D:\wamp64\www\emsdemo\View\module_master_new.php:0
+[20-Sep-2023 10:05:40 Asia/Kolkata] PHP Notice:  Undefined index: txt_Process in D:\wamp64\www\emsdemo\View\module_master_new.php on line 32
+[20-Sep-2023 10:05:40 Asia/Kolkata] PHP Stack trace:
+[20-Sep-2023 10:05:40 Asia/Kolkata] PHP   1. {main}() D:\wamp64\www\emsdemo\View\module_master_new.php:0
+[20-Sep-2023 10:05:40 Asia/Kolkata] PHP Notice:  Undefined variable: classvarr in D:\wamp64\www\emsdemo\View\module_master_new.php on line 307
+[20-Sep-2023 10:05:40 Asia/Kolkata] PHP Stack trace:
+[20-Sep-2023 10:05:40 Asia/Kolkata] PHP   1. {main}() D:\wamp64\www\emsdemo\View\module_master_new.php:0
+[20-Sep-2023 10:05:40 Asia/Kolkata] PHP Notice:  Undefined variable: id in D:\wamp64\www\emsdemo\View\module_master_new.php on line 458
+[20-Sep-2023 10:05:40 Asia/Kolkata] PHP Stack trace:
+[20-Sep-2023 10:05:40 Asia/Kolkata] PHP   1. {main}() D:\wamp64\www\emsdemo\View\module_master_new.php:0
+[20-Sep-2023 10:06:41 Asia/Kolkata] PHP Notice:  Undefined index: txt_Process in D:\wamp64\www\emsdemo\View\module_master_new.php on line 32
+[20-Sep-2023 10:06:41 Asia/Kolkata] PHP Stack trace:
+[20-Sep-2023 10:06:41 Asia/Kolkata] PHP   1. {main}() D:\wamp64\www\emsdemo\View\module_master_new.php:0
+[20-Sep-2023 10:06:41 Asia/Kolkata] PHP Notice:  Undefined variable: classvarr in D:\wamp64\www\emsdemo\View\module_master_new.php on line 307
+[20-Sep-2023 10:06:41 Asia/Kolkata] PHP Stack trace:
+[20-Sep-2023 10:06:41 Asia/Kolkata] PHP   1. {main}() D:\wamp64\www\emsdemo\View\module_master_new.php:0
+[20-Sep-2023 10:06:41 Asia/Kolkata] PHP Notice:  Undefined variable: id in D:\wamp64\www\emsdemo\View\module_master_new.php on line 458
+[20-Sep-2023 10:06:41 Asia/Kolkata] PHP Stack trace:
+[20-Sep-2023 10:06:41 Asia/Kolkata] PHP   1. {main}() D:\wamp64\www\emsdemo\View\module_master_new.php:0
+[20-Sep-2023 10:07:13 Asia/Kolkata] PHP Notice:  Undefined index: txt_Process in D:\wamp64\www\emsdemo\View\module_master_new.php on line 32
+[20-Sep-2023 10:07:13 Asia/Kolkata] PHP Stack trace:
+[20-Sep-2023 10:07:13 Asia/Kolkata] PHP   1. {main}() D:\wamp64\www\emsdemo\View\module_master_new.php:0
+[20-Sep-2023 10:07:13 Asia/Kolkata] PHP Notice:  Undefined variable: classvarr in D:\wamp64\www\emsdemo\View\module_master_new.php on line 307
+[20-Sep-2023 10:07:13 Asia/Kolkata] PHP Stack trace:
+[20-Sep-2023 10:07:13 Asia/Kolkata] PHP   1. {main}() D:\wamp64\www\emsdemo\View\module_master_new.php:0
+[20-Sep-2023 10:07:13 Asia/Kolkata] PHP Notice:  Undefined variable: id in D:\wamp64\www\emsdemo\View\module_master_new.php on line 458
+[20-Sep-2023 10:07:13 Asia/Kolkata] PHP Stack trace:
+[20-Sep-2023 10:07:13 Asia/Kolkata] PHP   1. {main}() D:\wamp64\www\emsdemo\View\module_master_new.php:0
+[20-Sep-2023 10:07:42 Asia/Kolkata] PHP Notice:  Undefined variable: classvarr in D:\wamp64\www\emsdemo\View\module_master_new.php on line 307
+[20-Sep-2023 10:07:42 Asia/Kolkata] PHP Stack trace:
+[20-Sep-2023 10:07:42 Asia/Kolkata] PHP   1. {main}() D:\wamp64\www\emsdemo\View\module_master_new.php:0
+[20-Sep-2023 10:07:42 Asia/Kolkata] PHP Notice:  Undefined variable: id in D:\wamp64\www\emsdemo\View\module_master_new.php on line 458
+[20-Sep-2023 10:07:42 Asia/Kolkata] PHP Stack trace:
+[20-Sep-2023 10:07:42 Asia/Kolkata] PHP   1. {main}() D:\wamp64\www\emsdemo\View\module_master_new.php:0

@@ -1,0 +1,9 @@
+[24-Dec-2022 13:00:52 Asia/Kolkata] PHP Notice:  Undefined index: User_type in /var/www/html/erpm/Services/getAgentList.php on line 23
+[24-Dec-2022 13:00:52 Asia/Kolkata] PHP Notice:  Undefined index: client in /var/www/html/erpm/Services/getAgentList.php on line 24
+[24-Dec-2022 13:00:52 Asia/Kolkata] PHP Notice:  Undefined index: cmid in /var/www/html/erpm/Services/getAgentList.php on line 34
+[24-Dec-2022 13:01:06 Asia/Kolkata] PHP Notice:  Undefined index: User_type in /var/www/html/erpm/Services/getAgentList.php on line 23
+[24-Dec-2022 13:01:06 Asia/Kolkata] PHP Notice:  Undefined index: client in /var/www/html/erpm/Services/getAgentList.php on line 24
+[24-Dec-2022 13:01:06 Asia/Kolkata] PHP Notice:  Undefined index: cmid in /var/www/html/erpm/Services/getAgentList.php on line 34
+[24-Dec-2022 13:01:06 Asia/Kolkata] PHP Notice:  Undefined index: process in /var/www/html/erpm/Services/getAgentList.php on line 63
+[24-Dec-2022 13:01:06 Asia/Kolkata] PHP Notice:  Undefined index: clientname in /var/www/html/erpm/Services/getAgentList.php on line 64
+[24-Dec-2022 13:01:06 Asia/Kolkata] PHP Notice:  Undefined index: location in /var/www/html/erpm/Services/getAgentList.php on line 65

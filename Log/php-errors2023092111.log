@@ -1,0 +1,62 @@
+[21-Sep-2023 11:53:56 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in D:\wamp64\www\emsdemo\View\index.php on line 356
+[21-Sep-2023 11:53:56 Asia/Kolkata] PHP Stack trace:
+[21-Sep-2023 11:53:56 Asia/Kolkata] PHP   1. {main}() D:\wamp64\www\emsdemo\View\index.php:0
+[21-Sep-2023 11:53:56 Asia/Kolkata] PHP Deprecated:  stripslashes(): Passing null to parameter #1 ($string) of type string is deprecated in D:\wamp64\www\emsdemo\Config\init.php on line 122
+[21-Sep-2023 11:53:56 Asia/Kolkata] PHP Stack trace:
+[21-Sep-2023 11:53:56 Asia/Kolkata] PHP   1. {main}() D:\wamp64\www\emsdemo\View\index.php:0
+[21-Sep-2023 11:53:56 Asia/Kolkata] PHP   2. clean($data = NULL) D:\wamp64\www\emsdemo\View\index.php:356
+[21-Sep-2023 11:53:56 Asia/Kolkata] PHP   3. stripslashes($string = NULL) D:\wamp64\www\emsdemo\Config\init.php:122
+[21-Sep-2023 11:54:10 Asia/Kolkata] PHP Fatal error:  Array and string offset access syntax with curly braces is no longer supported in D:\wamp64\www\emsdemo\AppData\lib\PHPExcel\Shared\String.php on line 529
+[21-Sep-2023 11:54:10 Asia/Kolkata] PHP Stack trace:
+[21-Sep-2023 11:54:10 Asia/Kolkata] PHP   1. {main}() D:\wamp64\www\emsdemo\View\module_master_report.php:0
+[21-Sep-2023 11:54:10 Asia/Kolkata] PHP   2. require_once() D:\wamp64\www\emsdemo\View\module_master_report.php:10
+[21-Sep-2023 11:54:10 Asia/Kolkata] PHP   3. require() D:\wamp64\www\emsdemo\AppData\lib\PHPExcel\IOFactory.php:35
+[21-Sep-2023 11:54:10 Asia/Kolkata] PHP   4. PHPExcel_Autoloader::Load($pClassName = 'PHPExcel_Shared_String') D:\wamp64\www\emsdemo\AppData\lib\PHPExcel\Autoloader.php:36
+[21-Sep-2023 11:54:44 Asia/Kolkata] PHP Fatal error:  Array and string offset access syntax with curly braces is no longer supported in D:\wamp64\www\emsdemo\AppData\lib\PHPExcel\Shared\String.php on line 529
+[21-Sep-2023 11:54:44 Asia/Kolkata] PHP Stack trace:
+[21-Sep-2023 11:54:44 Asia/Kolkata] PHP   1. {main}() D:\wamp64\www\emsdemo\View\module_master_report.php:0
+[21-Sep-2023 11:54:44 Asia/Kolkata] PHP   2. require_once() D:\wamp64\www\emsdemo\View\module_master_report.php:10
+[21-Sep-2023 11:54:44 Asia/Kolkata] PHP   3. require() D:\wamp64\www\emsdemo\AppData\lib\PHPExcel\IOFactory.php:35
+[21-Sep-2023 11:54:44 Asia/Kolkata] PHP   4. PHPExcel_Autoloader::Load($pClassName = 'PHPExcel_Shared_String') D:\wamp64\www\emsdemo\AppData\lib\PHPExcel\Autoloader.php:36
+[21-Sep-2023 11:55:05 Asia/Kolkata] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in D:\wamp64\www\emsdemo\AppData\lib\PHPExcel\Shared\String.php on line 529
+[21-Sep-2023 11:55:05 Asia/Kolkata] PHP Stack trace:
+[21-Sep-2023 11:55:05 Asia/Kolkata] PHP   1. {main}() D:\wamp64\www\emsdemo\View\module_master_report.php:0
+[21-Sep-2023 11:55:05 Asia/Kolkata] PHP   2. require_once() D:\wamp64\www\emsdemo\View\module_master_report.php:10
+[21-Sep-2023 11:55:05 Asia/Kolkata] PHP   3. require() D:\wamp64\www\emsdemo\AppData\lib\PHPExcel\IOFactory.php:35
+[21-Sep-2023 11:55:05 Asia/Kolkata] PHP   4. spl_autoload_call($class_name = 'PHPExcel_Shared_String') D:\wamp64\www\emsdemo\AppData\lib\PHPExcel\Autoloader.php:36
+[21-Sep-2023 11:55:05 Asia/Kolkata] PHP   5. PHPExcel_Autoloader::Load($pClassName = 'PHPExcel_Shared_String') D:\wamp64\www\emsdemo\AppData\lib\PHPExcel\Autoloader.php:36
+[21-Sep-2023 11:55:05 Asia/Kolkata] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in D:\wamp64\www\emsdemo\AppData\lib\PHPExcel\Shared\String.php on line 530
+[21-Sep-2023 11:55:05 Asia/Kolkata] PHP Stack trace:
+[21-Sep-2023 11:55:05 Asia/Kolkata] PHP   1. {main}() D:\wamp64\www\emsdemo\View\module_master_report.php:0
+[21-Sep-2023 11:55:05 Asia/Kolkata] PHP   2. require_once() D:\wamp64\www\emsdemo\View\module_master_report.php:10
+[21-Sep-2023 11:55:05 Asia/Kolkata] PHP   3. require() D:\wamp64\www\emsdemo\AppData\lib\PHPExcel\IOFactory.php:35
+[21-Sep-2023 11:55:05 Asia/Kolkata] PHP   4. spl_autoload_call($class_name = 'PHPExcel_Shared_String') D:\wamp64\www\emsdemo\AppData\lib\PHPExcel\Autoloader.php:36
+[21-Sep-2023 11:55:05 Asia/Kolkata] PHP   5. PHPExcel_Autoloader::Load($pClassName = 'PHPExcel_Shared_String') D:\wamp64\www\emsdemo\AppData\lib\PHPExcel\Autoloader.php:36
+[21-Sep-2023 11:55:05 Asia/Kolkata] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in D:\wamp64\www\emsdemo\AppData\lib\PHPExcel\Shared\String.php on line 536
+[21-Sep-2023 11:55:05 Asia/Kolkata] PHP Stack trace:
+[21-Sep-2023 11:55:05 Asia/Kolkata] PHP   1. {main}() D:\wamp64\www\emsdemo\View\module_master_report.php:0
+[21-Sep-2023 11:55:05 Asia/Kolkata] PHP   2. require_once() D:\wamp64\www\emsdemo\View\module_master_report.php:10
+[21-Sep-2023 11:55:05 Asia/Kolkata] PHP   3. require() D:\wamp64\www\emsdemo\AppData\lib\PHPExcel\IOFactory.php:35
+[21-Sep-2023 11:55:05 Asia/Kolkata] PHP   4. spl_autoload_call($class_name = 'PHPExcel_Shared_String') D:\wamp64\www\emsdemo\AppData\lib\PHPExcel\Autoloader.php:36
+[21-Sep-2023 11:55:05 Asia/Kolkata] PHP   5. PHPExcel_Autoloader::Load($pClassName = 'PHPExcel_Shared_String') D:\wamp64\www\emsdemo\AppData\lib\PHPExcel\Autoloader.php:36
+[21-Sep-2023 11:55:05 Asia/Kolkata] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in D:\wamp64\www\emsdemo\AppData\lib\PHPExcel\Shared\String.php on line 536
+[21-Sep-2023 11:55:05 Asia/Kolkata] PHP Stack trace:
+[21-Sep-2023 11:55:05 Asia/Kolkata] PHP   1. {main}() D:\wamp64\www\emsdemo\View\module_master_report.php:0
+[21-Sep-2023 11:55:05 Asia/Kolkata] PHP   2. require_once() D:\wamp64\www\emsdemo\View\module_master_report.php:10
+[21-Sep-2023 11:55:05 Asia/Kolkata] PHP   3. require() D:\wamp64\www\emsdemo\AppData\lib\PHPExcel\IOFactory.php:35
+[21-Sep-2023 11:55:05 Asia/Kolkata] PHP   4. spl_autoload_call($class_name = 'PHPExcel_Shared_String') D:\wamp64\www\emsdemo\AppData\lib\PHPExcel\Autoloader.php:36
+[21-Sep-2023 11:55:05 Asia/Kolkata] PHP   5. PHPExcel_Autoloader::Load($pClassName = 'PHPExcel_Shared_String') D:\wamp64\www\emsdemo\AppData\lib\PHPExcel\Autoloader.php:36
+[21-Sep-2023 11:55:05 Asia/Kolkata] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in D:\wamp64\www\emsdemo\AppData\lib\PHPExcel\Shared\String.php on line 537
+[21-Sep-2023 11:55:05 Asia/Kolkata] PHP Stack trace:
+[21-Sep-2023 11:55:05 Asia/Kolkata] PHP   1. {main}() D:\wamp64\www\emsdemo\View\module_master_report.php:0
+[21-Sep-2023 11:55:05 Asia/Kolkata] PHP   2. require_once() D:\wamp64\www\emsdemo\View\module_master_report.php:10
+[21-Sep-2023 11:55:05 Asia/Kolkata] PHP   3. require() D:\wamp64\www\emsdemo\AppData\lib\PHPExcel\IOFactory.php:35
+[21-Sep-2023 11:55:05 Asia/Kolkata] PHP   4. spl_autoload_call($class_name = 'PHPExcel_Shared_String') D:\wamp64\www\emsdemo\AppData\lib\PHPExcel\Autoloader.php:36
+[21-Sep-2023 11:55:05 Asia/Kolkata] PHP   5. PHPExcel_Autoloader::Load($pClassName = 'PHPExcel_Shared_String') D:\wamp64\www\emsdemo\AppData\lib\PHPExcel\Autoloader.php:36
+[21-Sep-2023 11:55:05 Asia/Kolkata] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in D:\wamp64\www\emsdemo\AppData\lib\PHPExcel\Shared\String.php on line 537
+[21-Sep-2023 11:55:05 Asia/Kolkata] PHP Stack trace:
+[21-Sep-2023 11:55:05 Asia/Kolkata] PHP   1. {main}() D:\wamp64\www\emsdemo\View\module_master_report.php:0
+[21-Sep-2023 11:55:05 Asia/Kolkata] PHP   2. require_once() D:\wamp64\www\emsdemo\View\module_master_report.php:10
+[21-Sep-2023 11:55:05 Asia/Kolkata] PHP   3. require() D:\wamp64\www\emsdemo\AppData\lib\PHPExcel\IOFactory.php:35
+[21-Sep-2023 11:55:05 Asia/Kolkata] PHP   4. spl_autoload_call($class_name = 'PHPExcel_Shared_String') D:\wamp64\www\emsdemo\AppData\lib\PHPExcel\Autoloader.php:36
+[21-Sep-2023 11:55:05 Asia/Kolkata] PHP   5. PHPExcel_Autoloader::Load($pClassName = 'PHPExcel_Shared_String') D:\wamp64\www\emsdemo\AppData\lib\PHPExcel\Autoloader.php:36

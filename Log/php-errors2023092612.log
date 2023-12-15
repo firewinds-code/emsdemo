@@ -1,0 +1,4 @@
+[26-Sep-2023 12:30:01 Asia/Kolkata] PHP Warning:  Undefined array key "__user_logid" in D:\wamp64\www\emsdemo\AppCode\nHead.php on line 2
+[26-Sep-2023 12:30:01 Asia/Kolkata] PHP Stack trace:
+[26-Sep-2023 12:30:01 Asia/Kolkata] PHP   1. {main}() D:\wamp64\www\emsdemo\View\ref_master.php:0
+[26-Sep-2023 12:30:01 Asia/Kolkata] PHP   2. require() D:\wamp64\www\emsdemo\View\ref_master.php:9

@@ -1,0 +1,182 @@
+[21-Jan-2023 16:00:33 Asia/Kolkata] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in C:\wamp64\www\emsdemo\TCPDF\tcpdf.php on line 16899
+[21-Jan-2023 16:00:33 Asia/Kolkata] PHP Stack trace:
+[21-Jan-2023 16:00:33 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\emsdemo\Controller\getbajaj_finance_decl.php:0
+[21-Jan-2023 16:00:33 Asia/Kolkata] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in C:\wamp64\www\emsdemo\TCPDF\tcpdf.php on line 16899
+[21-Jan-2023 16:00:33 Asia/Kolkata] PHP Stack trace:
+[21-Jan-2023 16:00:33 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\emsdemo\Controller\getbajaj_finance_decl.php:0
+[21-Jan-2023 16:00:33 Asia/Kolkata] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in C:\wamp64\www\emsdemo\TCPDF\tcpdf.php on line 16902
+[21-Jan-2023 16:00:33 Asia/Kolkata] PHP Stack trace:
+[21-Jan-2023 16:00:33 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\emsdemo\Controller\getbajaj_finance_decl.php:0
+[21-Jan-2023 16:00:33 Asia/Kolkata] PHP Warning:  "continue" targeting switch is equivalent to "break". Did you mean to use "continue 2"? in C:\wamp64\www\emsdemo\TCPDF\tcpdf.php on line 17784
+[21-Jan-2023 16:00:33 Asia/Kolkata] PHP Stack trace:
+[21-Jan-2023 16:00:33 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\emsdemo\Controller\getbajaj_finance_decl.php:0
+[21-Jan-2023 16:00:33 Asia/Kolkata] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in C:\wamp64\www\emsdemo\TCPDF\include\tcpdf_images.php on line 318
+[21-Jan-2023 16:00:33 Asia/Kolkata] PHP Stack trace:
+[21-Jan-2023 16:00:33 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\emsdemo\Controller\getbajaj_finance_decl.php:0
+[21-Jan-2023 16:00:33 Asia/Kolkata] PHP   2. require() C:\wamp64\www\emsdemo\Controller\getbajaj_finance_decl.php:5
+[21-Jan-2023 16:00:33 Asia/Kolkata] PHP Notice:  Undefined variable: sqlquery in C:\wamp64\www\emsdemo\Controller\getbajaj_finance_decl.php on line 13
+[21-Jan-2023 16:00:33 Asia/Kolkata] PHP Stack trace:
+[21-Jan-2023 16:00:33 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\emsdemo\Controller\getbajaj_finance_decl.php:0
+[21-Jan-2023 16:00:33 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Call to a member function bind_param() on bool in C:\wamp64\www\emsdemo\Controller\getbajaj_finance_decl.php:14
+Stack trace:
+#0 {main}
+  thrown in C:\wamp64\www\emsdemo\Controller\getbajaj_finance_decl.php on line 14
+[21-Jan-2023 16:01:08 Asia/Kolkata] PHP Notice:  Undefined variable: sqlquery in C:\wamp64\www\emsdemo\Controller\getbajaj_finance_decl.php on line 13
+[21-Jan-2023 16:01:08 Asia/Kolkata] PHP Stack trace:
+[21-Jan-2023 16:01:08 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\emsdemo\Controller\getbajaj_finance_decl.php:0
+[21-Jan-2023 16:01:08 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Call to a member function bind_param() on bool in C:\wamp64\www\emsdemo\Controller\getbajaj_finance_decl.php:14
+Stack trace:
+#0 {main}
+  thrown in C:\wamp64\www\emsdemo\Controller\getbajaj_finance_decl.php on line 14
+[21-Jan-2023 16:01:28 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Cannot use object of type mysqli_result as array in C:\wamp64\www\emsdemo\Controller\getbajaj_finance_decl.php:20
+Stack trace:
+#0 {main}
+  thrown in C:\wamp64\www\emsdemo\Controller\getbajaj_finance_decl.php on line 20
+[21-Jan-2023 16:02:33 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Cannot use object of type mysqli_result as array in C:\wamp64\www\emsdemo\Controller\getbajaj_finance_decl.php:22
+Stack trace:
+#0 {main}
+  thrown in C:\wamp64\www\emsdemo\Controller\getbajaj_finance_decl.php on line 22
+[21-Jan-2023 16:02:59 Asia/Kolkata] PHP Notice:  Undefined variable: EmployeeName in C:\wamp64\www\emsdemo\Controller\getbajaj_finance_decl.php on line 157
+[21-Jan-2023 16:02:59 Asia/Kolkata] PHP Stack trace:
+[21-Jan-2023 16:02:59 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\emsdemo\Controller\getbajaj_finance_decl.php:0
+[21-Jan-2023 16:02:59 Asia/Kolkata] PHP Notice:  Undefined variable: address in C:\wamp64\www\emsdemo\Controller\getbajaj_finance_decl.php on line 158
+[21-Jan-2023 16:02:59 Asia/Kolkata] PHP Stack trace:
+[21-Jan-2023 16:02:59 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\emsdemo\Controller\getbajaj_finance_decl.php:0
+[21-Jan-2023 16:02:59 Asia/Kolkata] PHP Notice:  Undefined variable: fathername in C:\wamp64\www\emsdemo\Controller\getbajaj_finance_decl.php on line 158
+[21-Jan-2023 16:02:59 Asia/Kolkata] PHP Stack trace:
+[21-Jan-2023 16:02:59 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\emsdemo\Controller\getbajaj_finance_decl.php:0
+[21-Jan-2023 16:02:59 Asia/Kolkata] PHP Notice:  Undefined variable: EmployeeID in C:\wamp64\www\emsdemo\Controller\getbajaj_finance_decl.php on line 159
+[21-Jan-2023 16:02:59 Asia/Kolkata] PHP Stack trace:
+[21-Jan-2023 16:02:59 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\emsdemo\Controller\getbajaj_finance_decl.php:0
+[21-Jan-2023 16:02:59 Asia/Kolkata] PHP Warning:  chr() expects parameter 1 to be int, string given in C:\wamp64\www\emsdemo\TCPDF\include\tcpdf_fonts.php on line 1671
+[21-Jan-2023 16:02:59 Asia/Kolkata] PHP Stack trace:
+[21-Jan-2023 16:02:59 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\emsdemo\Controller\getbajaj_finance_decl.php:0
+[21-Jan-2023 16:02:59 Asia/Kolkata] PHP   2. TCPDF->__construct($orientation = 'P', $unit = 'mm', $format = 'A4', $unicode = TRUE, $encoding = 'UTF-8', $diskcache = TRUE, $pdfa = *uninitialized*) C:\wamp64\www\emsdemo\Controller\getbajaj_finance_decl.php:169
+[21-Jan-2023 16:02:59 Asia/Kolkata] PHP   3. TCPDF_FONTS::utf8Bidi($ta = [0 => ''], $str = '', $forcertl = FALSE, $isunicode = TRUE, $currentfont = NULL) C:\wamp64\www\emsdemo\TCPDF\tcpdf.php:1960
+[21-Jan-2023 16:02:59 Asia/Kolkata] PHP   4. TCPDF_FONTS::UTF8ArrSubString($strarr = [0 => ''], $start = '', $end = '', $unicode = TRUE) C:\wamp64\www\emsdemo\TCPDF\include\tcpdf_fonts.php:2095
+[21-Jan-2023 16:02:59 Asia/Kolkata] PHP   5. TCPDF_FONTS::unichr($c = '', $unicode = TRUE) C:\wamp64\www\emsdemo\TCPDF\include\tcpdf_fonts.php:1803
+[21-Jan-2023 16:02:59 Asia/Kolkata] PHP   6. chr($codepoint = '') C:\wamp64\www\emsdemo\TCPDF\include\tcpdf_fonts.php:1671
+[21-Jan-2023 16:02:59 Asia/Kolkata] PHP Deprecated:  The each() function is deprecated. This message will be suppressed on further calls in C:\wamp64\www\emsdemo\TCPDF\tcpdf.php on line 16548
+[21-Jan-2023 16:02:59 Asia/Kolkata] PHP Stack trace:
+[21-Jan-2023 16:02:59 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\emsdemo\Controller\getbajaj_finance_decl.php:0
+[21-Jan-2023 16:02:59 Asia/Kolkata] PHP   2. TCPDF->writeHTMLCell($w = 0, $h = 0, $x = 0, $y = 20, $html = '<h3><u>Model Code of Conduct (“Code”) for the Service Provider</u></h3></br>', $border = 0, $ln = 1, $fill = FALSE, $reseth = TRUE, $align = 'C', $autopadding = *uninitialized*) C:\wamp64\www\emsdemo\Controller\getbajaj_finance_decl.php:193
+[21-Jan-2023 16:02:59 Asia/Kolkata] PHP   3. TCPDF->MultiCell($w = 0, $h = 0, $txt = '<h3><u>Model Code of Conduct (“Code”) for the Service Provider</u></h3></br>', $border = 0, $align = 'C', $fill = FALSE, $ln = 1, $x = 0, $y = 20, $reseth = TRUE, $stretch = 0, $ishtml = TRUE, $autopadding = TRUE, $maxh = 0, $valign = 'T', $fitcell = FALSE) C:\wamp64\www\emsdemo\TCPDF\tcpdf.php:17100
+[21-Jan-2023 16:02:59 Asia/Kolkata] PHP   4. TCPDF->writeHTML($html = '<h3><u>Model Code of Conduct (“Code”) for the Service Provider</u></h3></br>', $ln = TRUE, $fill = FALSE, $reseth = TRUE, $cell = TRUE, $align = 'C') C:\wamp64\www\emsdemo\TCPDF\tcpdf.php:5828
+[21-Jan-2023 16:02:59 Asia/Kolkata] PHP   5. TCPDF->getHtmlDomArray($html = '<h3><u>Model Code of Conduct (“Code”) for the Service Provider</u></h3></br>') C:\wamp64\www\emsdemo\TCPDF\tcpdf.php:17205
+[21-Jan-2023 16:02:59 Asia/Kolkata] PHP   6. each($arr = []) C:\wamp64\www\emsdemo\TCPDF\tcpdf.php:16548
+[21-Jan-2023 16:02:59 Asia/Kolkata] PHP Warning:  Cannot modify header information - headers already sent by (output started at C:\wamp64\www\emsdemo\Controller\getbajaj_finance_decl.php:159) in C:\wamp64\www\emsdemo\TCPDF\tcpdf.php on line 7651
+[21-Jan-2023 16:02:59 Asia/Kolkata] PHP Stack trace:
+[21-Jan-2023 16:02:59 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\emsdemo\Controller\getbajaj_finance_decl.php:0
+[21-Jan-2023 16:02:59 Asia/Kolkata] PHP   2. TCPDF->Output($name = 'C:\\wamp64\\www\\emsdemo\\Config/../AirtelPayment_bank/CE01145570_AirtelPayment.pdf', $dest = 'D') C:\wamp64\www\emsdemo\Controller\getbajaj_finance_decl.php:208
+[21-Jan-2023 16:02:59 Asia/Kolkata] PHP   3. header($header = 'Content-Description: File Transfer') C:\wamp64\www\emsdemo\TCPDF\tcpdf.php:7651
+[21-Jan-2023 16:03:26 Asia/Kolkata] PHP Notice:  Undefined variable: EmployeeName in C:\wamp64\www\emsdemo\Controller\getbajaj_finance_decl.php on line 157
+[21-Jan-2023 16:03:26 Asia/Kolkata] PHP Stack trace:
+[21-Jan-2023 16:03:26 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\emsdemo\Controller\getbajaj_finance_decl.php:0
+[21-Jan-2023 16:03:26 Asia/Kolkata] PHP Notice:  Undefined variable: EmployeeID in C:\wamp64\www\emsdemo\Controller\getbajaj_finance_decl.php on line 159
+[21-Jan-2023 16:03:26 Asia/Kolkata] PHP Stack trace:
+[21-Jan-2023 16:03:26 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\emsdemo\Controller\getbajaj_finance_decl.php:0
+[21-Jan-2023 16:03:26 Asia/Kolkata] PHP Warning:  chr() expects parameter 1 to be int, string given in C:\wamp64\www\emsdemo\TCPDF\include\tcpdf_fonts.php on line 1671
+[21-Jan-2023 16:03:26 Asia/Kolkata] PHP Stack trace:
+[21-Jan-2023 16:03:26 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\emsdemo\Controller\getbajaj_finance_decl.php:0
+[21-Jan-2023 16:03:26 Asia/Kolkata] PHP   2. TCPDF->__construct($orientation = 'P', $unit = 'mm', $format = 'A4', $unicode = TRUE, $encoding = 'UTF-8', $diskcache = TRUE, $pdfa = *uninitialized*) C:\wamp64\www\emsdemo\Controller\getbajaj_finance_decl.php:169
+[21-Jan-2023 16:03:26 Asia/Kolkata] PHP   3. TCPDF_FONTS::utf8Bidi($ta = [0 => ''], $str = '', $forcertl = FALSE, $isunicode = TRUE, $currentfont = NULL) C:\wamp64\www\emsdemo\TCPDF\tcpdf.php:1960
+[21-Jan-2023 16:03:26 Asia/Kolkata] PHP   4. TCPDF_FONTS::UTF8ArrSubString($strarr = [0 => ''], $start = '', $end = '', $unicode = TRUE) C:\wamp64\www\emsdemo\TCPDF\include\tcpdf_fonts.php:2095
+[21-Jan-2023 16:03:26 Asia/Kolkata] PHP   5. TCPDF_FONTS::unichr($c = '', $unicode = TRUE) C:\wamp64\www\emsdemo\TCPDF\include\tcpdf_fonts.php:1803
+[21-Jan-2023 16:03:26 Asia/Kolkata] PHP   6. chr($codepoint = '') C:\wamp64\www\emsdemo\TCPDF\include\tcpdf_fonts.php:1671
+[21-Jan-2023 16:03:26 Asia/Kolkata] PHP Deprecated:  The each() function is deprecated. This message will be suppressed on further calls in C:\wamp64\www\emsdemo\TCPDF\tcpdf.php on line 16548
+[21-Jan-2023 16:03:26 Asia/Kolkata] PHP Stack trace:
+[21-Jan-2023 16:03:26 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\emsdemo\Controller\getbajaj_finance_decl.php:0
+[21-Jan-2023 16:03:26 Asia/Kolkata] PHP   2. TCPDF->writeHTMLCell($w = 0, $h = 0, $x = 0, $y = 20, $html = '<h3><u>Model Code of Conduct (“Code”) for the Service Provider</u></h3></br>', $border = 0, $ln = 1, $fill = FALSE, $reseth = TRUE, $align = 'C', $autopadding = *uninitialized*) C:\wamp64\www\emsdemo\Controller\getbajaj_finance_decl.php:193
+[21-Jan-2023 16:03:26 Asia/Kolkata] PHP   3. TCPDF->MultiCell($w = 0, $h = 0, $txt = '<h3><u>Model Code of Conduct (“Code”) for the Service Provider</u></h3></br>', $border = 0, $align = 'C', $fill = FALSE, $ln = 1, $x = 0, $y = 20, $reseth = TRUE, $stretch = 0, $ishtml = TRUE, $autopadding = TRUE, $maxh = 0, $valign = 'T', $fitcell = FALSE) C:\wamp64\www\emsdemo\TCPDF\tcpdf.php:17100
+[21-Jan-2023 16:03:26 Asia/Kolkata] PHP   4. TCPDF->writeHTML($html = '<h3><u>Model Code of Conduct (“Code”) for the Service Provider</u></h3></br>', $ln = TRUE, $fill = FALSE, $reseth = TRUE, $cell = TRUE, $align = 'C') C:\wamp64\www\emsdemo\TCPDF\tcpdf.php:5828
+[21-Jan-2023 16:03:26 Asia/Kolkata] PHP   5. TCPDF->getHtmlDomArray($html = '<h3><u>Model Code of Conduct (“Code”) for the Service Provider</u></h3></br>') C:\wamp64\www\emsdemo\TCPDF\tcpdf.php:17205
+[21-Jan-2023 16:03:26 Asia/Kolkata] PHP   6. each($arr = []) C:\wamp64\www\emsdemo\TCPDF\tcpdf.php:16548
+[21-Jan-2023 16:03:26 Asia/Kolkata] PHP Warning:  Cannot modify header information - headers already sent by (output started at C:\wamp64\www\emsdemo\TCPDF\include\tcpdf_fonts.php:1671) in C:\wamp64\www\emsdemo\TCPDF\tcpdf.php on line 7651
+[21-Jan-2023 16:03:26 Asia/Kolkata] PHP Stack trace:
+[21-Jan-2023 16:03:26 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\emsdemo\Controller\getbajaj_finance_decl.php:0
+[21-Jan-2023 16:03:27 Asia/Kolkata] PHP   2. TCPDF->Output($name = 'C:\\wamp64\\www\\emsdemo\\Config/../AirtelPayment_bank/CE01145570_AirtelPayment.pdf', $dest = 'D') C:\wamp64\www\emsdemo\Controller\getbajaj_finance_decl.php:208
+[21-Jan-2023 16:03:27 Asia/Kolkata] PHP   3. header($header = 'Content-Description: File Transfer') C:\wamp64\www\emsdemo\TCPDF\tcpdf.php:7651
+[21-Jan-2023 16:04:58 Asia/Kolkata] PHP Warning:  chr() expects parameter 1 to be int, string given in C:\wamp64\www\emsdemo\TCPDF\include\tcpdf_fonts.php on line 1671
+[21-Jan-2023 16:04:58 Asia/Kolkata] PHP Stack trace:
+[21-Jan-2023 16:04:58 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\emsdemo\Controller\getbajaj_finance_decl.php:0
+[21-Jan-2023 16:04:58 Asia/Kolkata] PHP   2. TCPDF->__construct($orientation = 'P', $unit = 'mm', $format = 'A4', $unicode = TRUE, $encoding = 'UTF-8', $diskcache = TRUE, $pdfa = *uninitialized*) C:\wamp64\www\emsdemo\Controller\getbajaj_finance_decl.php:170
+[21-Jan-2023 16:04:58 Asia/Kolkata] PHP   3. TCPDF_FONTS::utf8Bidi($ta = [0 => ''], $str = '', $forcertl = FALSE, $isunicode = TRUE, $currentfont = NULL) C:\wamp64\www\emsdemo\TCPDF\tcpdf.php:1960
+[21-Jan-2023 16:04:58 Asia/Kolkata] PHP   4. TCPDF_FONTS::UTF8ArrSubString($strarr = [0 => ''], $start = '', $end = '', $unicode = TRUE) C:\wamp64\www\emsdemo\TCPDF\include\tcpdf_fonts.php:2095
+[21-Jan-2023 16:04:58 Asia/Kolkata] PHP   5. TCPDF_FONTS::unichr($c = '', $unicode = TRUE) C:\wamp64\www\emsdemo\TCPDF\include\tcpdf_fonts.php:1803
+[21-Jan-2023 16:04:58 Asia/Kolkata] PHP   6. chr($codepoint = '') C:\wamp64\www\emsdemo\TCPDF\include\tcpdf_fonts.php:1671
+[21-Jan-2023 16:04:58 Asia/Kolkata] PHP Deprecated:  The each() function is deprecated. This message will be suppressed on further calls in C:\wamp64\www\emsdemo\TCPDF\tcpdf.php on line 16548
+[21-Jan-2023 16:04:58 Asia/Kolkata] PHP Stack trace:
+[21-Jan-2023 16:04:58 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\emsdemo\Controller\getbajaj_finance_decl.php:0
+[21-Jan-2023 16:04:58 Asia/Kolkata] PHP   2. TCPDF->writeHTMLCell($w = 0, $h = 0, $x = 0, $y = 20, $html = '<h3><u>Model Code of Conduct (“Code”) for the Service Provider</u></h3></br>', $border = 0, $ln = 1, $fill = FALSE, $reseth = TRUE, $align = 'C', $autopadding = *uninitialized*) C:\wamp64\www\emsdemo\Controller\getbajaj_finance_decl.php:194
+[21-Jan-2023 16:04:58 Asia/Kolkata] PHP   3. TCPDF->MultiCell($w = 0, $h = 0, $txt = '<h3><u>Model Code of Conduct (“Code”) for the Service Provider</u></h3></br>', $border = 0, $align = 'C', $fill = FALSE, $ln = 1, $x = 0, $y = 20, $reseth = TRUE, $stretch = 0, $ishtml = TRUE, $autopadding = TRUE, $maxh = 0, $valign = 'T', $fitcell = FALSE) C:\wamp64\www\emsdemo\TCPDF\tcpdf.php:17100
+[21-Jan-2023 16:04:58 Asia/Kolkata] PHP   4. TCPDF->writeHTML($html = '<h3><u>Model Code of Conduct (“Code”) for the Service Provider</u></h3></br>', $ln = TRUE, $fill = FALSE, $reseth = TRUE, $cell = TRUE, $align = 'C') C:\wamp64\www\emsdemo\TCPDF\tcpdf.php:5828
+[21-Jan-2023 16:04:58 Asia/Kolkata] PHP   5. TCPDF->getHtmlDomArray($html = '<h3><u>Model Code of Conduct (“Code”) for the Service Provider</u></h3></br>') C:\wamp64\www\emsdemo\TCPDF\tcpdf.php:17205
+[21-Jan-2023 16:04:58 Asia/Kolkata] PHP   6. each($arr = []) C:\wamp64\www\emsdemo\TCPDF\tcpdf.php:16548
+[21-Jan-2023 16:04:58 Asia/Kolkata] PHP Warning:  Cannot modify header information - headers already sent by (output started at C:\wamp64\www\emsdemo\TCPDF\tcpdf.php:16548) in C:\wamp64\www\emsdemo\TCPDF\tcpdf.php on line 7651
+[21-Jan-2023 16:04:58 Asia/Kolkata] PHP Stack trace:
+[21-Jan-2023 16:04:58 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\emsdemo\Controller\getbajaj_finance_decl.php:0
+[21-Jan-2023 16:04:58 Asia/Kolkata] PHP   2. TCPDF->Output($name = 'C:\\wamp64\\www\\emsdemo\\Config/../AirtelPayment_bank/CE01145570_AirtelPayment.pdf', $dest = 'D') C:\wamp64\www\emsdemo\Controller\getbajaj_finance_decl.php:209
+[21-Jan-2023 16:04:58 Asia/Kolkata] PHP   3. header($header = 'Content-Description: File Transfer') C:\wamp64\www\emsdemo\TCPDF\tcpdf.php:7651
+[21-Jan-2023 16:05:30 Asia/Kolkata] PHP Warning:  chr() expects parameter 1 to be int, string given in C:\wamp64\www\emsdemo\TCPDF\include\tcpdf_fonts.php on line 1671
+[21-Jan-2023 16:05:30 Asia/Kolkata] PHP Stack trace:
+[21-Jan-2023 16:05:30 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\emsdemo\Controller\getbajaj_finance_decl.php:0
+[21-Jan-2023 16:05:30 Asia/Kolkata] PHP   2. TCPDF->__construct($orientation = 'P', $unit = 'mm', $format = 'A4', $unicode = TRUE, $encoding = 'UTF-8', $diskcache = TRUE, $pdfa = *uninitialized*) C:\wamp64\www\emsdemo\Controller\getbajaj_finance_decl.php:170
+[21-Jan-2023 16:05:30 Asia/Kolkata] PHP   3. TCPDF_FONTS::utf8Bidi($ta = [0 => ''], $str = '', $forcertl = FALSE, $isunicode = TRUE, $currentfont = NULL) C:\wamp64\www\emsdemo\TCPDF\tcpdf.php:1960
+[21-Jan-2023 16:05:30 Asia/Kolkata] PHP   4. TCPDF_FONTS::UTF8ArrSubString($strarr = [0 => ''], $start = '', $end = '', $unicode = TRUE) C:\wamp64\www\emsdemo\TCPDF\include\tcpdf_fonts.php:2095
+[21-Jan-2023 16:05:30 Asia/Kolkata] PHP   5. TCPDF_FONTS::unichr($c = '', $unicode = TRUE) C:\wamp64\www\emsdemo\TCPDF\include\tcpdf_fonts.php:1803
+[21-Jan-2023 16:05:30 Asia/Kolkata] PHP   6. chr($codepoint = '') C:\wamp64\www\emsdemo\TCPDF\include\tcpdf_fonts.php:1671
+[21-Jan-2023 16:05:30 Asia/Kolkata] PHP Deprecated:  The each() function is deprecated. This message will be suppressed on further calls in C:\wamp64\www\emsdemo\TCPDF\tcpdf.php on line 16548
+[21-Jan-2023 16:05:30 Asia/Kolkata] PHP Stack trace:
+[21-Jan-2023 16:05:30 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\emsdemo\Controller\getbajaj_finance_decl.php:0
+[21-Jan-2023 16:05:30 Asia/Kolkata] PHP   2. TCPDF->writeHTMLCell($w = 0, $h = 0, $x = 0, $y = 20, $html = '<h3><u>Model Code of Conduct (“Code”) for the Service Provider</u></h3></br>', $border = 0, $ln = 1, $fill = FALSE, $reseth = TRUE, $align = 'C', $autopadding = *uninitialized*) C:\wamp64\www\emsdemo\Controller\getbajaj_finance_decl.php:194
+[21-Jan-2023 16:05:30 Asia/Kolkata] PHP   3. TCPDF->MultiCell($w = 0, $h = 0, $txt = '<h3><u>Model Code of Conduct (“Code”) for the Service Provider</u></h3></br>', $border = 0, $align = 'C', $fill = FALSE, $ln = 1, $x = 0, $y = 20, $reseth = TRUE, $stretch = 0, $ishtml = TRUE, $autopadding = TRUE, $maxh = 0, $valign = 'T', $fitcell = FALSE) C:\wamp64\www\emsdemo\TCPDF\tcpdf.php:17100
+[21-Jan-2023 16:05:30 Asia/Kolkata] PHP   4. TCPDF->writeHTML($html = '<h3><u>Model Code of Conduct (“Code”) for the Service Provider</u></h3></br>', $ln = TRUE, $fill = FALSE, $reseth = TRUE, $cell = TRUE, $align = 'C') C:\wamp64\www\emsdemo\TCPDF\tcpdf.php:5828
+[21-Jan-2023 16:05:30 Asia/Kolkata] PHP   5. TCPDF->getHtmlDomArray($html = '<h3><u>Model Code of Conduct (“Code”) for the Service Provider</u></h3></br>') C:\wamp64\www\emsdemo\TCPDF\tcpdf.php:17205
+[21-Jan-2023 16:05:30 Asia/Kolkata] PHP   6. each($arr = []) C:\wamp64\www\emsdemo\TCPDF\tcpdf.php:16548
+[21-Jan-2023 16:05:30 Asia/Kolkata] PHP Warning:  Cannot modify header information - headers already sent by (output started at C:\wamp64\www\emsdemo\TCPDF\tcpdf.php:16548) in C:\wamp64\www\emsdemo\TCPDF\tcpdf.php on line 7651
+[21-Jan-2023 16:05:30 Asia/Kolkata] PHP Stack trace:
+[21-Jan-2023 16:05:30 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\emsdemo\Controller\getbajaj_finance_decl.php:0
+[21-Jan-2023 16:05:30 Asia/Kolkata] PHP   2. TCPDF->Output($name = 'C:\\wamp64\\www\\emsdemo\\Config/../AirtelPayment_bank/CE01145570_AirtelPayment.pdf', $dest = 'D') C:\wamp64\www\emsdemo\Controller\getbajaj_finance_decl.php:209
+[21-Jan-2023 16:05:30 Asia/Kolkata] PHP   3. header($header = 'Content-Description: File Transfer') C:\wamp64\www\emsdemo\TCPDF\tcpdf.php:7651
+[21-Jan-2023 16:07:55 Asia/Kolkata] PHP Warning:  chr() expects parameter 1 to be int, string given in C:\wamp64\www\emsdemo\TCPDF\include\tcpdf_fonts.php on line 1671
+[21-Jan-2023 16:07:55 Asia/Kolkata] PHP Stack trace:
+[21-Jan-2023 16:07:55 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\emsdemo\Controller\getbajaj_finance_decl.php:0
+[21-Jan-2023 16:07:55 Asia/Kolkata] PHP   2. TCPDF->__construct($orientation = 'P', $unit = 'mm', $format = 'A4', $unicode = TRUE, $encoding = 'UTF-8', $diskcache = TRUE, $pdfa = *uninitialized*) C:\wamp64\www\emsdemo\Controller\getbajaj_finance_decl.php:170
+[21-Jan-2023 16:07:55 Asia/Kolkata] PHP   3. TCPDF_FONTS::utf8Bidi($ta = [0 => ''], $str = '', $forcertl = FALSE, $isunicode = TRUE, $currentfont = NULL) C:\wamp64\www\emsdemo\TCPDF\tcpdf.php:1960
+[21-Jan-2023 16:07:55 Asia/Kolkata] PHP   4. TCPDF_FONTS::UTF8ArrSubString($strarr = [0 => ''], $start = '', $end = '', $unicode = TRUE) C:\wamp64\www\emsdemo\TCPDF\include\tcpdf_fonts.php:2095
+[21-Jan-2023 16:07:55 Asia/Kolkata] PHP   5. TCPDF_FONTS::unichr($c = '', $unicode = TRUE) C:\wamp64\www\emsdemo\TCPDF\include\tcpdf_fonts.php:1803
+[21-Jan-2023 16:07:55 Asia/Kolkata] PHP   6. chr($codepoint = '') C:\wamp64\www\emsdemo\TCPDF\include\tcpdf_fonts.php:1671
+[21-Jan-2023 16:07:55 Asia/Kolkata] PHP Deprecated:  The each() function is deprecated. This message will be suppressed on further calls in C:\wamp64\www\emsdemo\TCPDF\tcpdf.php on line 16548
+[21-Jan-2023 16:07:55 Asia/Kolkata] PHP Stack trace:
+[21-Jan-2023 16:07:55 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\emsdemo\Controller\getbajaj_finance_decl.php:0
+[21-Jan-2023 16:07:55 Asia/Kolkata] PHP   2. TCPDF->writeHTMLCell($w = 0, $h = 0, $x = 0, $y = 20, $html = '<h3><u>Model Code of Conduct (“Code”) for the Service Provider</u></h3></br>', $border = 0, $ln = 1, $fill = FALSE, $reseth = TRUE, $align = 'C', $autopadding = *uninitialized*) C:\wamp64\www\emsdemo\Controller\getbajaj_finance_decl.php:194
+[21-Jan-2023 16:07:55 Asia/Kolkata] PHP   3. TCPDF->MultiCell($w = 0, $h = 0, $txt = '<h3><u>Model Code of Conduct (“Code”) for the Service Provider</u></h3></br>', $border = 0, $align = 'C', $fill = FALSE, $ln = 1, $x = 0, $y = 20, $reseth = TRUE, $stretch = 0, $ishtml = TRUE, $autopadding = TRUE, $maxh = 0, $valign = 'T', $fitcell = FALSE) C:\wamp64\www\emsdemo\TCPDF\tcpdf.php:17100
+[21-Jan-2023 16:07:55 Asia/Kolkata] PHP   4. TCPDF->writeHTML($html = '<h3><u>Model Code of Conduct (“Code”) for the Service Provider</u></h3></br>', $ln = TRUE, $fill = FALSE, $reseth = TRUE, $cell = TRUE, $align = 'C') C:\wamp64\www\emsdemo\TCPDF\tcpdf.php:5828
+[21-Jan-2023 16:07:55 Asia/Kolkata] PHP   5. TCPDF->getHtmlDomArray($html = '<h3><u>Model Code of Conduct (“Code”) for the Service Provider</u></h3></br>') C:\wamp64\www\emsdemo\TCPDF\tcpdf.php:17205
+[21-Jan-2023 16:07:55 Asia/Kolkata] PHP   6. each($arr = []) C:\wamp64\www\emsdemo\TCPDF\tcpdf.php:16548
+[21-Jan-2023 16:07:56 Asia/Kolkata] PHP Warning:  Cannot modify header information - headers already sent by (output started at C:\wamp64\www\emsdemo\TCPDF\tcpdf.php:16548) in C:\wamp64\www\emsdemo\TCPDF\tcpdf.php on line 7651
+[21-Jan-2023 16:07:56 Asia/Kolkata] PHP Stack trace:
+[21-Jan-2023 16:07:56 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\emsdemo\Controller\getbajaj_finance_decl.php:0
+[21-Jan-2023 16:07:56 Asia/Kolkata] PHP   2. TCPDF->Output($name = 'C:\\wamp64\\www\\emsdemo\\Config/../Bajaj_financeLtd/CE01145570_Bajaj_financeLtd.pdf', $dest = 'D') C:\wamp64\www\emsdemo\Controller\getbajaj_finance_decl.php:209
+[21-Jan-2023 16:07:56 Asia/Kolkata] PHP   3. header($header = 'Content-Description: File Transfer') C:\wamp64\www\emsdemo\TCPDF\tcpdf.php:7651
+[21-Jan-2023 16:09:00 Asia/Kolkata] PHP Warning:  chr() expects parameter 1 to be int, string given in C:\wamp64\www\emsdemo\TCPDF\include\tcpdf_fonts.php on line 1671
+[21-Jan-2023 16:09:00 Asia/Kolkata] PHP Stack trace:
+[21-Jan-2023 16:09:00 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\emsdemo\Controller\getbajaj_finance_decl.php:0
+[21-Jan-2023 16:09:00 Asia/Kolkata] PHP   2. TCPDF->__construct($orientation = 'P', $unit = 'mm', $format = 'A4', $unicode = TRUE, $encoding = 'UTF-8', $diskcache = TRUE, $pdfa = *uninitialized*) C:\wamp64\www\emsdemo\Controller\getbajaj_finance_decl.php:170
+[21-Jan-2023 16:09:00 Asia/Kolkata] PHP   3. TCPDF_FONTS::utf8Bidi($ta = [0 => ''], $str = '', $forcertl = FALSE, $isunicode = TRUE, $currentfont = NULL) C:\wamp64\www\emsdemo\TCPDF\tcpdf.php:1960
+[21-Jan-2023 16:09:00 Asia/Kolkata] PHP   4. TCPDF_FONTS::UTF8ArrSubString($strarr = [0 => ''], $start = '', $end = '', $unicode = TRUE) C:\wamp64\www\emsdemo\TCPDF\include\tcpdf_fonts.php:2095
+[21-Jan-2023 16:09:00 Asia/Kolkata] PHP   5. TCPDF_FONTS::unichr($c = '', $unicode = TRUE) C:\wamp64\www\emsdemo\TCPDF\include\tcpdf_fonts.php:1803
+[21-Jan-2023 16:09:00 Asia/Kolkata] PHP   6. chr($codepoint = '') C:\wamp64\www\emsdemo\TCPDF\include\tcpdf_fonts.php:1671
+[21-Jan-2023 16:09:00 Asia/Kolkata] PHP Deprecated:  The each() function is deprecated. This message will be suppressed on further calls in C:\wamp64\www\emsdemo\TCPDF\tcpdf.php on line 16548
+[21-Jan-2023 16:09:00 Asia/Kolkata] PHP Stack trace:
+[21-Jan-2023 16:09:00 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\emsdemo\Controller\getbajaj_finance_decl.php:0
+[21-Jan-2023 16:09:00 Asia/Kolkata] PHP   2. TCPDF->writeHTMLCell($w = 0, $h = 0, $x = 0, $y = 20, $html = '<h3><u>Model Code of Conduct (“Code”) for the Service Provider</u></h3></br>', $border = 0, $ln = 1, $fill = FALSE, $reseth = TRUE, $align = 'C', $autopadding = *uninitialized*) C:\wamp64\www\emsdemo\Controller\getbajaj_finance_decl.php:194
+[21-Jan-2023 16:09:00 Asia/Kolkata] PHP   3. TCPDF->MultiCell($w = 0, $h = 0, $txt = '<h3><u>Model Code of Conduct (“Code”) for the Service Provider</u></h3></br>', $border = 0, $align = 'C', $fill = FALSE, $ln = 1, $x = 0, $y = 20, $reseth = TRUE, $stretch = 0, $ishtml = TRUE, $autopadding = TRUE, $maxh = 0, $valign = 'T', $fitcell = FALSE) C:\wamp64\www\emsdemo\TCPDF\tcpdf.php:17100
+[21-Jan-2023 16:09:00 Asia/Kolkata] PHP   4. TCPDF->writeHTML($html = '<h3><u>Model Code of Conduct (“Code”) for the Service Provider</u></h3></br>', $ln = TRUE, $fill = FALSE, $reseth = TRUE, $cell = TRUE, $align = 'C') C:\wamp64\www\emsdemo\TCPDF\tcpdf.php:5828
+[21-Jan-2023 16:09:00 Asia/Kolkata] PHP   5. TCPDF->getHtmlDomArray($html = '<h3><u>Model Code of Conduct (“Code”) for the Service Provider</u></h3></br>') C:\wamp64\www\emsdemo\TCPDF\tcpdf.php:17205
+[21-Jan-2023 16:09:00 Asia/Kolkata] PHP   6. each($arr = []) C:\wamp64\www\emsdemo\TCPDF\tcpdf.php:16548
+[21-Jan-2023 16:09:00 Asia/Kolkata] PHP Warning:  Cannot modify header information - headers already sent by (output started at C:\wamp64\www\emsdemo\TCPDF\tcpdf.php:16548) in C:\wamp64\www\emsdemo\TCPDF\tcpdf.php on line 7651
+[21-Jan-2023 16:09:00 Asia/Kolkata] PHP Stack trace:
+[21-Jan-2023 16:09:00 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\emsdemo\Controller\getbajaj_finance_decl.php:0
+[21-Jan-2023 16:09:00 Asia/Kolkata] PHP   2. TCPDF->Output($name = 'C:\\wamp64\\www\\emsdemo\\Config/../Bajaj_financeLtd/CE01145570_Bajaj_financeLtd.pdf', $dest = 'D') C:\wamp64\www\emsdemo\Controller\getbajaj_finance_decl.php:209
+[21-Jan-2023 16:09:00 Asia/Kolkata] PHP   3. header($header = 'Content-Description: File Transfer') C:\wamp64\www\emsdemo\TCPDF\tcpdf.php:7651

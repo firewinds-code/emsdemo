@@ -1,0 +1,2 @@
+[25-Jan-2023 15:24:48 Asia/Kolkata] PHP Warning:  Undefined array key "HTTP_HOST" in C:\wamp64\www\emsdemo\Config\init.php on line 48
+[25-Jan-2023 15:24:48 Asia/Kolkata] PHP Warning:  Undefined array key "HTTP_USER_AGENT" in C:\wamp64\www\emsdemo\View\Login.php on line 32

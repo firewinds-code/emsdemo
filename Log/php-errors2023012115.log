@@ -1,0 +1,31 @@
+[21-Jan-2023 15:34:27 Asia/Kolkata] PHP Warning:  Undefined array key "__user_logid" in C:\wamp64\www\emsdemo\AppCode\nHead.php on line 2
+[21-Jan-2023 15:34:27 Asia/Kolkata] PHP Stack trace:
+[21-Jan-2023 15:34:27 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\emsdemo\View\bajaj_finance_decl.php:0
+[21-Jan-2023 15:34:27 Asia/Kolkata] PHP   2. require() C:\wamp64\www\emsdemo\View\bajaj_finance_decl.php:9
+[21-Jan-2023 15:38:19 Asia/Kolkata] PHP Warning:  Undefined array key "txt_dateFrom" in C:\wamp64\www\emsdemo\View\message-popup.php on line 28
+[21-Jan-2023 15:38:19 Asia/Kolkata] PHP Stack trace:
+[21-Jan-2023 15:38:19 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\emsdemo\View\message-popup.php:0
+[21-Jan-2023 15:38:19 Asia/Kolkata] PHP Warning:  Undefined array key "txt_dateto" in C:\wamp64\www\emsdemo\View\message-popup.php on line 29
+[21-Jan-2023 15:38:19 Asia/Kolkata] PHP Stack trace:
+[21-Jan-2023 15:38:19 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\emsdemo\View\message-popup.php:0
+[21-Jan-2023 15:38:37 Asia/Kolkata] PHP Warning:  Undefined variable $emp_mail in C:\wamp64\www\emsdemo\View\employee_serach.php on line 347
+[21-Jan-2023 15:38:37 Asia/Kolkata] PHP Stack trace:
+[21-Jan-2023 15:38:37 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\emsdemo\View\employee_serach.php:0
+[21-Jan-2023 15:39:03 Asia/Kolkata] PHP Warning:  Undefined array key "location" in C:\wamp64\www\emsdemo\View\save_personal.php on line 27
+[21-Jan-2023 15:39:03 Asia/Kolkata] PHP Stack trace:
+[21-Jan-2023 15:39:03 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\emsdemo\View\save_personal.php:0
+[21-Jan-2023 15:39:04 Asia/Kolkata] PHP Warning:  Undefined array key "txt_Personal_First" in C:\wamp64\www\emsdemo\View\save_personal.php on line 110
+[21-Jan-2023 15:39:04 Asia/Kolkata] PHP Stack trace:
+[21-Jan-2023 15:39:04 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\emsdemo\View\save_personal.php:0
+[21-Jan-2023 15:39:04 Asia/Kolkata] PHP Warning:  Undefined array key "EmployeeID" in C:\wamp64\www\emsdemo\View\save_personal.php on line 111
+[21-Jan-2023 15:39:04 Asia/Kolkata] PHP Stack trace:
+[21-Jan-2023 15:39:04 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\emsdemo\View\save_personal.php:0
+[21-Jan-2023 15:39:05 Asia/Kolkata] PHP Warning:  Undefined array key "intid" in C:\wamp64\www\emsdemo\View\save_personal.php on line 120
+[21-Jan-2023 15:39:05 Asia/Kolkata] PHP Stack trace:
+[21-Jan-2023 15:39:05 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\emsdemo\View\save_personal.php:0
+[21-Jan-2023 15:57:17 Asia/Kolkata] PHP Warning:  Undefined array key "DocID" in C:\wamp64\www\emsdemo\View\save_document.php on line 951
+[21-Jan-2023 15:57:17 Asia/Kolkata] PHP Stack trace:
+[21-Jan-2023 15:57:17 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\emsdemo\View\save_document.php:0
+[21-Jan-2023 15:57:22 Asia/Kolkata] PHP Fatal error:  Array and string offset access syntax with curly braces is no longer supported in C:\wamp64\www\emsdemo\TCPDF\tcpdf.php on line 16899
+[21-Jan-2023 15:57:22 Asia/Kolkata] PHP Stack trace:
+[21-Jan-2023 15:57:22 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\emsdemo\Controller\getbajaj_finance_decl.php:0

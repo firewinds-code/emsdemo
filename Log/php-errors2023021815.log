@@ -1,0 +1,49 @@
+[18-Feb-2023 15:20:24 Asia/Kolkata] PHP Warning:  Undefined array key "__user_logid" in C:\wamp64\www\emsdemo\AppCode\nHead.php on line 2
+[18-Feb-2023 15:20:24 Asia/Kolkata] PHP Stack trace:
+[18-Feb-2023 15:20:24 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\emsdemo\View\open_issue.php:0
+[18-Feb-2023 15:20:24 Asia/Kolkata] PHP   2. require() C:\wamp64\www\emsdemo\View\open_issue.php:9
+[18-Feb-2023 15:20:36 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in C:\wamp64\www\emsdemo\View\index.php on line 356
+[18-Feb-2023 15:20:36 Asia/Kolkata] PHP Stack trace:
+[18-Feb-2023 15:20:36 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\emsdemo\View\index.php:0
+[18-Feb-2023 15:26:23 Asia/Kolkata] PHP Warning:  Undefined array key "to" in C:\wamp64\www\emsdemo\View\calcRange.php on line 42
+[18-Feb-2023 15:26:23 Asia/Kolkata] PHP Stack trace:
+[18-Feb-2023 15:26:23 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\emsdemo\View\calcRange.php:0
+[18-Feb-2023 15:26:25 Asia/Kolkata] PHP Notice:  Object of class mysqli_result could not be converted to int in C:\wamp64\www\emsdemo\View\calcRange.php on line 412
+[18-Feb-2023 15:26:25 Asia/Kolkata] PHP Stack trace:
+[18-Feb-2023 15:26:25 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\emsdemo\View\calcRange.php:0
+[18-Feb-2023 15:26:25 Asia/Kolkata] PHP   2. BioMetric->__construct($EmployeeID = 'CE01145570', $DateFrom = '2023-02-17', $DateTo = '2023-02-17', $Emd_des = 'Manager', $Emp_status = 6, $emp_dod = NULL, $emp_module = '2014-01-07 00:00:00') C:\wamp64\www\emsdemo\View\calcRange.php:2358
+[18-Feb-2023 15:26:25 Asia/Kolkata] PHP Warning:  Undefined array key "2023-02-17" in C:\wamp64\www\emsdemo\View\calcRange.php on line 583
+[18-Feb-2023 15:26:25 Asia/Kolkata] PHP Stack trace:
+[18-Feb-2023 15:26:25 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\emsdemo\View\calcRange.php:0
+[18-Feb-2023 15:26:25 Asia/Kolkata] PHP   2. BioMetric->__construct($EmployeeID = 'CE01145570', $DateFrom = '2023-02-17', $DateTo = '2023-02-17', $Emd_des = 'Manager', $Emp_status = 6, $emp_dod = NULL, $emp_module = '2014-01-07 00:00:00') C:\wamp64\www\emsdemo\View\calcRange.php:2358
+[18-Feb-2023 15:26:25 Asia/Kolkata] PHP   3. BioMetric->__calculation_for_day($__date = '2023-02-17', $__EmpID = 'CE01145570', $__des = 'Manager', $__status = 6) C:\wamp64\www\emsdemo\View\calcRange.php:558
+[18-Feb-2023 15:26:25 Asia/Kolkata] PHP Warning:  Undefined array key "2023-02-17" in C:\wamp64\www\emsdemo\View\calcRange.php on line 932
+[18-Feb-2023 15:26:25 Asia/Kolkata] PHP Stack trace:
+[18-Feb-2023 15:26:25 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\emsdemo\View\calcRange.php:0
+[18-Feb-2023 15:26:25 Asia/Kolkata] PHP   2. BioMetric->__construct($EmployeeID = 'CE01145570', $DateFrom = '2023-02-17', $DateTo = '2023-02-17', $Emd_des = 'Manager', $Emp_status = 6, $emp_dod = NULL, $emp_module = '2014-01-07 00:00:00') C:\wamp64\www\emsdemo\View\calcRange.php:2358
+[18-Feb-2023 15:26:25 Asia/Kolkata] PHP   3. BioMetric->__calculation_for_day($__date = '2023-02-17', $__EmpID = 'CE01145570', $__des = 'Manager', $__status = 6) C:\wamp64\www\emsdemo\View\calcRange.php:558
+[18-Feb-2023 15:26:25 Asia/Kolkata] PHP Warning:  Undefined array key "2023-02-17" in C:\wamp64\www\emsdemo\View\calcRange.php on line 1225
+[18-Feb-2023 15:26:25 Asia/Kolkata] PHP Stack trace:
+[18-Feb-2023 15:26:25 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\emsdemo\View\calcRange.php:0
+[18-Feb-2023 15:26:25 Asia/Kolkata] PHP   2. BioMetric->__construct($EmployeeID = 'CE01145570', $DateFrom = '2023-02-17', $DateTo = '2023-02-17', $Emd_des = 'Manager', $Emp_status = 6, $emp_dod = NULL, $emp_module = '2014-01-07 00:00:00') C:\wamp64\www\emsdemo\View\calcRange.php:2358
+[18-Feb-2023 15:26:25 Asia/Kolkata] PHP   3. BioMetric->__calculation_for_day($__date = '2023-02-17', $__EmpID = 'CE01145570', $__des = 'Manager', $__status = 6) C:\wamp64\www\emsdemo\View\calcRange.php:558
+[18-Feb-2023 15:26:27 Asia/Kolkata] PHP Warning:  Array to string conversion in C:\wamp64\www\emsdemo\View\calcRange.php on line 1559
+[18-Feb-2023 15:26:27 Asia/Kolkata] PHP Stack trace:
+[18-Feb-2023 15:26:27 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\emsdemo\View\calcRange.php:0
+[18-Feb-2023 15:26:27 Asia/Kolkata] PHP   2. BioMetric->__construct($EmployeeID = 'CE01145570', $DateFrom = '2023-02-17', $DateTo = '2023-02-17', $Emd_des = 'Manager', $Emp_status = 6, $emp_dod = NULL, $emp_module = '2014-01-07 00:00:00') C:\wamp64\www\emsdemo\View\calcRange.php:2358
+[18-Feb-2023 15:26:27 Asia/Kolkata] PHP   3. BioMetric->__calculation_for_day($__date = '2023-02-17', $__EmpID = 'CE01145570', $__des = 'Manager', $__status = 6) C:\wamp64\www\emsdemo\View\calcRange.php:558
+[18-Feb-2023 15:27:17 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in C:\wamp64\www\emsdemo\View\index.php on line 356
+[18-Feb-2023 15:27:17 Asia/Kolkata] PHP Stack trace:
+[18-Feb-2023 15:27:17 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\emsdemo\View\index.php:0
+[18-Feb-2023 15:28:25 Asia/Kolkata] PHP Warning:  Undefined array key 1 in C:\wamp64\www\emsdemo\View\check_issue.php on line 44
+[18-Feb-2023 15:28:25 Asia/Kolkata] PHP Stack trace:
+[18-Feb-2023 15:28:25 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\emsdemo\View\check_issue.php:0
+[18-Feb-2023 15:28:36 Asia/Kolkata] PHP Warning:  Undefined array key 1 in C:\wamp64\www\emsdemo\View\check_issue.php on line 44
+[18-Feb-2023 15:28:36 Asia/Kolkata] PHP Stack trace:
+[18-Feb-2023 15:28:36 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\emsdemo\View\check_issue.php:0
+[18-Feb-2023 15:28:52 Asia/Kolkata] PHP Warning:  Undefined array key 1 in C:\wamp64\www\emsdemo\View\check_issue.php on line 44
+[18-Feb-2023 15:28:52 Asia/Kolkata] PHP Stack trace:
+[18-Feb-2023 15:28:52 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\emsdemo\View\check_issue.php:0
+[18-Feb-2023 15:30:14 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in C:\wamp64\www\emsdemo\View\index.php on line 356
+[18-Feb-2023 15:30:14 Asia/Kolkata] PHP Stack trace:
+[18-Feb-2023 15:30:14 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\emsdemo\View\index.php:0

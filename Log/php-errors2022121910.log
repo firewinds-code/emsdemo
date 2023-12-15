@@ -1,0 +1,47 @@
+[19-Dec-2022 10:06:10 Asia/Kolkata] PHP Notice:  Undefined index: txt_dateFrom in /var/www/html/erpm/View/bgv_docsend.php on line 32
+[19-Dec-2022 10:06:10 Asia/Kolkata] PHP Notice:  Undefined variable: htmlresp in /var/www/html/erpm/View/bgv_docsend.php on line 662
+[19-Dec-2022 10:07:18 Asia/Kolkata] PHP Notice:  Undefined variable: htmlresp in /var/www/html/erpm/View/bgv_docsend.php on line 662
+[19-Dec-2022 10:07:33 Asia/Kolkata] PHP Notice:  Undefined variable: edu in /var/www/html/erpm/View/bgv_docsend.php on line 274
+[19-Dec-2022 10:07:33 Asia/Kolkata] PHP Notice:  Undefined variable: Emp in /var/www/html/erpm/View/bgv_docsend.php on line 308
+[19-Dec-2022 10:07:33 Asia/Kolkata] PHP Warning:  mkdir(): File exists in /var/www/html/erpm/View/bgv_docsend.php on line 354
+[19-Dec-2022 10:07:33 Asia/Kolkata] PHP Warning:  file_get_contents(https://ems.cogentlab.com/erpm/Docs/AdharCard/INT052022334477_AadharCard_Front.pdf): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /var/www/html/erpm/View/bgv_docsend.php on line 358
+[19-Dec-2022 10:07:33 Asia/Kolkata] PHP Notice:  Undefined variable: htmlresp in /var/www/html/erpm/View/bgv_docsend.php on line 662
+[19-Dec-2022 10:08:39 Asia/Kolkata] PHP Notice:  Undefined property: stdClass::$user in /var/www/html/erpm/View/bgv_docsend.php on line 602
+[19-Dec-2022 10:09:34 Asia/Kolkata] PHP Notice:  Undefined variable: htmlresp in /var/www/html/erpm/View/bgv_docsend.php on line 661
+[19-Dec-2022 10:09:42 Asia/Kolkata] PHP Notice:  Undefined variable: edu in /var/www/html/erpm/View/bgv_docsend.php on line 274
+[19-Dec-2022 10:09:42 Asia/Kolkata] PHP Notice:  Undefined variable: Emp in /var/www/html/erpm/View/bgv_docsend.php on line 308
+[19-Dec-2022 10:09:42 Asia/Kolkata] PHP Warning:  mkdir(): File exists in /var/www/html/erpm/View/bgv_docsend.php on line 354
+[19-Dec-2022 10:09:42 Asia/Kolkata] PHP Warning:  file_get_contents(https://ems.cogentlab.com/erpm/Docs/AdharCard/INT052022334477_AadharCard_Front.pdf): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /var/www/html/erpm/View/bgv_docsend.php on line 358
+[19-Dec-2022 10:09:42 Asia/Kolkata] PHP Notice:  Undefined variable: htmlresp in /var/www/html/erpm/View/bgv_docsend.php on line 661
+[19-Dec-2022 10:09:49 Asia/Kolkata] PHP Notice:  Undefined property: stdClass::$user in /var/www/html/erpm/View/bgv_docsend.php on line 601
+[19-Dec-2022 10:10:58 Asia/Kolkata] PHP Notice:  Undefined property: stdClass::$user in /var/www/html/erpm/View/bgv_docsend.php on line 602
+[19-Dec-2022 10:20:50 Asia/Kolkata] PHP Notice:  Undefined index: txt_dateFrom in /var/www/html/erpm/View/bgv_docsend.php on line 32
+[19-Dec-2022 10:20:50 Asia/Kolkata] PHP Notice:  Undefined variable: htmlresp in /var/www/html/erpm/View/bgv_docsend.php on line 671
+[19-Dec-2022 10:20:56 Asia/Kolkata] PHP Notice:  Undefined variable: htmlresp in /var/www/html/erpm/View/bgv_docsend.php on line 671
+[19-Dec-2022 10:21:01 Asia/Kolkata] PHP Notice:  Undefined variable: edu in /var/www/html/erpm/View/bgv_docsend.php on line 274
+[19-Dec-2022 10:21:01 Asia/Kolkata] PHP Notice:  Undefined variable: Emp in /var/www/html/erpm/View/bgv_docsend.php on line 308
+[19-Dec-2022 10:21:01 Asia/Kolkata] PHP Warning:  mkdir(): File exists in /var/www/html/erpm/View/bgv_docsend.php on line 354
+[19-Dec-2022 10:21:01 Asia/Kolkata] PHP Warning:  file_get_contents(https://ems.cogentlab.com/erpm/Docs/AdharCard/INT052022334477_AadharCard_Front.pdf): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /var/www/html/erpm/View/bgv_docsend.php on line 358
+[19-Dec-2022 10:21:01 Asia/Kolkata] PHP Notice:  Undefined variable: htmlresp in /var/www/html/erpm/View/bgv_docsend.php on line 671
+[19-Dec-2022 10:23:00 Asia/Kolkata] PHP Notice:  Undefined index: txt_dateFrom in /var/www/html/erpm/View/bgv_docsend.php on line 32
+[19-Dec-2022 10:23:00 Asia/Kolkata] PHP Notice:  Undefined variable: htmlresp in /var/www/html/erpm/View/bgv_docsend.php on line 669
+[19-Dec-2022 10:23:07 Asia/Kolkata] PHP Notice:  Undefined variable: htmlresp in /var/www/html/erpm/View/bgv_docsend.php on line 669
+[19-Dec-2022 10:23:13 Asia/Kolkata] PHP Notice:  Undefined variable: edu in /var/www/html/erpm/View/bgv_docsend.php on line 274
+[19-Dec-2022 10:23:13 Asia/Kolkata] PHP Notice:  Undefined variable: Emp in /var/www/html/erpm/View/bgv_docsend.php on line 308
+[19-Dec-2022 10:23:13 Asia/Kolkata] PHP Warning:  mkdir(): File exists in /var/www/html/erpm/View/bgv_docsend.php on line 354
+[19-Dec-2022 10:23:13 Asia/Kolkata] PHP Warning:  file_get_contents(https://ems.cogentlab.com/erpm/Docs/AdharCard/INT052022334477_AadharCard_Front.pdf): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /var/www/html/erpm/View/bgv_docsend.php on line 358
+[19-Dec-2022 10:23:13 Asia/Kolkata] PHP Notice:  Undefined variable: htmlresp in /var/www/html/erpm/View/bgv_docsend.php on line 669
+[19-Dec-2022 10:38:00 Asia/Kolkata] PHP Notice:  Undefined index: txt_dateFrom in /var/www/html/erpm/View/bgv_docsend.php on line 32
+[19-Dec-2022 10:38:00 Asia/Kolkata] PHP Notice:  Undefined variable: htmlresp in /var/www/html/erpm/View/bgv_docsend.php on line 669
+[19-Dec-2022 10:38:06 Asia/Kolkata] PHP Notice:  Undefined variable: htmlresp in /var/www/html/erpm/View/bgv_docsend.php on line 669
+[19-Dec-2022 10:38:11 Asia/Kolkata] PHP Notice:  Undefined variable: edu in /var/www/html/erpm/View/bgv_docsend.php on line 274
+[19-Dec-2022 10:38:11 Asia/Kolkata] PHP Notice:  Undefined variable: Emp in /var/www/html/erpm/View/bgv_docsend.php on line 308
+[19-Dec-2022 10:38:11 Asia/Kolkata] PHP Warning:  mkdir(): File exists in /var/www/html/erpm/View/bgv_docsend.php on line 354
+[19-Dec-2022 10:38:11 Asia/Kolkata] PHP Warning:  file_get_contents(https://ems.cogentlab.com/erpm/Docs/AdharCard/INT052022334477_AadharCard_Front.pdf): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /var/www/html/erpm/View/bgv_docsend.php on line 358
+[19-Dec-2022 10:38:11 Asia/Kolkata] PHP Notice:  Undefined variable: htmlresp in /var/www/html/erpm/View/bgv_docsend.php on line 669
+[19-Dec-2022 10:38:21 Asia/Kolkata] PHP Notice:  Undefined property: stdClass::$user in /var/www/html/erpm/View/bgv_docsend.php on line 609

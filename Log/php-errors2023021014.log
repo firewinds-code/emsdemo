@@ -1,0 +1,7 @@
+[10-Feb-2023 14:13:15 Asia/Kolkata] PHP Notice:  Undefined index: __user_logid in C:\wamp64\www\emsdemo\AppCode\nHead.php on line 2
+[10-Feb-2023 14:13:15 Asia/Kolkata] PHP Stack trace:
+[10-Feb-2023 14:13:15 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\emsdemo\View\index.php:0
+[10-Feb-2023 14:13:15 Asia/Kolkata] PHP   2. require() C:\wamp64\www\emsdemo\View\index.php:14
+[10-Feb-2023 14:13:25 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in C:\wamp64\www\emsdemo\View\index.php on line 356
+[10-Feb-2023 14:13:25 Asia/Kolkata] PHP Stack trace:
+[10-Feb-2023 14:13:25 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\emsdemo\View\index.php:0

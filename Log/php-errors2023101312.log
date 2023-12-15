@@ -1,0 +1,13 @@
+[13-Oct-2023 12:31:44 Asia/Kolkata] PHP Warning:  Undefined array key "__user_logid" in D:\wamp64\www\emsdemo\AppCode\nHead.php on line 2
+[13-Oct-2023 12:31:44 Asia/Kolkata] PHP Stack trace:
+[13-Oct-2023 12:31:44 Asia/Kolkata] PHP   1. {main}() D:\wamp64\www\emsdemo\View\message-popup.php:0
+[13-Oct-2023 12:31:44 Asia/Kolkata] PHP   2. require() D:\wamp64\www\emsdemo\View\message-popup.php:10
+[13-Oct-2023 12:31:53 Asia/Kolkata] PHP Warning:  Undefined array key "__nda_decl" in D:\wamp64\www\emsdemo\View\index.php on line 132
+[13-Oct-2023 12:31:53 Asia/Kolkata] PHP Stack trace:
+[13-Oct-2023 12:31:53 Asia/Kolkata] PHP   1. {main}() D:\wamp64\www\emsdemo\View\index.php:0
+[13-Oct-2023 12:31:53 Asia/Kolkata] PHP Warning:  Undefined array key "__isms_decl" in D:\wamp64\www\emsdemo\View\index.php on line 137
+[13-Oct-2023 12:31:53 Asia/Kolkata] PHP Stack trace:
+[13-Oct-2023 12:31:53 Asia/Kolkata] PHP   1. {main}() D:\wamp64\www\emsdemo\View\index.php:0
+[13-Oct-2023 12:31:53 Asia/Kolkata] PHP Warning:  Undefined array key "__asset_decl" in D:\wamp64\www\emsdemo\View\index.php on line 141
+[13-Oct-2023 12:31:53 Asia/Kolkata] PHP Stack trace:
+[13-Oct-2023 12:31:53 Asia/Kolkata] PHP   1. {main}() D:\wamp64\www\emsdemo\View\index.php:0

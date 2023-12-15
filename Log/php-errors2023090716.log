@@ -1,0 +1,84 @@
+[07-Sep-2023 16:43:39 Asia/Kolkata] PHP Warning:  Undefined array key "__user_logid" in D:\wamp\www\emsdemo\AppCode\nHead.php on line 2
+[07-Sep-2023 16:43:39 Asia/Kolkata] PHP Stack trace:
+[07-Sep-2023 16:43:39 Asia/Kolkata] PHP   1. {main}() D:\wamp\www\emsdemo\View\index.php:0
+[07-Sep-2023 16:43:39 Asia/Kolkata] PHP   2. require() D:\wamp\www\emsdemo\View\index.php:14
+[07-Sep-2023 16:44:05 Asia/Kolkata] PHP Warning:  Undefined array key "to" in D:\wamp\www\emsdemo\View\calcRange.php on line 42
+[07-Sep-2023 16:44:05 Asia/Kolkata] PHP Stack trace:
+[07-Sep-2023 16:44:05 Asia/Kolkata] PHP   1. {main}() D:\wamp\www\emsdemo\View\calcRange.php:0
+[07-Sep-2023 16:44:07 Asia/Kolkata] PHP Notice:  Object of class mysqli_result could not be converted to int in D:\wamp\www\emsdemo\View\calcRange.php on line 412
+[07-Sep-2023 16:44:07 Asia/Kolkata] PHP Stack trace:
+[07-Sep-2023 16:44:07 Asia/Kolkata] PHP   1. {main}() D:\wamp\www\emsdemo\View\calcRange.php:0
+[07-Sep-2023 16:44:07 Asia/Kolkata] PHP   2. BioMetric->__construct($EmployeeID = 'CE0821939593', $DateFrom = '2023-09-06', $DateTo = '2023-09-06', $Emd_des = 'Software Developer', $Emp_status = 6, $emp_dod = NULL, $emp_module = '2021-08-16 00:00:00') D:\wamp\www\emsdemo\View\calcRange.php:2358
+[07-Sep-2023 16:44:07 Asia/Kolkata] PHP Warning:  Undefined array key "2023-09-06" in D:\wamp\www\emsdemo\View\calcRange.php on line 583
+[07-Sep-2023 16:44:07 Asia/Kolkata] PHP Stack trace:
+[07-Sep-2023 16:44:07 Asia/Kolkata] PHP   1. {main}() D:\wamp\www\emsdemo\View\calcRange.php:0
+[07-Sep-2023 16:44:07 Asia/Kolkata] PHP   2. BioMetric->__construct($EmployeeID = 'CE0821939593', $DateFrom = '2023-09-06', $DateTo = '2023-09-06', $Emd_des = 'Software Developer', $Emp_status = 6, $emp_dod = NULL, $emp_module = '2021-08-16 00:00:00') D:\wamp\www\emsdemo\View\calcRange.php:2358
+[07-Sep-2023 16:44:07 Asia/Kolkata] PHP   3. BioMetric->__calculation_for_day($__date = '2023-09-06', $__EmpID = 'CE0821939593', $__des = 'Software Developer', $__status = 6) D:\wamp\www\emsdemo\View\calcRange.php:558
+[07-Sep-2023 16:44:07 Asia/Kolkata] PHP Warning:  Undefined array key "2023-09-06" in D:\wamp\www\emsdemo\View\calcRange.php on line 932
+[07-Sep-2023 16:44:07 Asia/Kolkata] PHP Stack trace:
+[07-Sep-2023 16:44:07 Asia/Kolkata] PHP   1. {main}() D:\wamp\www\emsdemo\View\calcRange.php:0
+[07-Sep-2023 16:44:07 Asia/Kolkata] PHP   2. BioMetric->__construct($EmployeeID = 'CE0821939593', $DateFrom = '2023-09-06', $DateTo = '2023-09-06', $Emd_des = 'Software Developer', $Emp_status = 6, $emp_dod = NULL, $emp_module = '2021-08-16 00:00:00') D:\wamp\www\emsdemo\View\calcRange.php:2358
+[07-Sep-2023 16:44:07 Asia/Kolkata] PHP   3. BioMetric->__calculation_for_day($__date = '2023-09-06', $__EmpID = 'CE0821939593', $__des = 'Software Developer', $__status = 6) D:\wamp\www\emsdemo\View\calcRange.php:558
+[07-Sep-2023 16:44:07 Asia/Kolkata] PHP Warning:  Undefined array key "2023-09-06" in D:\wamp\www\emsdemo\View\calcRange.php on line 1225
+[07-Sep-2023 16:44:07 Asia/Kolkata] PHP Stack trace:
+[07-Sep-2023 16:44:07 Asia/Kolkata] PHP   1. {main}() D:\wamp\www\emsdemo\View\calcRange.php:0
+[07-Sep-2023 16:44:07 Asia/Kolkata] PHP   2. BioMetric->__construct($EmployeeID = 'CE0821939593', $DateFrom = '2023-09-06', $DateTo = '2023-09-06', $Emd_des = 'Software Developer', $Emp_status = 6, $emp_dod = NULL, $emp_module = '2021-08-16 00:00:00') D:\wamp\www\emsdemo\View\calcRange.php:2358
+[07-Sep-2023 16:44:07 Asia/Kolkata] PHP   3. BioMetric->__calculation_for_day($__date = '2023-09-06', $__EmpID = 'CE0821939593', $__des = 'Software Developer', $__status = 6) D:\wamp\www\emsdemo\View\calcRange.php:558
+[07-Sep-2023 16:44:07 Asia/Kolkata] PHP Deprecated:  strtotime(): Passing null to parameter #1 ($datetime) of type string is deprecated in D:\wamp\www\emsdemo\View\calcRange.php on line 1225
+[07-Sep-2023 16:44:07 Asia/Kolkata] PHP Stack trace:
+[07-Sep-2023 16:44:07 Asia/Kolkata] PHP   1. {main}() D:\wamp\www\emsdemo\View\calcRange.php:0
+[07-Sep-2023 16:44:07 Asia/Kolkata] PHP   2. BioMetric->__construct($EmployeeID = 'CE0821939593', $DateFrom = '2023-09-06', $DateTo = '2023-09-06', $Emd_des = 'Software Developer', $Emp_status = 6, $emp_dod = NULL, $emp_module = '2021-08-16 00:00:00') D:\wamp\www\emsdemo\View\calcRange.php:2358
+[07-Sep-2023 16:44:07 Asia/Kolkata] PHP   3. BioMetric->__calculation_for_day($__date = '2023-09-06', $__EmpID = 'CE0821939593', $__des = 'Software Developer', $__status = 6) D:\wamp\www\emsdemo\View\calcRange.php:558
+[07-Sep-2023 16:44:07 Asia/Kolkata] PHP   4. strtotime($datetime = NULL) D:\wamp\www\emsdemo\View\calcRange.php:1225
+[07-Sep-2023 16:44:08 Asia/Kolkata] PHP Warning:  Array to string conversion in D:\wamp\www\emsdemo\View\calcRange.php on line 1559
+[07-Sep-2023 16:44:08 Asia/Kolkata] PHP Stack trace:
+[07-Sep-2023 16:44:08 Asia/Kolkata] PHP   1. {main}() D:\wamp\www\emsdemo\View\calcRange.php:0
+[07-Sep-2023 16:44:08 Asia/Kolkata] PHP   2. BioMetric->__construct($EmployeeID = 'CE0821939593', $DateFrom = '2023-09-06', $DateTo = '2023-09-06', $Emd_des = 'Software Developer', $Emp_status = 6, $emp_dod = NULL, $emp_module = '2021-08-16 00:00:00') D:\wamp\www\emsdemo\View\calcRange.php:2358
+[07-Sep-2023 16:44:08 Asia/Kolkata] PHP   3. BioMetric->__calculation_for_day($__date = '2023-09-06', $__EmpID = 'CE0821939593', $__des = 'Software Developer', $__status = 6) D:\wamp\www\emsdemo\View\calcRange.php:558
+[07-Sep-2023 16:44:08 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in D:\wamp\www\emsdemo\View\index.php on line 356
+[07-Sep-2023 16:44:08 Asia/Kolkata] PHP Stack trace:
+[07-Sep-2023 16:44:08 Asia/Kolkata] PHP   1. {main}() D:\wamp\www\emsdemo\View\index.php:0
+[07-Sep-2023 16:44:08 Asia/Kolkata] PHP Deprecated:  stripslashes(): Passing null to parameter #1 ($string) of type string is deprecated in D:\wamp\www\emsdemo\Config\init.php on line 122
+[07-Sep-2023 16:44:08 Asia/Kolkata] PHP Stack trace:
+[07-Sep-2023 16:44:08 Asia/Kolkata] PHP   1. {main}() D:\wamp\www\emsdemo\View\index.php:0
+[07-Sep-2023 16:44:08 Asia/Kolkata] PHP   2. clean($data = NULL) D:\wamp\www\emsdemo\View\index.php:356
+[07-Sep-2023 16:44:08 Asia/Kolkata] PHP   3. stripslashes($string = NULL) D:\wamp\www\emsdemo\Config\init.php:122
+[07-Sep-2023 16:44:26 Asia/Kolkata] PHP Warning:  Undefined array key "txt_dateFrom" in D:\wamp\www\emsdemo\View\message-popup.php on line 28
+[07-Sep-2023 16:44:26 Asia/Kolkata] PHP Stack trace:
+[07-Sep-2023 16:44:26 Asia/Kolkata] PHP   1. {main}() D:\wamp\www\emsdemo\View\message-popup.php:0
+[07-Sep-2023 16:44:26 Asia/Kolkata] PHP Warning:  Undefined array key "txt_dateto" in D:\wamp\www\emsdemo\View\message-popup.php on line 29
+[07-Sep-2023 16:44:26 Asia/Kolkata] PHP Stack trace:
+[07-Sep-2023 16:44:26 Asia/Kolkata] PHP   1. {main}() D:\wamp\www\emsdemo\View\message-popup.php:0
+[07-Sep-2023 16:45:07 Asia/Kolkata] PHP Fatal error:  Array and string offset access syntax with curly braces is no longer supported in D:\wamp\www\emsdemo\TCPDF\tcpdf.php on line 16899
+[07-Sep-2023 16:45:07 Asia/Kolkata] PHP Stack trace:
+[07-Sep-2023 16:45:07 Asia/Kolkata] PHP   1. {main}() D:\wamp\www\emsdemo\View\salary_certificate.php:0
+[07-Sep-2023 16:45:23 Asia/Kolkata] PHP Fatal error:  Array and string offset access syntax with curly braces is no longer supported in D:\wamp\www\emsdemo\TCPDF\tcpdf.php on line 16899
+[07-Sep-2023 16:45:23 Asia/Kolkata] PHP Stack trace:
+[07-Sep-2023 16:45:23 Asia/Kolkata] PHP   1. {main}() D:\wamp\www\emsdemo\View\salary_certificate.php:0
+[07-Sep-2023 16:45:27 Asia/Kolkata] PHP Fatal error:  Array and string offset access syntax with curly braces is no longer supported in D:\wamp\www\emsdemo\TCPDF\tcpdf.php on line 16899
+[07-Sep-2023 16:45:27 Asia/Kolkata] PHP Stack trace:
+[07-Sep-2023 16:45:27 Asia/Kolkata] PHP   1. {main}() D:\wamp\www\emsdemo\View\salary_certificate.php:0
+[07-Sep-2023 16:45:39 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in D:\wamp\www\emsdemo\View\index.php on line 356
+[07-Sep-2023 16:45:39 Asia/Kolkata] PHP Stack trace:
+[07-Sep-2023 16:45:39 Asia/Kolkata] PHP   1. {main}() D:\wamp\www\emsdemo\View\index.php:0
+[07-Sep-2023 16:45:39 Asia/Kolkata] PHP Deprecated:  stripslashes(): Passing null to parameter #1 ($string) of type string is deprecated in D:\wamp\www\emsdemo\Config\init.php on line 122
+[07-Sep-2023 16:45:39 Asia/Kolkata] PHP Stack trace:
+[07-Sep-2023 16:45:39 Asia/Kolkata] PHP   1. {main}() D:\wamp\www\emsdemo\View\index.php:0
+[07-Sep-2023 16:45:39 Asia/Kolkata] PHP   2. clean($data = NULL) D:\wamp\www\emsdemo\View\index.php:356
+[07-Sep-2023 16:45:39 Asia/Kolkata] PHP   3. stripslashes($string = NULL) D:\wamp\www\emsdemo\Config\init.php:122
+[07-Sep-2023 16:46:50 Asia/Kolkata] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in D:\wamp\www\emsdemo\TCPDF\tcpdf.php on line 16899
+[07-Sep-2023 16:46:50 Asia/Kolkata] PHP Stack trace:
+[07-Sep-2023 16:46:50 Asia/Kolkata] PHP   1. {main}() D:\wamp\www\emsdemo\View\salary_certificate.php:0
+[07-Sep-2023 16:46:50 Asia/Kolkata] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in D:\wamp\www\emsdemo\TCPDF\tcpdf.php on line 16899
+[07-Sep-2023 16:46:50 Asia/Kolkata] PHP Stack trace:
+[07-Sep-2023 16:46:50 Asia/Kolkata] PHP   1. {main}() D:\wamp\www\emsdemo\View\salary_certificate.php:0
+[07-Sep-2023 16:46:50 Asia/Kolkata] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in D:\wamp\www\emsdemo\TCPDF\tcpdf.php on line 16902
+[07-Sep-2023 16:46:50 Asia/Kolkata] PHP Stack trace:
+[07-Sep-2023 16:46:50 Asia/Kolkata] PHP   1. {main}() D:\wamp\www\emsdemo\View\salary_certificate.php:0
+[07-Sep-2023 16:46:50 Asia/Kolkata] PHP Warning:  "continue" targeting switch is equivalent to "break". Did you mean to use "continue 2"? in D:\wamp\www\emsdemo\TCPDF\tcpdf.php on line 17784
+[07-Sep-2023 16:46:50 Asia/Kolkata] PHP Stack trace:
+[07-Sep-2023 16:46:50 Asia/Kolkata] PHP   1. {main}() D:\wamp\www\emsdemo\View\salary_certificate.php:0
+[07-Sep-2023 16:46:50 Asia/Kolkata] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in D:\wamp\www\emsdemo\TCPDF\include\tcpdf_images.php on line 318
+[07-Sep-2023 16:46:50 Asia/Kolkata] PHP Stack trace:
+[07-Sep-2023 16:46:50 Asia/Kolkata] PHP   1. {main}() D:\wamp\www\emsdemo\View\salary_certificate.php:0
+[07-Sep-2023 16:46:50 Asia/Kolkata] PHP   2. require() D:\wamp\www\emsdemo\View\salary_certificate.php:17

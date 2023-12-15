@@ -1,0 +1,3 @@
+[24-Feb-2023 15:08:22 Asia/Kolkata] PHP Warning:  Undefined variable $emp_mail in C:\wamp64\www\emsdemo\View\employee_serach.php on line 347
+[24-Feb-2023 15:08:22 Asia/Kolkata] PHP Stack trace:
+[24-Feb-2023 15:08:22 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\emsdemo\View\employee_serach.php:0

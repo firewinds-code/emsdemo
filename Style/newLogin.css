@@ -1,0 +1,219 @@
+@import url('fonts/font.google');
+
+/* Signin CSS Starts */
+ .signin-part{
+   background:#FFFFFF;
+    margin: 0 auto 70px;
+    max-height: 350px;
+    overflow: auto;
+ padding: 30px 30px 70px;
+    width: 450px;
+    border-top:5px solid #f0483e; 
+	overflow:hidden;
+	    border-top-width: 5px;
+		border-top-style:solid;
+	box-shadow: 0 2px 5px 0 rgba(0, 0, 0, 0.1);
+	-webkit-box-shadow: 0 2px 5px 0 rgba(0,0,0,.1);
+ }
+ .signin-part .signup-link{
+	     border-top: 1px solid #DDDDDD;
+    clear: both;
+    overflow: auto;
+    padding-top: 15px;
+    position: relative;
+    text-align: center;
+    top: -15px;
+ }
+ .signup-link a{
+	 color:#F0483E;
+	 display:block;
+	 text-decoration:underline;
+ }
+ 
+#loginform {
+	padding: 10px;
+	width: 99%;
+	position: relative;
+	left: -25px;
+	font-weight:400;
+}
+#loginform table {
+	width: 100%;
+}
+
+#loginform .label {
+	    font-size: 15px;
+    color: #333;
+    text-align: right;
+    font-weight: normal;
+    float: right;
+    line-height: 30px;
+}
+#loginform .input {
+	padding: 6px 8px;
+	border: 1px solid #e2e2e2;
+	outline: none;
+	font-family: inherit;
+	-webkit-box-shadow: 0px 1px 0 rgb(238, 238, 238);
+
+	box-shadow: 0px 1px 0 rgb(238, 238, 238);
+	font-size: 13px;
+	width: 98%;
+	margin-bottom: 10px;
+	height: 30px;
+}
+#loginform .input:focus {
+	border-top: 1px solid #999;
+	border-left: 1px solid #999;
+}
+.forgotpasslink {
+	margin-bottom: 5px;
+}
+.forgotpasslink span {
+	font-size: 12px;
+	cursor: pointer;
+	color: #333;
+	text-decoration: underline;
+	color: #1b7fd5;
+}
+.forgotpasslink span:hover {
+	text-decoration: none;
+}
+#loginform input[type="submit"], #btn_login {
+	background-color: #14b45a;
+    cursor: pointer;
+    border: 1px solid #0B7339;
+    margin-top: 10px;
+    outline: none;
+    padding: 5px 0 10px 0;
+    width: 150px;
+    text-align: center;
+    font-size: 15px;
+    font-family: inherit;
+    color: #fff;
+    font-weight: bold;
+}
+#loginform .securetxt {
+	color: #434343;
+	font-size: 12px;
+}
+#loginform input[type="submit"]:focus, #btn_login:focus {
+	outline: none;
+}
+.msg {
+	
+	top: 40%;
+	left: 40%;
+	position: absolute;	
+}
+.otheracc-main, .signinusingtxt {
+	   color: #333;
+    float: left;
+    font-size: 12px;
+    line-height: 34px;
+    margin-top: 10px;
+	padding-top: 7px;
+
+}
+.signinusingtxt{
+	min-width: 150px;
+    text-align: right;
+}
+.otheracc-main {
+    border-top: 1px solid #FFFFFF;
+    float: left;
+    height: 30px;
+    padding: 5px 10px 0;
+}
+.otheracc-main font {
+    float: left;
+    font-size: 11px;
+    font-weight: bold;
+    margin: 5px 3px 0 0;
+}
+.GAppsIcon{
+	display:none;
+}
+.GIcon, .GAppsIcon, .YIcon, .FIcon, .LIcon, .TWTIcon {
+   background: none repeat scroll 0 0 #FFFFFF;
+    border: medium none !important;
+    cursor: pointer;
+    float: left;
+    height: 30px;
+    margin-right: 2px;
+}
+.google-apps {
+    float: left;
+    margin-bottom: 20px;
+    width: 600px;
+}.GIcon span, .GAppsIcon span, .YIcon span, .FIcon span, .LIcon span, .TWTIcon span{
+    background-image: url("../images/prd-signin-sprite.png");
+} 
+
+.GIcon span, .GAppsIcon span, .YIcon span, .FIcon span, .LIcon span, .TWTIcon span {
+	float: left;
+    height: 30px;
+    width: 30px;
+    margin-left: 5px;
+    padding-right: 5px;
+    border-right: 1px solid #f3f3f3;
+	
+}
+.GIcon span {
+ background-position: 0px 0;
+}
+.GAppsIcon span {
+ background-position: -41px 0;
+width: 67px;
+}
+.YIcon span {
+  background-position: -41px 0;
+}
+.FIcon span {
+ 	background-position: -469px 0;
+}
+.LIcon span{
+	 background-position: -552px 0;
+} 
+.TWTIcon span{
+	background-position: -510px 0;
+	border-right:none;
+
+}.GIcon span:hover,.GAppsIcon span:hover,.YIcon span:hover,.FIcon span:hover,.LIcon span:hover,.TWTIcon span:hover{
+	opacity:.8;
+}
+
+#gappsDiv{
+margin-left: 50px;
+}
+.gappfield-main a{ color: #666;
+}
+
+.gapptitle{
+   border-bottom: 1px dotted #f5f5f5;
+    font-size: 17px;
+    margin-bottom: 30px;
+   padding: 20px 0 10px;}
+#gappsInputBox{
+  padding: 5px;
+    width: 305px!important;
+
+}
+.www_m{
+ color: #12ab55;
+ font-size:17px;
+ }
+ .gappbtn+span{
+	 font-size: 17px !important;
+    padding-left: 0 !important;
+ }
+ .gappfield-main a {
+font-size: 14px;
+ }
+.gappsub_button{
+text-transform:uppercase;
+font-weight:600;
+font-size:17px;
+}
+ /* Signin CSS Ends */
+ 

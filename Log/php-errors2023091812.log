@@ -1,0 +1,1894 @@
+[18-Sep-2023 12:06:44 Asia/Kolkata] PHP Warning:  Undefined array key "__user_logid" in D:\wamp64\www\emsdemo\AppCode\nHead.php on line 2
+[18-Sep-2023 12:06:44 Asia/Kolkata] PHP Stack trace:
+[18-Sep-2023 12:06:44 Asia/Kolkata] PHP   1. {main}() D:\wamp64\www\emsdemo\View\module_master_new.php:0
+[18-Sep-2023 12:06:44 Asia/Kolkata] PHP   2. require() D:\wamp64\www\emsdemo\View\module_master_new.php:9
+[18-Sep-2023 12:07:06 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in D:\wamp64\www\emsdemo\View\index.php on line 356
+[18-Sep-2023 12:07:06 Asia/Kolkata] PHP Stack trace:
+[18-Sep-2023 12:07:06 Asia/Kolkata] PHP   1. {main}() D:\wamp64\www\emsdemo\View\index.php:0
+[18-Sep-2023 12:07:06 Asia/Kolkata] PHP Deprecated:  stripslashes(): Passing null to parameter #1 ($string) of type string is deprecated in D:\wamp64\www\emsdemo\Config\init.php on line 122
+[18-Sep-2023 12:07:06 Asia/Kolkata] PHP Stack trace:
+[18-Sep-2023 12:07:06 Asia/Kolkata] PHP   1. {main}() D:\wamp64\www\emsdemo\View\index.php:0
+[18-Sep-2023 12:07:06 Asia/Kolkata] PHP   2. clean($data = NULL) D:\wamp64\www\emsdemo\View\index.php:356
+[18-Sep-2023 12:07:06 Asia/Kolkata] PHP   3. stripslashes($string = NULL) D:\wamp64\www\emsdemo\Config\init.php:122
+[18-Sep-2023 12:07:24 Asia/Kolkata] PHP Fatal error:  Array and string offset access syntax with curly braces is no longer supported in D:\wamp64\www\emsdemo\AppData\lib\PHPExcel\Shared\String.php on line 529
+[18-Sep-2023 12:07:24 Asia/Kolkata] PHP Stack trace:
+[18-Sep-2023 12:07:24 Asia/Kolkata] PHP   1. {main}() D:\wamp64\www\emsdemo\View\module_master_new.php:0
+[18-Sep-2023 12:07:24 Asia/Kolkata] PHP   2. require_once() D:\wamp64\www\emsdemo\View\module_master_new.php:10
+[18-Sep-2023 12:07:24 Asia/Kolkata] PHP   3. require() D:\wamp64\www\emsdemo\AppData\lib\PHPExcel\IOFactory.php:35
+[18-Sep-2023 12:07:24 Asia/Kolkata] PHP   4. PHPExcel_Autoloader::Load($pClassName = 'PHPExcel_Shared_String') D:\wamp64\www\emsdemo\AppData\lib\PHPExcel\Autoloader.php:36
+[18-Sep-2023 12:07:40 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in D:\wamp64\www\emsdemo\View\index.php on line 356
+[18-Sep-2023 12:07:40 Asia/Kolkata] PHP Stack trace:
+[18-Sep-2023 12:07:40 Asia/Kolkata] PHP   1. {main}() D:\wamp64\www\emsdemo\View\index.php:0
+[18-Sep-2023 12:07:40 Asia/Kolkata] PHP Deprecated:  stripslashes(): Passing null to parameter #1 ($string) of type string is deprecated in D:\wamp64\www\emsdemo\Config\init.php on line 122
+[18-Sep-2023 12:07:40 Asia/Kolkata] PHP Stack trace:
+[18-Sep-2023 12:07:40 Asia/Kolkata] PHP   1. {main}() D:\wamp64\www\emsdemo\View\index.php:0
+[18-Sep-2023 12:07:40 Asia/Kolkata] PHP   2. clean($data = NULL) D:\wamp64\www\emsdemo\View\index.php:356
+[18-Sep-2023 12:07:40 Asia/Kolkata] PHP   3. stripslashes($string = NULL) D:\wamp64\www\emsdemo\Config\init.php:122
+[18-Sep-2023 12:07:57 Asia/Kolkata] PHP Fatal error:  Array and string offset access syntax with curly braces is no longer supported in D:\wamp64\www\emsdemo\AppData\lib\PHPExcel\Shared\String.php on line 529
+[18-Sep-2023 12:07:57 Asia/Kolkata] PHP Stack trace:
+[18-Sep-2023 12:07:57 Asia/Kolkata] PHP   1. {main}() D:\wamp64\www\emsdemo\View\module_master_new.php:0
+[18-Sep-2023 12:07:57 Asia/Kolkata] PHP   2. require_once() D:\wamp64\www\emsdemo\View\module_master_new.php:10
+[18-Sep-2023 12:07:57 Asia/Kolkata] PHP   3. require() D:\wamp64\www\emsdemo\AppData\lib\PHPExcel\IOFactory.php:35
+[18-Sep-2023 12:07:57 Asia/Kolkata] PHP   4. PHPExcel_Autoloader::Load($pClassName = 'PHPExcel_Shared_String') D:\wamp64\www\emsdemo\AppData\lib\PHPExcel\Autoloader.php:36
+[18-Sep-2023 12:08:13 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in D:\wamp64\www\emsdemo\View\index.php on line 356
+[18-Sep-2023 12:08:13 Asia/Kolkata] PHP Stack trace:
+[18-Sep-2023 12:08:13 Asia/Kolkata] PHP   1. {main}() D:\wamp64\www\emsdemo\View\index.php:0
+[18-Sep-2023 12:08:13 Asia/Kolkata] PHP Deprecated:  stripslashes(): Passing null to parameter #1 ($string) of type string is deprecated in D:\wamp64\www\emsdemo\Config\init.php on line 122
+[18-Sep-2023 12:08:13 Asia/Kolkata] PHP Stack trace:
+[18-Sep-2023 12:08:13 Asia/Kolkata] PHP   1. {main}() D:\wamp64\www\emsdemo\View\index.php:0
+[18-Sep-2023 12:08:13 Asia/Kolkata] PHP   2. clean($data = NULL) D:\wamp64\www\emsdemo\View\index.php:356
+[18-Sep-2023 12:08:13 Asia/Kolkata] PHP   3. stripslashes($string = NULL) D:\wamp64\www\emsdemo\Config\init.php:122
+[18-Sep-2023 12:08:34 Asia/Kolkata] PHP Warning:  Undefined variable $selected in D:\wamp64\www\emsdemo\View\dropdown.php on line 34
+[18-Sep-2023 12:08:34 Asia/Kolkata] PHP Stack trace:
+[18-Sep-2023 12:08:34 Asia/Kolkata] PHP   1. {main}() D:\wamp64\www\emsdemo\View\dropdown.php:0
+[18-Sep-2023 12:08:34 Asia/Kolkata] PHP Warning:  Undefined variable $selected in D:\wamp64\www\emsdemo\View\dropdown.php on line 34
+[18-Sep-2023 12:08:34 Asia/Kolkata] PHP Stack trace:
+[18-Sep-2023 12:08:34 Asia/Kolkata] PHP   1. {main}() D:\wamp64\www\emsdemo\View\dropdown.php:0
+[18-Sep-2023 12:08:34 Asia/Kolkata] PHP Warning:  Undefined variable $selected in D:\wamp64\www\emsdemo\View\dropdown.php on line 34
+[18-Sep-2023 12:08:34 Asia/Kolkata] PHP Stack trace:
+[18-Sep-2023 12:08:34 Asia/Kolkata] PHP   1. {main}() D:\wamp64\www\emsdemo\View\dropdown.php:0
+[18-Sep-2023 12:08:34 Asia/Kolkata] PHP Warning:  Undefined variable $selected in D:\wamp64\www\emsdemo\View\dropdown.php on line 34
+[18-Sep-2023 12:08:34 Asia/Kolkata] PHP Stack trace:
+[18-Sep-2023 12:08:34 Asia/Kolkata] PHP   1. {main}() D:\wamp64\www\emsdemo\View\dropdown.php:0
+[18-Sep-2023 12:08:34 Asia/Kolkata] PHP Warning:  Undefined variable $selected in D:\wamp64\www\emsdemo\View\dropdown.php on line 34
+[18-Sep-2023 12:08:34 Asia/Kolkata] PHP Stack trace:
+[18-Sep-2023 12:08:34 Asia/Kolkata] PHP   1. {main}() D:\wamp64\www\emsdemo\View\dropdown.php:0
+[18-Sep-2023 12:08:34 Asia/Kolkata] PHP Warning:  Undefined variable $selected in D:\wamp64\www\emsdemo\View\dropdown.php on line 34
+[18-Sep-2023 12:08:34 Asia/Kolkata] PHP Stack trace:
+[18-Sep-2023 12:08:34 Asia/Kolkata] PHP   1. {main}() D:\wamp64\www\emsdemo\View\dropdown.php:0
+[18-Sep-2023 12:08:34 Asia/Kolkata] PHP Warning:  Undefined variable $selected in D:\wamp64\www\emsdemo\View\dropdown.php on line 34
+[18-Sep-2023 12:08:34 Asia/Kolkata] PHP Stack trace:
+[18-Sep-2023 12:08:34 Asia/Kolkata] PHP   1. {main}() D:\wamp64\www\emsdemo\View\dropdown.php:0
+[18-Sep-2023 12:08:34 Asia/Kolkata] PHP Warning:  Undefined variable $selected in D:\wamp64\www\emsdemo\View\dropdown.php on line 34
+[18-Sep-2023 12:08:34 Asia/Kolkata] PHP Stack trace:
+[18-Sep-2023 12:08:34 Asia/Kolkata] PHP   1. {main}() D:\wamp64\www\emsdemo\View\dropdown.php:0
+[18-Sep-2023 12:08:34 Asia/Kolkata] PHP Warning:  Undefined variable $selected in D:\wamp64\www\emsdemo\View\dropdown.php on line 34
+[18-Sep-2023 12:08:34 Asia/Kolkata] PHP Stack trace:
+[18-Sep-2023 12:08:34 Asia/Kolkata] PHP   1. {main}() D:\wamp64\www\emsdemo\View\dropdown.php:0
+[18-Sep-2023 12:08:34 Asia/Kolkata] PHP Warning:  Undefined variable $selected in D:\wamp64\www\emsdemo\View\dropdown.php on line 34
+[18-Sep-2023 12:08:34 Asia/Kolkata] PHP Stack trace:
+[18-Sep-2023 12:08:34 Asia/Kolkata] PHP   1. {main}() D:\wamp64\www\emsdemo\View\dropdown.php:0
+[18-Sep-2023 12:08:34 Asia/Kolkata] PHP Warning:  Undefined variable $selected in D:\wamp64\www\emsdemo\View\dropdown.php on line 34
+[18-Sep-2023 12:08:34 Asia/Kolkata] PHP Stack trace:
+[18-Sep-2023 12:08:34 Asia/Kolkata] PHP   1. {main}() D:\wamp64\www\emsdemo\View\dropdown.php:0
+[18-Sep-2023 12:08:34 Asia/Kolkata] PHP Warning:  Undefined variable $selected in D:\wamp64\www\emsdemo\View\dropdown.php on line 34
+[18-Sep-2023 12:08:34 Asia/Kolkata] PHP Stack trace:
+[18-Sep-2023 12:08:34 Asia/Kolkata] PHP   1. {main}() D:\wamp64\www\emsdemo\View\dropdown.php:0
+[18-Sep-2023 12:08:34 Asia/Kolkata] PHP Warning:  Undefined variable $selected in D:\wamp64\www\emsdemo\View\dropdown.php on line 34
+[18-Sep-2023 12:08:34 Asia/Kolkata] PHP Stack trace:
+[18-Sep-2023 12:08:34 Asia/Kolkata] PHP   1. {main}() D:\wamp64\www\emsdemo\View\dropdown.php:0
+[18-Sep-2023 12:08:34 Asia/Kolkata] PHP Warning:  Undefined variable $selected in D:\wamp64\www\emsdemo\View\dropdown.php on line 34
+[18-Sep-2023 12:08:34 Asia/Kolkata] PHP Stack trace:
+[18-Sep-2023 12:08:34 Asia/Kolkata] PHP   1. {main}() D:\wamp64\www\emsdemo\View\dropdown.php:0
+[18-Sep-2023 12:08:34 Asia/Kolkata] PHP Warning:  Undefined variable $selected in D:\wamp64\www\emsdemo\View\dropdown.php on line 34
+[18-Sep-2023 12:08:34 Asia/Kolkata] PHP Stack trace:
+[18-Sep-2023 12:08:34 Asia/Kolkata] PHP   1. {main}() D:\wamp64\www\emsdemo\View\dropdown.php:0
+[18-Sep-2023 12:08:34 Asia/Kolkata] PHP Warning:  Undefined variable $selected in D:\wamp64\www\emsdemo\View\dropdown.php on line 34
+[18-Sep-2023 12:08:34 Asia/Kolkata] PHP Stack trace:
+[18-Sep-2023 12:08:34 Asia/Kolkata] PHP   1. {main}() D:\wamp64\www\emsdemo\View\dropdown.php:0
+[18-Sep-2023 12:08:34 Asia/Kolkata] PHP Warning:  Undefined variable $selected in D:\wamp64\www\emsdemo\View\dropdown.php on line 34
+[18-Sep-2023 12:08:34 Asia/Kolkata] PHP Stack trace:
+[18-Sep-2023 12:08:34 Asia/Kolkata] PHP   1. {main}() D:\wamp64\www\emsdemo\View\dropdown.php:0
+[18-Sep-2023 12:08:34 Asia/Kolkata] PHP Warning:  Undefined variable $selected in D:\wamp64\www\emsdemo\View\dropdown.php on line 34
+[18-Sep-2023 12:08:34 Asia/Kolkata] PHP Stack trace:
+[18-Sep-2023 12:08:34 Asia/Kolkata] PHP   1. {main}() D:\wamp64\www\emsdemo\View\dropdown.php:0
+[18-Sep-2023 12:08:34 Asia/Kolkata] PHP Warning:  Undefined variable $selected in D:\wamp64\www\emsdemo\View\dropdown.php on line 34
+[18-Sep-2023 12:08:34 Asia/Kolkata] PHP Stack trace:
+[18-Sep-2023 12:08:34 Asia/Kolkata] PHP   1. {main}() D:\wamp64\www\emsdemo\View\dropdown.php:0
+[18-Sep-2023 12:08:34 Asia/Kolkata] PHP Warning:  Undefined variable $selected in D:\wamp64\www\emsdemo\View\dropdown.php on line 34
+[18-Sep-2023 12:08:34 Asia/Kolkata] PHP Stack trace:
+[18-Sep-2023 12:08:34 Asia/Kolkata] PHP   1. {main}() D:\wamp64\www\emsdemo\View\dropdown.php:0
+[18-Sep-2023 12:08:34 Asia/Kolkata] PHP Warning:  Undefined variable $selected in D:\wamp64\www\emsdemo\View\dropdown.php on line 34
+[18-Sep-2023 12:08:34 Asia/Kolkata] PHP Stack trace:
+[18-Sep-2023 12:08:34 Asia/Kolkata] PHP   1. {main}() D:\wamp64\www\emsdemo\View\dropdown.php:0
+[18-Sep-2023 12:08:34 Asia/Kolkata] PHP Warning:  Undefined variable $selected in D:\wamp64\www\emsdemo\View\dropdown.php on line 34
+[18-Sep-2023 12:08:34 Asia/Kolkata] PHP Stack trace:
+[18-Sep-2023 12:08:34 Asia/Kolkata] PHP   1. {main}() D:\wamp64\www\emsdemo\View\dropdown.php:0
+[18-Sep-2023 12:08:34 Asia/Kolkata] PHP Warning:  Undefined variable $selected in D:\wamp64\www\emsdemo\View\dropdown.php on line 34
+[18-Sep-2023 12:08:34 Asia/Kolkata] PHP Stack trace:
+[18-Sep-2023 12:08:34 Asia/Kolkata] PHP   1. {main}() D:\wamp64\www\emsdemo\View\dropdown.php:0
+[18-Sep-2023 12:08:34 Asia/Kolkata] PHP Warning:  Undefined variable $selected in D:\wamp64\www\emsdemo\View\dropdown.php on line 34
+[18-Sep-2023 12:08:34 Asia/Kolkata] PHP Stack trace:
+[18-Sep-2023 12:08:34 Asia/Kolkata] PHP   1. {main}() D:\wamp64\www\emsdemo\View\dropdown.php:0
+[18-Sep-2023 12:08:34 Asia/Kolkata] PHP Warning:  Undefined variable $selected in D:\wamp64\www\emsdemo\View\dropdown.php on line 34
+[18-Sep-2023 12:08:34 Asia/Kolkata] PHP Stack trace:
+[18-Sep-2023 12:08:34 Asia/Kolkata] PHP   1. {main}() D:\wamp64\www\emsdemo\View\dropdown.php:0
+[18-Sep-2023 12:08:34 Asia/Kolkata] PHP Warning:  Undefined variable $selected in D:\wamp64\www\emsdemo\View\dropdown.php on line 34
+[18-Sep-2023 12:08:34 Asia/Kolkata] PHP Stack trace:
+[18-Sep-2023 12:08:34 Asia/Kolkata] PHP   1. {main}() D:\wamp64\www\emsdemo\View\dropdown.php:0
+[18-Sep-2023 12:08:34 Asia/Kolkata] PHP Warning:  Undefined variable $selected in D:\wamp64\www\emsdemo\View\dropdown.php on line 34
+[18-Sep-2023 12:08:34 Asia/Kolkata] PHP Stack trace:
+[18-Sep-2023 12:08:34 Asia/Kolkata] PHP   1. {main}() D:\wamp64\www\emsdemo\View\dropdown.php:0
+[18-Sep-2023 12:08:34 Asia/Kolkata] PHP Warning:  Undefined variable $selected in D:\wamp64\www\emsdemo\View\dropdown.php on line 34
+[18-Sep-2023 12:08:34 Asia/Kolkata] PHP Stack trace:
+[18-Sep-2023 12:08:34 Asia/Kolkata] PHP   1. {main}() D:\wamp64\www\emsdemo\View\dropdown.php:0
+[18-Sep-2023 12:08:34 Asia/Kolkata] PHP Warning:  Undefined variable $selected in D:\wamp64\www\emsdemo\View\dropdown.php on line 34
+[18-Sep-2023 12:08:34 Asia/Kolkata] PHP Stack trace:
+[18-Sep-2023 12:08:34 Asia/Kolkata] PHP   1. {main}() D:\wamp64\www\emsdemo\View\dropdown.php:0
+[18-Sep-2023 12:08:34 Asia/Kolkata] PHP Warning:  Undefined variable $selected in D:\wamp64\www\emsdemo\View\dropdown.php on line 34
+[18-Sep-2023 12:08:34 Asia/Kolkata] PHP Stack trace:
+[18-Sep-2023 12:08:34 Asia/Kolkata] PHP   1. {main}() D:\wamp64\www\emsdemo\View\dropdown.php:0
+[18-Sep-2023 12:08:34 Asia/Kolkata] PHP Warning:  Undefined variable $selected in D:\wamp64\www\emsdemo\View\dropdown.php on line 34
+[18-Sep-2023 12:08:34 Asia/Kolkata] PHP Stack trace:
+[18-Sep-2023 12:08:34 Asia/Kolkata] PHP   1. {main}() D:\wamp64\www\emsdemo\View\dropdown.php:0
+[18-Sep-2023 12:08:34 Asia/Kolkata] PHP Warning:  Undefined variable $selected in D:\wamp64\www\emsdemo\View\dropdown.php on line 34
+[18-Sep-2023 12:08:34 Asia/Kolkata] PHP Stack trace:
+[18-Sep-2023 12:08:34 Asia/Kolkata] PHP   1. {main}() D:\wamp64\www\emsdemo\View\dropdown.php:0
+[18-Sep-2023 12:08:34 Asia/Kolkata] PHP Warning:  Undefined variable $selected in D:\wamp64\www\emsdemo\View\dropdown.php on line 34
+[18-Sep-2023 12:08:34 Asia/Kolkata] PHP Stack trace:
+[18-Sep-2023 12:08:34 Asia/Kolkata] PHP   1. {main}() D:\wamp64\www\emsdemo\View\dropdown.php:0
+[18-Sep-2023 12:08:34 Asia/Kolkata] PHP Warning:  Undefined variable $selected in D:\wamp64\www\emsdemo\View\dropdown.php on line 34
+[18-Sep-2023 12:08:34 Asia/Kolkata] PHP Stack trace:
+[18-Sep-2023 12:08:34 Asia/Kolkata] PHP   1. {main}() D:\wamp64\www\emsdemo\View\dropdown.php:0
+[18-Sep-2023 12:08:34 Asia/Kolkata] PHP Warning:  Undefined variable $selected in D:\wamp64\www\emsdemo\View\dropdown.php on line 34
+[18-Sep-2023 12:08:34 Asia/Kolkata] PHP Stack trace:
+[18-Sep-2023 12:08:34 Asia/Kolkata] PHP   1. {main}() D:\wamp64\www\emsdemo\View\dropdown.php:0
+[18-Sep-2023 12:08:34 Asia/Kolkata] PHP Warning:  Undefined variable $selected in D:\wamp64\www\emsdemo\View\dropdown.php on line 34
+[18-Sep-2023 12:08:34 Asia/Kolkata] PHP Stack trace:
+[18-Sep-2023 12:08:34 Asia/Kolkata] PHP   1. {main}() D:\wamp64\www\emsdemo\View\dropdown.php:0
+[18-Sep-2023 12:08:34 Asia/Kolkata] PHP Warning:  Undefined variable $selected in D:\wamp64\www\emsdemo\View\dropdown.php on line 34
+[18-Sep-2023 12:08:34 Asia/Kolkata] PHP Stack trace:
+[18-Sep-2023 12:08:34 Asia/Kolkata] PHP   1. {main}() D:\wamp64\www\emsdemo\View\dropdown.php:0
+[18-Sep-2023 12:08:34 Asia/Kolkata] PHP Warning:  Undefined variable $selected in D:\wamp64\www\emsdemo\View\dropdown.php on line 34
+[18-Sep-2023 12:08:34 Asia/Kolkata] PHP Stack trace:
+[18-Sep-2023 12:08:34 Asia/Kolkata] PHP   1. {main}() D:\wamp64\www\emsdemo\View\dropdown.php:0
+[18-Sep-2023 12:08:34 Asia/Kolkata] PHP Warning:  Undefined variable $selected in D:\wamp64\www\emsdemo\View\dropdown.php on line 34
+[18-Sep-2023 12:08:34 Asia/Kolkata] PHP Stack trace:
+[18-Sep-2023 12:08:34 Asia/Kolkata] PHP   1. {main}() D:\wamp64\www\emsdemo\View\dropdown.php:0
+[18-Sep-2023 12:08:34 Asia/Kolkata] PHP Warning:  Undefined variable $selected in D:\wamp64\www\emsdemo\View\dropdown.php on line 34
+[18-Sep-2023 12:08:34 Asia/Kolkata] PHP Stack trace:
+[18-Sep-2023 12:08:34 Asia/Kolkata] PHP   1. {main}() D:\wamp64\www\emsdemo\View\dropdown.php:0
+[18-Sep-2023 12:08:34 Asia/Kolkata] PHP Warning:  Undefined variable $selected in D:\wamp64\www\emsdemo\View\dropdown.php on line 34
+[18-Sep-2023 12:08:34 Asia/Kolkata] PHP Stack trace:
+[18-Sep-2023 12:08:34 Asia/Kolkata] PHP   1. {main}() D:\wamp64\www\emsdemo\View\dropdown.php:0
+[18-Sep-2023 12:08:34 Asia/Kolkata] PHP Warning:  Undefined variable $selected in D:\wamp64\www\emsdemo\View\dropdown.php on line 34
+[18-Sep-2023 12:08:34 Asia/Kolkata] PHP Stack trace:
+[18-Sep-2023 12:08:34 Asia/Kolkata] PHP   1. {main}() D:\wamp64\www\emsdemo\View\dropdown.php:0
+[18-Sep-2023 12:08:34 Asia/Kolkata] PHP Warning:  Undefined variable $selected in D:\wamp64\www\emsdemo\View\dropdown.php on line 34
+[18-Sep-2023 12:08:34 Asia/Kolkata] PHP Stack trace:
+[18-Sep-2023 12:08:34 Asia/Kolkata] PHP   1. {main}() D:\wamp64\www\emsdemo\View\dropdown.php:0
+[18-Sep-2023 12:08:34 Asia/Kolkata] PHP Warning:  Undefined variable $selected in D:\wamp64\www\emsdemo\View\dropdown.php on line 34
+[18-Sep-2023 12:08:34 Asia/Kolkata] PHP Stack trace:
+[18-Sep-2023 12:08:34 Asia/Kolkata] PHP   1. {main}() D:\wamp64\www\emsdemo\View\dropdown.php:0
+[18-Sep-2023 12:08:34 Asia/Kolkata] PHP Warning:  Undefined variable $selected in D:\wamp64\www\emsdemo\View\dropdown.php on line 34
+[18-Sep-2023 12:08:34 Asia/Kolkata] PHP Stack trace:
+[18-Sep-2023 12:08:34 Asia/Kolkata] PHP   1. {main}() D:\wamp64\www\emsdemo\View\dropdown.php:0
+[18-Sep-2023 12:08:34 Asia/Kolkata] PHP Warning:  Undefined variable $selected in D:\wamp64\www\emsdemo\View\dropdown.php on line 34
+[18-Sep-2023 12:08:34 Asia/Kolkata] PHP Stack trace:
+[18-Sep-2023 12:08:34 Asia/Kolkata] PHP   1. {main}() D:\wamp64\www\emsdemo\View\dropdown.php:0
+[18-Sep-2023 12:08:34 Asia/Kolkata] PHP Warning:  Undefined variable $selected in D:\wamp64\www\emsdemo\View\dropdown.php on line 34
+[18-Sep-2023 12:08:34 Asia/Kolkata] PHP Stack trace:
+[18-Sep-2023 12:08:34 Asia/Kolkata] PHP   1. {main}() D:\wamp64\www\emsdemo\View\dropdown.php:0
+[18-Sep-2023 12:08:34 Asia/Kolkata] PHP Warning:  Undefined variable $selected in D:\wamp64\www\emsdemo\View\dropdown.php on line 34
+[18-Sep-2023 12:08:34 Asia/Kolkata] PHP Stack trace:
+[18-Sep-2023 12:08:34 Asia/Kolkata] PHP   1. {main}() D:\wamp64\www\emsdemo\View\dropdown.php:0
+[18-Sep-2023 12:08:34 Asia/Kolkata] PHP Warning:  Undefined variable $selected in D:\wamp64\www\emsdemo\View\dropdown.php on line 34
+[18-Sep-2023 12:08:34 Asia/Kolkata] PHP Stack trace:
+[18-Sep-2023 12:08:34 Asia/Kolkata] PHP   1. {main}() D:\wamp64\www\emsdemo\View\dropdown.php:0
+[18-Sep-2023 12:08:34 Asia/Kolkata] PHP Warning:  Undefined variable $selected in D:\wamp64\www\emsdemo\View\dropdown.php on line 34
+[18-Sep-2023 12:08:34 Asia/Kolkata] PHP Stack trace:
+[18-Sep-2023 12:08:34 Asia/Kolkata] PHP   1. {main}() D:\wamp64\www\emsdemo\View\dropdown.php:0
+[18-Sep-2023 12:08:34 Asia/Kolkata] PHP Warning:  Undefined variable $selected in D:\wamp64\www\emsdemo\View\dropdown.php on line 34
+[18-Sep-2023 12:08:34 Asia/Kolkata] PHP Stack trace:
+[18-Sep-2023 12:08:34 Asia/Kolkata] PHP   1. {main}() D:\wamp64\www\emsdemo\View\dropdown.php:0
+[18-Sep-2023 12:08:34 Asia/Kolkata] PHP Warning:  Undefined variable $selected in D:\wamp64\www\emsdemo\View\dropdown.php on line 34
+[18-Sep-2023 12:08:34 Asia/Kolkata] PHP Stack trace:
+[18-Sep-2023 12:08:34 Asia/Kolkata] PHP   1. {main}() D:\wamp64\www\emsdemo\View\dropdown.php:0
+[18-Sep-2023 12:08:34 Asia/Kolkata] PHP Warning:  Undefined variable $selected in D:\wamp64\www\emsdemo\View\dropdown.php on line 34
+[18-Sep-2023 12:08:34 Asia/Kolkata] PHP Stack trace:
+[18-Sep-2023 12:08:34 Asia/Kolkata] PHP   1. {main}() D:\wamp64\www\emsdemo\View\dropdown.php:0
+[18-Sep-2023 12:08:34 Asia/Kolkata] PHP Warning:  Undefined variable $selected in D:\wamp64\www\emsdemo\View\dropdown.php on line 34
+[18-Sep-2023 12:08:34 Asia/Kolkata] PHP Stack trace:
+[18-Sep-2023 12:08:34 Asia/Kolkata] PHP   1. {main}() D:\wamp64\www\emsdemo\View\dropdown.php:0
+[18-Sep-2023 12:08:34 Asia/Kolkata] PHP Warning:  Undefined variable $selected in D:\wamp64\www\emsdemo\View\dropdown.php on line 34
+[18-Sep-2023 12:08:34 Asia/Kolkata] PHP Stack trace:
+[18-Sep-2023 12:08:34 Asia/Kolkata] PHP   1. {main}() D:\wamp64\www\emsdemo\View\dropdown.php:0
+[18-Sep-2023 12:08:34 Asia/Kolkata] PHP Warning:  Undefined variable $selected in D:\wamp64\www\emsdemo\View\dropdown.php on line 34
+[18-Sep-2023 12:08:34 Asia/Kolkata] PHP Stack trace:
+[18-Sep-2023 12:08:34 Asia/Kolkata] PHP   1. {main}() D:\wamp64\www\emsdemo\View\dropdown.php:0
+[18-Sep-2023 12:08:34 Asia/Kolkata] PHP Warning:  Undefined variable $selected in D:\wamp64\www\emsdemo\View\dropdown.php on line 34
+[18-Sep-2023 12:08:34 Asia/Kolkata] PHP Stack trace:
+[18-Sep-2023 12:08:34 Asia/Kolkata] PHP   1. {main}() D:\wamp64\www\emsdemo\View\dropdown.php:0
+[18-Sep-2023 12:08:34 Asia/Kolkata] PHP Warning:  Undefined variable $selected in D:\wamp64\www\emsdemo\View\dropdown.php on line 34
+[18-Sep-2023 12:08:34 Asia/Kolkata] PHP Stack trace:
+[18-Sep-2023 12:08:34 Asia/Kolkata] PHP   1. {main}() D:\wamp64\www\emsdemo\View\dropdown.php:0
+[18-Sep-2023 12:08:34 Asia/Kolkata] PHP Warning:  Undefined variable $selected in D:\wamp64\www\emsdemo\View\dropdown.php on line 34
+[18-Sep-2023 12:08:34 Asia/Kolkata] PHP Stack trace:
+[18-Sep-2023 12:08:34 Asia/Kolkata] PHP   1. {main}() D:\wamp64\www\emsdemo\View\dropdown.php:0
+[18-Sep-2023 12:08:34 Asia/Kolkata] PHP Warning:  Undefined variable $selected in D:\wamp64\www\emsdemo\View\dropdown.php on line 34
+[18-Sep-2023 12:08:34 Asia/Kolkata] PHP Stack trace:
+[18-Sep-2023 12:08:34 Asia/Kolkata] PHP   1. {main}() D:\wamp64\www\emsdemo\View\dropdown.php:0
+[18-Sep-2023 12:08:34 Asia/Kolkata] PHP Warning:  Undefined variable $selected in D:\wamp64\www\emsdemo\View\dropdown.php on line 34
+[18-Sep-2023 12:08:34 Asia/Kolkata] PHP Stack trace:
+[18-Sep-2023 12:08:34 Asia/Kolkata] PHP   1. {main}() D:\wamp64\www\emsdemo\View\dropdown.php:0
+[18-Sep-2023 12:08:34 Asia/Kolkata] PHP Warning:  Undefined variable $selected in D:\wamp64\www\emsdemo\View\dropdown.php on line 34
+[18-Sep-2023 12:08:34 Asia/Kolkata] PHP Stack trace:
+[18-Sep-2023 12:08:34 Asia/Kolkata] PHP   1. {main}() D:\wamp64\www\emsdemo\View\dropdown.php:0
+[18-Sep-2023 12:08:34 Asia/Kolkata] PHP Warning:  Undefined variable $selected in D:\wamp64\www\emsdemo\View\dropdown.php on line 34
+[18-Sep-2023 12:08:34 Asia/Kolkata] PHP Stack trace:
+[18-Sep-2023 12:08:34 Asia/Kolkata] PHP   1. {main}() D:\wamp64\www\emsdemo\View\dropdown.php:0
+[18-Sep-2023 12:08:34 Asia/Kolkata] PHP Warning:  Undefined variable $selected in D:\wamp64\www\emsdemo\View\dropdown.php on line 34
+[18-Sep-2023 12:08:34 Asia/Kolkata] PHP Stack trace:
+[18-Sep-2023 12:08:34 Asia/Kolkata] PHP   1. {main}() D:\wamp64\www\emsdemo\View\dropdown.php:0
+[18-Sep-2023 12:08:34 Asia/Kolkata] PHP Warning:  Undefined variable $selected in D:\wamp64\www\emsdemo\View\dropdown.php on line 34
+[18-Sep-2023 12:08:34 Asia/Kolkata] PHP Stack trace:
+[18-Sep-2023 12:08:34 Asia/Kolkata] PHP   1. {main}() D:\wamp64\www\emsdemo\View\dropdown.php:0
+[18-Sep-2023 12:08:34 Asia/Kolkata] PHP Warning:  Undefined variable $selected in D:\wamp64\www\emsdemo\View\dropdown.php on line 34
+[18-Sep-2023 12:08:34 Asia/Kolkata] PHP Stack trace:
+[18-Sep-2023 12:08:34 Asia/Kolkata] PHP   1. {main}() D:\wamp64\www\emsdemo\View\dropdown.php:0
+[18-Sep-2023 12:08:34 Asia/Kolkata] PHP Warning:  Undefined variable $selected in D:\wamp64\www\emsdemo\View\dropdown.php on line 34
+[18-Sep-2023 12:08:34 Asia/Kolkata] PHP Stack trace:
+[18-Sep-2023 12:08:34 Asia/Kolkata] PHP   1. {main}() D:\wamp64\www\emsdemo\View\dropdown.php:0
+[18-Sep-2023 12:08:34 Asia/Kolkata] PHP Warning:  Undefined variable $selected in D:\wamp64\www\emsdemo\View\dropdown.php on line 34
+[18-Sep-2023 12:08:34 Asia/Kolkata] PHP Stack trace:
+[18-Sep-2023 12:08:34 Asia/Kolkata] PHP   1. {main}() D:\wamp64\www\emsdemo\View\dropdown.php:0
+[18-Sep-2023 12:08:34 Asia/Kolkata] PHP Warning:  Undefined variable $selected in D:\wamp64\www\emsdemo\View\dropdown.php on line 34
+[18-Sep-2023 12:08:34 Asia/Kolkata] PHP Stack trace:
+[18-Sep-2023 12:08:34 Asia/Kolkata] PHP   1. {main}() D:\wamp64\www\emsdemo\View\dropdown.php:0
+[18-Sep-2023 12:08:34 Asia/Kolkata] PHP Warning:  Undefined variable $selected in D:\wamp64\www\emsdemo\View\dropdown.php on line 34
+[18-Sep-2023 12:08:34 Asia/Kolkata] PHP Stack trace:
+[18-Sep-2023 12:08:34 Asia/Kolkata] PHP   1. {main}() D:\wamp64\www\emsdemo\View\dropdown.php:0
+[18-Sep-2023 12:08:34 Asia/Kolkata] PHP Warning:  Undefined variable $selected in D:\wamp64\www\emsdemo\View\dropdown.php on line 34
+[18-Sep-2023 12:08:34 Asia/Kolkata] PHP Stack trace:
+[18-Sep-2023 12:08:34 Asia/Kolkata] PHP   1. {main}() D:\wamp64\www\emsdemo\View\dropdown.php:0
+[18-Sep-2023 12:08:34 Asia/Kolkata] PHP Warning:  Undefined variable $selected in D:\wamp64\www\emsdemo\View\dropdown.php on line 34
+[18-Sep-2023 12:08:34 Asia/Kolkata] PHP Stack trace:
+[18-Sep-2023 12:08:34 Asia/Kolkata] PHP   1. {main}() D:\wamp64\www\emsdemo\View\dropdown.php:0
+[18-Sep-2023 12:08:34 Asia/Kolkata] PHP Warning:  Undefined variable $selected in D:\wamp64\www\emsdemo\View\dropdown.php on line 34
+[18-Sep-2023 12:08:34 Asia/Kolkata] PHP Stack trace:
+[18-Sep-2023 12:08:34 Asia/Kolkata] PHP   1. {main}() D:\wamp64\www\emsdemo\View\dropdown.php:0
+[18-Sep-2023 12:08:34 Asia/Kolkata] PHP Warning:  Undefined variable $selected in D:\wamp64\www\emsdemo\View\dropdown.php on line 34
+[18-Sep-2023 12:08:34 Asia/Kolkata] PHP Stack trace:
+[18-Sep-2023 12:08:34 Asia/Kolkata] PHP   1. {main}() D:\wamp64\www\emsdemo\View\dropdown.php:0
+[18-Sep-2023 12:08:34 Asia/Kolkata] PHP Warning:  Undefined variable $selected in D:\wamp64\www\emsdemo\View\dropdown.php on line 34
+[18-Sep-2023 12:08:34 Asia/Kolkata] PHP Stack trace:
+[18-Sep-2023 12:08:34 Asia/Kolkata] PHP   1. {main}() D:\wamp64\www\emsdemo\View\dropdown.php:0
+[18-Sep-2023 12:08:34 Asia/Kolkata] PHP Warning:  Undefined variable $selected in D:\wamp64\www\emsdemo\View\dropdown.php on line 34
+[18-Sep-2023 12:08:34 Asia/Kolkata] PHP Stack trace:
+[18-Sep-2023 12:08:34 Asia/Kolkata] PHP   1. {main}() D:\wamp64\www\emsdemo\View\dropdown.php:0
+[18-Sep-2023 12:08:34 Asia/Kolkata] PHP Warning:  Undefined variable $selected in D:\wamp64\www\emsdemo\View\dropdown.php on line 34
+[18-Sep-2023 12:08:34 Asia/Kolkata] PHP Stack trace:
+[18-Sep-2023 12:08:34 Asia/Kolkata] PHP   1. {main}() D:\wamp64\www\emsdemo\View\dropdown.php:0
+[18-Sep-2023 12:08:34 Asia/Kolkata] PHP Warning:  Undefined variable $selected in D:\wamp64\www\emsdemo\View\dropdown.php on line 34
+[18-Sep-2023 12:08:34 Asia/Kolkata] PHP Stack trace:
+[18-Sep-2023 12:08:34 Asia/Kolkata] PHP   1. {main}() D:\wamp64\www\emsdemo\View\dropdown.php:0
+[18-Sep-2023 12:08:34 Asia/Kolkata] PHP Warning:  Undefined variable $selected in D:\wamp64\www\emsdemo\View\dropdown.php on line 34
+[18-Sep-2023 12:08:34 Asia/Kolkata] PHP Stack trace:
+[18-Sep-2023 12:08:34 Asia/Kolkata] PHP   1. {main}() D:\wamp64\www\emsdemo\View\dropdown.php:0
+[18-Sep-2023 12:08:34 Asia/Kolkata] PHP Warning:  Undefined variable $selected in D:\wamp64\www\emsdemo\View\dropdown.php on line 34
+[18-Sep-2023 12:08:34 Asia/Kolkata] PHP Stack trace:
+[18-Sep-2023 12:08:34 Asia/Kolkata] PHP   1. {main}() D:\wamp64\www\emsdemo\View\dropdown.php:0
+[18-Sep-2023 12:08:34 Asia/Kolkata] PHP Warning:  Undefined variable $selected in D:\wamp64\www\emsdemo\View\dropdown.php on line 34
+[18-Sep-2023 12:08:34 Asia/Kolkata] PHP Stack trace:
+[18-Sep-2023 12:08:34 Asia/Kolkata] PHP   1. {main}() D:\wamp64\www\emsdemo\View\dropdown.php:0
+[18-Sep-2023 12:08:34 Asia/Kolkata] PHP Warning:  Undefined variable $selected in D:\wamp64\www\emsdemo\View\dropdown.php on line 34
+[18-Sep-2023 12:08:34 Asia/Kolkata] PHP Stack trace:
+[18-Sep-2023 12:08:34 Asia/Kolkata] PHP   1. {main}() D:\wamp64\www\emsdemo\View\dropdown.php:0
+[18-Sep-2023 12:08:34 Asia/Kolkata] PHP Warning:  Undefined variable $selected in D:\wamp64\www\emsdemo\View\dropdown.php on line 34
+[18-Sep-2023 12:08:34 Asia/Kolkata] PHP Stack trace:
+[18-Sep-2023 12:08:34 Asia/Kolkata] PHP   1. {main}() D:\wamp64\www\emsdemo\View\dropdown.php:0
+[18-Sep-2023 12:08:34 Asia/Kolkata] PHP Warning:  Undefined variable $selected in D:\wamp64\www\emsdemo\View\dropdown.php on line 34
+[18-Sep-2023 12:08:34 Asia/Kolkata] PHP Stack trace:
+[18-Sep-2023 12:08:34 Asia/Kolkata] PHP   1. {main}() D:\wamp64\www\emsdemo\View\dropdown.php:0
+[18-Sep-2023 12:08:34 Asia/Kolkata] PHP Warning:  Undefined variable $selected in D:\wamp64\www\emsdemo\View\dropdown.php on line 34
+[18-Sep-2023 12:08:34 Asia/Kolkata] PHP Stack trace:
+[18-Sep-2023 12:08:34 Asia/Kolkata] PHP   1. {main}() D:\wamp64\www\emsdemo\View\dropdown.php:0
+[18-Sep-2023 12:08:34 Asia/Kolkata] PHP Warning:  Undefined variable $selected in D:\wamp64\www\emsdemo\View\dropdown.php on line 34
+[18-Sep-2023 12:08:34 Asia/Kolkata] PHP Stack trace:
+[18-Sep-2023 12:08:34 Asia/Kolkata] PHP   1. {main}() D:\wamp64\www\emsdemo\View\dropdown.php:0
+[18-Sep-2023 12:08:34 Asia/Kolkata] PHP Warning:  Undefined variable $selected in D:\wamp64\www\emsdemo\View\dropdown.php on line 34
+[18-Sep-2023 12:08:34 Asia/Kolkata] PHP Stack trace:
+[18-Sep-2023 12:08:34 Asia/Kolkata] PHP   1. {main}() D:\wamp64\www\emsdemo\View\dropdown.php:0
+[18-Sep-2023 12:08:34 Asia/Kolkata] PHP Warning:  Undefined variable $selected in D:\wamp64\www\emsdemo\View\dropdown.php on line 34
+[18-Sep-2023 12:08:34 Asia/Kolkata] PHP Stack trace:
+[18-Sep-2023 12:08:34 Asia/Kolkata] PHP   1. {main}() D:\wamp64\www\emsdemo\View\dropdown.php:0
+[18-Sep-2023 12:08:34 Asia/Kolkata] PHP Warning:  Undefined variable $selected in D:\wamp64\www\emsdemo\View\dropdown.php on line 34
+[18-Sep-2023 12:08:34 Asia/Kolkata] PHP Stack trace:
+[18-Sep-2023 12:08:34 Asia/Kolkata] PHP   1. {main}() D:\wamp64\www\emsdemo\View\dropdown.php:0
+[18-Sep-2023 12:08:34 Asia/Kolkata] PHP Warning:  Undefined variable $selected in D:\wamp64\www\emsdemo\View\dropdown.php on line 34
+[18-Sep-2023 12:08:34 Asia/Kolkata] PHP Stack trace:
+[18-Sep-2023 12:08:34 Asia/Kolkata] PHP   1. {main}() D:\wamp64\www\emsdemo\View\dropdown.php:0
+[18-Sep-2023 12:08:34 Asia/Kolkata] PHP Warning:  Undefined variable $selected in D:\wamp64\www\emsdemo\View\dropdown.php on line 34
+[18-Sep-2023 12:08:35 Asia/Kolkata] PHP Stack trace:
+[18-Sep-2023 12:08:35 Asia/Kolkata] PHP   1. {main}() D:\wamp64\www\emsdemo\View\dropdown.php:0
+[18-Sep-2023 12:08:35 Asia/Kolkata] PHP Warning:  Undefined variable $selected in D:\wamp64\www\emsdemo\View\dropdown.php on line 34
+[18-Sep-2023 12:08:35 Asia/Kolkata] PHP Stack trace:
+[18-Sep-2023 12:08:35 Asia/Kolkata] PHP   1. {main}() D:\wamp64\www\emsdemo\View\dropdown.php:0
+[18-Sep-2023 12:08:35 Asia/Kolkata] PHP Warning:  Undefined variable $selected in D:\wamp64\www\emsdemo\View\dropdown.php on line 34
+[18-Sep-2023 12:08:35 Asia/Kolkata] PHP Stack trace:
+[18-Sep-2023 12:08:35 Asia/Kolkata] PHP   1. {main}() D:\wamp64\www\emsdemo\View\dropdown.php:0
+[18-Sep-2023 12:08:35 Asia/Kolkata] PHP Warning:  Undefined variable $selected in D:\wamp64\www\emsdemo\View\dropdown.php on line 34
+[18-Sep-2023 12:08:35 Asia/Kolkata] PHP Stack trace:
+[18-Sep-2023 12:08:35 Asia/Kolkata] PHP   1. {main}() D:\wamp64\www\emsdemo\View\dropdown.php:0
+[18-Sep-2023 12:08:35 Asia/Kolkata] PHP Warning:  Undefined variable $selected in D:\wamp64\www\emsdemo\View\dropdown.php on line 34
+[18-Sep-2023 12:08:35 Asia/Kolkata] PHP Stack trace:
+[18-Sep-2023 12:08:35 Asia/Kolkata] PHP   1. {main}() D:\wamp64\www\emsdemo\View\dropdown.php:0
+[18-Sep-2023 12:08:35 Asia/Kolkata] PHP Warning:  Undefined variable $selected in D:\wamp64\www\emsdemo\View\dropdown.php on line 34
+[18-Sep-2023 12:08:35 Asia/Kolkata] PHP Stack trace:
+[18-Sep-2023 12:08:35 Asia/Kolkata] PHP   1. {main}() D:\wamp64\www\emsdemo\View\dropdown.php:0
+[18-Sep-2023 12:08:35 Asia/Kolkata] PHP Warning:  Undefined variable $selected in D:\wamp64\www\emsdemo\View\dropdown.php on line 34
+[18-Sep-2023 12:08:35 Asia/Kolkata] PHP Stack trace:
+[18-Sep-2023 12:08:35 Asia/Kolkata] PHP   1. {main}() D:\wamp64\www\emsdemo\View\dropdown.php:0
+[18-Sep-2023 12:08:35 Asia/Kolkata] PHP Warning:  Undefined variable $selected in D:\wamp64\www\emsdemo\View\dropdown.php on line 34
+[18-Sep-2023 12:08:35 Asia/Kolkata] PHP Stack trace:
+[18-Sep-2023 12:08:35 Asia/Kolkata] PHP   1. {main}() D:\wamp64\www\emsdemo\View\dropdown.php:0
+[18-Sep-2023 12:08:35 Asia/Kolkata] PHP Warning:  Undefined variable $selected in D:\wamp64\www\emsdemo\View\dropdown.php on line 34
+[18-Sep-2023 12:08:35 Asia/Kolkata] PHP Stack trace:
+[18-Sep-2023 12:08:35 Asia/Kolkata] PHP   1. {main}() D:\wamp64\www\emsdemo\View\dropdown.php:0
+[18-Sep-2023 12:08:35 Asia/Kolkata] PHP Warning:  Undefined variable $selected in D:\wamp64\www\emsdemo\View\dropdown.php on line 34
+[18-Sep-2023 12:08:35 Asia/Kolkata] PHP Stack trace:
+[18-Sep-2023 12:08:35 Asia/Kolkata] PHP   1. {main}() D:\wamp64\www\emsdemo\View\dropdown.php:0
+[18-Sep-2023 12:08:35 Asia/Kolkata] PHP Warning:  Undefined variable $selected in D:\wamp64\www\emsdemo\View\dropdown.php on line 34
+[18-Sep-2023 12:08:35 Asia/Kolkata] PHP Stack trace:
+[18-Sep-2023 12:08:35 Asia/Kolkata] PHP   1. {main}() D:\wamp64\www\emsdemo\View\dropdown.php:0
+[18-Sep-2023 12:08:35 Asia/Kolkata] PHP Warning:  Undefined variable $selected in D:\wamp64\www\emsdemo\View\dropdown.php on line 34
+[18-Sep-2023 12:08:35 Asia/Kolkata] PHP Stack trace:
+[18-Sep-2023 12:08:35 Asia/Kolkata] PHP   1. {main}() D:\wamp64\www\emsdemo\View\dropdown.php:0
+[18-Sep-2023 12:08:35 Asia/Kolkata] PHP Warning:  Undefined variable $selected in D:\wamp64\www\emsdemo\View\dropdown.php on line 34
+[18-Sep-2023 12:08:35 Asia/Kolkata] PHP Stack trace:
+[18-Sep-2023 12:08:35 Asia/Kolkata] PHP   1. {main}() D:\wamp64\www\emsdemo\View\dropdown.php:0
+[18-Sep-2023 12:08:35 Asia/Kolkata] PHP Warning:  Undefined variable $selected in D:\wamp64\www\emsdemo\View\dropdown.php on line 34
+[18-Sep-2023 12:08:35 Asia/Kolkata] PHP Stack trace:
+[18-Sep-2023 12:08:35 Asia/Kolkata] PHP   1. {main}() D:\wamp64\www\emsdemo\View\dropdown.php:0
+[18-Sep-2023 12:08:35 Asia/Kolkata] PHP Warning:  Undefined variable $selected in D:\wamp64\www\emsdemo\View\dropdown.php on line 34
+[18-Sep-2023 12:08:35 Asia/Kolkata] PHP Stack trace:
+[18-Sep-2023 12:08:35 Asia/Kolkata] PHP   1. {main}() D:\wamp64\www\emsdemo\View\dropdown.php:0
+[18-Sep-2023 12:08:35 Asia/Kolkata] PHP Warning:  Undefined variable $selected in D:\wamp64\www\emsdemo\View\dropdown.php on line 34
+[18-Sep-2023 12:08:35 Asia/Kolkata] PHP Stack trace:
+[18-Sep-2023 12:08:35 Asia/Kolkata] PHP   1. {main}() D:\wamp64\www\emsdemo\View\dropdown.php:0
+[18-Sep-2023 12:08:35 Asia/Kolkata] PHP Warning:  Undefined variable $selected in D:\wamp64\www\emsdemo\View\dropdown.php on line 34
+[18-Sep-2023 12:08:35 Asia/Kolkata] PHP Stack trace:
+[18-Sep-2023 12:08:35 Asia/Kolkata] PHP   1. {main}() D:\wamp64\www\emsdemo\View\dropdown.php:0
+[18-Sep-2023 12:08:35 Asia/Kolkata] PHP Warning:  Undefined variable $selected in D:\wamp64\www\emsdemo\View\dropdown.php on line 34
+[18-Sep-2023 12:08:35 Asia/Kolkata] PHP Stack trace:
+[18-Sep-2023 12:08:35 Asia/Kolkata] PHP   1. {main}() D:\wamp64\www\emsdemo\View\dropdown.php:0
+[18-Sep-2023 12:08:35 Asia/Kolkata] PHP Warning:  Undefined variable $selected in D:\wamp64\www\emsdemo\View\dropdown.php on line 34
+[18-Sep-2023 12:08:35 Asia/Kolkata] PHP Stack trace:
+[18-Sep-2023 12:08:35 Asia/Kolkata] PHP   1. {main}() D:\wamp64\www\emsdemo\View\dropdown.php:0
+[18-Sep-2023 12:08:35 Asia/Kolkata] PHP Warning:  Undefined variable $selected in D:\wamp64\www\emsdemo\View\dropdown.php on line 34
+[18-Sep-2023 12:08:35 Asia/Kolkata] PHP Stack trace:
+[18-Sep-2023 12:08:35 Asia/Kolkata] PHP   1. {main}() D:\wamp64\www\emsdemo\View\dropdown.php:0
+[18-Sep-2023 12:08:35 Asia/Kolkata] PHP Warning:  Undefined variable $selected in D:\wamp64\www\emsdemo\View\dropdown.php on line 34
+[18-Sep-2023 12:08:35 Asia/Kolkata] PHP Stack trace:
+[18-Sep-2023 12:08:35 Asia/Kolkata] PHP   1. {main}() D:\wamp64\www\emsdemo\View\dropdown.php:0
+[18-Sep-2023 12:08:35 Asia/Kolkata] PHP Warning:  Undefined variable $selected in D:\wamp64\www\emsdemo\View\dropdown.php on line 34
+[18-Sep-2023 12:08:35 Asia/Kolkata] PHP Stack trace:
+[18-Sep-2023 12:08:35 Asia/Kolkata] PHP   1. {main}() D:\wamp64\www\emsdemo\View\dropdown.php:0
+[18-Sep-2023 12:08:35 Asia/Kolkata] PHP Warning:  Undefined variable $selected in D:\wamp64\www\emsdemo\View\dropdown.php on line 34
+[18-Sep-2023 12:08:35 Asia/Kolkata] PHP Stack trace:
+[18-Sep-2023 12:08:35 Asia/Kolkata] PHP   1. {main}() D:\wamp64\www\emsdemo\View\dropdown.php:0
+[18-Sep-2023 12:08:35 Asia/Kolkata] PHP Warning:  Undefined variable $selected in D:\wamp64\www\emsdemo\View\dropdown.php on line 34
+[18-Sep-2023 12:08:35 Asia/Kolkata] PHP Stack trace:
+[18-Sep-2023 12:08:35 Asia/Kolkata] PHP   1. {main}() D:\wamp64\www\emsdemo\View\dropdown.php:0
+[18-Sep-2023 12:08:35 Asia/Kolkata] PHP Warning:  Undefined variable $selected in D:\wamp64\www\emsdemo\View\dropdown.php on line 34
+[18-Sep-2023 12:08:35 Asia/Kolkata] PHP Stack trace:
+[18-Sep-2023 12:08:35 Asia/Kolkata] PHP   1. {main}() D:\wamp64\www\emsdemo\View\dropdown.php:0
+[18-Sep-2023 12:08:35 Asia/Kolkata] PHP Warning:  Undefined variable $selected in D:\wamp64\www\emsdemo\View\dropdown.php on line 34
+[18-Sep-2023 12:08:35 Asia/Kolkata] PHP Stack trace:
+[18-Sep-2023 12:08:35 Asia/Kolkata] PHP   1. {main}() D:\wamp64\www\emsdemo\View\dropdown.php:0
+[18-Sep-2023 12:08:35 Asia/Kolkata] PHP Warning:  Undefined variable $selected in D:\wamp64\www\emsdemo\View\dropdown.php on line 34
+[18-Sep-2023 12:08:35 Asia/Kolkata] PHP Stack trace:
+[18-Sep-2023 12:08:35 Asia/Kolkata] PHP   1. {main}() D:\wamp64\www\emsdemo\View\dropdown.php:0
+[18-Sep-2023 12:08:35 Asia/Kolkata] PHP Warning:  Undefined variable $selected in D:\wamp64\www\emsdemo\View\dropdown.php on line 34
+[18-Sep-2023 12:08:35 Asia/Kolkata] PHP Stack trace:
+[18-Sep-2023 12:08:35 Asia/Kolkata] PHP   1. {main}() D:\wamp64\www\emsdemo\View\dropdown.php:0
+[18-Sep-2023 12:08:35 Asia/Kolkata] PHP Warning:  Undefined variable $selected in D:\wamp64\www\emsdemo\View\dropdown.php on line 34
+[18-Sep-2023 12:08:35 Asia/Kolkata] PHP Stack trace:
+[18-Sep-2023 12:08:35 Asia/Kolkata] PHP   1. {main}() D:\wamp64\www\emsdemo\View\dropdown.php:0
+[18-Sep-2023 12:08:35 Asia/Kolkata] PHP Warning:  Undefined variable $selected in D:\wamp64\www\emsdemo\View\dropdown.php on line 34
+[18-Sep-2023 12:08:35 Asia/Kolkata] PHP Stack trace:
+[18-Sep-2023 12:08:35 Asia/Kolkata] PHP   1. {main}() D:\wamp64\www\emsdemo\View\dropdown.php:0
+[18-Sep-2023 12:08:35 Asia/Kolkata] PHP Warning:  Undefined variable $selected in D:\wamp64\www\emsdemo\View\dropdown.php on line 34
+[18-Sep-2023 12:08:35 Asia/Kolkata] PHP Stack trace:
+[18-Sep-2023 12:08:35 Asia/Kolkata] PHP   1. {main}() D:\wamp64\www\emsdemo\View\dropdown.php:0
+[18-Sep-2023 12:08:35 Asia/Kolkata] PHP Warning:  Undefined variable $selected in D:\wamp64\www\emsdemo\View\dropdown.php on line 34
+[18-Sep-2023 12:08:35 Asia/Kolkata] PHP Stack trace:
+[18-Sep-2023 12:08:35 Asia/Kolkata] PHP   1. {main}() D:\wamp64\www\emsdemo\View\dropdown.php:0
+[18-Sep-2023 12:08:35 Asia/Kolkata] PHP Warning:  Undefined variable $selected in D:\wamp64\www\emsdemo\View\dropdown.php on line 34
+[18-Sep-2023 12:08:35 Asia/Kolkata] PHP Stack trace:
+[18-Sep-2023 12:08:35 Asia/Kolkata] PHP   1. {main}() D:\wamp64\www\emsdemo\View\dropdown.php:0
+[18-Sep-2023 12:08:35 Asia/Kolkata] PHP Warning:  Undefined variable $selected in D:\wamp64\www\emsdemo\View\dropdown.php on line 34
+[18-Sep-2023 12:08:35 Asia/Kolkata] PHP Stack trace:
+[18-Sep-2023 12:08:35 Asia/Kolkata] PHP   1. {main}() D:\wamp64\www\emsdemo\View\dropdown.php:0
+[18-Sep-2023 12:08:35 Asia/Kolkata] PHP Warning:  Undefined variable $selected in D:\wamp64\www\emsdemo\View\dropdown.php on line 34
+[18-Sep-2023 12:08:35 Asia/Kolkata] PHP Stack trace:
+[18-Sep-2023 12:08:35 Asia/Kolkata] PHP   1. {main}() D:\wamp64\www\emsdemo\View\dropdown.php:0
+[18-Sep-2023 12:08:35 Asia/Kolkata] PHP Warning:  Undefined variable $selected in D:\wamp64\www\emsdemo\View\dropdown.php on line 34
+[18-Sep-2023 12:08:35 Asia/Kolkata] PHP Stack trace:
+[18-Sep-2023 12:08:35 Asia/Kolkata] PHP   1. {main}() D:\wamp64\www\emsdemo\View\dropdown.php:0
+[18-Sep-2023 12:08:35 Asia/Kolkata] PHP Warning:  Undefined variable $selected in D:\wamp64\www\emsdemo\View\dropdown.php on line 34
+[18-Sep-2023 12:08:35 Asia/Kolkata] PHP Stack trace:
+[18-Sep-2023 12:08:35 Asia/Kolkata] PHP   1. {main}() D:\wamp64\www\emsdemo\View\dropdown.php:0
+[18-Sep-2023 12:08:35 Asia/Kolkata] PHP Warning:  Undefined variable $selected in D:\wamp64\www\emsdemo\View\dropdown.php on line 34
+[18-Sep-2023 12:08:35 Asia/Kolkata] PHP Stack trace:
+[18-Sep-2023 12:08:35 Asia/Kolkata] PHP   1. {main}() D:\wamp64\www\emsdemo\View\dropdown.php:0
+[18-Sep-2023 12:08:35 Asia/Kolkata] PHP Warning:  Undefined variable $selected in D:\wamp64\www\emsdemo\View\dropdown.php on line 34
+[18-Sep-2023 12:08:35 Asia/Kolkata] PHP Stack trace:
+[18-Sep-2023 12:08:35 Asia/Kolkata] PHP   1. {main}() D:\wamp64\www\emsdemo\View\dropdown.php:0
+[18-Sep-2023 12:08:35 Asia/Kolkata] PHP Warning:  Undefined variable $selected in D:\wamp64\www\emsdemo\View\dropdown.php on line 34
+[18-Sep-2023 12:08:35 Asia/Kolkata] PHP Stack trace:
+[18-Sep-2023 12:08:35 Asia/Kolkata] PHP   1. {main}() D:\wamp64\www\emsdemo\View\dropdown.php:0
+[18-Sep-2023 12:08:35 Asia/Kolkata] PHP Warning:  Undefined variable $selected in D:\wamp64\www\emsdemo\View\dropdown.php on line 34
+[18-Sep-2023 12:08:35 Asia/Kolkata] PHP Stack trace:
+[18-Sep-2023 12:08:35 Asia/Kolkata] PHP   1. {main}() D:\wamp64\www\emsdemo\View\dropdown.php:0
+[18-Sep-2023 12:08:35 Asia/Kolkata] PHP Warning:  Undefined variable $selected in D:\wamp64\www\emsdemo\View\dropdown.php on line 34
+[18-Sep-2023 12:08:35 Asia/Kolkata] PHP Stack trace:
+[18-Sep-2023 12:08:35 Asia/Kolkata] PHP   1. {main}() D:\wamp64\www\emsdemo\View\dropdown.php:0
+[18-Sep-2023 12:08:35 Asia/Kolkata] PHP Warning:  Undefined variable $selected in D:\wamp64\www\emsdemo\View\dropdown.php on line 34
+[18-Sep-2023 12:08:35 Asia/Kolkata] PHP Stack trace:
+[18-Sep-2023 12:08:35 Asia/Kolkata] PHP   1. {main}() D:\wamp64\www\emsdemo\View\dropdown.php:0
+[18-Sep-2023 12:08:35 Asia/Kolkata] PHP Warning:  Undefined variable $selected in D:\wamp64\www\emsdemo\View\dropdown.php on line 34
+[18-Sep-2023 12:08:35 Asia/Kolkata] PHP Stack trace:
+[18-Sep-2023 12:08:35 Asia/Kolkata] PHP   1. {main}() D:\wamp64\www\emsdemo\View\dropdown.php:0
+[18-Sep-2023 12:08:35 Asia/Kolkata] PHP Warning:  Undefined variable $selected in D:\wamp64\www\emsdemo\View\dropdown.php on line 34
+[18-Sep-2023 12:08:35 Asia/Kolkata] PHP Stack trace:
+[18-Sep-2023 12:08:35 Asia/Kolkata] PHP   1. {main}() D:\wamp64\www\emsdemo\View\dropdown.php:0
+[18-Sep-2023 12:08:35 Asia/Kolkata] PHP Warning:  Undefined variable $selected in D:\wamp64\www\emsdemo\View\dropdown.php on line 34
+[18-Sep-2023 12:08:35 Asia/Kolkata] PHP Stack trace:
+[18-Sep-2023 12:08:35 Asia/Kolkata] PHP   1. {main}() D:\wamp64\www\emsdemo\View\dropdown.php:0
+[18-Sep-2023 12:08:35 Asia/Kolkata] PHP Warning:  Undefined variable $selected in D:\wamp64\www\emsdemo\View\dropdown.php on line 34
+[18-Sep-2023 12:08:35 Asia/Kolkata] PHP Stack trace:
+[18-Sep-2023 12:08:35 Asia/Kolkata] PHP   1. {main}() D:\wamp64\www\emsdemo\View\dropdown.php:0
+[18-Sep-2023 12:08:35 Asia/Kolkata] PHP Warning:  Undefined variable $selected in D:\wamp64\www\emsdemo\View\dropdown.php on line 34
+[18-Sep-2023 12:08:35 Asia/Kolkata] PHP Stack trace:
+[18-Sep-2023 12:08:35 Asia/Kolkata] PHP   1. {main}() D:\wamp64\www\emsdemo\View\dropdown.php:0
+[18-Sep-2023 12:08:35 Asia/Kolkata] PHP Warning:  Undefined variable $selected in D:\wamp64\www\emsdemo\View\dropdown.php on line 34
+[18-Sep-2023 12:08:35 Asia/Kolkata] PHP Stack trace:
+[18-Sep-2023 12:08:35 Asia/Kolkata] PHP   1. {main}() D:\wamp64\www\emsdemo\View\dropdown.php:0
+[18-Sep-2023 12:08:35 Asia/Kolkata] PHP Warning:  Undefined variable $selected in D:\wamp64\www\emsdemo\View\dropdown.php on line 34
+[18-Sep-2023 12:08:35 Asia/Kolkata] PHP Stack trace:
+[18-Sep-2023 12:08:35 Asia/Kolkata] PHP   1. {main}() D:\wamp64\www\emsdemo\View\dropdown.php:0
+[18-Sep-2023 12:08:35 Asia/Kolkata] PHP Warning:  Undefined variable $selected in D:\wamp64\www\emsdemo\View\dropdown.php on line 34
+[18-Sep-2023 12:08:35 Asia/Kolkata] PHP Stack trace:
+[18-Sep-2023 12:08:35 Asia/Kolkata] PHP   1. {main}() D:\wamp64\www\emsdemo\View\dropdown.php:0
+[18-Sep-2023 12:08:35 Asia/Kolkata] PHP Warning:  Undefined variable $selected in D:\wamp64\www\emsdemo\View\dropdown.php on line 34
+[18-Sep-2023 12:08:35 Asia/Kolkata] PHP Stack trace:
+[18-Sep-2023 12:08:35 Asia/Kolkata] PHP   1. {main}() D:\wamp64\www\emsdemo\View\dropdown.php:0
+[18-Sep-2023 12:08:35 Asia/Kolkata] PHP Warning:  Undefined variable $selected in D:\wamp64\www\emsdemo\View\dropdown.php on line 34
+[18-Sep-2023 12:08:35 Asia/Kolkata] PHP Stack trace:
+[18-Sep-2023 12:08:35 Asia/Kolkata] PHP   1. {main}() D:\wamp64\www\emsdemo\View\dropdown.php:0
+[18-Sep-2023 12:08:35 Asia/Kolkata] PHP Warning:  Undefined variable $selected in D:\wamp64\www\emsdemo\View\dropdown.php on line 34
+[18-Sep-2023 12:08:35 Asia/Kolkata] PHP Stack trace:
+[18-Sep-2023 12:08:35 Asia/Kolkata] PHP   1. {main}() D:\wamp64\www\emsdemo\View\dropdown.php:0
+[18-Sep-2023 12:08:35 Asia/Kolkata] PHP Warning:  Undefined variable $selected in D:\wamp64\www\emsdemo\View\dropdown.php on line 34
+[18-Sep-2023 12:08:35 Asia/Kolkata] PHP Stack trace:
+[18-Sep-2023 12:08:35 Asia/Kolkata] PHP   1. {main}() D:\wamp64\www\emsdemo\View\dropdown.php:0
+[18-Sep-2023 12:08:35 Asia/Kolkata] PHP Warning:  Undefined variable $selected in D:\wamp64\www\emsdemo\View\dropdown.php on line 34
+[18-Sep-2023 12:08:35 Asia/Kolkata] PHP Stack trace:
+[18-Sep-2023 12:08:35 Asia/Kolkata] PHP   1. {main}() D:\wamp64\www\emsdemo\View\dropdown.php:0
+[18-Sep-2023 12:08:35 Asia/Kolkata] PHP Warning:  Undefined variable $selected in D:\wamp64\www\emsdemo\View\dropdown.php on line 34
+[18-Sep-2023 12:08:35 Asia/Kolkata] PHP Stack trace:
+[18-Sep-2023 12:08:35 Asia/Kolkata] PHP   1. {main}() D:\wamp64\www\emsdemo\View\dropdown.php:0
+[18-Sep-2023 12:08:35 Asia/Kolkata] PHP Warning:  Undefined variable $selected in D:\wamp64\www\emsdemo\View\dropdown.php on line 34
+[18-Sep-2023 12:08:35 Asia/Kolkata] PHP Stack trace:
+[18-Sep-2023 12:08:35 Asia/Kolkata] PHP   1. {main}() D:\wamp64\www\emsdemo\View\dropdown.php:0
+[18-Sep-2023 12:08:35 Asia/Kolkata] PHP Warning:  Undefined variable $selected in D:\wamp64\www\emsdemo\View\dropdown.php on line 34
+[18-Sep-2023 12:08:35 Asia/Kolkata] PHP Stack trace:
+[18-Sep-2023 12:08:35 Asia/Kolkata] PHP   1. {main}() D:\wamp64\www\emsdemo\View\dropdown.php:0
+[18-Sep-2023 12:08:35 Asia/Kolkata] PHP Warning:  Undefined variable $selected in D:\wamp64\www\emsdemo\View\dropdown.php on line 34
+[18-Sep-2023 12:08:35 Asia/Kolkata] PHP Stack trace:
+[18-Sep-2023 12:08:35 Asia/Kolkata] PHP   1. {main}() D:\wamp64\www\emsdemo\View\dropdown.php:0
+[18-Sep-2023 12:08:35 Asia/Kolkata] PHP Warning:  Undefined variable $selected in D:\wamp64\www\emsdemo\View\dropdown.php on line 34
+[18-Sep-2023 12:08:35 Asia/Kolkata] PHP Stack trace:
+[18-Sep-2023 12:08:35 Asia/Kolkata] PHP   1. {main}() D:\wamp64\www\emsdemo\View\dropdown.php:0
+[18-Sep-2023 12:08:35 Asia/Kolkata] PHP Warning:  Undefined variable $selected in D:\wamp64\www\emsdemo\View\dropdown.php on line 34
+[18-Sep-2023 12:08:35 Asia/Kolkata] PHP Stack trace:
+[18-Sep-2023 12:08:35 Asia/Kolkata] PHP   1. {main}() D:\wamp64\www\emsdemo\View\dropdown.php:0
+[18-Sep-2023 12:08:35 Asia/Kolkata] PHP Warning:  Undefined variable $selected in D:\wamp64\www\emsdemo\View\dropdown.php on line 34
+[18-Sep-2023 12:08:35 Asia/Kolkata] PHP Stack trace:
+[18-Sep-2023 12:08:35 Asia/Kolkata] PHP   1. {main}() D:\wamp64\www\emsdemo\View\dropdown.php:0
+[18-Sep-2023 12:08:35 Asia/Kolkata] PHP Warning:  Undefined variable $selected in D:\wamp64\www\emsdemo\View\dropdown.php on line 34
+[18-Sep-2023 12:08:35 Asia/Kolkata] PHP Stack trace:
+[18-Sep-2023 12:08:35 Asia/Kolkata] PHP   1. {main}() D:\wamp64\www\emsdemo\View\dropdown.php:0
+[18-Sep-2023 12:08:35 Asia/Kolkata] PHP Warning:  Undefined variable $selected in D:\wamp64\www\emsdemo\View\dropdown.php on line 34
+[18-Sep-2023 12:08:35 Asia/Kolkata] PHP Stack trace:
+[18-Sep-2023 12:08:35 Asia/Kolkata] PHP   1. {main}() D:\wamp64\www\emsdemo\View\dropdown.php:0
+[18-Sep-2023 12:08:35 Asia/Kolkata] PHP Warning:  Undefined variable $selected in D:\wamp64\www\emsdemo\View\dropdown.php on line 34
+[18-Sep-2023 12:08:35 Asia/Kolkata] PHP Stack trace:
+[18-Sep-2023 12:08:35 Asia/Kolkata] PHP   1. {main}() D:\wamp64\www\emsdemo\View\dropdown.php:0
+[18-Sep-2023 12:08:35 Asia/Kolkata] PHP Warning:  Undefined variable $selected in D:\wamp64\www\emsdemo\View\dropdown.php on line 34
+[18-Sep-2023 12:08:35 Asia/Kolkata] PHP Stack trace:
+[18-Sep-2023 12:08:35 Asia/Kolkata] PHP   1. {main}() D:\wamp64\www\emsdemo\View\dropdown.php:0
+[18-Sep-2023 12:08:35 Asia/Kolkata] PHP Warning:  Undefined variable $selected in D:\wamp64\www\emsdemo\View\dropdown.php on line 34
+[18-Sep-2023 12:08:35 Asia/Kolkata] PHP Stack trace:
+[18-Sep-2023 12:08:35 Asia/Kolkata] PHP   1. {main}() D:\wamp64\www\emsdemo\View\dropdown.php:0
+[18-Sep-2023 12:08:35 Asia/Kolkata] PHP Warning:  Undefined variable $selected in D:\wamp64\www\emsdemo\View\dropdown.php on line 34
+[18-Sep-2023 12:08:35 Asia/Kolkata] PHP Stack trace:
+[18-Sep-2023 12:08:35 Asia/Kolkata] PHP   1. {main}() D:\wamp64\www\emsdemo\View\dropdown.php:0
+[18-Sep-2023 12:08:35 Asia/Kolkata] PHP Warning:  Undefined variable $selected in D:\wamp64\www\emsdemo\View\dropdown.php on line 34
+[18-Sep-2023 12:08:35 Asia/Kolkata] PHP Stack trace:
+[18-Sep-2023 12:08:35 Asia/Kolkata] PHP   1. {main}() D:\wamp64\www\emsdemo\View\dropdown.php:0
+[18-Sep-2023 12:08:35 Asia/Kolkata] PHP Warning:  Undefined variable $selected in D:\wamp64\www\emsdemo\View\dropdown.php on line 34
+[18-Sep-2023 12:08:35 Asia/Kolkata] PHP Stack trace:
+[18-Sep-2023 12:08:35 Asia/Kolkata] PHP   1. {main}() D:\wamp64\www\emsdemo\View\dropdown.php:0
+[18-Sep-2023 12:08:35 Asia/Kolkata] PHP Warning:  Undefined variable $selected in D:\wamp64\www\emsdemo\View\dropdown.php on line 34
+[18-Sep-2023 12:08:35 Asia/Kolkata] PHP Stack trace:
+[18-Sep-2023 12:08:35 Asia/Kolkata] PHP   1. {main}() D:\wamp64\www\emsdemo\View\dropdown.php:0
+[18-Sep-2023 12:08:35 Asia/Kolkata] PHP Warning:  Undefined variable $selected in D:\wamp64\www\emsdemo\View\dropdown.php on line 34
+[18-Sep-2023 12:08:35 Asia/Kolkata] PHP Stack trace:
+[18-Sep-2023 12:08:35 Asia/Kolkata] PHP   1. {main}() D:\wamp64\www\emsdemo\View\dropdown.php:0
+[18-Sep-2023 12:08:35 Asia/Kolkata] PHP Warning:  Undefined variable $selected in D:\wamp64\www\emsdemo\View\dropdown.php on line 34
+[18-Sep-2023 12:08:35 Asia/Kolkata] PHP Stack trace:
+[18-Sep-2023 12:08:35 Asia/Kolkata] PHP   1. {main}() D:\wamp64\www\emsdemo\View\dropdown.php:0
+[18-Sep-2023 12:08:35 Asia/Kolkata] PHP Warning:  Undefined variable $selected in D:\wamp64\www\emsdemo\View\dropdown.php on line 34
+[18-Sep-2023 12:08:35 Asia/Kolkata] PHP Stack trace:
+[18-Sep-2023 12:08:35 Asia/Kolkata] PHP   1. {main}() D:\wamp64\www\emsdemo\View\dropdown.php:0
+[18-Sep-2023 12:08:35 Asia/Kolkata] PHP Warning:  Undefined variable $selected in D:\wamp64\www\emsdemo\View\dropdown.php on line 34
+[18-Sep-2023 12:08:35 Asia/Kolkata] PHP Stack trace:
+[18-Sep-2023 12:08:35 Asia/Kolkata] PHP   1. {main}() D:\wamp64\www\emsdemo\View\dropdown.php:0
+[18-Sep-2023 12:08:35 Asia/Kolkata] PHP Warning:  Undefined variable $selected in D:\wamp64\www\emsdemo\View\dropdown.php on line 34
+[18-Sep-2023 12:08:35 Asia/Kolkata] PHP Stack trace:
+[18-Sep-2023 12:08:35 Asia/Kolkata] PHP   1. {main}() D:\wamp64\www\emsdemo\View\dropdown.php:0
+[18-Sep-2023 12:08:35 Asia/Kolkata] PHP Warning:  Undefined variable $selected in D:\wamp64\www\emsdemo\View\dropdown.php on line 34
+[18-Sep-2023 12:08:35 Asia/Kolkata] PHP Stack trace:
+[18-Sep-2023 12:08:35 Asia/Kolkata] PHP   1. {main}() D:\wamp64\www\emsdemo\View\dropdown.php:0
+[18-Sep-2023 12:08:35 Asia/Kolkata] PHP Warning:  Undefined variable $selected in D:\wamp64\www\emsdemo\View\dropdown.php on line 34
+[18-Sep-2023 12:08:35 Asia/Kolkata] PHP Stack trace:
+[18-Sep-2023 12:08:35 Asia/Kolkata] PHP   1. {main}() D:\wamp64\www\emsdemo\View\dropdown.php:0
+[18-Sep-2023 12:08:35 Asia/Kolkata] PHP Warning:  Undefined variable $selected in D:\wamp64\www\emsdemo\View\dropdown.php on line 34
+[18-Sep-2023 12:08:35 Asia/Kolkata] PHP Stack trace:
+[18-Sep-2023 12:08:35 Asia/Kolkata] PHP   1. {main}() D:\wamp64\www\emsdemo\View\dropdown.php:0
+[18-Sep-2023 12:08:35 Asia/Kolkata] PHP Warning:  Undefined variable $selected in D:\wamp64\www\emsdemo\View\dropdown.php on line 34
+[18-Sep-2023 12:08:35 Asia/Kolkata] PHP Stack trace:
+[18-Sep-2023 12:08:35 Asia/Kolkata] PHP   1. {main}() D:\wamp64\www\emsdemo\View\dropdown.php:0
+[18-Sep-2023 12:08:35 Asia/Kolkata] PHP Warning:  Undefined variable $selected in D:\wamp64\www\emsdemo\View\dropdown.php on line 34
+[18-Sep-2023 12:08:35 Asia/Kolkata] PHP Stack trace:
+[18-Sep-2023 12:08:35 Asia/Kolkata] PHP   1. {main}() D:\wamp64\www\emsdemo\View\dropdown.php:0
+[18-Sep-2023 12:08:35 Asia/Kolkata] PHP Warning:  Undefined variable $selected in D:\wamp64\www\emsdemo\View\dropdown.php on line 34
+[18-Sep-2023 12:08:35 Asia/Kolkata] PHP Stack trace:
+[18-Sep-2023 12:08:35 Asia/Kolkata] PHP   1. {main}() D:\wamp64\www\emsdemo\View\dropdown.php:0
+[18-Sep-2023 12:08:35 Asia/Kolkata] PHP Warning:  Undefined variable $selected in D:\wamp64\www\emsdemo\View\dropdown.php on line 34
+[18-Sep-2023 12:08:35 Asia/Kolkata] PHP Stack trace:
+[18-Sep-2023 12:08:35 Asia/Kolkata] PHP   1. {main}() D:\wamp64\www\emsdemo\View\dropdown.php:0
+[18-Sep-2023 12:08:35 Asia/Kolkata] PHP Warning:  Undefined variable $selected in D:\wamp64\www\emsdemo\View\dropdown.php on line 34
+[18-Sep-2023 12:08:35 Asia/Kolkata] PHP Stack trace:
+[18-Sep-2023 12:08:35 Asia/Kolkata] PHP   1. {main}() D:\wamp64\www\emsdemo\View\dropdown.php:0
+[18-Sep-2023 12:08:35 Asia/Kolkata] PHP Warning:  Undefined variable $selected in D:\wamp64\www\emsdemo\View\dropdown.php on line 34
+[18-Sep-2023 12:08:35 Asia/Kolkata] PHP Stack trace:
+[18-Sep-2023 12:08:35 Asia/Kolkata] PHP   1. {main}() D:\wamp64\www\emsdemo\View\dropdown.php:0
+[18-Sep-2023 12:08:35 Asia/Kolkata] PHP Warning:  Undefined variable $selected in D:\wamp64\www\emsdemo\View\dropdown.php on line 34
+[18-Sep-2023 12:08:35 Asia/Kolkata] PHP Stack trace:
+[18-Sep-2023 12:08:35 Asia/Kolkata] PHP   1. {main}() D:\wamp64\www\emsdemo\View\dropdown.php:0
+[18-Sep-2023 12:08:35 Asia/Kolkata] PHP Warning:  Undefined variable $selected in D:\wamp64\www\emsdemo\View\dropdown.php on line 34
+[18-Sep-2023 12:08:35 Asia/Kolkata] PHP Stack trace:
+[18-Sep-2023 12:08:35 Asia/Kolkata] PHP   1. {main}() D:\wamp64\www\emsdemo\View\dropdown.php:0
+[18-Sep-2023 12:08:35 Asia/Kolkata] PHP Warning:  Undefined variable $selected in D:\wamp64\www\emsdemo\View\dropdown.php on line 34
+[18-Sep-2023 12:08:35 Asia/Kolkata] PHP Stack trace:
+[18-Sep-2023 12:08:35 Asia/Kolkata] PHP   1. {main}() D:\wamp64\www\emsdemo\View\dropdown.php:0
+[18-Sep-2023 12:08:35 Asia/Kolkata] PHP Warning:  Undefined variable $selected in D:\wamp64\www\emsdemo\View\dropdown.php on line 34
+[18-Sep-2023 12:08:35 Asia/Kolkata] PHP Stack trace:
+[18-Sep-2023 12:08:35 Asia/Kolkata] PHP   1. {main}() D:\wamp64\www\emsdemo\View\dropdown.php:0
+[18-Sep-2023 12:08:35 Asia/Kolkata] PHP Warning:  Undefined variable $selected in D:\wamp64\www\emsdemo\View\dropdown.php on line 34
+[18-Sep-2023 12:08:35 Asia/Kolkata] PHP Stack trace:
+[18-Sep-2023 12:08:35 Asia/Kolkata] PHP   1. {main}() D:\wamp64\www\emsdemo\View\dropdown.php:0
+[18-Sep-2023 12:08:35 Asia/Kolkata] PHP Warning:  Undefined variable $selected in D:\wamp64\www\emsdemo\View\dropdown.php on line 34
+[18-Sep-2023 12:08:35 Asia/Kolkata] PHP Stack trace:
+[18-Sep-2023 12:08:35 Asia/Kolkata] PHP   1. {main}() D:\wamp64\www\emsdemo\View\dropdown.php:0
+[18-Sep-2023 12:08:35 Asia/Kolkata] PHP Warning:  Undefined variable $selected in D:\wamp64\www\emsdemo\View\dropdown.php on line 34
+[18-Sep-2023 12:08:35 Asia/Kolkata] PHP Stack trace:
+[18-Sep-2023 12:08:35 Asia/Kolkata] PHP   1. {main}() D:\wamp64\www\emsdemo\View\dropdown.php:0
+[18-Sep-2023 12:08:35 Asia/Kolkata] PHP Warning:  Undefined variable $selected in D:\wamp64\www\emsdemo\View\dropdown.php on line 34
+[18-Sep-2023 12:08:35 Asia/Kolkata] PHP Stack trace:
+[18-Sep-2023 12:08:35 Asia/Kolkata] PHP   1. {main}() D:\wamp64\www\emsdemo\View\dropdown.php:0
+[18-Sep-2023 12:08:35 Asia/Kolkata] PHP Warning:  Undefined variable $selected in D:\wamp64\www\emsdemo\View\dropdown.php on line 34
+[18-Sep-2023 12:08:35 Asia/Kolkata] PHP Stack trace:
+[18-Sep-2023 12:08:35 Asia/Kolkata] PHP   1. {main}() D:\wamp64\www\emsdemo\View\dropdown.php:0
+[18-Sep-2023 12:08:35 Asia/Kolkata] PHP Warning:  Undefined variable $selected in D:\wamp64\www\emsdemo\View\dropdown.php on line 34
+[18-Sep-2023 12:08:35 Asia/Kolkata] PHP Stack trace:
+[18-Sep-2023 12:08:35 Asia/Kolkata] PHP   1. {main}() D:\wamp64\www\emsdemo\View\dropdown.php:0
+[18-Sep-2023 12:08:35 Asia/Kolkata] PHP Warning:  Undefined variable $selected in D:\wamp64\www\emsdemo\View\dropdown.php on line 34
+[18-Sep-2023 12:08:35 Asia/Kolkata] PHP Stack trace:
+[18-Sep-2023 12:08:35 Asia/Kolkata] PHP   1. {main}() D:\wamp64\www\emsdemo\View\dropdown.php:0
+[18-Sep-2023 12:08:35 Asia/Kolkata] PHP Warning:  Undefined variable $selected in D:\wamp64\www\emsdemo\View\dropdown.php on line 34
+[18-Sep-2023 12:08:35 Asia/Kolkata] PHP Stack trace:
+[18-Sep-2023 12:08:35 Asia/Kolkata] PHP   1. {main}() D:\wamp64\www\emsdemo\View\dropdown.php:0
+[18-Sep-2023 12:08:35 Asia/Kolkata] PHP Warning:  Undefined variable $selected in D:\wamp64\www\emsdemo\View\dropdown.php on line 34
+[18-Sep-2023 12:08:35 Asia/Kolkata] PHP Stack trace:
+[18-Sep-2023 12:08:35 Asia/Kolkata] PHP   1. {main}() D:\wamp64\www\emsdemo\View\dropdown.php:0
+[18-Sep-2023 12:08:35 Asia/Kolkata] PHP Warning:  Undefined variable $selected in D:\wamp64\www\emsdemo\View\dropdown.php on line 34
+[18-Sep-2023 12:08:35 Asia/Kolkata] PHP Stack trace:
+[18-Sep-2023 12:08:35 Asia/Kolkata] PHP   1. {main}() D:\wamp64\www\emsdemo\View\dropdown.php:0
+[18-Sep-2023 12:08:35 Asia/Kolkata] PHP Warning:  Undefined variable $selected in D:\wamp64\www\emsdemo\View\dropdown.php on line 34
+[18-Sep-2023 12:08:35 Asia/Kolkata] PHP Stack trace:
+[18-Sep-2023 12:08:35 Asia/Kolkata] PHP   1. {main}() D:\wamp64\www\emsdemo\View\dropdown.php:0
+[18-Sep-2023 12:08:35 Asia/Kolkata] PHP Warning:  Undefined variable $selected in D:\wamp64\www\emsdemo\View\dropdown.php on line 34
+[18-Sep-2023 12:08:35 Asia/Kolkata] PHP Stack trace:
+[18-Sep-2023 12:08:35 Asia/Kolkata] PHP   1. {main}() D:\wamp64\www\emsdemo\View\dropdown.php:0
+[18-Sep-2023 12:08:35 Asia/Kolkata] PHP Warning:  Undefined variable $selected in D:\wamp64\www\emsdemo\View\dropdown.php on line 34
+[18-Sep-2023 12:08:35 Asia/Kolkata] PHP Stack trace:
+[18-Sep-2023 12:08:35 Asia/Kolkata] PHP   1. {main}() D:\wamp64\www\emsdemo\View\dropdown.php:0
+[18-Sep-2023 12:08:35 Asia/Kolkata] PHP Warning:  Undefined variable $selected in D:\wamp64\www\emsdemo\View\dropdown.php on line 34
+[18-Sep-2023 12:08:35 Asia/Kolkata] PHP Stack trace:
+[18-Sep-2023 12:08:35 Asia/Kolkata] PHP   1. {main}() D:\wamp64\www\emsdemo\View\dropdown.php:0
+[18-Sep-2023 12:08:35 Asia/Kolkata] PHP Warning:  Undefined variable $selected in D:\wamp64\www\emsdemo\View\dropdown.php on line 34
+[18-Sep-2023 12:08:35 Asia/Kolkata] PHP Stack trace:
+[18-Sep-2023 12:08:35 Asia/Kolkata] PHP   1. {main}() D:\wamp64\www\emsdemo\View\dropdown.php:0
+[18-Sep-2023 12:08:35 Asia/Kolkata] PHP Warning:  Undefined variable $selected in D:\wamp64\www\emsdemo\View\dropdown.php on line 34
+[18-Sep-2023 12:08:35 Asia/Kolkata] PHP Stack trace:
+[18-Sep-2023 12:08:35 Asia/Kolkata] PHP   1. {main}() D:\wamp64\www\emsdemo\View\dropdown.php:0
+[18-Sep-2023 12:08:35 Asia/Kolkata] PHP Warning:  Undefined variable $selected in D:\wamp64\www\emsdemo\View\dropdown.php on line 34
+[18-Sep-2023 12:08:35 Asia/Kolkata] PHP Stack trace:
+[18-Sep-2023 12:08:35 Asia/Kolkata] PHP   1. {main}() D:\wamp64\www\emsdemo\View\dropdown.php:0
+[18-Sep-2023 12:08:35 Asia/Kolkata] PHP Warning:  Undefined variable $selected in D:\wamp64\www\emsdemo\View\dropdown.php on line 34
+[18-Sep-2023 12:08:35 Asia/Kolkata] PHP Stack trace:
+[18-Sep-2023 12:08:35 Asia/Kolkata] PHP   1. {main}() D:\wamp64\www\emsdemo\View\dropdown.php:0
+[18-Sep-2023 12:08:35 Asia/Kolkata] PHP Warning:  Undefined variable $selected in D:\wamp64\www\emsdemo\View\dropdown.php on line 34
+[18-Sep-2023 12:08:35 Asia/Kolkata] PHP Stack trace:
+[18-Sep-2023 12:08:35 Asia/Kolkata] PHP   1. {main}() D:\wamp64\www\emsdemo\View\dropdown.php:0
+[18-Sep-2023 12:08:35 Asia/Kolkata] PHP Warning:  Undefined variable $selected in D:\wamp64\www\emsdemo\View\dropdown.php on line 34
+[18-Sep-2023 12:08:35 Asia/Kolkata] PHP Stack trace:
+[18-Sep-2023 12:08:35 Asia/Kolkata] PHP   1. {main}() D:\wamp64\www\emsdemo\View\dropdown.php:0
+[18-Sep-2023 12:08:35 Asia/Kolkata] PHP Warning:  Undefined variable $selected in D:\wamp64\www\emsdemo\View\dropdown.php on line 34
+[18-Sep-2023 12:08:35 Asia/Kolkata] PHP Stack trace:
+[18-Sep-2023 12:08:35 Asia/Kolkata] PHP   1. {main}() D:\wamp64\www\emsdemo\View\dropdown.php:0
+[18-Sep-2023 12:08:35 Asia/Kolkata] PHP Warning:  Undefined variable $selected in D:\wamp64\www\emsdemo\View\dropdown.php on line 34
+[18-Sep-2023 12:08:35 Asia/Kolkata] PHP Stack trace:
+[18-Sep-2023 12:08:35 Asia/Kolkata] PHP   1. {main}() D:\wamp64\www\emsdemo\View\dropdown.php:0
+[18-Sep-2023 12:08:35 Asia/Kolkata] PHP Warning:  Undefined variable $selected in D:\wamp64\www\emsdemo\View\dropdown.php on line 34
+[18-Sep-2023 12:08:35 Asia/Kolkata] PHP Stack trace:
+[18-Sep-2023 12:08:35 Asia/Kolkata] PHP   1. {main}() D:\wamp64\www\emsdemo\View\dropdown.php:0
+[18-Sep-2023 12:08:35 Asia/Kolkata] PHP Warning:  Undefined variable $selected in D:\wamp64\www\emsdemo\View\dropdown.php on line 34
+[18-Sep-2023 12:08:35 Asia/Kolkata] PHP Stack trace:
+[18-Sep-2023 12:08:35 Asia/Kolkata] PHP   1. {main}() D:\wamp64\www\emsdemo\View\dropdown.php:0
+[18-Sep-2023 12:08:35 Asia/Kolkata] PHP Warning:  Undefined variable $selected in D:\wamp64\www\emsdemo\View\dropdown.php on line 34
+[18-Sep-2023 12:08:35 Asia/Kolkata] PHP Stack trace:
+[18-Sep-2023 12:08:35 Asia/Kolkata] PHP   1. {main}() D:\wamp64\www\emsdemo\View\dropdown.php:0
+[18-Sep-2023 12:08:35 Asia/Kolkata] PHP Warning:  Undefined variable $selected in D:\wamp64\www\emsdemo\View\dropdown.php on line 34
+[18-Sep-2023 12:08:35 Asia/Kolkata] PHP Stack trace:
+[18-Sep-2023 12:08:35 Asia/Kolkata] PHP   1. {main}() D:\wamp64\www\emsdemo\View\dropdown.php:0
+[18-Sep-2023 12:08:35 Asia/Kolkata] PHP Warning:  Undefined variable $selected in D:\wamp64\www\emsdemo\View\dropdown.php on line 34
+[18-Sep-2023 12:08:35 Asia/Kolkata] PHP Stack trace:
+[18-Sep-2023 12:08:35 Asia/Kolkata] PHP   1. {main}() D:\wamp64\www\emsdemo\View\dropdown.php:0
+[18-Sep-2023 12:08:35 Asia/Kolkata] PHP Warning:  Undefined variable $selected in D:\wamp64\www\emsdemo\View\dropdown.php on line 34
+[18-Sep-2023 12:08:35 Asia/Kolkata] PHP Stack trace:
+[18-Sep-2023 12:08:35 Asia/Kolkata] PHP   1. {main}() D:\wamp64\www\emsdemo\View\dropdown.php:0
+[18-Sep-2023 12:08:35 Asia/Kolkata] PHP Warning:  Undefined variable $selected in D:\wamp64\www\emsdemo\View\dropdown.php on line 34
+[18-Sep-2023 12:08:35 Asia/Kolkata] PHP Stack trace:
+[18-Sep-2023 12:08:35 Asia/Kolkata] PHP   1. {main}() D:\wamp64\www\emsdemo\View\dropdown.php:0
+[18-Sep-2023 12:08:35 Asia/Kolkata] PHP Warning:  Undefined variable $selected in D:\wamp64\www\emsdemo\View\dropdown.php on line 34
+[18-Sep-2023 12:08:35 Asia/Kolkata] PHP Stack trace:
+[18-Sep-2023 12:08:35 Asia/Kolkata] PHP   1. {main}() D:\wamp64\www\emsdemo\View\dropdown.php:0
+[18-Sep-2023 12:08:35 Asia/Kolkata] PHP Warning:  Undefined variable $selected in D:\wamp64\www\emsdemo\View\dropdown.php on line 34
+[18-Sep-2023 12:08:35 Asia/Kolkata] PHP Stack trace:
+[18-Sep-2023 12:08:35 Asia/Kolkata] PHP   1. {main}() D:\wamp64\www\emsdemo\View\dropdown.php:0
+[18-Sep-2023 12:08:35 Asia/Kolkata] PHP Warning:  Undefined variable $selected in D:\wamp64\www\emsdemo\View\dropdown.php on line 34
+[18-Sep-2023 12:08:35 Asia/Kolkata] PHP Stack trace:
+[18-Sep-2023 12:08:35 Asia/Kolkata] PHP   1. {main}() D:\wamp64\www\emsdemo\View\dropdown.php:0
+[18-Sep-2023 12:08:35 Asia/Kolkata] PHP Warning:  Undefined variable $selected in D:\wamp64\www\emsdemo\View\dropdown.php on line 34
+[18-Sep-2023 12:08:35 Asia/Kolkata] PHP Stack trace:
+[18-Sep-2023 12:08:35 Asia/Kolkata] PHP   1. {main}() D:\wamp64\www\emsdemo\View\dropdown.php:0
+[18-Sep-2023 12:08:35 Asia/Kolkata] PHP Warning:  Undefined variable $selected in D:\wamp64\www\emsdemo\View\dropdown.php on line 34
+[18-Sep-2023 12:08:35 Asia/Kolkata] PHP Stack trace:
+[18-Sep-2023 12:08:35 Asia/Kolkata] PHP   1. {main}() D:\wamp64\www\emsdemo\View\dropdown.php:0
+[18-Sep-2023 12:08:35 Asia/Kolkata] PHP Warning:  Undefined variable $selected in D:\wamp64\www\emsdemo\View\dropdown.php on line 34
+[18-Sep-2023 12:08:35 Asia/Kolkata] PHP Stack trace:
+[18-Sep-2023 12:08:35 Asia/Kolkata] PHP   1. {main}() D:\wamp64\www\emsdemo\View\dropdown.php:0
+[18-Sep-2023 12:08:35 Asia/Kolkata] PHP Warning:  Undefined variable $selected in D:\wamp64\www\emsdemo\View\dropdown.php on line 34
+[18-Sep-2023 12:08:35 Asia/Kolkata] PHP Stack trace:
+[18-Sep-2023 12:08:35 Asia/Kolkata] PHP   1. {main}() D:\wamp64\www\emsdemo\View\dropdown.php:0
+[18-Sep-2023 12:08:35 Asia/Kolkata] PHP Warning:  Undefined variable $selected in D:\wamp64\www\emsdemo\View\dropdown.php on line 34
+[18-Sep-2023 12:08:35 Asia/Kolkata] PHP Stack trace:
+[18-Sep-2023 12:08:35 Asia/Kolkata] PHP   1. {main}() D:\wamp64\www\emsdemo\View\dropdown.php:0
+[18-Sep-2023 12:08:35 Asia/Kolkata] PHP Warning:  Undefined variable $selected in D:\wamp64\www\emsdemo\View\dropdown.php on line 34
+[18-Sep-2023 12:08:35 Asia/Kolkata] PHP Stack trace:
+[18-Sep-2023 12:08:35 Asia/Kolkata] PHP   1. {main}() D:\wamp64\www\emsdemo\View\dropdown.php:0
+[18-Sep-2023 12:08:35 Asia/Kolkata] PHP Warning:  Undefined variable $selected in D:\wamp64\www\emsdemo\View\dropdown.php on line 34
+[18-Sep-2023 12:08:35 Asia/Kolkata] PHP Stack trace:
+[18-Sep-2023 12:08:35 Asia/Kolkata] PHP   1. {main}() D:\wamp64\www\emsdemo\View\dropdown.php:0
+[18-Sep-2023 12:08:35 Asia/Kolkata] PHP Warning:  Undefined variable $selected in D:\wamp64\www\emsdemo\View\dropdown.php on line 34
+[18-Sep-2023 12:08:35 Asia/Kolkata] PHP Stack trace:
+[18-Sep-2023 12:08:35 Asia/Kolkata] PHP   1. {main}() D:\wamp64\www\emsdemo\View\dropdown.php:0
+[18-Sep-2023 12:08:35 Asia/Kolkata] PHP Warning:  Undefined variable $selected in D:\wamp64\www\emsdemo\View\dropdown.php on line 34
+[18-Sep-2023 12:08:35 Asia/Kolkata] PHP Stack trace:
+[18-Sep-2023 12:08:35 Asia/Kolkata] PHP   1. {main}() D:\wamp64\www\emsdemo\View\dropdown.php:0
+[18-Sep-2023 12:08:35 Asia/Kolkata] PHP Warning:  Undefined variable $selected in D:\wamp64\www\emsdemo\View\dropdown.php on line 34
+[18-Sep-2023 12:08:35 Asia/Kolkata] PHP Stack trace:
+[18-Sep-2023 12:08:35 Asia/Kolkata] PHP   1. {main}() D:\wamp64\www\emsdemo\View\dropdown.php:0
+[18-Sep-2023 12:08:35 Asia/Kolkata] PHP Warning:  Undefined variable $selected in D:\wamp64\www\emsdemo\View\dropdown.php on line 34
+[18-Sep-2023 12:08:35 Asia/Kolkata] PHP Stack trace:
+[18-Sep-2023 12:08:35 Asia/Kolkata] PHP   1. {main}() D:\wamp64\www\emsdemo\View\dropdown.php:0
+[18-Sep-2023 12:08:35 Asia/Kolkata] PHP Warning:  Undefined variable $selected in D:\wamp64\www\emsdemo\View\dropdown.php on line 34
+[18-Sep-2023 12:08:35 Asia/Kolkata] PHP Stack trace:
+[18-Sep-2023 12:08:35 Asia/Kolkata] PHP   1. {main}() D:\wamp64\www\emsdemo\View\dropdown.php:0
+[18-Sep-2023 12:08:35 Asia/Kolkata] PHP Warning:  Undefined variable $selected in D:\wamp64\www\emsdemo\View\dropdown.php on line 34
+[18-Sep-2023 12:08:35 Asia/Kolkata] PHP Stack trace:
+[18-Sep-2023 12:08:35 Asia/Kolkata] PHP   1. {main}() D:\wamp64\www\emsdemo\View\dropdown.php:0
+[18-Sep-2023 12:08:35 Asia/Kolkata] PHP Warning:  Undefined variable $selected in D:\wamp64\www\emsdemo\View\dropdown.php on line 34
+[18-Sep-2023 12:08:35 Asia/Kolkata] PHP Stack trace:
+[18-Sep-2023 12:08:35 Asia/Kolkata] PHP   1. {main}() D:\wamp64\www\emsdemo\View\dropdown.php:0
+[18-Sep-2023 12:08:35 Asia/Kolkata] PHP Warning:  Undefined variable $selected in D:\wamp64\www\emsdemo\View\dropdown.php on line 34
+[18-Sep-2023 12:08:35 Asia/Kolkata] PHP Stack trace:
+[18-Sep-2023 12:08:35 Asia/Kolkata] PHP   1. {main}() D:\wamp64\www\emsdemo\View\dropdown.php:0
+[18-Sep-2023 12:08:35 Asia/Kolkata] PHP Warning:  Undefined variable $selected in D:\wamp64\www\emsdemo\View\dropdown.php on line 34
+[18-Sep-2023 12:08:35 Asia/Kolkata] PHP Stack trace:
+[18-Sep-2023 12:08:35 Asia/Kolkata] PHP   1. {main}() D:\wamp64\www\emsdemo\View\dropdown.php:0
+[18-Sep-2023 12:08:35 Asia/Kolkata] PHP Warning:  Undefined variable $selected in D:\wamp64\www\emsdemo\View\dropdown.php on line 34
+[18-Sep-2023 12:08:35 Asia/Kolkata] PHP Stack trace:
+[18-Sep-2023 12:08:35 Asia/Kolkata] PHP   1. {main}() D:\wamp64\www\emsdemo\View\dropdown.php:0
+[18-Sep-2023 12:08:35 Asia/Kolkata] PHP Warning:  Undefined variable $selected in D:\wamp64\www\emsdemo\View\dropdown.php on line 34
+[18-Sep-2023 12:08:35 Asia/Kolkata] PHP Stack trace:
+[18-Sep-2023 12:08:35 Asia/Kolkata] PHP   1. {main}() D:\wamp64\www\emsdemo\View\dropdown.php:0
+[18-Sep-2023 12:08:35 Asia/Kolkata] PHP Warning:  Undefined variable $selected in D:\wamp64\www\emsdemo\View\dropdown.php on line 34
+[18-Sep-2023 12:08:35 Asia/Kolkata] PHP Stack trace:
+[18-Sep-2023 12:08:35 Asia/Kolkata] PHP   1. {main}() D:\wamp64\www\emsdemo\View\dropdown.php:0
+[18-Sep-2023 12:08:35 Asia/Kolkata] PHP Warning:  Undefined variable $selected in D:\wamp64\www\emsdemo\View\dropdown.php on line 34
+[18-Sep-2023 12:08:35 Asia/Kolkata] PHP Stack trace:
+[18-Sep-2023 12:08:35 Asia/Kolkata] PHP   1. {main}() D:\wamp64\www\emsdemo\View\dropdown.php:0
+[18-Sep-2023 12:08:35 Asia/Kolkata] PHP Warning:  Undefined variable $selected in D:\wamp64\www\emsdemo\View\dropdown.php on line 34
+[18-Sep-2023 12:08:35 Asia/Kolkata] PHP Stack trace:
+[18-Sep-2023 12:08:35 Asia/Kolkata] PHP   1. {main}() D:\wamp64\www\emsdemo\View\dropdown.php:0
+[18-Sep-2023 12:08:35 Asia/Kolkata] PHP Warning:  Undefined variable $selected in D:\wamp64\www\emsdemo\View\dropdown.php on line 34
+[18-Sep-2023 12:08:35 Asia/Kolkata] PHP Stack trace:
+[18-Sep-2023 12:08:35 Asia/Kolkata] PHP   1. {main}() D:\wamp64\www\emsdemo\View\dropdown.php:0
+[18-Sep-2023 12:08:35 Asia/Kolkata] PHP Warning:  Undefined variable $selected in D:\wamp64\www\emsdemo\View\dropdown.php on line 34
+[18-Sep-2023 12:08:35 Asia/Kolkata] PHP Stack trace:
+[18-Sep-2023 12:08:35 Asia/Kolkata] PHP   1. {main}() D:\wamp64\www\emsdemo\View\dropdown.php:0
+[18-Sep-2023 12:08:35 Asia/Kolkata] PHP Warning:  Undefined variable $selected in D:\wamp64\www\emsdemo\View\dropdown.php on line 34
+[18-Sep-2023 12:08:35 Asia/Kolkata] PHP Stack trace:
+[18-Sep-2023 12:08:35 Asia/Kolkata] PHP   1. {main}() D:\wamp64\www\emsdemo\View\dropdown.php:0
+[18-Sep-2023 12:08:35 Asia/Kolkata] PHP Warning:  Undefined variable $selected in D:\wamp64\www\emsdemo\View\dropdown.php on line 34
+[18-Sep-2023 12:08:35 Asia/Kolkata] PHP Stack trace:
+[18-Sep-2023 12:08:35 Asia/Kolkata] PHP   1. {main}() D:\wamp64\www\emsdemo\View\dropdown.php:0
+[18-Sep-2023 12:08:35 Asia/Kolkata] PHP Warning:  Undefined variable $selected in D:\wamp64\www\emsdemo\View\dropdown.php on line 34
+[18-Sep-2023 12:08:35 Asia/Kolkata] PHP Stack trace:
+[18-Sep-2023 12:08:35 Asia/Kolkata] PHP   1. {main}() D:\wamp64\www\emsdemo\View\dropdown.php:0
+[18-Sep-2023 12:08:35 Asia/Kolkata] PHP Warning:  Undefined variable $selected in D:\wamp64\www\emsdemo\View\dropdown.php on line 34
+[18-Sep-2023 12:08:35 Asia/Kolkata] PHP Stack trace:
+[18-Sep-2023 12:08:35 Asia/Kolkata] PHP   1. {main}() D:\wamp64\www\emsdemo\View\dropdown.php:0
+[18-Sep-2023 12:08:35 Asia/Kolkata] PHP Warning:  Undefined variable $selected in D:\wamp64\www\emsdemo\View\dropdown.php on line 34
+[18-Sep-2023 12:08:35 Asia/Kolkata] PHP Stack trace:
+[18-Sep-2023 12:08:35 Asia/Kolkata] PHP   1. {main}() D:\wamp64\www\emsdemo\View\dropdown.php:0
+[18-Sep-2023 12:08:35 Asia/Kolkata] PHP Warning:  Undefined variable $selected in D:\wamp64\www\emsdemo\View\dropdown.php on line 34
+[18-Sep-2023 12:08:35 Asia/Kolkata] PHP Stack trace:
+[18-Sep-2023 12:08:35 Asia/Kolkata] PHP   1. {main}() D:\wamp64\www\emsdemo\View\dropdown.php:0
+[18-Sep-2023 12:08:35 Asia/Kolkata] PHP Warning:  Undefined variable $selected in D:\wamp64\www\emsdemo\View\dropdown.php on line 34
+[18-Sep-2023 12:08:35 Asia/Kolkata] PHP Stack trace:
+[18-Sep-2023 12:08:35 Asia/Kolkata] PHP   1. {main}() D:\wamp64\www\emsdemo\View\dropdown.php:0
+[18-Sep-2023 12:08:35 Asia/Kolkata] PHP Warning:  Undefined variable $selected in D:\wamp64\www\emsdemo\View\dropdown.php on line 34
+[18-Sep-2023 12:08:35 Asia/Kolkata] PHP Stack trace:
+[18-Sep-2023 12:08:35 Asia/Kolkata] PHP   1. {main}() D:\wamp64\www\emsdemo\View\dropdown.php:0
+[18-Sep-2023 12:08:35 Asia/Kolkata] PHP Warning:  Undefined variable $selected in D:\wamp64\www\emsdemo\View\dropdown.php on line 34
+[18-Sep-2023 12:08:35 Asia/Kolkata] PHP Stack trace:
+[18-Sep-2023 12:08:35 Asia/Kolkata] PHP   1. {main}() D:\wamp64\www\emsdemo\View\dropdown.php:0
+[18-Sep-2023 12:08:35 Asia/Kolkata] PHP Warning:  Undefined variable $selected in D:\wamp64\www\emsdemo\View\dropdown.php on line 34
+[18-Sep-2023 12:08:35 Asia/Kolkata] PHP Stack trace:
+[18-Sep-2023 12:08:35 Asia/Kolkata] PHP   1. {main}() D:\wamp64\www\emsdemo\View\dropdown.php:0
+[18-Sep-2023 12:08:35 Asia/Kolkata] PHP Warning:  Undefined variable $selected in D:\wamp64\www\emsdemo\View\dropdown.php on line 34
+[18-Sep-2023 12:08:35 Asia/Kolkata] PHP Stack trace:
+[18-Sep-2023 12:08:35 Asia/Kolkata] PHP   1. {main}() D:\wamp64\www\emsdemo\View\dropdown.php:0
+[18-Sep-2023 12:08:35 Asia/Kolkata] PHP Warning:  Undefined variable $selected in D:\wamp64\www\emsdemo\View\dropdown.php on line 34
+[18-Sep-2023 12:08:35 Asia/Kolkata] PHP Stack trace:
+[18-Sep-2023 12:08:35 Asia/Kolkata] PHP   1. {main}() D:\wamp64\www\emsdemo\View\dropdown.php:0
+[18-Sep-2023 12:08:35 Asia/Kolkata] PHP Warning:  Undefined variable $selected in D:\wamp64\www\emsdemo\View\dropdown.php on line 34
+[18-Sep-2023 12:08:35 Asia/Kolkata] PHP Stack trace:
+[18-Sep-2023 12:08:35 Asia/Kolkata] PHP   1. {main}() D:\wamp64\www\emsdemo\View\dropdown.php:0
+[18-Sep-2023 12:08:35 Asia/Kolkata] PHP Warning:  Undefined variable $selected in D:\wamp64\www\emsdemo\View\dropdown.php on line 34
+[18-Sep-2023 12:08:35 Asia/Kolkata] PHP Stack trace:
+[18-Sep-2023 12:08:35 Asia/Kolkata] PHP   1. {main}() D:\wamp64\www\emsdemo\View\dropdown.php:0
+[18-Sep-2023 12:08:35 Asia/Kolkata] PHP Warning:  Undefined variable $selected in D:\wamp64\www\emsdemo\View\dropdown.php on line 34
+[18-Sep-2023 12:08:35 Asia/Kolkata] PHP Stack trace:
+[18-Sep-2023 12:08:35 Asia/Kolkata] PHP   1. {main}() D:\wamp64\www\emsdemo\View\dropdown.php:0
+[18-Sep-2023 12:08:35 Asia/Kolkata] PHP Warning:  Undefined variable $selected in D:\wamp64\www\emsdemo\View\dropdown.php on line 34
+[18-Sep-2023 12:08:35 Asia/Kolkata] PHP Stack trace:
+[18-Sep-2023 12:08:35 Asia/Kolkata] PHP   1. {main}() D:\wamp64\www\emsdemo\View\dropdown.php:0
+[18-Sep-2023 12:08:35 Asia/Kolkata] PHP Warning:  Undefined variable $selected in D:\wamp64\www\emsdemo\View\dropdown.php on line 34
+[18-Sep-2023 12:08:35 Asia/Kolkata] PHP Stack trace:
+[18-Sep-2023 12:08:35 Asia/Kolkata] PHP   1. {main}() D:\wamp64\www\emsdemo\View\dropdown.php:0
+[18-Sep-2023 12:08:35 Asia/Kolkata] PHP Warning:  Undefined variable $selected in D:\wamp64\www\emsdemo\View\dropdown.php on line 34
+[18-Sep-2023 12:08:35 Asia/Kolkata] PHP Stack trace:
+[18-Sep-2023 12:08:35 Asia/Kolkata] PHP   1. {main}() D:\wamp64\www\emsdemo\View\dropdown.php:0
+[18-Sep-2023 12:08:35 Asia/Kolkata] PHP Warning:  Undefined variable $selected in D:\wamp64\www\emsdemo\View\dropdown.php on line 34
+[18-Sep-2023 12:08:35 Asia/Kolkata] PHP Stack trace:
+[18-Sep-2023 12:08:35 Asia/Kolkata] PHP   1. {main}() D:\wamp64\www\emsdemo\View\dropdown.php:0
+[18-Sep-2023 12:08:35 Asia/Kolkata] PHP Warning:  Undefined variable $selected in D:\wamp64\www\emsdemo\View\dropdown.php on line 34
+[18-Sep-2023 12:08:35 Asia/Kolkata] PHP Stack trace:
+[18-Sep-2023 12:08:35 Asia/Kolkata] PHP   1. {main}() D:\wamp64\www\emsdemo\View\dropdown.php:0
+[18-Sep-2023 12:08:35 Asia/Kolkata] PHP Warning:  Undefined variable $selected in D:\wamp64\www\emsdemo\View\dropdown.php on line 34
+[18-Sep-2023 12:08:35 Asia/Kolkata] PHP Stack trace:
+[18-Sep-2023 12:08:35 Asia/Kolkata] PHP   1. {main}() D:\wamp64\www\emsdemo\View\dropdown.php:0
+[18-Sep-2023 12:08:35 Asia/Kolkata] PHP Warning:  Undefined variable $selected in D:\wamp64\www\emsdemo\View\dropdown.php on line 34
+[18-Sep-2023 12:08:35 Asia/Kolkata] PHP Stack trace:
+[18-Sep-2023 12:08:35 Asia/Kolkata] PHP   1. {main}() D:\wamp64\www\emsdemo\View\dropdown.php:0
+[18-Sep-2023 12:08:35 Asia/Kolkata] PHP Warning:  Undefined variable $selected in D:\wamp64\www\emsdemo\View\dropdown.php on line 34
+[18-Sep-2023 12:08:35 Asia/Kolkata] PHP Stack trace:
+[18-Sep-2023 12:08:35 Asia/Kolkata] PHP   1. {main}() D:\wamp64\www\emsdemo\View\dropdown.php:0
+[18-Sep-2023 12:08:35 Asia/Kolkata] PHP Warning:  Undefined variable $selected in D:\wamp64\www\emsdemo\View\dropdown.php on line 34
+[18-Sep-2023 12:08:35 Asia/Kolkata] PHP Stack trace:
+[18-Sep-2023 12:08:35 Asia/Kolkata] PHP   1. {main}() D:\wamp64\www\emsdemo\View\dropdown.php:0
+[18-Sep-2023 12:08:35 Asia/Kolkata] PHP Warning:  Undefined variable $selected in D:\wamp64\www\emsdemo\View\dropdown.php on line 34
+[18-Sep-2023 12:08:35 Asia/Kolkata] PHP Stack trace:
+[18-Sep-2023 12:08:35 Asia/Kolkata] PHP   1. {main}() D:\wamp64\www\emsdemo\View\dropdown.php:0
+[18-Sep-2023 12:08:35 Asia/Kolkata] PHP Warning:  Undefined variable $selected in D:\wamp64\www\emsdemo\View\dropdown.php on line 34
+[18-Sep-2023 12:08:35 Asia/Kolkata] PHP Stack trace:
+[18-Sep-2023 12:08:35 Asia/Kolkata] PHP   1. {main}() D:\wamp64\www\emsdemo\View\dropdown.php:0
+[18-Sep-2023 12:08:35 Asia/Kolkata] PHP Warning:  Undefined variable $selected in D:\wamp64\www\emsdemo\View\dropdown.php on line 34
+[18-Sep-2023 12:08:35 Asia/Kolkata] PHP Stack trace:
+[18-Sep-2023 12:08:35 Asia/Kolkata] PHP   1. {main}() D:\wamp64\www\emsdemo\View\dropdown.php:0
+[18-Sep-2023 12:08:35 Asia/Kolkata] PHP Warning:  Undefined variable $selected in D:\wamp64\www\emsdemo\View\dropdown.php on line 34
+[18-Sep-2023 12:08:35 Asia/Kolkata] PHP Stack trace:
+[18-Sep-2023 12:08:35 Asia/Kolkata] PHP   1. {main}() D:\wamp64\www\emsdemo\View\dropdown.php:0
+[18-Sep-2023 12:08:35 Asia/Kolkata] PHP Warning:  Undefined variable $selected in D:\wamp64\www\emsdemo\View\dropdown.php on line 34
+[18-Sep-2023 12:08:35 Asia/Kolkata] PHP Stack trace:
+[18-Sep-2023 12:08:35 Asia/Kolkata] PHP   1. {main}() D:\wamp64\www\emsdemo\View\dropdown.php:0
+[18-Sep-2023 12:08:35 Asia/Kolkata] PHP Warning:  Undefined variable $selected in D:\wamp64\www\emsdemo\View\dropdown.php on line 34
+[18-Sep-2023 12:08:35 Asia/Kolkata] PHP Stack trace:
+[18-Sep-2023 12:08:35 Asia/Kolkata] PHP   1. {main}() D:\wamp64\www\emsdemo\View\dropdown.php:0
+[18-Sep-2023 12:08:35 Asia/Kolkata] PHP Warning:  Undefined variable $selected in D:\wamp64\www\emsdemo\View\dropdown.php on line 34
+[18-Sep-2023 12:08:35 Asia/Kolkata] PHP Stack trace:
+[18-Sep-2023 12:08:35 Asia/Kolkata] PHP   1. {main}() D:\wamp64\www\emsdemo\View\dropdown.php:0
+[18-Sep-2023 12:08:35 Asia/Kolkata] PHP Warning:  Undefined variable $selected in D:\wamp64\www\emsdemo\View\dropdown.php on line 34
+[18-Sep-2023 12:08:35 Asia/Kolkata] PHP Stack trace:
+[18-Sep-2023 12:08:35 Asia/Kolkata] PHP   1. {main}() D:\wamp64\www\emsdemo\View\dropdown.php:0
+[18-Sep-2023 12:08:35 Asia/Kolkata] PHP Warning:  Undefined variable $selected in D:\wamp64\www\emsdemo\View\dropdown.php on line 34
+[18-Sep-2023 12:08:35 Asia/Kolkata] PHP Stack trace:
+[18-Sep-2023 12:08:35 Asia/Kolkata] PHP   1. {main}() D:\wamp64\www\emsdemo\View\dropdown.php:0
+[18-Sep-2023 12:08:35 Asia/Kolkata] PHP Warning:  Undefined variable $selected in D:\wamp64\www\emsdemo\View\dropdown.php on line 34
+[18-Sep-2023 12:08:35 Asia/Kolkata] PHP Stack trace:
+[18-Sep-2023 12:08:35 Asia/Kolkata] PHP   1. {main}() D:\wamp64\www\emsdemo\View\dropdown.php:0
+[18-Sep-2023 12:08:35 Asia/Kolkata] PHP Warning:  Undefined variable $selected in D:\wamp64\www\emsdemo\View\dropdown.php on line 34
+[18-Sep-2023 12:08:35 Asia/Kolkata] PHP Stack trace:
+[18-Sep-2023 12:08:35 Asia/Kolkata] PHP   1. {main}() D:\wamp64\www\emsdemo\View\dropdown.php:0
+[18-Sep-2023 12:08:35 Asia/Kolkata] PHP Warning:  Undefined variable $selected in D:\wamp64\www\emsdemo\View\dropdown.php on line 34
+[18-Sep-2023 12:08:35 Asia/Kolkata] PHP Stack trace:
+[18-Sep-2023 12:08:35 Asia/Kolkata] PHP   1. {main}() D:\wamp64\www\emsdemo\View\dropdown.php:0
+[18-Sep-2023 12:08:35 Asia/Kolkata] PHP Warning:  Undefined variable $selected in D:\wamp64\www\emsdemo\View\dropdown.php on line 34
+[18-Sep-2023 12:08:35 Asia/Kolkata] PHP Stack trace:
+[18-Sep-2023 12:08:35 Asia/Kolkata] PHP   1. {main}() D:\wamp64\www\emsdemo\View\dropdown.php:0
+[18-Sep-2023 12:08:35 Asia/Kolkata] PHP Warning:  Undefined variable $selected in D:\wamp64\www\emsdemo\View\dropdown.php on line 34
+[18-Sep-2023 12:08:35 Asia/Kolkata] PHP Stack trace:
+[18-Sep-2023 12:08:35 Asia/Kolkata] PHP   1. {main}() D:\wamp64\www\emsdemo\View\dropdown.php:0
+[18-Sep-2023 12:08:35 Asia/Kolkata] PHP Warning:  Undefined variable $selected in D:\wamp64\www\emsdemo\View\dropdown.php on line 34
+[18-Sep-2023 12:08:35 Asia/Kolkata] PHP Stack trace:
+[18-Sep-2023 12:08:35 Asia/Kolkata] PHP   1. {main}() D:\wamp64\www\emsdemo\View\dropdown.php:0
+[18-Sep-2023 12:08:35 Asia/Kolkata] PHP Warning:  Undefined variable $selected in D:\wamp64\www\emsdemo\View\dropdown.php on line 34
+[18-Sep-2023 12:08:35 Asia/Kolkata] PHP Stack trace:
+[18-Sep-2023 12:08:35 Asia/Kolkata] PHP   1. {main}() D:\wamp64\www\emsdemo\View\dropdown.php:0
+[18-Sep-2023 12:08:35 Asia/Kolkata] PHP Warning:  Undefined variable $selected in D:\wamp64\www\emsdemo\View\dropdown.php on line 34
+[18-Sep-2023 12:08:35 Asia/Kolkata] PHP Stack trace:
+[18-Sep-2023 12:08:35 Asia/Kolkata] PHP   1. {main}() D:\wamp64\www\emsdemo\View\dropdown.php:0
+[18-Sep-2023 12:08:35 Asia/Kolkata] PHP Warning:  Undefined variable $selected in D:\wamp64\www\emsdemo\View\dropdown.php on line 34
+[18-Sep-2023 12:08:35 Asia/Kolkata] PHP Stack trace:
+[18-Sep-2023 12:08:35 Asia/Kolkata] PHP   1. {main}() D:\wamp64\www\emsdemo\View\dropdown.php:0
+[18-Sep-2023 12:08:35 Asia/Kolkata] PHP Warning:  Undefined variable $selected in D:\wamp64\www\emsdemo\View\dropdown.php on line 34
+[18-Sep-2023 12:08:35 Asia/Kolkata] PHP Stack trace:
+[18-Sep-2023 12:08:35 Asia/Kolkata] PHP   1. {main}() D:\wamp64\www\emsdemo\View\dropdown.php:0
+[18-Sep-2023 12:08:35 Asia/Kolkata] PHP Warning:  Undefined variable $selected in D:\wamp64\www\emsdemo\View\dropdown.php on line 34
+[18-Sep-2023 12:08:35 Asia/Kolkata] PHP Stack trace:
+[18-Sep-2023 12:08:35 Asia/Kolkata] PHP   1. {main}() D:\wamp64\www\emsdemo\View\dropdown.php:0
+[18-Sep-2023 12:08:35 Asia/Kolkata] PHP Warning:  Undefined variable $selected in D:\wamp64\www\emsdemo\View\dropdown.php on line 34
+[18-Sep-2023 12:08:35 Asia/Kolkata] PHP Stack trace:
+[18-Sep-2023 12:08:35 Asia/Kolkata] PHP   1. {main}() D:\wamp64\www\emsdemo\View\dropdown.php:0
+[18-Sep-2023 12:08:35 Asia/Kolkata] PHP Warning:  Undefined variable $selected in D:\wamp64\www\emsdemo\View\dropdown.php on line 34
+[18-Sep-2023 12:08:35 Asia/Kolkata] PHP Stack trace:
+[18-Sep-2023 12:08:35 Asia/Kolkata] PHP   1. {main}() D:\wamp64\www\emsdemo\View\dropdown.php:0
+[18-Sep-2023 12:08:35 Asia/Kolkata] PHP Warning:  Undefined variable $selected in D:\wamp64\www\emsdemo\View\dropdown.php on line 34
+[18-Sep-2023 12:08:35 Asia/Kolkata] PHP Stack trace:
+[18-Sep-2023 12:08:35 Asia/Kolkata] PHP   1. {main}() D:\wamp64\www\emsdemo\View\dropdown.php:0
+[18-Sep-2023 12:08:35 Asia/Kolkata] PHP Warning:  Undefined variable $selected in D:\wamp64\www\emsdemo\View\dropdown.php on line 34
+[18-Sep-2023 12:08:35 Asia/Kolkata] PHP Stack trace:
+[18-Sep-2023 12:08:35 Asia/Kolkata] PHP   1. {main}() D:\wamp64\www\emsdemo\View\dropdown.php:0
+[18-Sep-2023 12:08:35 Asia/Kolkata] PHP Warning:  Undefined variable $selected in D:\wamp64\www\emsdemo\View\dropdown.php on line 34
+[18-Sep-2023 12:08:35 Asia/Kolkata] PHP Stack trace:
+[18-Sep-2023 12:08:35 Asia/Kolkata] PHP   1. {main}() D:\wamp64\www\emsdemo\View\dropdown.php:0
+[18-Sep-2023 12:08:35 Asia/Kolkata] PHP Warning:  Undefined variable $selected in D:\wamp64\www\emsdemo\View\dropdown.php on line 34
+[18-Sep-2023 12:08:35 Asia/Kolkata] PHP Stack trace:
+[18-Sep-2023 12:08:35 Asia/Kolkata] PHP   1. {main}() D:\wamp64\www\emsdemo\View\dropdown.php:0
+[18-Sep-2023 12:08:35 Asia/Kolkata] PHP Warning:  Undefined variable $selected in D:\wamp64\www\emsdemo\View\dropdown.php on line 34
+[18-Sep-2023 12:08:35 Asia/Kolkata] PHP Stack trace:
+[18-Sep-2023 12:08:35 Asia/Kolkata] PHP   1. {main}() D:\wamp64\www\emsdemo\View\dropdown.php:0
+[18-Sep-2023 12:08:35 Asia/Kolkata] PHP Warning:  Undefined variable $selected in D:\wamp64\www\emsdemo\View\dropdown.php on line 34
+[18-Sep-2023 12:08:35 Asia/Kolkata] PHP Stack trace:
+[18-Sep-2023 12:08:35 Asia/Kolkata] PHP   1. {main}() D:\wamp64\www\emsdemo\View\dropdown.php:0
+[18-Sep-2023 12:08:35 Asia/Kolkata] PHP Warning:  Undefined variable $selected in D:\wamp64\www\emsdemo\View\dropdown.php on line 34
+[18-Sep-2023 12:08:35 Asia/Kolkata] PHP Stack trace:
+[18-Sep-2023 12:08:35 Asia/Kolkata] PHP   1. {main}() D:\wamp64\www\emsdemo\View\dropdown.php:0
+[18-Sep-2023 12:08:35 Asia/Kolkata] PHP Warning:  Undefined variable $selected in D:\wamp64\www\emsdemo\View\dropdown.php on line 34
+[18-Sep-2023 12:08:35 Asia/Kolkata] PHP Stack trace:
+[18-Sep-2023 12:08:35 Asia/Kolkata] PHP   1. {main}() D:\wamp64\www\emsdemo\View\dropdown.php:0
+[18-Sep-2023 12:08:35 Asia/Kolkata] PHP Warning:  Undefined variable $selected in D:\wamp64\www\emsdemo\View\dropdown.php on line 34
+[18-Sep-2023 12:08:35 Asia/Kolkata] PHP Stack trace:
+[18-Sep-2023 12:08:35 Asia/Kolkata] PHP   1. {main}() D:\wamp64\www\emsdemo\View\dropdown.php:0
+[18-Sep-2023 12:08:35 Asia/Kolkata] PHP Warning:  Undefined variable $selected in D:\wamp64\www\emsdemo\View\dropdown.php on line 34
+[18-Sep-2023 12:08:35 Asia/Kolkata] PHP Stack trace:
+[18-Sep-2023 12:08:35 Asia/Kolkata] PHP   1. {main}() D:\wamp64\www\emsdemo\View\dropdown.php:0
+[18-Sep-2023 12:08:35 Asia/Kolkata] PHP Warning:  Undefined variable $selected in D:\wamp64\www\emsdemo\View\dropdown.php on line 34
+[18-Sep-2023 12:08:35 Asia/Kolkata] PHP Stack trace:
+[18-Sep-2023 12:08:35 Asia/Kolkata] PHP   1. {main}() D:\wamp64\www\emsdemo\View\dropdown.php:0
+[18-Sep-2023 12:08:35 Asia/Kolkata] PHP Warning:  Undefined variable $selected in D:\wamp64\www\emsdemo\View\dropdown.php on line 34
+[18-Sep-2023 12:08:35 Asia/Kolkata] PHP Stack trace:
+[18-Sep-2023 12:08:35 Asia/Kolkata] PHP   1. {main}() D:\wamp64\www\emsdemo\View\dropdown.php:0
+[18-Sep-2023 12:08:35 Asia/Kolkata] PHP Warning:  Undefined variable $selected in D:\wamp64\www\emsdemo\View\dropdown.php on line 34
+[18-Sep-2023 12:08:35 Asia/Kolkata] PHP Stack trace:
+[18-Sep-2023 12:08:35 Asia/Kolkata] PHP   1. {main}() D:\wamp64\www\emsdemo\View\dropdown.php:0
+[18-Sep-2023 12:08:35 Asia/Kolkata] PHP Warning:  Undefined variable $selected in D:\wamp64\www\emsdemo\View\dropdown.php on line 34
+[18-Sep-2023 12:08:35 Asia/Kolkata] PHP Stack trace:
+[18-Sep-2023 12:08:35 Asia/Kolkata] PHP   1. {main}() D:\wamp64\www\emsdemo\View\dropdown.php:0
+[18-Sep-2023 12:08:35 Asia/Kolkata] PHP Warning:  Undefined variable $selected in D:\wamp64\www\emsdemo\View\dropdown.php on line 34
+[18-Sep-2023 12:08:35 Asia/Kolkata] PHP Stack trace:
+[18-Sep-2023 12:08:35 Asia/Kolkata] PHP   1. {main}() D:\wamp64\www\emsdemo\View\dropdown.php:0
+[18-Sep-2023 12:08:35 Asia/Kolkata] PHP Warning:  Undefined variable $selected in D:\wamp64\www\emsdemo\View\dropdown.php on line 34
+[18-Sep-2023 12:08:35 Asia/Kolkata] PHP Stack trace:
+[18-Sep-2023 12:08:35 Asia/Kolkata] PHP   1. {main}() D:\wamp64\www\emsdemo\View\dropdown.php:0
+[18-Sep-2023 12:08:35 Asia/Kolkata] PHP Warning:  Undefined variable $selected in D:\wamp64\www\emsdemo\View\dropdown.php on line 34
+[18-Sep-2023 12:08:35 Asia/Kolkata] PHP Stack trace:
+[18-Sep-2023 12:08:35 Asia/Kolkata] PHP   1. {main}() D:\wamp64\www\emsdemo\View\dropdown.php:0
+[18-Sep-2023 12:08:35 Asia/Kolkata] PHP Warning:  Undefined variable $selected in D:\wamp64\www\emsdemo\View\dropdown.php on line 34
+[18-Sep-2023 12:08:35 Asia/Kolkata] PHP Stack trace:
+[18-Sep-2023 12:08:35 Asia/Kolkata] PHP   1. {main}() D:\wamp64\www\emsdemo\View\dropdown.php:0
+[18-Sep-2023 12:08:35 Asia/Kolkata] PHP Warning:  Undefined variable $selected in D:\wamp64\www\emsdemo\View\dropdown.php on line 34
+[18-Sep-2023 12:08:35 Asia/Kolkata] PHP Stack trace:
+[18-Sep-2023 12:08:35 Asia/Kolkata] PHP   1. {main}() D:\wamp64\www\emsdemo\View\dropdown.php:0
+[18-Sep-2023 12:08:35 Asia/Kolkata] PHP Warning:  Undefined variable $selected in D:\wamp64\www\emsdemo\View\dropdown.php on line 34
+[18-Sep-2023 12:08:35 Asia/Kolkata] PHP Stack trace:
+[18-Sep-2023 12:08:35 Asia/Kolkata] PHP   1. {main}() D:\wamp64\www\emsdemo\View\dropdown.php:0
+[18-Sep-2023 12:08:35 Asia/Kolkata] PHP Warning:  Undefined variable $selected in D:\wamp64\www\emsdemo\View\dropdown.php on line 34
+[18-Sep-2023 12:08:35 Asia/Kolkata] PHP Stack trace:
+[18-Sep-2023 12:08:35 Asia/Kolkata] PHP   1. {main}() D:\wamp64\www\emsdemo\View\dropdown.php:0
+[18-Sep-2023 12:08:35 Asia/Kolkata] PHP Warning:  Undefined variable $selected in D:\wamp64\www\emsdemo\View\dropdown.php on line 34
+[18-Sep-2023 12:08:35 Asia/Kolkata] PHP Stack trace:
+[18-Sep-2023 12:08:35 Asia/Kolkata] PHP   1. {main}() D:\wamp64\www\emsdemo\View\dropdown.php:0
+[18-Sep-2023 12:08:35 Asia/Kolkata] PHP Warning:  Undefined variable $selected in D:\wamp64\www\emsdemo\View\dropdown.php on line 34
+[18-Sep-2023 12:08:35 Asia/Kolkata] PHP Stack trace:
+[18-Sep-2023 12:08:35 Asia/Kolkata] PHP   1. {main}() D:\wamp64\www\emsdemo\View\dropdown.php:0
+[18-Sep-2023 12:08:35 Asia/Kolkata] PHP Warning:  Undefined variable $selected in D:\wamp64\www\emsdemo\View\dropdown.php on line 34
+[18-Sep-2023 12:08:35 Asia/Kolkata] PHP Stack trace:
+[18-Sep-2023 12:08:35 Asia/Kolkata] PHP   1. {main}() D:\wamp64\www\emsdemo\View\dropdown.php:0
+[18-Sep-2023 12:08:35 Asia/Kolkata] PHP Warning:  Undefined variable $selected in D:\wamp64\www\emsdemo\View\dropdown.php on line 34
+[18-Sep-2023 12:08:35 Asia/Kolkata] PHP Stack trace:
+[18-Sep-2023 12:08:35 Asia/Kolkata] PHP   1. {main}() D:\wamp64\www\emsdemo\View\dropdown.php:0
+[18-Sep-2023 12:08:35 Asia/Kolkata] PHP Warning:  Undefined variable $selected in D:\wamp64\www\emsdemo\View\dropdown.php on line 34
+[18-Sep-2023 12:08:35 Asia/Kolkata] PHP Stack trace:
+[18-Sep-2023 12:08:35 Asia/Kolkata] PHP   1. {main}() D:\wamp64\www\emsdemo\View\dropdown.php:0
+[18-Sep-2023 12:08:35 Asia/Kolkata] PHP Warning:  Undefined variable $selected in D:\wamp64\www\emsdemo\View\dropdown.php on line 34
+[18-Sep-2023 12:08:35 Asia/Kolkata] PHP Stack trace:
+[18-Sep-2023 12:08:35 Asia/Kolkata] PHP   1. {main}() D:\wamp64\www\emsdemo\View\dropdown.php:0
+[18-Sep-2023 12:08:51 Asia/Kolkata] PHP Fatal error:  Array and string offset access syntax with curly braces is no longer supported in D:\wamp64\www\emsdemo\AppData\lib\PHPExcel\Shared\String.php on line 529
+[18-Sep-2023 12:08:51 Asia/Kolkata] PHP Stack trace:
+[18-Sep-2023 12:08:51 Asia/Kolkata] PHP   1. {main}() D:\wamp64\www\emsdemo\View\module_master_report.php:0
+[18-Sep-2023 12:08:51 Asia/Kolkata] PHP   2. require_once() D:\wamp64\www\emsdemo\View\module_master_report.php:10
+[18-Sep-2023 12:08:51 Asia/Kolkata] PHP   3. require() D:\wamp64\www\emsdemo\AppData\lib\PHPExcel\IOFactory.php:35
+[18-Sep-2023 12:08:51 Asia/Kolkata] PHP   4. PHPExcel_Autoloader::Load($pClassName = 'PHPExcel_Shared_String') D:\wamp64\www\emsdemo\AppData\lib\PHPExcel\Autoloader.php:36
+[18-Sep-2023 12:09:05 Asia/Kolkata] PHP Warning:  Undefined variable $selected in D:\wamp64\www\emsdemo\View\dropdown.php on line 34
+[18-Sep-2023 12:09:05 Asia/Kolkata] PHP Stack trace:
+[18-Sep-2023 12:09:05 Asia/Kolkata] PHP   1. {main}() D:\wamp64\www\emsdemo\View\dropdown.php:0
+[18-Sep-2023 12:09:05 Asia/Kolkata] PHP Warning:  Undefined variable $selected in D:\wamp64\www\emsdemo\View\dropdown.php on line 34
+[18-Sep-2023 12:09:05 Asia/Kolkata] PHP Stack trace:
+[18-Sep-2023 12:09:05 Asia/Kolkata] PHP   1. {main}() D:\wamp64\www\emsdemo\View\dropdown.php:0
+[18-Sep-2023 12:09:05 Asia/Kolkata] PHP Warning:  Undefined variable $selected in D:\wamp64\www\emsdemo\View\dropdown.php on line 34
+[18-Sep-2023 12:09:05 Asia/Kolkata] PHP Stack trace:
+[18-Sep-2023 12:09:05 Asia/Kolkata] PHP   1. {main}() D:\wamp64\www\emsdemo\View\dropdown.php:0
+[18-Sep-2023 12:09:05 Asia/Kolkata] PHP Warning:  Undefined variable $selected in D:\wamp64\www\emsdemo\View\dropdown.php on line 34
+[18-Sep-2023 12:09:05 Asia/Kolkata] PHP Stack trace:
+[18-Sep-2023 12:09:05 Asia/Kolkata] PHP   1. {main}() D:\wamp64\www\emsdemo\View\dropdown.php:0
+[18-Sep-2023 12:09:05 Asia/Kolkata] PHP Warning:  Undefined variable $selected in D:\wamp64\www\emsdemo\View\dropdown.php on line 34
+[18-Sep-2023 12:09:05 Asia/Kolkata] PHP Stack trace:
+[18-Sep-2023 12:09:05 Asia/Kolkata] PHP   1. {main}() D:\wamp64\www\emsdemo\View\dropdown.php:0
+[18-Sep-2023 12:09:05 Asia/Kolkata] PHP Warning:  Undefined variable $selected in D:\wamp64\www\emsdemo\View\dropdown.php on line 34
+[18-Sep-2023 12:09:05 Asia/Kolkata] PHP Stack trace:
+[18-Sep-2023 12:09:05 Asia/Kolkata] PHP   1. {main}() D:\wamp64\www\emsdemo\View\dropdown.php:0
+[18-Sep-2023 12:09:05 Asia/Kolkata] PHP Warning:  Undefined variable $selected in D:\wamp64\www\emsdemo\View\dropdown.php on line 34
+[18-Sep-2023 12:09:05 Asia/Kolkata] PHP Stack trace:
+[18-Sep-2023 12:09:05 Asia/Kolkata] PHP   1. {main}() D:\wamp64\www\emsdemo\View\dropdown.php:0
+[18-Sep-2023 12:09:05 Asia/Kolkata] PHP Warning:  Undefined variable $selected in D:\wamp64\www\emsdemo\View\dropdown.php on line 34
+[18-Sep-2023 12:09:05 Asia/Kolkata] PHP Stack trace:
+[18-Sep-2023 12:09:05 Asia/Kolkata] PHP   1. {main}() D:\wamp64\www\emsdemo\View\dropdown.php:0
+[18-Sep-2023 12:09:05 Asia/Kolkata] PHP Warning:  Undefined variable $selected in D:\wamp64\www\emsdemo\View\dropdown.php on line 34
+[18-Sep-2023 12:09:05 Asia/Kolkata] PHP Stack trace:
+[18-Sep-2023 12:09:05 Asia/Kolkata] PHP   1. {main}() D:\wamp64\www\emsdemo\View\dropdown.php:0
+[18-Sep-2023 12:09:05 Asia/Kolkata] PHP Warning:  Undefined variable $selected in D:\wamp64\www\emsdemo\View\dropdown.php on line 34
+[18-Sep-2023 12:09:05 Asia/Kolkata] PHP Stack trace:
+[18-Sep-2023 12:09:05 Asia/Kolkata] PHP   1. {main}() D:\wamp64\www\emsdemo\View\dropdown.php:0
+[18-Sep-2023 12:09:05 Asia/Kolkata] PHP Warning:  Undefined variable $selected in D:\wamp64\www\emsdemo\View\dropdown.php on line 34
+[18-Sep-2023 12:09:05 Asia/Kolkata] PHP Stack trace:
+[18-Sep-2023 12:09:05 Asia/Kolkata] PHP   1. {main}() D:\wamp64\www\emsdemo\View\dropdown.php:0
+[18-Sep-2023 12:09:05 Asia/Kolkata] PHP Warning:  Undefined variable $selected in D:\wamp64\www\emsdemo\View\dropdown.php on line 34
+[18-Sep-2023 12:09:05 Asia/Kolkata] PHP Stack trace:
+[18-Sep-2023 12:09:05 Asia/Kolkata] PHP   1. {main}() D:\wamp64\www\emsdemo\View\dropdown.php:0
+[18-Sep-2023 12:09:05 Asia/Kolkata] PHP Warning:  Undefined variable $selected in D:\wamp64\www\emsdemo\View\dropdown.php on line 34
+[18-Sep-2023 12:09:05 Asia/Kolkata] PHP Stack trace:
+[18-Sep-2023 12:09:05 Asia/Kolkata] PHP   1. {main}() D:\wamp64\www\emsdemo\View\dropdown.php:0
+[18-Sep-2023 12:09:05 Asia/Kolkata] PHP Warning:  Undefined variable $selected in D:\wamp64\www\emsdemo\View\dropdown.php on line 34
+[18-Sep-2023 12:09:05 Asia/Kolkata] PHP Stack trace:
+[18-Sep-2023 12:09:05 Asia/Kolkata] PHP   1. {main}() D:\wamp64\www\emsdemo\View\dropdown.php:0
+[18-Sep-2023 12:09:05 Asia/Kolkata] PHP Warning:  Undefined variable $selected in D:\wamp64\www\emsdemo\View\dropdown.php on line 34
+[18-Sep-2023 12:09:05 Asia/Kolkata] PHP Stack trace:
+[18-Sep-2023 12:09:05 Asia/Kolkata] PHP   1. {main}() D:\wamp64\www\emsdemo\View\dropdown.php:0
+[18-Sep-2023 12:09:05 Asia/Kolkata] PHP Warning:  Undefined variable $selected in D:\wamp64\www\emsdemo\View\dropdown.php on line 34
+[18-Sep-2023 12:09:05 Asia/Kolkata] PHP Stack trace:
+[18-Sep-2023 12:09:05 Asia/Kolkata] PHP   1. {main}() D:\wamp64\www\emsdemo\View\dropdown.php:0
+[18-Sep-2023 12:09:05 Asia/Kolkata] PHP Warning:  Undefined variable $selected in D:\wamp64\www\emsdemo\View\dropdown.php on line 34
+[18-Sep-2023 12:09:05 Asia/Kolkata] PHP Stack trace:
+[18-Sep-2023 12:09:05 Asia/Kolkata] PHP   1. {main}() D:\wamp64\www\emsdemo\View\dropdown.php:0
+[18-Sep-2023 12:09:05 Asia/Kolkata] PHP Warning:  Undefined variable $selected in D:\wamp64\www\emsdemo\View\dropdown.php on line 34
+[18-Sep-2023 12:09:05 Asia/Kolkata] PHP Stack trace:
+[18-Sep-2023 12:09:05 Asia/Kolkata] PHP   1. {main}() D:\wamp64\www\emsdemo\View\dropdown.php:0
+[18-Sep-2023 12:09:05 Asia/Kolkata] PHP Warning:  Undefined variable $selected in D:\wamp64\www\emsdemo\View\dropdown.php on line 34
+[18-Sep-2023 12:09:05 Asia/Kolkata] PHP Stack trace:
+[18-Sep-2023 12:09:05 Asia/Kolkata] PHP   1. {main}() D:\wamp64\www\emsdemo\View\dropdown.php:0
+[18-Sep-2023 12:09:05 Asia/Kolkata] PHP Warning:  Undefined variable $selected in D:\wamp64\www\emsdemo\View\dropdown.php on line 34
+[18-Sep-2023 12:09:05 Asia/Kolkata] PHP Stack trace:
+[18-Sep-2023 12:09:05 Asia/Kolkata] PHP   1. {main}() D:\wamp64\www\emsdemo\View\dropdown.php:0
+[18-Sep-2023 12:09:05 Asia/Kolkata] PHP Warning:  Undefined variable $selected in D:\wamp64\www\emsdemo\View\dropdown.php on line 34
+[18-Sep-2023 12:09:05 Asia/Kolkata] PHP Stack trace:
+[18-Sep-2023 12:09:05 Asia/Kolkata] PHP   1. {main}() D:\wamp64\www\emsdemo\View\dropdown.php:0
+[18-Sep-2023 12:09:05 Asia/Kolkata] PHP Warning:  Undefined variable $selected in D:\wamp64\www\emsdemo\View\dropdown.php on line 34
+[18-Sep-2023 12:09:05 Asia/Kolkata] PHP Stack trace:
+[18-Sep-2023 12:09:05 Asia/Kolkata] PHP   1. {main}() D:\wamp64\www\emsdemo\View\dropdown.php:0
+[18-Sep-2023 12:09:05 Asia/Kolkata] PHP Warning:  Undefined variable $selected in D:\wamp64\www\emsdemo\View\dropdown.php on line 34
+[18-Sep-2023 12:09:05 Asia/Kolkata] PHP Stack trace:
+[18-Sep-2023 12:09:05 Asia/Kolkata] PHP   1. {main}() D:\wamp64\www\emsdemo\View\dropdown.php:0
+[18-Sep-2023 12:09:05 Asia/Kolkata] PHP Warning:  Undefined variable $selected in D:\wamp64\www\emsdemo\View\dropdown.php on line 34
+[18-Sep-2023 12:09:05 Asia/Kolkata] PHP Stack trace:
+[18-Sep-2023 12:09:05 Asia/Kolkata] PHP   1. {main}() D:\wamp64\www\emsdemo\View\dropdown.php:0
+[18-Sep-2023 12:09:05 Asia/Kolkata] PHP Warning:  Undefined variable $selected in D:\wamp64\www\emsdemo\View\dropdown.php on line 34
+[18-Sep-2023 12:09:05 Asia/Kolkata] PHP Stack trace:
+[18-Sep-2023 12:09:05 Asia/Kolkata] PHP   1. {main}() D:\wamp64\www\emsdemo\View\dropdown.php:0
+[18-Sep-2023 12:09:05 Asia/Kolkata] PHP Warning:  Undefined variable $selected in D:\wamp64\www\emsdemo\View\dropdown.php on line 34
+[18-Sep-2023 12:09:05 Asia/Kolkata] PHP Stack trace:
+[18-Sep-2023 12:09:05 Asia/Kolkata] PHP   1. {main}() D:\wamp64\www\emsdemo\View\dropdown.php:0
+[18-Sep-2023 12:09:05 Asia/Kolkata] PHP Warning:  Undefined variable $selected in D:\wamp64\www\emsdemo\View\dropdown.php on line 34
+[18-Sep-2023 12:09:05 Asia/Kolkata] PHP Stack trace:
+[18-Sep-2023 12:09:05 Asia/Kolkata] PHP   1. {main}() D:\wamp64\www\emsdemo\View\dropdown.php:0
+[18-Sep-2023 12:09:05 Asia/Kolkata] PHP Warning:  Undefined variable $selected in D:\wamp64\www\emsdemo\View\dropdown.php on line 34
+[18-Sep-2023 12:09:05 Asia/Kolkata] PHP Stack trace:
+[18-Sep-2023 12:09:06 Asia/Kolkata] PHP   1. {main}() D:\wamp64\www\emsdemo\View\dropdown.php:0
+[18-Sep-2023 12:09:06 Asia/Kolkata] PHP Warning:  Undefined variable $selected in D:\wamp64\www\emsdemo\View\dropdown.php on line 34
+[18-Sep-2023 12:09:06 Asia/Kolkata] PHP Stack trace:
+[18-Sep-2023 12:09:06 Asia/Kolkata] PHP   1. {main}() D:\wamp64\www\emsdemo\View\dropdown.php:0
+[18-Sep-2023 12:09:06 Asia/Kolkata] PHP Warning:  Undefined variable $selected in D:\wamp64\www\emsdemo\View\dropdown.php on line 34
+[18-Sep-2023 12:09:06 Asia/Kolkata] PHP Stack trace:
+[18-Sep-2023 12:09:06 Asia/Kolkata] PHP   1. {main}() D:\wamp64\www\emsdemo\View\dropdown.php:0
+[18-Sep-2023 12:09:06 Asia/Kolkata] PHP Warning:  Undefined variable $selected in D:\wamp64\www\emsdemo\View\dropdown.php on line 34
+[18-Sep-2023 12:09:06 Asia/Kolkata] PHP Stack trace:
+[18-Sep-2023 12:09:06 Asia/Kolkata] PHP   1. {main}() D:\wamp64\www\emsdemo\View\dropdown.php:0
+[18-Sep-2023 12:09:06 Asia/Kolkata] PHP Warning:  Undefined variable $selected in D:\wamp64\www\emsdemo\View\dropdown.php on line 34
+[18-Sep-2023 12:09:06 Asia/Kolkata] PHP Stack trace:
+[18-Sep-2023 12:09:06 Asia/Kolkata] PHP   1. {main}() D:\wamp64\www\emsdemo\View\dropdown.php:0
+[18-Sep-2023 12:09:06 Asia/Kolkata] PHP Warning:  Undefined variable $selected in D:\wamp64\www\emsdemo\View\dropdown.php on line 34
+[18-Sep-2023 12:09:06 Asia/Kolkata] PHP Stack trace:
+[18-Sep-2023 12:09:06 Asia/Kolkata] PHP   1. {main}() D:\wamp64\www\emsdemo\View\dropdown.php:0
+[18-Sep-2023 12:09:06 Asia/Kolkata] PHP Warning:  Undefined variable $selected in D:\wamp64\www\emsdemo\View\dropdown.php on line 34
+[18-Sep-2023 12:09:06 Asia/Kolkata] PHP Stack trace:
+[18-Sep-2023 12:09:06 Asia/Kolkata] PHP   1. {main}() D:\wamp64\www\emsdemo\View\dropdown.php:0
+[18-Sep-2023 12:09:06 Asia/Kolkata] PHP Warning:  Undefined variable $selected in D:\wamp64\www\emsdemo\View\dropdown.php on line 34
+[18-Sep-2023 12:09:06 Asia/Kolkata] PHP Stack trace:
+[18-Sep-2023 12:09:06 Asia/Kolkata] PHP   1. {main}() D:\wamp64\www\emsdemo\View\dropdown.php:0
+[18-Sep-2023 12:09:06 Asia/Kolkata] PHP Warning:  Undefined variable $selected in D:\wamp64\www\emsdemo\View\dropdown.php on line 34
+[18-Sep-2023 12:09:06 Asia/Kolkata] PHP Stack trace:
+[18-Sep-2023 12:09:06 Asia/Kolkata] PHP   1. {main}() D:\wamp64\www\emsdemo\View\dropdown.php:0
+[18-Sep-2023 12:09:06 Asia/Kolkata] PHP Warning:  Undefined variable $selected in D:\wamp64\www\emsdemo\View\dropdown.php on line 34
+[18-Sep-2023 12:09:06 Asia/Kolkata] PHP Stack trace:
+[18-Sep-2023 12:09:06 Asia/Kolkata] PHP   1. {main}() D:\wamp64\www\emsdemo\View\dropdown.php:0
+[18-Sep-2023 12:09:06 Asia/Kolkata] PHP Warning:  Undefined variable $selected in D:\wamp64\www\emsdemo\View\dropdown.php on line 34
+[18-Sep-2023 12:09:06 Asia/Kolkata] PHP Stack trace:
+[18-Sep-2023 12:09:06 Asia/Kolkata] PHP   1. {main}() D:\wamp64\www\emsdemo\View\dropdown.php:0
+[18-Sep-2023 12:09:06 Asia/Kolkata] PHP Warning:  Undefined variable $selected in D:\wamp64\www\emsdemo\View\dropdown.php on line 34
+[18-Sep-2023 12:09:06 Asia/Kolkata] PHP Stack trace:
+[18-Sep-2023 12:09:06 Asia/Kolkata] PHP   1. {main}() D:\wamp64\www\emsdemo\View\dropdown.php:0
+[18-Sep-2023 12:09:06 Asia/Kolkata] PHP Warning:  Undefined variable $selected in D:\wamp64\www\emsdemo\View\dropdown.php on line 34
+[18-Sep-2023 12:09:06 Asia/Kolkata] PHP Stack trace:
+[18-Sep-2023 12:09:06 Asia/Kolkata] PHP   1. {main}() D:\wamp64\www\emsdemo\View\dropdown.php:0
+[18-Sep-2023 12:09:06 Asia/Kolkata] PHP Warning:  Undefined variable $selected in D:\wamp64\www\emsdemo\View\dropdown.php on line 34
+[18-Sep-2023 12:09:06 Asia/Kolkata] PHP Stack trace:
+[18-Sep-2023 12:09:06 Asia/Kolkata] PHP   1. {main}() D:\wamp64\www\emsdemo\View\dropdown.php:0
+[18-Sep-2023 12:09:06 Asia/Kolkata] PHP Warning:  Undefined variable $selected in D:\wamp64\www\emsdemo\View\dropdown.php on line 34
+[18-Sep-2023 12:09:06 Asia/Kolkata] PHP Stack trace:
+[18-Sep-2023 12:09:06 Asia/Kolkata] PHP   1. {main}() D:\wamp64\www\emsdemo\View\dropdown.php:0
+[18-Sep-2023 12:09:06 Asia/Kolkata] PHP Warning:  Undefined variable $selected in D:\wamp64\www\emsdemo\View\dropdown.php on line 34
+[18-Sep-2023 12:09:06 Asia/Kolkata] PHP Stack trace:
+[18-Sep-2023 12:09:06 Asia/Kolkata] PHP   1. {main}() D:\wamp64\www\emsdemo\View\dropdown.php:0
+[18-Sep-2023 12:09:06 Asia/Kolkata] PHP Warning:  Undefined variable $selected in D:\wamp64\www\emsdemo\View\dropdown.php on line 34
+[18-Sep-2023 12:09:06 Asia/Kolkata] PHP Stack trace:
+[18-Sep-2023 12:09:06 Asia/Kolkata] PHP   1. {main}() D:\wamp64\www\emsdemo\View\dropdown.php:0
+[18-Sep-2023 12:09:06 Asia/Kolkata] PHP Warning:  Undefined variable $selected in D:\wamp64\www\emsdemo\View\dropdown.php on line 34
+[18-Sep-2023 12:09:06 Asia/Kolkata] PHP Stack trace:
+[18-Sep-2023 12:09:06 Asia/Kolkata] PHP   1. {main}() D:\wamp64\www\emsdemo\View\dropdown.php:0
+[18-Sep-2023 12:09:06 Asia/Kolkata] PHP Warning:  Undefined variable $selected in D:\wamp64\www\emsdemo\View\dropdown.php on line 34
+[18-Sep-2023 12:09:06 Asia/Kolkata] PHP Stack trace:
+[18-Sep-2023 12:09:06 Asia/Kolkata] PHP   1. {main}() D:\wamp64\www\emsdemo\View\dropdown.php:0
+[18-Sep-2023 12:09:06 Asia/Kolkata] PHP Warning:  Undefined variable $selected in D:\wamp64\www\emsdemo\View\dropdown.php on line 34
+[18-Sep-2023 12:09:06 Asia/Kolkata] PHP Stack trace:
+[18-Sep-2023 12:09:06 Asia/Kolkata] PHP   1. {main}() D:\wamp64\www\emsdemo\View\dropdown.php:0
+[18-Sep-2023 12:09:06 Asia/Kolkata] PHP Warning:  Undefined variable $selected in D:\wamp64\www\emsdemo\View\dropdown.php on line 34
+[18-Sep-2023 12:09:06 Asia/Kolkata] PHP Stack trace:
+[18-Sep-2023 12:09:06 Asia/Kolkata] PHP   1. {main}() D:\wamp64\www\emsdemo\View\dropdown.php:0
+[18-Sep-2023 12:09:06 Asia/Kolkata] PHP Warning:  Undefined variable $selected in D:\wamp64\www\emsdemo\View\dropdown.php on line 34
+[18-Sep-2023 12:09:06 Asia/Kolkata] PHP Stack trace:
+[18-Sep-2023 12:09:06 Asia/Kolkata] PHP   1. {main}() D:\wamp64\www\emsdemo\View\dropdown.php:0
+[18-Sep-2023 12:09:06 Asia/Kolkata] PHP Warning:  Undefined variable $selected in D:\wamp64\www\emsdemo\View\dropdown.php on line 34
+[18-Sep-2023 12:09:06 Asia/Kolkata] PHP Stack trace:
+[18-Sep-2023 12:09:06 Asia/Kolkata] PHP   1. {main}() D:\wamp64\www\emsdemo\View\dropdown.php:0
+[18-Sep-2023 12:09:06 Asia/Kolkata] PHP Warning:  Undefined variable $selected in D:\wamp64\www\emsdemo\View\dropdown.php on line 34
+[18-Sep-2023 12:09:06 Asia/Kolkata] PHP Stack trace:
+[18-Sep-2023 12:09:06 Asia/Kolkata] PHP   1. {main}() D:\wamp64\www\emsdemo\View\dropdown.php:0
+[18-Sep-2023 12:09:06 Asia/Kolkata] PHP Warning:  Undefined variable $selected in D:\wamp64\www\emsdemo\View\dropdown.php on line 34
+[18-Sep-2023 12:09:06 Asia/Kolkata] PHP Stack trace:
+[18-Sep-2023 12:09:06 Asia/Kolkata] PHP   1. {main}() D:\wamp64\www\emsdemo\View\dropdown.php:0
+[18-Sep-2023 12:09:06 Asia/Kolkata] PHP Warning:  Undefined variable $selected in D:\wamp64\www\emsdemo\View\dropdown.php on line 34
+[18-Sep-2023 12:09:06 Asia/Kolkata] PHP Stack trace:
+[18-Sep-2023 12:09:06 Asia/Kolkata] PHP   1. {main}() D:\wamp64\www\emsdemo\View\dropdown.php:0
+[18-Sep-2023 12:09:06 Asia/Kolkata] PHP Warning:  Undefined variable $selected in D:\wamp64\www\emsdemo\View\dropdown.php on line 34
+[18-Sep-2023 12:09:06 Asia/Kolkata] PHP Stack trace:
+[18-Sep-2023 12:09:06 Asia/Kolkata] PHP   1. {main}() D:\wamp64\www\emsdemo\View\dropdown.php:0
+[18-Sep-2023 12:09:06 Asia/Kolkata] PHP Warning:  Undefined variable $selected in D:\wamp64\www\emsdemo\View\dropdown.php on line 34
+[18-Sep-2023 12:09:06 Asia/Kolkata] PHP Stack trace:
+[18-Sep-2023 12:09:06 Asia/Kolkata] PHP   1. {main}() D:\wamp64\www\emsdemo\View\dropdown.php:0
+[18-Sep-2023 12:09:06 Asia/Kolkata] PHP Warning:  Undefined variable $selected in D:\wamp64\www\emsdemo\View\dropdown.php on line 34
+[18-Sep-2023 12:09:06 Asia/Kolkata] PHP Stack trace:
+[18-Sep-2023 12:09:06 Asia/Kolkata] PHP   1. {main}() D:\wamp64\www\emsdemo\View\dropdown.php:0
+[18-Sep-2023 12:09:06 Asia/Kolkata] PHP Warning:  Undefined variable $selected in D:\wamp64\www\emsdemo\View\dropdown.php on line 34
+[18-Sep-2023 12:09:06 Asia/Kolkata] PHP Stack trace:
+[18-Sep-2023 12:09:06 Asia/Kolkata] PHP   1. {main}() D:\wamp64\www\emsdemo\View\dropdown.php:0
+[18-Sep-2023 12:09:06 Asia/Kolkata] PHP Warning:  Undefined variable $selected in D:\wamp64\www\emsdemo\View\dropdown.php on line 34
+[18-Sep-2023 12:09:06 Asia/Kolkata] PHP Stack trace:
+[18-Sep-2023 12:09:06 Asia/Kolkata] PHP   1. {main}() D:\wamp64\www\emsdemo\View\dropdown.php:0
+[18-Sep-2023 12:09:06 Asia/Kolkata] PHP Warning:  Undefined variable $selected in D:\wamp64\www\emsdemo\View\dropdown.php on line 34
+[18-Sep-2023 12:09:06 Asia/Kolkata] PHP Stack trace:
+[18-Sep-2023 12:09:06 Asia/Kolkata] PHP   1. {main}() D:\wamp64\www\emsdemo\View\dropdown.php:0
+[18-Sep-2023 12:09:06 Asia/Kolkata] PHP Warning:  Undefined variable $selected in D:\wamp64\www\emsdemo\View\dropdown.php on line 34
+[18-Sep-2023 12:09:06 Asia/Kolkata] PHP Stack trace:
+[18-Sep-2023 12:09:06 Asia/Kolkata] PHP   1. {main}() D:\wamp64\www\emsdemo\View\dropdown.php:0
+[18-Sep-2023 12:09:06 Asia/Kolkata] PHP Warning:  Undefined variable $selected in D:\wamp64\www\emsdemo\View\dropdown.php on line 34
+[18-Sep-2023 12:09:06 Asia/Kolkata] PHP Stack trace:
+[18-Sep-2023 12:09:06 Asia/Kolkata] PHP   1. {main}() D:\wamp64\www\emsdemo\View\dropdown.php:0
+[18-Sep-2023 12:09:06 Asia/Kolkata] PHP Warning:  Undefined variable $selected in D:\wamp64\www\emsdemo\View\dropdown.php on line 34
+[18-Sep-2023 12:09:06 Asia/Kolkata] PHP Stack trace:
+[18-Sep-2023 12:09:06 Asia/Kolkata] PHP   1. {main}() D:\wamp64\www\emsdemo\View\dropdown.php:0
+[18-Sep-2023 12:09:06 Asia/Kolkata] PHP Warning:  Undefined variable $selected in D:\wamp64\www\emsdemo\View\dropdown.php on line 34
+[18-Sep-2023 12:09:06 Asia/Kolkata] PHP Stack trace:
+[18-Sep-2023 12:09:06 Asia/Kolkata] PHP   1. {main}() D:\wamp64\www\emsdemo\View\dropdown.php:0
+[18-Sep-2023 12:09:06 Asia/Kolkata] PHP Warning:  Undefined variable $selected in D:\wamp64\www\emsdemo\View\dropdown.php on line 34
+[18-Sep-2023 12:09:06 Asia/Kolkata] PHP Stack trace:
+[18-Sep-2023 12:09:06 Asia/Kolkata] PHP   1. {main}() D:\wamp64\www\emsdemo\View\dropdown.php:0
+[18-Sep-2023 12:09:06 Asia/Kolkata] PHP Warning:  Undefined variable $selected in D:\wamp64\www\emsdemo\View\dropdown.php on line 34
+[18-Sep-2023 12:09:06 Asia/Kolkata] PHP Stack trace:
+[18-Sep-2023 12:09:06 Asia/Kolkata] PHP   1. {main}() D:\wamp64\www\emsdemo\View\dropdown.php:0
+[18-Sep-2023 12:09:06 Asia/Kolkata] PHP Warning:  Undefined variable $selected in D:\wamp64\www\emsdemo\View\dropdown.php on line 34
+[18-Sep-2023 12:09:06 Asia/Kolkata] PHP Stack trace:
+[18-Sep-2023 12:09:06 Asia/Kolkata] PHP   1. {main}() D:\wamp64\www\emsdemo\View\dropdown.php:0
+[18-Sep-2023 12:09:06 Asia/Kolkata] PHP Warning:  Undefined variable $selected in D:\wamp64\www\emsdemo\View\dropdown.php on line 34
+[18-Sep-2023 12:09:06 Asia/Kolkata] PHP Stack trace:
+[18-Sep-2023 12:09:06 Asia/Kolkata] PHP   1. {main}() D:\wamp64\www\emsdemo\View\dropdown.php:0
+[18-Sep-2023 12:09:06 Asia/Kolkata] PHP Warning:  Undefined variable $selected in D:\wamp64\www\emsdemo\View\dropdown.php on line 34
+[18-Sep-2023 12:09:06 Asia/Kolkata] PHP Stack trace:
+[18-Sep-2023 12:09:06 Asia/Kolkata] PHP   1. {main}() D:\wamp64\www\emsdemo\View\dropdown.php:0
+[18-Sep-2023 12:09:06 Asia/Kolkata] PHP Warning:  Undefined variable $selected in D:\wamp64\www\emsdemo\View\dropdown.php on line 34
+[18-Sep-2023 12:09:06 Asia/Kolkata] PHP Stack trace:
+[18-Sep-2023 12:09:06 Asia/Kolkata] PHP   1. {main}() D:\wamp64\www\emsdemo\View\dropdown.php:0
+[18-Sep-2023 12:09:06 Asia/Kolkata] PHP Warning:  Undefined variable $selected in D:\wamp64\www\emsdemo\View\dropdown.php on line 34
+[18-Sep-2023 12:09:06 Asia/Kolkata] PHP Stack trace:
+[18-Sep-2023 12:09:06 Asia/Kolkata] PHP   1. {main}() D:\wamp64\www\emsdemo\View\dropdown.php:0
+[18-Sep-2023 12:09:06 Asia/Kolkata] PHP Warning:  Undefined variable $selected in D:\wamp64\www\emsdemo\View\dropdown.php on line 34
+[18-Sep-2023 12:09:06 Asia/Kolkata] PHP Stack trace:
+[18-Sep-2023 12:09:06 Asia/Kolkata] PHP   1. {main}() D:\wamp64\www\emsdemo\View\dropdown.php:0
+[18-Sep-2023 12:09:06 Asia/Kolkata] PHP Warning:  Undefined variable $selected in D:\wamp64\www\emsdemo\View\dropdown.php on line 34
+[18-Sep-2023 12:09:06 Asia/Kolkata] PHP Stack trace:
+[18-Sep-2023 12:09:06 Asia/Kolkata] PHP   1. {main}() D:\wamp64\www\emsdemo\View\dropdown.php:0
+[18-Sep-2023 12:09:06 Asia/Kolkata] PHP Warning:  Undefined variable $selected in D:\wamp64\www\emsdemo\View\dropdown.php on line 34
+[18-Sep-2023 12:09:06 Asia/Kolkata] PHP Stack trace:
+[18-Sep-2023 12:09:06 Asia/Kolkata] PHP   1. {main}() D:\wamp64\www\emsdemo\View\dropdown.php:0
+[18-Sep-2023 12:09:06 Asia/Kolkata] PHP Warning:  Undefined variable $selected in D:\wamp64\www\emsdemo\View\dropdown.php on line 34
+[18-Sep-2023 12:09:06 Asia/Kolkata] PHP Stack trace:
+[18-Sep-2023 12:09:06 Asia/Kolkata] PHP   1. {main}() D:\wamp64\www\emsdemo\View\dropdown.php:0
+[18-Sep-2023 12:09:06 Asia/Kolkata] PHP Warning:  Undefined variable $selected in D:\wamp64\www\emsdemo\View\dropdown.php on line 34
+[18-Sep-2023 12:09:06 Asia/Kolkata] PHP Stack trace:
+[18-Sep-2023 12:09:06 Asia/Kolkata] PHP   1. {main}() D:\wamp64\www\emsdemo\View\dropdown.php:0
+[18-Sep-2023 12:09:06 Asia/Kolkata] PHP Warning:  Undefined variable $selected in D:\wamp64\www\emsdemo\View\dropdown.php on line 34
+[18-Sep-2023 12:09:06 Asia/Kolkata] PHP Stack trace:
+[18-Sep-2023 12:09:06 Asia/Kolkata] PHP   1. {main}() D:\wamp64\www\emsdemo\View\dropdown.php:0
+[18-Sep-2023 12:09:06 Asia/Kolkata] PHP Warning:  Undefined variable $selected in D:\wamp64\www\emsdemo\View\dropdown.php on line 34
+[18-Sep-2023 12:09:06 Asia/Kolkata] PHP Stack trace:
+[18-Sep-2023 12:09:06 Asia/Kolkata] PHP   1. {main}() D:\wamp64\www\emsdemo\View\dropdown.php:0
+[18-Sep-2023 12:09:06 Asia/Kolkata] PHP Warning:  Undefined variable $selected in D:\wamp64\www\emsdemo\View\dropdown.php on line 34
+[18-Sep-2023 12:09:06 Asia/Kolkata] PHP Stack trace:
+[18-Sep-2023 12:09:06 Asia/Kolkata] PHP   1. {main}() D:\wamp64\www\emsdemo\View\dropdown.php:0
+[18-Sep-2023 12:09:06 Asia/Kolkata] PHP Warning:  Undefined variable $selected in D:\wamp64\www\emsdemo\View\dropdown.php on line 34
+[18-Sep-2023 12:09:06 Asia/Kolkata] PHP Stack trace:
+[18-Sep-2023 12:09:06 Asia/Kolkata] PHP   1. {main}() D:\wamp64\www\emsdemo\View\dropdown.php:0
+[18-Sep-2023 12:09:06 Asia/Kolkata] PHP Warning:  Undefined variable $selected in D:\wamp64\www\emsdemo\View\dropdown.php on line 34
+[18-Sep-2023 12:09:06 Asia/Kolkata] PHP Stack trace:
+[18-Sep-2023 12:09:06 Asia/Kolkata] PHP   1. {main}() D:\wamp64\www\emsdemo\View\dropdown.php:0
+[18-Sep-2023 12:09:06 Asia/Kolkata] PHP Warning:  Undefined variable $selected in D:\wamp64\www\emsdemo\View\dropdown.php on line 34
+[18-Sep-2023 12:09:06 Asia/Kolkata] PHP Stack trace:
+[18-Sep-2023 12:09:06 Asia/Kolkata] PHP   1. {main}() D:\wamp64\www\emsdemo\View\dropdown.php:0
+[18-Sep-2023 12:09:06 Asia/Kolkata] PHP Warning:  Undefined variable $selected in D:\wamp64\www\emsdemo\View\dropdown.php on line 34
+[18-Sep-2023 12:09:06 Asia/Kolkata] PHP Stack trace:
+[18-Sep-2023 12:09:06 Asia/Kolkata] PHP   1. {main}() D:\wamp64\www\emsdemo\View\dropdown.php:0
+[18-Sep-2023 12:09:06 Asia/Kolkata] PHP Warning:  Undefined variable $selected in D:\wamp64\www\emsdemo\View\dropdown.php on line 34
+[18-Sep-2023 12:09:06 Asia/Kolkata] PHP Stack trace:
+[18-Sep-2023 12:09:06 Asia/Kolkata] PHP   1. {main}() D:\wamp64\www\emsdemo\View\dropdown.php:0
+[18-Sep-2023 12:09:06 Asia/Kolkata] PHP Warning:  Undefined variable $selected in D:\wamp64\www\emsdemo\View\dropdown.php on line 34
+[18-Sep-2023 12:09:06 Asia/Kolkata] PHP Stack trace:
+[18-Sep-2023 12:09:06 Asia/Kolkata] PHP   1. {main}() D:\wamp64\www\emsdemo\View\dropdown.php:0
+[18-Sep-2023 12:09:06 Asia/Kolkata] PHP Warning:  Undefined variable $selected in D:\wamp64\www\emsdemo\View\dropdown.php on line 34
+[18-Sep-2023 12:09:06 Asia/Kolkata] PHP Stack trace:
+[18-Sep-2023 12:09:06 Asia/Kolkata] PHP   1. {main}() D:\wamp64\www\emsdemo\View\dropdown.php:0
+[18-Sep-2023 12:09:06 Asia/Kolkata] PHP Warning:  Undefined variable $selected in D:\wamp64\www\emsdemo\View\dropdown.php on line 34
+[18-Sep-2023 12:09:06 Asia/Kolkata] PHP Stack trace:
+[18-Sep-2023 12:09:06 Asia/Kolkata] PHP   1. {main}() D:\wamp64\www\emsdemo\View\dropdown.php:0
+[18-Sep-2023 12:09:06 Asia/Kolkata] PHP Warning:  Undefined variable $selected in D:\wamp64\www\emsdemo\View\dropdown.php on line 34
+[18-Sep-2023 12:09:06 Asia/Kolkata] PHP Stack trace:
+[18-Sep-2023 12:09:06 Asia/Kolkata] PHP   1. {main}() D:\wamp64\www\emsdemo\View\dropdown.php:0
+[18-Sep-2023 12:09:06 Asia/Kolkata] PHP Warning:  Undefined variable $selected in D:\wamp64\www\emsdemo\View\dropdown.php on line 34
+[18-Sep-2023 12:09:06 Asia/Kolkata] PHP Stack trace:
+[18-Sep-2023 12:09:06 Asia/Kolkata] PHP   1. {main}() D:\wamp64\www\emsdemo\View\dropdown.php:0
+[18-Sep-2023 12:09:06 Asia/Kolkata] PHP Warning:  Undefined variable $selected in D:\wamp64\www\emsdemo\View\dropdown.php on line 34
+[18-Sep-2023 12:09:06 Asia/Kolkata] PHP Stack trace:
+[18-Sep-2023 12:09:06 Asia/Kolkata] PHP   1. {main}() D:\wamp64\www\emsdemo\View\dropdown.php:0
+[18-Sep-2023 12:09:06 Asia/Kolkata] PHP Warning:  Undefined variable $selected in D:\wamp64\www\emsdemo\View\dropdown.php on line 34
+[18-Sep-2023 12:09:06 Asia/Kolkata] PHP Stack trace:
+[18-Sep-2023 12:09:06 Asia/Kolkata] PHP   1. {main}() D:\wamp64\www\emsdemo\View\dropdown.php:0
+[18-Sep-2023 12:09:06 Asia/Kolkata] PHP Warning:  Undefined variable $selected in D:\wamp64\www\emsdemo\View\dropdown.php on line 34
+[18-Sep-2023 12:09:06 Asia/Kolkata] PHP Stack trace:
+[18-Sep-2023 12:09:06 Asia/Kolkata] PHP   1. {main}() D:\wamp64\www\emsdemo\View\dropdown.php:0
+[18-Sep-2023 12:09:06 Asia/Kolkata] PHP Warning:  Undefined variable $selected in D:\wamp64\www\emsdemo\View\dropdown.php on line 34
+[18-Sep-2023 12:09:06 Asia/Kolkata] PHP Stack trace:
+[18-Sep-2023 12:09:06 Asia/Kolkata] PHP   1. {main}() D:\wamp64\www\emsdemo\View\dropdown.php:0
+[18-Sep-2023 12:09:06 Asia/Kolkata] PHP Warning:  Undefined variable $selected in D:\wamp64\www\emsdemo\View\dropdown.php on line 34
+[18-Sep-2023 12:09:06 Asia/Kolkata] PHP Stack trace:
+[18-Sep-2023 12:09:06 Asia/Kolkata] PHP   1. {main}() D:\wamp64\www\emsdemo\View\dropdown.php:0
+[18-Sep-2023 12:09:06 Asia/Kolkata] PHP Warning:  Undefined variable $selected in D:\wamp64\www\emsdemo\View\dropdown.php on line 34
+[18-Sep-2023 12:09:06 Asia/Kolkata] PHP Stack trace:
+[18-Sep-2023 12:09:06 Asia/Kolkata] PHP   1. {main}() D:\wamp64\www\emsdemo\View\dropdown.php:0
+[18-Sep-2023 12:09:06 Asia/Kolkata] PHP Warning:  Undefined variable $selected in D:\wamp64\www\emsdemo\View\dropdown.php on line 34
+[18-Sep-2023 12:09:06 Asia/Kolkata] PHP Stack trace:
+[18-Sep-2023 12:09:06 Asia/Kolkata] PHP   1. {main}() D:\wamp64\www\emsdemo\View\dropdown.php:0
+[18-Sep-2023 12:09:06 Asia/Kolkata] PHP Warning:  Undefined variable $selected in D:\wamp64\www\emsdemo\View\dropdown.php on line 34
+[18-Sep-2023 12:09:06 Asia/Kolkata] PHP Stack trace:
+[18-Sep-2023 12:09:06 Asia/Kolkata] PHP   1. {main}() D:\wamp64\www\emsdemo\View\dropdown.php:0
+[18-Sep-2023 12:09:06 Asia/Kolkata] PHP Warning:  Undefined variable $selected in D:\wamp64\www\emsdemo\View\dropdown.php on line 34
+[18-Sep-2023 12:09:06 Asia/Kolkata] PHP Stack trace:
+[18-Sep-2023 12:09:06 Asia/Kolkata] PHP   1. {main}() D:\wamp64\www\emsdemo\View\dropdown.php:0
+[18-Sep-2023 12:09:06 Asia/Kolkata] PHP Warning:  Undefined variable $selected in D:\wamp64\www\emsdemo\View\dropdown.php on line 34
+[18-Sep-2023 12:09:06 Asia/Kolkata] PHP Stack trace:
+[18-Sep-2023 12:09:06 Asia/Kolkata] PHP   1. {main}() D:\wamp64\www\emsdemo\View\dropdown.php:0
+[18-Sep-2023 12:09:06 Asia/Kolkata] PHP Warning:  Undefined variable $selected in D:\wamp64\www\emsdemo\View\dropdown.php on line 34
+[18-Sep-2023 12:09:06 Asia/Kolkata] PHP Stack trace:
+[18-Sep-2023 12:09:06 Asia/Kolkata] PHP   1. {main}() D:\wamp64\www\emsdemo\View\dropdown.php:0
+[18-Sep-2023 12:09:06 Asia/Kolkata] PHP Warning:  Undefined variable $selected in D:\wamp64\www\emsdemo\View\dropdown.php on line 34
+[18-Sep-2023 12:09:06 Asia/Kolkata] PHP Stack trace:
+[18-Sep-2023 12:09:06 Asia/Kolkata] PHP   1. {main}() D:\wamp64\www\emsdemo\View\dropdown.php:0
+[18-Sep-2023 12:09:06 Asia/Kolkata] PHP Warning:  Undefined variable $selected in D:\wamp64\www\emsdemo\View\dropdown.php on line 34
+[18-Sep-2023 12:09:06 Asia/Kolkata] PHP Stack trace:
+[18-Sep-2023 12:09:06 Asia/Kolkata] PHP   1. {main}() D:\wamp64\www\emsdemo\View\dropdown.php:0
+[18-Sep-2023 12:09:06 Asia/Kolkata] PHP Warning:  Undefined variable $selected in D:\wamp64\www\emsdemo\View\dropdown.php on line 34
+[18-Sep-2023 12:09:06 Asia/Kolkata] PHP Stack trace:
+[18-Sep-2023 12:09:06 Asia/Kolkata] PHP   1. {main}() D:\wamp64\www\emsdemo\View\dropdown.php:0
+[18-Sep-2023 12:09:06 Asia/Kolkata] PHP Warning:  Undefined variable $selected in D:\wamp64\www\emsdemo\View\dropdown.php on line 34
+[18-Sep-2023 12:09:06 Asia/Kolkata] PHP Stack trace:
+[18-Sep-2023 12:09:06 Asia/Kolkata] PHP   1. {main}() D:\wamp64\www\emsdemo\View\dropdown.php:0
+[18-Sep-2023 12:09:06 Asia/Kolkata] PHP Warning:  Undefined variable $selected in D:\wamp64\www\emsdemo\View\dropdown.php on line 34
+[18-Sep-2023 12:09:06 Asia/Kolkata] PHP Stack trace:
+[18-Sep-2023 12:09:06 Asia/Kolkata] PHP   1. {main}() D:\wamp64\www\emsdemo\View\dropdown.php:0
+[18-Sep-2023 12:09:06 Asia/Kolkata] PHP Warning:  Undefined variable $selected in D:\wamp64\www\emsdemo\View\dropdown.php on line 34
+[18-Sep-2023 12:09:06 Asia/Kolkata] PHP Stack trace:
+[18-Sep-2023 12:09:06 Asia/Kolkata] PHP   1. {main}() D:\wamp64\www\emsdemo\View\dropdown.php:0
+[18-Sep-2023 12:09:06 Asia/Kolkata] PHP Warning:  Undefined variable $selected in D:\wamp64\www\emsdemo\View\dropdown.php on line 34
+[18-Sep-2023 12:09:06 Asia/Kolkata] PHP Stack trace:
+[18-Sep-2023 12:09:06 Asia/Kolkata] PHP   1. {main}() D:\wamp64\www\emsdemo\View\dropdown.php:0
+[18-Sep-2023 12:09:06 Asia/Kolkata] PHP Warning:  Undefined variable $selected in D:\wamp64\www\emsdemo\View\dropdown.php on line 34
+[18-Sep-2023 12:09:06 Asia/Kolkata] PHP Stack trace:
+[18-Sep-2023 12:09:06 Asia/Kolkata] PHP   1. {main}() D:\wamp64\www\emsdemo\View\dropdown.php:0
+[18-Sep-2023 12:09:06 Asia/Kolkata] PHP Warning:  Undefined variable $selected in D:\wamp64\www\emsdemo\View\dropdown.php on line 34
+[18-Sep-2023 12:09:06 Asia/Kolkata] PHP Stack trace:
+[18-Sep-2023 12:09:06 Asia/Kolkata] PHP   1. {main}() D:\wamp64\www\emsdemo\View\dropdown.php:0
+[18-Sep-2023 12:09:06 Asia/Kolkata] PHP Warning:  Undefined variable $selected in D:\wamp64\www\emsdemo\View\dropdown.php on line 34
+[18-Sep-2023 12:09:06 Asia/Kolkata] PHP Stack trace:
+[18-Sep-2023 12:09:06 Asia/Kolkata] PHP   1. {main}() D:\wamp64\www\emsdemo\View\dropdown.php:0
+[18-Sep-2023 12:09:06 Asia/Kolkata] PHP Warning:  Undefined variable $selected in D:\wamp64\www\emsdemo\View\dropdown.php on line 34
+[18-Sep-2023 12:09:06 Asia/Kolkata] PHP Stack trace:
+[18-Sep-2023 12:09:06 Asia/Kolkata] PHP   1. {main}() D:\wamp64\www\emsdemo\View\dropdown.php:0
+[18-Sep-2023 12:09:06 Asia/Kolkata] PHP Warning:  Undefined variable $selected in D:\wamp64\www\emsdemo\View\dropdown.php on line 34
+[18-Sep-2023 12:09:06 Asia/Kolkata] PHP Stack trace:
+[18-Sep-2023 12:09:06 Asia/Kolkata] PHP   1. {main}() D:\wamp64\www\emsdemo\View\dropdown.php:0
+[18-Sep-2023 12:09:06 Asia/Kolkata] PHP Warning:  Undefined variable $selected in D:\wamp64\www\emsdemo\View\dropdown.php on line 34
+[18-Sep-2023 12:09:06 Asia/Kolkata] PHP Stack trace:
+[18-Sep-2023 12:09:06 Asia/Kolkata] PHP   1. {main}() D:\wamp64\www\emsdemo\View\dropdown.php:0
+[18-Sep-2023 12:09:06 Asia/Kolkata] PHP Warning:  Undefined variable $selected in D:\wamp64\www\emsdemo\View\dropdown.php on line 34
+[18-Sep-2023 12:09:06 Asia/Kolkata] PHP Stack trace:
+[18-Sep-2023 12:09:06 Asia/Kolkata] PHP   1. {main}() D:\wamp64\www\emsdemo\View\dropdown.php:0
+[18-Sep-2023 12:09:06 Asia/Kolkata] PHP Warning:  Undefined variable $selected in D:\wamp64\www\emsdemo\View\dropdown.php on line 34
+[18-Sep-2023 12:09:06 Asia/Kolkata] PHP Stack trace:
+[18-Sep-2023 12:09:06 Asia/Kolkata] PHP   1. {main}() D:\wamp64\www\emsdemo\View\dropdown.php:0
+[18-Sep-2023 12:09:06 Asia/Kolkata] PHP Warning:  Undefined variable $selected in D:\wamp64\www\emsdemo\View\dropdown.php on line 34
+[18-Sep-2023 12:09:06 Asia/Kolkata] PHP Stack trace:
+[18-Sep-2023 12:09:06 Asia/Kolkata] PHP   1. {main}() D:\wamp64\www\emsdemo\View\dropdown.php:0
+[18-Sep-2023 12:09:06 Asia/Kolkata] PHP Warning:  Undefined variable $selected in D:\wamp64\www\emsdemo\View\dropdown.php on line 34
+[18-Sep-2023 12:09:06 Asia/Kolkata] PHP Stack trace:
+[18-Sep-2023 12:09:06 Asia/Kolkata] PHP   1. {main}() D:\wamp64\www\emsdemo\View\dropdown.php:0
+[18-Sep-2023 12:09:06 Asia/Kolkata] PHP Warning:  Undefined variable $selected in D:\wamp64\www\emsdemo\View\dropdown.php on line 34
+[18-Sep-2023 12:09:06 Asia/Kolkata] PHP Stack trace:
+[18-Sep-2023 12:09:06 Asia/Kolkata] PHP   1. {main}() D:\wamp64\www\emsdemo\View\dropdown.php:0
+[18-Sep-2023 12:09:06 Asia/Kolkata] PHP Warning:  Undefined variable $selected in D:\wamp64\www\emsdemo\View\dropdown.php on line 34
+[18-Sep-2023 12:09:06 Asia/Kolkata] PHP Stack trace:
+[18-Sep-2023 12:09:06 Asia/Kolkata] PHP   1. {main}() D:\wamp64\www\emsdemo\View\dropdown.php:0
+[18-Sep-2023 12:09:06 Asia/Kolkata] PHP Warning:  Undefined variable $selected in D:\wamp64\www\emsdemo\View\dropdown.php on line 34
+[18-Sep-2023 12:09:06 Asia/Kolkata] PHP Stack trace:
+[18-Sep-2023 12:09:06 Asia/Kolkata] PHP   1. {main}() D:\wamp64\www\emsdemo\View\dropdown.php:0
+[18-Sep-2023 12:09:06 Asia/Kolkata] PHP Warning:  Undefined variable $selected in D:\wamp64\www\emsdemo\View\dropdown.php on line 34
+[18-Sep-2023 12:09:06 Asia/Kolkata] PHP Stack trace:
+[18-Sep-2023 12:09:06 Asia/Kolkata] PHP   1. {main}() D:\wamp64\www\emsdemo\View\dropdown.php:0
+[18-Sep-2023 12:09:06 Asia/Kolkata] PHP Warning:  Undefined variable $selected in D:\wamp64\www\emsdemo\View\dropdown.php on line 34
+[18-Sep-2023 12:09:06 Asia/Kolkata] PHP Stack trace:
+[18-Sep-2023 12:09:06 Asia/Kolkata] PHP   1. {main}() D:\wamp64\www\emsdemo\View\dropdown.php:0
+[18-Sep-2023 12:09:06 Asia/Kolkata] PHP Warning:  Undefined variable $selected in D:\wamp64\www\emsdemo\View\dropdown.php on line 34
+[18-Sep-2023 12:09:06 Asia/Kolkata] PHP Stack trace:
+[18-Sep-2023 12:09:06 Asia/Kolkata] PHP   1. {main}() D:\wamp64\www\emsdemo\View\dropdown.php:0
+[18-Sep-2023 12:09:06 Asia/Kolkata] PHP Warning:  Undefined variable $selected in D:\wamp64\www\emsdemo\View\dropdown.php on line 34
+[18-Sep-2023 12:09:06 Asia/Kolkata] PHP Stack trace:
+[18-Sep-2023 12:09:06 Asia/Kolkata] PHP   1. {main}() D:\wamp64\www\emsdemo\View\dropdown.php:0
+[18-Sep-2023 12:09:06 Asia/Kolkata] PHP Warning:  Undefined variable $selected in D:\wamp64\www\emsdemo\View\dropdown.php on line 34
+[18-Sep-2023 12:09:06 Asia/Kolkata] PHP Stack trace:
+[18-Sep-2023 12:09:06 Asia/Kolkata] PHP   1. {main}() D:\wamp64\www\emsdemo\View\dropdown.php:0
+[18-Sep-2023 12:09:06 Asia/Kolkata] PHP Warning:  Undefined variable $selected in D:\wamp64\www\emsdemo\View\dropdown.php on line 34
+[18-Sep-2023 12:09:06 Asia/Kolkata] PHP Stack trace:
+[18-Sep-2023 12:09:06 Asia/Kolkata] PHP   1. {main}() D:\wamp64\www\emsdemo\View\dropdown.php:0
+[18-Sep-2023 12:09:06 Asia/Kolkata] PHP Warning:  Undefined variable $selected in D:\wamp64\www\emsdemo\View\dropdown.php on line 34
+[18-Sep-2023 12:09:06 Asia/Kolkata] PHP Stack trace:
+[18-Sep-2023 12:09:06 Asia/Kolkata] PHP   1. {main}() D:\wamp64\www\emsdemo\View\dropdown.php:0
+[18-Sep-2023 12:09:06 Asia/Kolkata] PHP Warning:  Undefined variable $selected in D:\wamp64\www\emsdemo\View\dropdown.php on line 34
+[18-Sep-2023 12:09:06 Asia/Kolkata] PHP Stack trace:
+[18-Sep-2023 12:09:06 Asia/Kolkata] PHP   1. {main}() D:\wamp64\www\emsdemo\View\dropdown.php:0
+[18-Sep-2023 12:09:06 Asia/Kolkata] PHP Warning:  Undefined variable $selected in D:\wamp64\www\emsdemo\View\dropdown.php on line 34
+[18-Sep-2023 12:09:06 Asia/Kolkata] PHP Stack trace:
+[18-Sep-2023 12:09:06 Asia/Kolkata] PHP   1. {main}() D:\wamp64\www\emsdemo\View\dropdown.php:0
+[18-Sep-2023 12:09:06 Asia/Kolkata] PHP Warning:  Undefined variable $selected in D:\wamp64\www\emsdemo\View\dropdown.php on line 34
+[18-Sep-2023 12:09:06 Asia/Kolkata] PHP Stack trace:
+[18-Sep-2023 12:09:06 Asia/Kolkata] PHP   1. {main}() D:\wamp64\www\emsdemo\View\dropdown.php:0
+[18-Sep-2023 12:09:06 Asia/Kolkata] PHP Warning:  Undefined variable $selected in D:\wamp64\www\emsdemo\View\dropdown.php on line 34
+[18-Sep-2023 12:09:06 Asia/Kolkata] PHP Stack trace:
+[18-Sep-2023 12:09:06 Asia/Kolkata] PHP   1. {main}() D:\wamp64\www\emsdemo\View\dropdown.php:0
+[18-Sep-2023 12:09:06 Asia/Kolkata] PHP Warning:  Undefined variable $selected in D:\wamp64\www\emsdemo\View\dropdown.php on line 34
+[18-Sep-2023 12:09:06 Asia/Kolkata] PHP Stack trace:
+[18-Sep-2023 12:09:06 Asia/Kolkata] PHP   1. {main}() D:\wamp64\www\emsdemo\View\dropdown.php:0
+[18-Sep-2023 12:09:06 Asia/Kolkata] PHP Warning:  Undefined variable $selected in D:\wamp64\www\emsdemo\View\dropdown.php on line 34
+[18-Sep-2023 12:09:06 Asia/Kolkata] PHP Stack trace:
+[18-Sep-2023 12:09:06 Asia/Kolkata] PHP   1. {main}() D:\wamp64\www\emsdemo\View\dropdown.php:0
+[18-Sep-2023 12:09:06 Asia/Kolkata] PHP Warning:  Undefined variable $selected in D:\wamp64\www\emsdemo\View\dropdown.php on line 34
+[18-Sep-2023 12:09:06 Asia/Kolkata] PHP Stack trace:
+[18-Sep-2023 12:09:06 Asia/Kolkata] PHP   1. {main}() D:\wamp64\www\emsdemo\View\dropdown.php:0
+[18-Sep-2023 12:09:06 Asia/Kolkata] PHP Warning:  Undefined variable $selected in D:\wamp64\www\emsdemo\View\dropdown.php on line 34
+[18-Sep-2023 12:09:06 Asia/Kolkata] PHP Stack trace:
+[18-Sep-2023 12:09:06 Asia/Kolkata] PHP   1. {main}() D:\wamp64\www\emsdemo\View\dropdown.php:0
+[18-Sep-2023 12:09:06 Asia/Kolkata] PHP Warning:  Undefined variable $selected in D:\wamp64\www\emsdemo\View\dropdown.php on line 34
+[18-Sep-2023 12:09:06 Asia/Kolkata] PHP Stack trace:
+[18-Sep-2023 12:09:06 Asia/Kolkata] PHP   1. {main}() D:\wamp64\www\emsdemo\View\dropdown.php:0
+[18-Sep-2023 12:09:06 Asia/Kolkata] PHP Warning:  Undefined variable $selected in D:\wamp64\www\emsdemo\View\dropdown.php on line 34
+[18-Sep-2023 12:09:06 Asia/Kolkata] PHP Stack trace:
+[18-Sep-2023 12:09:06 Asia/Kolkata] PHP   1. {main}() D:\wamp64\www\emsdemo\View\dropdown.php:0
+[18-Sep-2023 12:09:06 Asia/Kolkata] PHP Warning:  Undefined variable $selected in D:\wamp64\www\emsdemo\View\dropdown.php on line 34
+[18-Sep-2023 12:09:06 Asia/Kolkata] PHP Stack trace:
+[18-Sep-2023 12:09:06 Asia/Kolkata] PHP   1. {main}() D:\wamp64\www\emsdemo\View\dropdown.php:0
+[18-Sep-2023 12:09:06 Asia/Kolkata] PHP Warning:  Undefined variable $selected in D:\wamp64\www\emsdemo\View\dropdown.php on line 34
+[18-Sep-2023 12:09:06 Asia/Kolkata] PHP Stack trace:
+[18-Sep-2023 12:09:06 Asia/Kolkata] PHP   1. {main}() D:\wamp64\www\emsdemo\View\dropdown.php:0
+[18-Sep-2023 12:09:06 Asia/Kolkata] PHP Warning:  Undefined variable $selected in D:\wamp64\www\emsdemo\View\dropdown.php on line 34
+[18-Sep-2023 12:09:06 Asia/Kolkata] PHP Stack trace:
+[18-Sep-2023 12:09:06 Asia/Kolkata] PHP   1. {main}() D:\wamp64\www\emsdemo\View\dropdown.php:0
+[18-Sep-2023 12:09:06 Asia/Kolkata] PHP Warning:  Undefined variable $selected in D:\wamp64\www\emsdemo\View\dropdown.php on line 34
+[18-Sep-2023 12:09:06 Asia/Kolkata] PHP Stack trace:
+[18-Sep-2023 12:09:06 Asia/Kolkata] PHP   1. {main}() D:\wamp64\www\emsdemo\View\dropdown.php:0
+[18-Sep-2023 12:09:06 Asia/Kolkata] PHP Warning:  Undefined variable $selected in D:\wamp64\www\emsdemo\View\dropdown.php on line 34
+[18-Sep-2023 12:09:06 Asia/Kolkata] PHP Stack trace:
+[18-Sep-2023 12:09:06 Asia/Kolkata] PHP   1. {main}() D:\wamp64\www\emsdemo\View\dropdown.php:0
+[18-Sep-2023 12:09:06 Asia/Kolkata] PHP Warning:  Undefined variable $selected in D:\wamp64\www\emsdemo\View\dropdown.php on line 34
+[18-Sep-2023 12:09:06 Asia/Kolkata] PHP Stack trace:
+[18-Sep-2023 12:09:06 Asia/Kolkata] PHP   1. {main}() D:\wamp64\www\emsdemo\View\dropdown.php:0
+[18-Sep-2023 12:09:06 Asia/Kolkata] PHP Warning:  Undefined variable $selected in D:\wamp64\www\emsdemo\View\dropdown.php on line 34
+[18-Sep-2023 12:09:06 Asia/Kolkata] PHP Stack trace:
+[18-Sep-2023 12:09:06 Asia/Kolkata] PHP   1. {main}() D:\wamp64\www\emsdemo\View\dropdown.php:0
+[18-Sep-2023 12:09:06 Asia/Kolkata] PHP Warning:  Undefined variable $selected in D:\wamp64\www\emsdemo\View\dropdown.php on line 34
+[18-Sep-2023 12:09:06 Asia/Kolkata] PHP Stack trace:
+[18-Sep-2023 12:09:06 Asia/Kolkata] PHP   1. {main}() D:\wamp64\www\emsdemo\View\dropdown.php:0
+[18-Sep-2023 12:09:06 Asia/Kolkata] PHP Warning:  Undefined variable $selected in D:\wamp64\www\emsdemo\View\dropdown.php on line 34
+[18-Sep-2023 12:09:06 Asia/Kolkata] PHP Stack trace:
+[18-Sep-2023 12:09:06 Asia/Kolkata] PHP   1. {main}() D:\wamp64\www\emsdemo\View\dropdown.php:0
+[18-Sep-2023 12:09:06 Asia/Kolkata] PHP Warning:  Undefined variable $selected in D:\wamp64\www\emsdemo\View\dropdown.php on line 34
+[18-Sep-2023 12:09:06 Asia/Kolkata] PHP Stack trace:
+[18-Sep-2023 12:09:06 Asia/Kolkata] PHP   1. {main}() D:\wamp64\www\emsdemo\View\dropdown.php:0
+[18-Sep-2023 12:09:06 Asia/Kolkata] PHP Warning:  Undefined variable $selected in D:\wamp64\www\emsdemo\View\dropdown.php on line 34
+[18-Sep-2023 12:09:06 Asia/Kolkata] PHP Stack trace:
+[18-Sep-2023 12:09:06 Asia/Kolkata] PHP   1. {main}() D:\wamp64\www\emsdemo\View\dropdown.php:0
+[18-Sep-2023 12:09:06 Asia/Kolkata] PHP Warning:  Undefined variable $selected in D:\wamp64\www\emsdemo\View\dropdown.php on line 34
+[18-Sep-2023 12:09:06 Asia/Kolkata] PHP Stack trace:
+[18-Sep-2023 12:09:06 Asia/Kolkata] PHP   1. {main}() D:\wamp64\www\emsdemo\View\dropdown.php:0
+[18-Sep-2023 12:09:06 Asia/Kolkata] PHP Warning:  Undefined variable $selected in D:\wamp64\www\emsdemo\View\dropdown.php on line 34
+[18-Sep-2023 12:09:06 Asia/Kolkata] PHP Stack trace:
+[18-Sep-2023 12:09:06 Asia/Kolkata] PHP   1. {main}() D:\wamp64\www\emsdemo\View\dropdown.php:0
+[18-Sep-2023 12:09:06 Asia/Kolkata] PHP Warning:  Undefined variable $selected in D:\wamp64\www\emsdemo\View\dropdown.php on line 34
+[18-Sep-2023 12:09:06 Asia/Kolkata] PHP Stack trace:
+[18-Sep-2023 12:09:06 Asia/Kolkata] PHP   1. {main}() D:\wamp64\www\emsdemo\View\dropdown.php:0
+[18-Sep-2023 12:09:06 Asia/Kolkata] PHP Warning:  Undefined variable $selected in D:\wamp64\www\emsdemo\View\dropdown.php on line 34
+[18-Sep-2023 12:09:06 Asia/Kolkata] PHP Stack trace:
+[18-Sep-2023 12:09:06 Asia/Kolkata] PHP   1. {main}() D:\wamp64\www\emsdemo\View\dropdown.php:0
+[18-Sep-2023 12:09:06 Asia/Kolkata] PHP Warning:  Undefined variable $selected in D:\wamp64\www\emsdemo\View\dropdown.php on line 34
+[18-Sep-2023 12:09:06 Asia/Kolkata] PHP Stack trace:
+[18-Sep-2023 12:09:06 Asia/Kolkata] PHP   1. {main}() D:\wamp64\www\emsdemo\View\dropdown.php:0
+[18-Sep-2023 12:09:06 Asia/Kolkata] PHP Warning:  Undefined variable $selected in D:\wamp64\www\emsdemo\View\dropdown.php on line 34
+[18-Sep-2023 12:09:06 Asia/Kolkata] PHP Stack trace:
+[18-Sep-2023 12:09:06 Asia/Kolkata] PHP   1. {main}() D:\wamp64\www\emsdemo\View\dropdown.php:0
+[18-Sep-2023 12:09:06 Asia/Kolkata] PHP Warning:  Undefined variable $selected in D:\wamp64\www\emsdemo\View\dropdown.php on line 34
+[18-Sep-2023 12:09:06 Asia/Kolkata] PHP Stack trace:
+[18-Sep-2023 12:09:06 Asia/Kolkata] PHP   1. {main}() D:\wamp64\www\emsdemo\View\dropdown.php:0
+[18-Sep-2023 12:09:06 Asia/Kolkata] PHP Warning:  Undefined variable $selected in D:\wamp64\www\emsdemo\View\dropdown.php on line 34
+[18-Sep-2023 12:09:06 Asia/Kolkata] PHP Stack trace:
+[18-Sep-2023 12:09:06 Asia/Kolkata] PHP   1. {main}() D:\wamp64\www\emsdemo\View\dropdown.php:0
+[18-Sep-2023 12:09:06 Asia/Kolkata] PHP Warning:  Undefined variable $selected in D:\wamp64\www\emsdemo\View\dropdown.php on line 34
+[18-Sep-2023 12:09:06 Asia/Kolkata] PHP Stack trace:
+[18-Sep-2023 12:09:06 Asia/Kolkata] PHP   1. {main}() D:\wamp64\www\emsdemo\View\dropdown.php:0
+[18-Sep-2023 12:09:06 Asia/Kolkata] PHP Warning:  Undefined variable $selected in D:\wamp64\www\emsdemo\View\dropdown.php on line 34
+[18-Sep-2023 12:09:06 Asia/Kolkata] PHP Stack trace:
+[18-Sep-2023 12:09:06 Asia/Kolkata] PHP   1. {main}() D:\wamp64\www\emsdemo\View\dropdown.php:0
+[18-Sep-2023 12:09:06 Asia/Kolkata] PHP Warning:  Undefined variable $selected in D:\wamp64\www\emsdemo\View\dropdown.php on line 34
+[18-Sep-2023 12:09:06 Asia/Kolkata] PHP Stack trace:
+[18-Sep-2023 12:09:06 Asia/Kolkata] PHP   1. {main}() D:\wamp64\www\emsdemo\View\dropdown.php:0
+[18-Sep-2023 12:09:06 Asia/Kolkata] PHP Warning:  Undefined variable $selected in D:\wamp64\www\emsdemo\View\dropdown.php on line 34
+[18-Sep-2023 12:09:06 Asia/Kolkata] PHP Stack trace:
+[18-Sep-2023 12:09:06 Asia/Kolkata] PHP   1. {main}() D:\wamp64\www\emsdemo\View\dropdown.php:0
+[18-Sep-2023 12:09:06 Asia/Kolkata] PHP Warning:  Undefined variable $selected in D:\wamp64\www\emsdemo\View\dropdown.php on line 34
+[18-Sep-2023 12:09:06 Asia/Kolkata] PHP Stack trace:
+[18-Sep-2023 12:09:06 Asia/Kolkata] PHP   1. {main}() D:\wamp64\www\emsdemo\View\dropdown.php:0
+[18-Sep-2023 12:09:06 Asia/Kolkata] PHP Warning:  Undefined variable $selected in D:\wamp64\www\emsdemo\View\dropdown.php on line 34
+[18-Sep-2023 12:09:06 Asia/Kolkata] PHP Stack trace:
+[18-Sep-2023 12:09:06 Asia/Kolkata] PHP   1. {main}() D:\wamp64\www\emsdemo\View\dropdown.php:0
+[18-Sep-2023 12:09:06 Asia/Kolkata] PHP Warning:  Undefined variable $selected in D:\wamp64\www\emsdemo\View\dropdown.php on line 34
+[18-Sep-2023 12:09:06 Asia/Kolkata] PHP Stack trace:
+[18-Sep-2023 12:09:06 Asia/Kolkata] PHP   1. {main}() D:\wamp64\www\emsdemo\View\dropdown.php:0
+[18-Sep-2023 12:09:06 Asia/Kolkata] PHP Warning:  Undefined variable $selected in D:\wamp64\www\emsdemo\View\dropdown.php on line 34
+[18-Sep-2023 12:09:06 Asia/Kolkata] PHP Stack trace:
+[18-Sep-2023 12:09:06 Asia/Kolkata] PHP   1. {main}() D:\wamp64\www\emsdemo\View\dropdown.php:0
+[18-Sep-2023 12:09:06 Asia/Kolkata] PHP Warning:  Undefined variable $selected in D:\wamp64\www\emsdemo\View\dropdown.php on line 34
+[18-Sep-2023 12:09:06 Asia/Kolkata] PHP Stack trace:
+[18-Sep-2023 12:09:06 Asia/Kolkata] PHP   1. {main}() D:\wamp64\www\emsdemo\View\dropdown.php:0
+[18-Sep-2023 12:09:06 Asia/Kolkata] PHP Warning:  Undefined variable $selected in D:\wamp64\www\emsdemo\View\dropdown.php on line 34
+[18-Sep-2023 12:09:06 Asia/Kolkata] PHP Stack trace:
+[18-Sep-2023 12:09:06 Asia/Kolkata] PHP   1. {main}() D:\wamp64\www\emsdemo\View\dropdown.php:0
+[18-Sep-2023 12:09:06 Asia/Kolkata] PHP Warning:  Undefined variable $selected in D:\wamp64\www\emsdemo\View\dropdown.php on line 34
+[18-Sep-2023 12:09:06 Asia/Kolkata] PHP Stack trace:
+[18-Sep-2023 12:09:06 Asia/Kolkata] PHP   1. {main}() D:\wamp64\www\emsdemo\View\dropdown.php:0
+[18-Sep-2023 12:09:06 Asia/Kolkata] PHP Warning:  Undefined variable $selected in D:\wamp64\www\emsdemo\View\dropdown.php on line 34
+[18-Sep-2023 12:09:06 Asia/Kolkata] PHP Stack trace:
+[18-Sep-2023 12:09:06 Asia/Kolkata] PHP   1. {main}() D:\wamp64\www\emsdemo\View\dropdown.php:0
+[18-Sep-2023 12:09:06 Asia/Kolkata] PHP Warning:  Undefined variable $selected in D:\wamp64\www\emsdemo\View\dropdown.php on line 34
+[18-Sep-2023 12:09:06 Asia/Kolkata] PHP Stack trace:
+[18-Sep-2023 12:09:06 Asia/Kolkata] PHP   1. {main}() D:\wamp64\www\emsdemo\View\dropdown.php:0
+[18-Sep-2023 12:09:06 Asia/Kolkata] PHP Warning:  Undefined variable $selected in D:\wamp64\www\emsdemo\View\dropdown.php on line 34
+[18-Sep-2023 12:09:06 Asia/Kolkata] PHP Stack trace:
+[18-Sep-2023 12:09:06 Asia/Kolkata] PHP   1. {main}() D:\wamp64\www\emsdemo\View\dropdown.php:0
+[18-Sep-2023 12:09:06 Asia/Kolkata] PHP Warning:  Undefined variable $selected in D:\wamp64\www\emsdemo\View\dropdown.php on line 34
+[18-Sep-2023 12:09:06 Asia/Kolkata] PHP Stack trace:
+[18-Sep-2023 12:09:06 Asia/Kolkata] PHP   1. {main}() D:\wamp64\www\emsdemo\View\dropdown.php:0
+[18-Sep-2023 12:09:06 Asia/Kolkata] PHP Warning:  Undefined variable $selected in D:\wamp64\www\emsdemo\View\dropdown.php on line 34
+[18-Sep-2023 12:09:06 Asia/Kolkata] PHP Stack trace:
+[18-Sep-2023 12:09:06 Asia/Kolkata] PHP   1. {main}() D:\wamp64\www\emsdemo\View\dropdown.php:0
+[18-Sep-2023 12:09:06 Asia/Kolkata] PHP Warning:  Undefined variable $selected in D:\wamp64\www\emsdemo\View\dropdown.php on line 34
+[18-Sep-2023 12:09:06 Asia/Kolkata] PHP Stack trace:
+[18-Sep-2023 12:09:06 Asia/Kolkata] PHP   1. {main}() D:\wamp64\www\emsdemo\View\dropdown.php:0
+[18-Sep-2023 12:09:06 Asia/Kolkata] PHP Warning:  Undefined variable $selected in D:\wamp64\www\emsdemo\View\dropdown.php on line 34
+[18-Sep-2023 12:09:06 Asia/Kolkata] PHP Stack trace:
+[18-Sep-2023 12:09:06 Asia/Kolkata] PHP   1. {main}() D:\wamp64\www\emsdemo\View\dropdown.php:0
+[18-Sep-2023 12:09:06 Asia/Kolkata] PHP Warning:  Undefined variable $selected in D:\wamp64\www\emsdemo\View\dropdown.php on line 34
+[18-Sep-2023 12:09:06 Asia/Kolkata] PHP Stack trace:
+[18-Sep-2023 12:09:06 Asia/Kolkata] PHP   1. {main}() D:\wamp64\www\emsdemo\View\dropdown.php:0
+[18-Sep-2023 12:09:06 Asia/Kolkata] PHP Warning:  Undefined variable $selected in D:\wamp64\www\emsdemo\View\dropdown.php on line 34
+[18-Sep-2023 12:09:06 Asia/Kolkata] PHP Stack trace:
+[18-Sep-2023 12:09:06 Asia/Kolkata] PHP   1. {main}() D:\wamp64\www\emsdemo\View\dropdown.php:0
+[18-Sep-2023 12:09:06 Asia/Kolkata] PHP Warning:  Undefined variable $selected in D:\wamp64\www\emsdemo\View\dropdown.php on line 34
+[18-Sep-2023 12:09:06 Asia/Kolkata] PHP Stack trace:
+[18-Sep-2023 12:09:06 Asia/Kolkata] PHP   1. {main}() D:\wamp64\www\emsdemo\View\dropdown.php:0
+[18-Sep-2023 12:09:06 Asia/Kolkata] PHP Warning:  Undefined variable $selected in D:\wamp64\www\emsdemo\View\dropdown.php on line 34
+[18-Sep-2023 12:09:06 Asia/Kolkata] PHP Stack trace:
+[18-Sep-2023 12:09:06 Asia/Kolkata] PHP   1. {main}() D:\wamp64\www\emsdemo\View\dropdown.php:0
+[18-Sep-2023 12:09:06 Asia/Kolkata] PHP Warning:  Undefined variable $selected in D:\wamp64\www\emsdemo\View\dropdown.php on line 34
+[18-Sep-2023 12:09:06 Asia/Kolkata] PHP Stack trace:
+[18-Sep-2023 12:09:06 Asia/Kolkata] PHP   1. {main}() D:\wamp64\www\emsdemo\View\dropdown.php:0
+[18-Sep-2023 12:09:06 Asia/Kolkata] PHP Warning:  Undefined variable $selected in D:\wamp64\www\emsdemo\View\dropdown.php on line 34
+[18-Sep-2023 12:09:06 Asia/Kolkata] PHP Stack trace:
+[18-Sep-2023 12:09:06 Asia/Kolkata] PHP   1. {main}() D:\wamp64\www\emsdemo\View\dropdown.php:0
+[18-Sep-2023 12:09:06 Asia/Kolkata] PHP Warning:  Undefined variable $selected in D:\wamp64\www\emsdemo\View\dropdown.php on line 34
+[18-Sep-2023 12:09:06 Asia/Kolkata] PHP Stack trace:
+[18-Sep-2023 12:09:06 Asia/Kolkata] PHP   1. {main}() D:\wamp64\www\emsdemo\View\dropdown.php:0
+[18-Sep-2023 12:09:06 Asia/Kolkata] PHP Warning:  Undefined variable $selected in D:\wamp64\www\emsdemo\View\dropdown.php on line 34
+[18-Sep-2023 12:09:06 Asia/Kolkata] PHP Stack trace:
+[18-Sep-2023 12:09:06 Asia/Kolkata] PHP   1. {main}() D:\wamp64\www\emsdemo\View\dropdown.php:0
+[18-Sep-2023 12:09:06 Asia/Kolkata] PHP Warning:  Undefined variable $selected in D:\wamp64\www\emsdemo\View\dropdown.php on line 34
+[18-Sep-2023 12:09:06 Asia/Kolkata] PHP Stack trace:
+[18-Sep-2023 12:09:06 Asia/Kolkata] PHP   1. {main}() D:\wamp64\www\emsdemo\View\dropdown.php:0
+[18-Sep-2023 12:09:06 Asia/Kolkata] PHP Warning:  Undefined variable $selected in D:\wamp64\www\emsdemo\View\dropdown.php on line 34
+[18-Sep-2023 12:09:06 Asia/Kolkata] PHP Stack trace:
+[18-Sep-2023 12:09:06 Asia/Kolkata] PHP   1. {main}() D:\wamp64\www\emsdemo\View\dropdown.php:0
+[18-Sep-2023 12:09:06 Asia/Kolkata] PHP Warning:  Undefined variable $selected in D:\wamp64\www\emsdemo\View\dropdown.php on line 34
+[18-Sep-2023 12:09:06 Asia/Kolkata] PHP Stack trace:
+[18-Sep-2023 12:09:06 Asia/Kolkata] PHP   1. {main}() D:\wamp64\www\emsdemo\View\dropdown.php:0
+[18-Sep-2023 12:09:06 Asia/Kolkata] PHP Warning:  Undefined variable $selected in D:\wamp64\www\emsdemo\View\dropdown.php on line 34
+[18-Sep-2023 12:09:06 Asia/Kolkata] PHP Stack trace:
+[18-Sep-2023 12:09:06 Asia/Kolkata] PHP   1. {main}() D:\wamp64\www\emsdemo\View\dropdown.php:0
+[18-Sep-2023 12:09:06 Asia/Kolkata] PHP Warning:  Undefined variable $selected in D:\wamp64\www\emsdemo\View\dropdown.php on line 34
+[18-Sep-2023 12:09:06 Asia/Kolkata] PHP Stack trace:
+[18-Sep-2023 12:09:06 Asia/Kolkata] PHP   1. {main}() D:\wamp64\www\emsdemo\View\dropdown.php:0
+[18-Sep-2023 12:09:06 Asia/Kolkata] PHP Warning:  Undefined variable $selected in D:\wamp64\www\emsdemo\View\dropdown.php on line 34
+[18-Sep-2023 12:09:06 Asia/Kolkata] PHP Stack trace:
+[18-Sep-2023 12:09:06 Asia/Kolkata] PHP   1. {main}() D:\wamp64\www\emsdemo\View\dropdown.php:0
+[18-Sep-2023 12:09:06 Asia/Kolkata] PHP Warning:  Undefined variable $selected in D:\wamp64\www\emsdemo\View\dropdown.php on line 34
+[18-Sep-2023 12:09:06 Asia/Kolkata] PHP Stack trace:
+[18-Sep-2023 12:09:06 Asia/Kolkata] PHP   1. {main}() D:\wamp64\www\emsdemo\View\dropdown.php:0
+[18-Sep-2023 12:09:06 Asia/Kolkata] PHP Warning:  Undefined variable $selected in D:\wamp64\www\emsdemo\View\dropdown.php on line 34
+[18-Sep-2023 12:09:06 Asia/Kolkata] PHP Stack trace:
+[18-Sep-2023 12:09:06 Asia/Kolkata] PHP   1. {main}() D:\wamp64\www\emsdemo\View\dropdown.php:0
+[18-Sep-2023 12:09:06 Asia/Kolkata] PHP Warning:  Undefined variable $selected in D:\wamp64\www\emsdemo\View\dropdown.php on line 34
+[18-Sep-2023 12:09:06 Asia/Kolkata] PHP Stack trace:
+[18-Sep-2023 12:09:06 Asia/Kolkata] PHP   1. {main}() D:\wamp64\www\emsdemo\View\dropdown.php:0
+[18-Sep-2023 12:09:06 Asia/Kolkata] PHP Warning:  Undefined variable $selected in D:\wamp64\www\emsdemo\View\dropdown.php on line 34
+[18-Sep-2023 12:09:06 Asia/Kolkata] PHP Stack trace:
+[18-Sep-2023 12:09:06 Asia/Kolkata] PHP   1. {main}() D:\wamp64\www\emsdemo\View\dropdown.php:0
+[18-Sep-2023 12:09:06 Asia/Kolkata] PHP Warning:  Undefined variable $selected in D:\wamp64\www\emsdemo\View\dropdown.php on line 34
+[18-Sep-2023 12:09:06 Asia/Kolkata] PHP Stack trace:
+[18-Sep-2023 12:09:06 Asia/Kolkata] PHP   1. {main}() D:\wamp64\www\emsdemo\View\dropdown.php:0
+[18-Sep-2023 12:09:06 Asia/Kolkata] PHP Warning:  Undefined variable $selected in D:\wamp64\www\emsdemo\View\dropdown.php on line 34
+[18-Sep-2023 12:09:06 Asia/Kolkata] PHP Stack trace:
+[18-Sep-2023 12:09:06 Asia/Kolkata] PHP   1. {main}() D:\wamp64\www\emsdemo\View\dropdown.php:0
+[18-Sep-2023 12:09:06 Asia/Kolkata] PHP Warning:  Undefined variable $selected in D:\wamp64\www\emsdemo\View\dropdown.php on line 34
+[18-Sep-2023 12:09:06 Asia/Kolkata] PHP Stack trace:
+[18-Sep-2023 12:09:06 Asia/Kolkata] PHP   1. {main}() D:\wamp64\www\emsdemo\View\dropdown.php:0
+[18-Sep-2023 12:09:06 Asia/Kolkata] PHP Warning:  Undefined variable $selected in D:\wamp64\www\emsdemo\View\dropdown.php on line 34
+[18-Sep-2023 12:09:06 Asia/Kolkata] PHP Stack trace:
+[18-Sep-2023 12:09:06 Asia/Kolkata] PHP   1. {main}() D:\wamp64\www\emsdemo\View\dropdown.php:0
+[18-Sep-2023 12:09:06 Asia/Kolkata] PHP Warning:  Undefined variable $selected in D:\wamp64\www\emsdemo\View\dropdown.php on line 34
+[18-Sep-2023 12:09:06 Asia/Kolkata] PHP Stack trace:
+[18-Sep-2023 12:09:06 Asia/Kolkata] PHP   1. {main}() D:\wamp64\www\emsdemo\View\dropdown.php:0
+[18-Sep-2023 12:09:06 Asia/Kolkata] PHP Warning:  Undefined variable $selected in D:\wamp64\www\emsdemo\View\dropdown.php on line 34
+[18-Sep-2023 12:09:06 Asia/Kolkata] PHP Stack trace:
+[18-Sep-2023 12:09:06 Asia/Kolkata] PHP   1. {main}() D:\wamp64\www\emsdemo\View\dropdown.php:0
+[18-Sep-2023 12:09:06 Asia/Kolkata] PHP Warning:  Undefined variable $selected in D:\wamp64\www\emsdemo\View\dropdown.php on line 34
+[18-Sep-2023 12:09:06 Asia/Kolkata] PHP Stack trace:
+[18-Sep-2023 12:09:06 Asia/Kolkata] PHP   1. {main}() D:\wamp64\www\emsdemo\View\dropdown.php:0
+[18-Sep-2023 12:09:06 Asia/Kolkata] PHP Warning:  Undefined variable $selected in D:\wamp64\www\emsdemo\View\dropdown.php on line 34
+[18-Sep-2023 12:09:06 Asia/Kolkata] PHP Stack trace:
+[18-Sep-2023 12:09:06 Asia/Kolkata] PHP   1. {main}() D:\wamp64\www\emsdemo\View\dropdown.php:0
+[18-Sep-2023 12:09:06 Asia/Kolkata] PHP Warning:  Undefined variable $selected in D:\wamp64\www\emsdemo\View\dropdown.php on line 34
+[18-Sep-2023 12:09:06 Asia/Kolkata] PHP Stack trace:
+[18-Sep-2023 12:09:06 Asia/Kolkata] PHP   1. {main}() D:\wamp64\www\emsdemo\View\dropdown.php:0
+[18-Sep-2023 12:09:06 Asia/Kolkata] PHP Warning:  Undefined variable $selected in D:\wamp64\www\emsdemo\View\dropdown.php on line 34
+[18-Sep-2023 12:09:06 Asia/Kolkata] PHP Stack trace:
+[18-Sep-2023 12:09:06 Asia/Kolkata] PHP   1. {main}() D:\wamp64\www\emsdemo\View\dropdown.php:0
+[18-Sep-2023 12:09:06 Asia/Kolkata] PHP Warning:  Undefined variable $selected in D:\wamp64\www\emsdemo\View\dropdown.php on line 34
+[18-Sep-2023 12:09:06 Asia/Kolkata] PHP Stack trace:
+[18-Sep-2023 12:09:06 Asia/Kolkata] PHP   1. {main}() D:\wamp64\www\emsdemo\View\dropdown.php:0
+[18-Sep-2023 12:09:06 Asia/Kolkata] PHP Warning:  Undefined variable $selected in D:\wamp64\www\emsdemo\View\dropdown.php on line 34
+[18-Sep-2023 12:09:06 Asia/Kolkata] PHP Stack trace:
+[18-Sep-2023 12:09:06 Asia/Kolkata] PHP   1. {main}() D:\wamp64\www\emsdemo\View\dropdown.php:0
+[18-Sep-2023 12:09:06 Asia/Kolkata] PHP Warning:  Undefined variable $selected in D:\wamp64\www\emsdemo\View\dropdown.php on line 34
+[18-Sep-2023 12:09:06 Asia/Kolkata] PHP Stack trace:
+[18-Sep-2023 12:09:06 Asia/Kolkata] PHP   1. {main}() D:\wamp64\www\emsdemo\View\dropdown.php:0
+[18-Sep-2023 12:09:06 Asia/Kolkata] PHP Warning:  Undefined variable $selected in D:\wamp64\www\emsdemo\View\dropdown.php on line 34
+[18-Sep-2023 12:09:06 Asia/Kolkata] PHP Stack trace:
+[18-Sep-2023 12:09:06 Asia/Kolkata] PHP   1. {main}() D:\wamp64\www\emsdemo\View\dropdown.php:0
+[18-Sep-2023 12:09:06 Asia/Kolkata] PHP Warning:  Undefined variable $selected in D:\wamp64\www\emsdemo\View\dropdown.php on line 34
+[18-Sep-2023 12:09:06 Asia/Kolkata] PHP Stack trace:
+[18-Sep-2023 12:09:06 Asia/Kolkata] PHP   1. {main}() D:\wamp64\www\emsdemo\View\dropdown.php:0
+[18-Sep-2023 12:09:06 Asia/Kolkata] PHP Warning:  Undefined variable $selected in D:\wamp64\www\emsdemo\View\dropdown.php on line 34
+[18-Sep-2023 12:09:06 Asia/Kolkata] PHP Stack trace:
+[18-Sep-2023 12:09:06 Asia/Kolkata] PHP   1. {main}() D:\wamp64\www\emsdemo\View\dropdown.php:0
+[18-Sep-2023 12:09:06 Asia/Kolkata] PHP Warning:  Undefined variable $selected in D:\wamp64\www\emsdemo\View\dropdown.php on line 34
+[18-Sep-2023 12:09:06 Asia/Kolkata] PHP Stack trace:
+[18-Sep-2023 12:09:06 Asia/Kolkata] PHP   1. {main}() D:\wamp64\www\emsdemo\View\dropdown.php:0
+[18-Sep-2023 12:09:06 Asia/Kolkata] PHP Warning:  Undefined variable $selected in D:\wamp64\www\emsdemo\View\dropdown.php on line 34
+[18-Sep-2023 12:09:06 Asia/Kolkata] PHP Stack trace:
+[18-Sep-2023 12:09:06 Asia/Kolkata] PHP   1. {main}() D:\wamp64\www\emsdemo\View\dropdown.php:0
+[18-Sep-2023 12:09:06 Asia/Kolkata] PHP Warning:  Undefined variable $selected in D:\wamp64\www\emsdemo\View\dropdown.php on line 34
+[18-Sep-2023 12:09:06 Asia/Kolkata] PHP Stack trace:
+[18-Sep-2023 12:09:06 Asia/Kolkata] PHP   1. {main}() D:\wamp64\www\emsdemo\View\dropdown.php:0
+[18-Sep-2023 12:09:06 Asia/Kolkata] PHP Warning:  Undefined variable $selected in D:\wamp64\www\emsdemo\View\dropdown.php on line 34
+[18-Sep-2023 12:09:06 Asia/Kolkata] PHP Stack trace:
+[18-Sep-2023 12:09:06 Asia/Kolkata] PHP   1. {main}() D:\wamp64\www\emsdemo\View\dropdown.php:0
+[18-Sep-2023 12:09:06 Asia/Kolkata] PHP Warning:  Undefined variable $selected in D:\wamp64\www\emsdemo\View\dropdown.php on line 34
+[18-Sep-2023 12:09:06 Asia/Kolkata] PHP Stack trace:
+[18-Sep-2023 12:09:06 Asia/Kolkata] PHP   1. {main}() D:\wamp64\www\emsdemo\View\dropdown.php:0
+[18-Sep-2023 12:09:06 Asia/Kolkata] PHP Warning:  Undefined variable $selected in D:\wamp64\www\emsdemo\View\dropdown.php on line 34
+[18-Sep-2023 12:09:06 Asia/Kolkata] PHP Stack trace:
+[18-Sep-2023 12:09:06 Asia/Kolkata] PHP   1. {main}() D:\wamp64\www\emsdemo\View\dropdown.php:0
+[18-Sep-2023 12:09:06 Asia/Kolkata] PHP Warning:  Undefined variable $selected in D:\wamp64\www\emsdemo\View\dropdown.php on line 34
+[18-Sep-2023 12:09:06 Asia/Kolkata] PHP Stack trace:
+[18-Sep-2023 12:09:06 Asia/Kolkata] PHP   1. {main}() D:\wamp64\www\emsdemo\View\dropdown.php:0
+[18-Sep-2023 12:09:06 Asia/Kolkata] PHP Warning:  Undefined variable $selected in D:\wamp64\www\emsdemo\View\dropdown.php on line 34
+[18-Sep-2023 12:09:06 Asia/Kolkata] PHP Stack trace:
+[18-Sep-2023 12:09:06 Asia/Kolkata] PHP   1. {main}() D:\wamp64\www\emsdemo\View\dropdown.php:0
+[18-Sep-2023 12:09:06 Asia/Kolkata] PHP Warning:  Undefined variable $selected in D:\wamp64\www\emsdemo\View\dropdown.php on line 34
+[18-Sep-2023 12:09:06 Asia/Kolkata] PHP Stack trace:
+[18-Sep-2023 12:09:06 Asia/Kolkata] PHP   1. {main}() D:\wamp64\www\emsdemo\View\dropdown.php:0
+[18-Sep-2023 12:09:06 Asia/Kolkata] PHP Warning:  Undefined variable $selected in D:\wamp64\www\emsdemo\View\dropdown.php on line 34
+[18-Sep-2023 12:09:06 Asia/Kolkata] PHP Stack trace:
+[18-Sep-2023 12:09:06 Asia/Kolkata] PHP   1. {main}() D:\wamp64\www\emsdemo\View\dropdown.php:0
+[18-Sep-2023 12:09:06 Asia/Kolkata] PHP Warning:  Undefined variable $selected in D:\wamp64\www\emsdemo\View\dropdown.php on line 34
+[18-Sep-2023 12:09:06 Asia/Kolkata] PHP Stack trace:
+[18-Sep-2023 12:09:06 Asia/Kolkata] PHP   1. {main}() D:\wamp64\www\emsdemo\View\dropdown.php:0
+[18-Sep-2023 12:09:06 Asia/Kolkata] PHP Warning:  Undefined variable $selected in D:\wamp64\www\emsdemo\View\dropdown.php on line 34
+[18-Sep-2023 12:09:06 Asia/Kolkata] PHP Stack trace:
+[18-Sep-2023 12:09:06 Asia/Kolkata] PHP   1. {main}() D:\wamp64\www\emsdemo\View\dropdown.php:0
+[18-Sep-2023 12:09:06 Asia/Kolkata] PHP Warning:  Undefined variable $selected in D:\wamp64\www\emsdemo\View\dropdown.php on line 34
+[18-Sep-2023 12:09:06 Asia/Kolkata] PHP Stack trace:
+[18-Sep-2023 12:09:06 Asia/Kolkata] PHP   1. {main}() D:\wamp64\www\emsdemo\View\dropdown.php:0
+[18-Sep-2023 12:09:06 Asia/Kolkata] PHP Warning:  Undefined variable $selected in D:\wamp64\www\emsdemo\View\dropdown.php on line 34
+[18-Sep-2023 12:09:06 Asia/Kolkata] PHP Stack trace:
+[18-Sep-2023 12:09:06 Asia/Kolkata] PHP   1. {main}() D:\wamp64\www\emsdemo\View\dropdown.php:0
+[18-Sep-2023 12:09:06 Asia/Kolkata] PHP Warning:  Undefined variable $selected in D:\wamp64\www\emsdemo\View\dropdown.php on line 34
+[18-Sep-2023 12:09:06 Asia/Kolkata] PHP Stack trace:
+[18-Sep-2023 12:09:06 Asia/Kolkata] PHP   1. {main}() D:\wamp64\www\emsdemo\View\dropdown.php:0
+[18-Sep-2023 12:09:06 Asia/Kolkata] PHP Warning:  Undefined variable $selected in D:\wamp64\www\emsdemo\View\dropdown.php on line 34
+[18-Sep-2023 12:09:06 Asia/Kolkata] PHP Stack trace:
+[18-Sep-2023 12:09:06 Asia/Kolkata] PHP   1. {main}() D:\wamp64\www\emsdemo\View\dropdown.php:0
+[18-Sep-2023 12:09:06 Asia/Kolkata] PHP Warning:  Undefined variable $selected in D:\wamp64\www\emsdemo\View\dropdown.php on line 34
+[18-Sep-2023 12:09:06 Asia/Kolkata] PHP Stack trace:
+[18-Sep-2023 12:09:06 Asia/Kolkata] PHP   1. {main}() D:\wamp64\www\emsdemo\View\dropdown.php:0
+[18-Sep-2023 12:09:06 Asia/Kolkata] PHP Warning:  Undefined variable $selected in D:\wamp64\www\emsdemo\View\dropdown.php on line 34
+[18-Sep-2023 12:09:06 Asia/Kolkata] PHP Stack trace:
+[18-Sep-2023 12:09:06 Asia/Kolkata] PHP   1. {main}() D:\wamp64\www\emsdemo\View\dropdown.php:0
+[18-Sep-2023 12:09:06 Asia/Kolkata] PHP Warning:  Undefined variable $selected in D:\wamp64\www\emsdemo\View\dropdown.php on line 34
+[18-Sep-2023 12:09:06 Asia/Kolkata] PHP Stack trace:
+[18-Sep-2023 12:09:06 Asia/Kolkata] PHP   1. {main}() D:\wamp64\www\emsdemo\View\dropdown.php:0
+[18-Sep-2023 12:09:06 Asia/Kolkata] PHP Warning:  Undefined variable $selected in D:\wamp64\www\emsdemo\View\dropdown.php on line 34
+[18-Sep-2023 12:09:06 Asia/Kolkata] PHP Stack trace:
+[18-Sep-2023 12:09:06 Asia/Kolkata] PHP   1. {main}() D:\wamp64\www\emsdemo\View\dropdown.php:0
+[18-Sep-2023 12:09:06 Asia/Kolkata] PHP Warning:  Undefined variable $selected in D:\wamp64\www\emsdemo\View\dropdown.php on line 34
+[18-Sep-2023 12:09:06 Asia/Kolkata] PHP Stack trace:
+[18-Sep-2023 12:09:06 Asia/Kolkata] PHP   1. {main}() D:\wamp64\www\emsdemo\View\dropdown.php:0
+[18-Sep-2023 12:09:06 Asia/Kolkata] PHP Warning:  Undefined variable $selected in D:\wamp64\www\emsdemo\View\dropdown.php on line 34
+[18-Sep-2023 12:09:06 Asia/Kolkata] PHP Stack trace:
+[18-Sep-2023 12:09:06 Asia/Kolkata] PHP   1. {main}() D:\wamp64\www\emsdemo\View\dropdown.php:0
+[18-Sep-2023 12:09:06 Asia/Kolkata] PHP Warning:  Undefined variable $selected in D:\wamp64\www\emsdemo\View\dropdown.php on line 34
+[18-Sep-2023 12:09:06 Asia/Kolkata] PHP Stack trace:
+[18-Sep-2023 12:09:06 Asia/Kolkata] PHP   1. {main}() D:\wamp64\www\emsdemo\View\dropdown.php:0
+[18-Sep-2023 12:09:06 Asia/Kolkata] PHP Warning:  Undefined variable $selected in D:\wamp64\www\emsdemo\View\dropdown.php on line 34
+[18-Sep-2023 12:09:06 Asia/Kolkata] PHP Stack trace:
+[18-Sep-2023 12:09:06 Asia/Kolkata] PHP   1. {main}() D:\wamp64\www\emsdemo\View\dropdown.php:0
+[18-Sep-2023 12:09:06 Asia/Kolkata] PHP Warning:  Undefined variable $selected in D:\wamp64\www\emsdemo\View\dropdown.php on line 34
+[18-Sep-2023 12:09:06 Asia/Kolkata] PHP Stack trace:
+[18-Sep-2023 12:09:06 Asia/Kolkata] PHP   1. {main}() D:\wamp64\www\emsdemo\View\dropdown.php:0
+[18-Sep-2023 12:09:06 Asia/Kolkata] PHP Warning:  Undefined variable $selected in D:\wamp64\www\emsdemo\View\dropdown.php on line 34
+[18-Sep-2023 12:09:06 Asia/Kolkata] PHP Stack trace:
+[18-Sep-2023 12:09:06 Asia/Kolkata] PHP   1. {main}() D:\wamp64\www\emsdemo\View\dropdown.php:0
+[18-Sep-2023 12:09:06 Asia/Kolkata] PHP Warning:  Undefined variable $selected in D:\wamp64\www\emsdemo\View\dropdown.php on line 34
+[18-Sep-2023 12:09:06 Asia/Kolkata] PHP Stack trace:
+[18-Sep-2023 12:09:06 Asia/Kolkata] PHP   1. {main}() D:\wamp64\www\emsdemo\View\dropdown.php:0
+[18-Sep-2023 12:09:06 Asia/Kolkata] PHP Warning:  Undefined variable $selected in D:\wamp64\www\emsdemo\View\dropdown.php on line 34
+[18-Sep-2023 12:09:06 Asia/Kolkata] PHP Stack trace:
+[18-Sep-2023 12:09:06 Asia/Kolkata] PHP   1. {main}() D:\wamp64\www\emsdemo\View\dropdown.php:0
+[18-Sep-2023 12:09:06 Asia/Kolkata] PHP Warning:  Undefined variable $selected in D:\wamp64\www\emsdemo\View\dropdown.php on line 34
+[18-Sep-2023 12:09:06 Asia/Kolkata] PHP Stack trace:
+[18-Sep-2023 12:09:06 Asia/Kolkata] PHP   1. {main}() D:\wamp64\www\emsdemo\View\dropdown.php:0
+[18-Sep-2023 12:09:06 Asia/Kolkata] PHP Warning:  Undefined variable $selected in D:\wamp64\www\emsdemo\View\dropdown.php on line 34
+[18-Sep-2023 12:09:06 Asia/Kolkata] PHP Stack trace:
+[18-Sep-2023 12:09:06 Asia/Kolkata] PHP   1. {main}() D:\wamp64\www\emsdemo\View\dropdown.php:0
+[18-Sep-2023 12:09:06 Asia/Kolkata] PHP Warning:  Undefined variable $selected in D:\wamp64\www\emsdemo\View\dropdown.php on line 34
+[18-Sep-2023 12:09:06 Asia/Kolkata] PHP Stack trace:
+[18-Sep-2023 12:09:06 Asia/Kolkata] PHP   1. {main}() D:\wamp64\www\emsdemo\View\dropdown.php:0
+[18-Sep-2023 12:09:06 Asia/Kolkata] PHP Warning:  Undefined variable $selected in D:\wamp64\www\emsdemo\View\dropdown.php on line 34
+[18-Sep-2023 12:09:06 Asia/Kolkata] PHP Stack trace:
+[18-Sep-2023 12:09:06 Asia/Kolkata] PHP   1. {main}() D:\wamp64\www\emsdemo\View\dropdown.php:0
+[18-Sep-2023 12:09:06 Asia/Kolkata] PHP Warning:  Undefined variable $selected in D:\wamp64\www\emsdemo\View\dropdown.php on line 34
+[18-Sep-2023 12:09:06 Asia/Kolkata] PHP Stack trace:
+[18-Sep-2023 12:09:06 Asia/Kolkata] PHP   1. {main}() D:\wamp64\www\emsdemo\View\dropdown.php:0
+[18-Sep-2023 12:09:06 Asia/Kolkata] PHP Warning:  Undefined variable $selected in D:\wamp64\www\emsdemo\View\dropdown.php on line 34
+[18-Sep-2023 12:09:06 Asia/Kolkata] PHP Stack trace:
+[18-Sep-2023 12:09:06 Asia/Kolkata] PHP   1. {main}() D:\wamp64\www\emsdemo\View\dropdown.php:0
+[18-Sep-2023 12:09:06 Asia/Kolkata] PHP Warning:  Undefined variable $selected in D:\wamp64\www\emsdemo\View\dropdown.php on line 34
+[18-Sep-2023 12:09:06 Asia/Kolkata] PHP Stack trace:
+[18-Sep-2023 12:09:06 Asia/Kolkata] PHP   1. {main}() D:\wamp64\www\emsdemo\View\dropdown.php:0
+[18-Sep-2023 12:09:06 Asia/Kolkata] PHP Warning:  Undefined variable $selected in D:\wamp64\www\emsdemo\View\dropdown.php on line 34
+[18-Sep-2023 12:09:06 Asia/Kolkata] PHP Stack trace:
+[18-Sep-2023 12:09:06 Asia/Kolkata] PHP   1. {main}() D:\wamp64\www\emsdemo\View\dropdown.php:0
+[18-Sep-2023 12:09:06 Asia/Kolkata] PHP Warning:  Undefined variable $selected in D:\wamp64\www\emsdemo\View\dropdown.php on line 34
+[18-Sep-2023 12:09:06 Asia/Kolkata] PHP Stack trace:
+[18-Sep-2023 12:09:06 Asia/Kolkata] PHP   1. {main}() D:\wamp64\www\emsdemo\View\dropdown.php:0
+[18-Sep-2023 12:09:06 Asia/Kolkata] PHP Warning:  Undefined variable $selected in D:\wamp64\www\emsdemo\View\dropdown.php on line 34
+[18-Sep-2023 12:09:06 Asia/Kolkata] PHP Stack trace:
+[18-Sep-2023 12:09:06 Asia/Kolkata] PHP   1. {main}() D:\wamp64\www\emsdemo\View\dropdown.php:0
+[18-Sep-2023 12:09:06 Asia/Kolkata] PHP Warning:  Undefined variable $selected in D:\wamp64\www\emsdemo\View\dropdown.php on line 34
+[18-Sep-2023 12:09:06 Asia/Kolkata] PHP Stack trace:
+[18-Sep-2023 12:09:06 Asia/Kolkata] PHP   1. {main}() D:\wamp64\www\emsdemo\View\dropdown.php:0
+[18-Sep-2023 12:09:06 Asia/Kolkata] PHP Warning:  Undefined variable $selected in D:\wamp64\www\emsdemo\View\dropdown.php on line 34
+[18-Sep-2023 12:09:06 Asia/Kolkata] PHP Stack trace:
+[18-Sep-2023 12:09:06 Asia/Kolkata] PHP   1. {main}() D:\wamp64\www\emsdemo\View\dropdown.php:0
+[18-Sep-2023 12:09:06 Asia/Kolkata] PHP Warning:  Undefined variable $selected in D:\wamp64\www\emsdemo\View\dropdown.php on line 34
+[18-Sep-2023 12:09:06 Asia/Kolkata] PHP Stack trace:
+[18-Sep-2023 12:09:06 Asia/Kolkata] PHP   1. {main}() D:\wamp64\www\emsdemo\View\dropdown.php:0
+[18-Sep-2023 12:09:06 Asia/Kolkata] PHP Warning:  Undefined variable $selected in D:\wamp64\www\emsdemo\View\dropdown.php on line 34
+[18-Sep-2023 12:09:06 Asia/Kolkata] PHP Stack trace:
+[18-Sep-2023 12:09:06 Asia/Kolkata] PHP   1. {main}() D:\wamp64\www\emsdemo\View\dropdown.php:0
+[18-Sep-2023 12:09:06 Asia/Kolkata] PHP Warning:  Undefined variable $selected in D:\wamp64\www\emsdemo\View\dropdown.php on line 34
+[18-Sep-2023 12:09:06 Asia/Kolkata] PHP Stack trace:
+[18-Sep-2023 12:09:06 Asia/Kolkata] PHP   1. {main}() D:\wamp64\www\emsdemo\View\dropdown.php:0
+[18-Sep-2023 12:09:06 Asia/Kolkata] PHP Warning:  Undefined variable $selected in D:\wamp64\www\emsdemo\View\dropdown.php on line 34
+[18-Sep-2023 12:09:06 Asia/Kolkata] PHP Stack trace:
+[18-Sep-2023 12:09:06 Asia/Kolkata] PHP   1. {main}() D:\wamp64\www\emsdemo\View\dropdown.php:0
+[18-Sep-2023 12:09:06 Asia/Kolkata] PHP Warning:  Undefined variable $selected in D:\wamp64\www\emsdemo\View\dropdown.php on line 34
+[18-Sep-2023 12:09:06 Asia/Kolkata] PHP Stack trace:
+[18-Sep-2023 12:09:06 Asia/Kolkata] PHP   1. {main}() D:\wamp64\www\emsdemo\View\dropdown.php:0
+[18-Sep-2023 12:09:06 Asia/Kolkata] PHP Warning:  Undefined variable $selected in D:\wamp64\www\emsdemo\View\dropdown.php on line 34
+[18-Sep-2023 12:09:06 Asia/Kolkata] PHP Stack trace:
+[18-Sep-2023 12:09:06 Asia/Kolkata] PHP   1. {main}() D:\wamp64\www\emsdemo\View\dropdown.php:0
+[18-Sep-2023 12:09:06 Asia/Kolkata] PHP Warning:  Undefined variable $selected in D:\wamp64\www\emsdemo\View\dropdown.php on line 34
+[18-Sep-2023 12:09:06 Asia/Kolkata] PHP Stack trace:
+[18-Sep-2023 12:09:06 Asia/Kolkata] PHP   1. {main}() D:\wamp64\www\emsdemo\View\dropdown.php:0
+[18-Sep-2023 12:09:06 Asia/Kolkata] PHP Warning:  Undefined variable $selected in D:\wamp64\www\emsdemo\View\dropdown.php on line 34
+[18-Sep-2023 12:09:06 Asia/Kolkata] PHP Stack trace:
+[18-Sep-2023 12:09:06 Asia/Kolkata] PHP   1. {main}() D:\wamp64\www\emsdemo\View\dropdown.php:0
+[18-Sep-2023 12:09:06 Asia/Kolkata] PHP Warning:  Undefined variable $selected in D:\wamp64\www\emsdemo\View\dropdown.php on line 34
+[18-Sep-2023 12:09:06 Asia/Kolkata] PHP Stack trace:
+[18-Sep-2023 12:09:06 Asia/Kolkata] PHP   1. {main}() D:\wamp64\www\emsdemo\View\dropdown.php:0
+[18-Sep-2023 12:09:06 Asia/Kolkata] PHP Warning:  Undefined variable $selected in D:\wamp64\www\emsdemo\View\dropdown.php on line 34
+[18-Sep-2023 12:09:06 Asia/Kolkata] PHP Stack trace:
+[18-Sep-2023 12:09:06 Asia/Kolkata] PHP   1. {main}() D:\wamp64\www\emsdemo\View\dropdown.php:0
+[18-Sep-2023 12:09:06 Asia/Kolkata] PHP Warning:  Undefined variable $selected in D:\wamp64\www\emsdemo\View\dropdown.php on line 34
+[18-Sep-2023 12:09:06 Asia/Kolkata] PHP Stack trace:
+[18-Sep-2023 12:09:06 Asia/Kolkata] PHP   1. {main}() D:\wamp64\www\emsdemo\View\dropdown.php:0
+[18-Sep-2023 12:09:06 Asia/Kolkata] PHP Warning:  Undefined variable $selected in D:\wamp64\www\emsdemo\View\dropdown.php on line 34
+[18-Sep-2023 12:09:06 Asia/Kolkata] PHP Stack trace:
+[18-Sep-2023 12:09:06 Asia/Kolkata] PHP   1. {main}() D:\wamp64\www\emsdemo\View\dropdown.php:0
+[18-Sep-2023 12:09:06 Asia/Kolkata] PHP Warning:  Undefined variable $selected in D:\wamp64\www\emsdemo\View\dropdown.php on line 34
+[18-Sep-2023 12:09:06 Asia/Kolkata] PHP Stack trace:
+[18-Sep-2023 12:09:06 Asia/Kolkata] PHP   1. {main}() D:\wamp64\www\emsdemo\View\dropdown.php:0
+[18-Sep-2023 12:09:06 Asia/Kolkata] PHP Warning:  Undefined variable $selected in D:\wamp64\www\emsdemo\View\dropdown.php on line 34
+[18-Sep-2023 12:09:06 Asia/Kolkata] PHP Stack trace:
+[18-Sep-2023 12:09:06 Asia/Kolkata] PHP   1. {main}() D:\wamp64\www\emsdemo\View\dropdown.php:0
+[18-Sep-2023 12:09:06 Asia/Kolkata] PHP Warning:  Undefined variable $selected in D:\wamp64\www\emsdemo\View\dropdown.php on line 34
+[18-Sep-2023 12:09:06 Asia/Kolkata] PHP Stack trace:
+[18-Sep-2023 12:09:06 Asia/Kolkata] PHP   1. {main}() D:\wamp64\www\emsdemo\View\dropdown.php:0
+[18-Sep-2023 12:09:06 Asia/Kolkata] PHP Warning:  Undefined variable $selected in D:\wamp64\www\emsdemo\View\dropdown.php on line 34
+[18-Sep-2023 12:09:06 Asia/Kolkata] PHP Stack trace:
+[18-Sep-2023 12:09:06 Asia/Kolkata] PHP   1. {main}() D:\wamp64\www\emsdemo\View\dropdown.php:0
+[18-Sep-2023 12:09:06 Asia/Kolkata] PHP Warning:  Undefined variable $selected in D:\wamp64\www\emsdemo\View\dropdown.php on line 34
+[18-Sep-2023 12:09:06 Asia/Kolkata] PHP Stack trace:
+[18-Sep-2023 12:09:06 Asia/Kolkata] PHP   1. {main}() D:\wamp64\www\emsdemo\View\dropdown.php:0
+[18-Sep-2023 12:09:06 Asia/Kolkata] PHP Warning:  Undefined variable $selected in D:\wamp64\www\emsdemo\View\dropdown.php on line 34
+[18-Sep-2023 12:09:06 Asia/Kolkata] PHP Stack trace:
+[18-Sep-2023 12:09:06 Asia/Kolkata] PHP   1. {main}() D:\wamp64\www\emsdemo\View\dropdown.php:0
+[18-Sep-2023 12:09:06 Asia/Kolkata] PHP Warning:  Undefined variable $selected in D:\wamp64\www\emsdemo\View\dropdown.php on line 34
+[18-Sep-2023 12:09:06 Asia/Kolkata] PHP Stack trace:
+[18-Sep-2023 12:09:06 Asia/Kolkata] PHP   1. {main}() D:\wamp64\www\emsdemo\View\dropdown.php:0
+[18-Sep-2023 12:09:06 Asia/Kolkata] PHP Warning:  Undefined variable $selected in D:\wamp64\www\emsdemo\View\dropdown.php on line 34
+[18-Sep-2023 12:09:06 Asia/Kolkata] PHP Stack trace:
+[18-Sep-2023 12:09:06 Asia/Kolkata] PHP   1. {main}() D:\wamp64\www\emsdemo\View\dropdown.php:0
+[18-Sep-2023 12:09:06 Asia/Kolkata] PHP Warning:  Undefined variable $selected in D:\wamp64\www\emsdemo\View\dropdown.php on line 34
+[18-Sep-2023 12:09:06 Asia/Kolkata] PHP Stack trace:
+[18-Sep-2023 12:09:06 Asia/Kolkata] PHP   1. {main}() D:\wamp64\www\emsdemo\View\dropdown.php:0
+[18-Sep-2023 12:09:06 Asia/Kolkata] PHP Warning:  Undefined variable $selected in D:\wamp64\www\emsdemo\View\dropdown.php on line 34
+[18-Sep-2023 12:09:06 Asia/Kolkata] PHP Stack trace:
+[18-Sep-2023 12:09:06 Asia/Kolkata] PHP   1. {main}() D:\wamp64\www\emsdemo\View\dropdown.php:0
+[18-Sep-2023 12:09:06 Asia/Kolkata] PHP Warning:  Undefined variable $selected in D:\wamp64\www\emsdemo\View\dropdown.php on line 34
+[18-Sep-2023 12:09:06 Asia/Kolkata] PHP Stack trace:
+[18-Sep-2023 12:09:06 Asia/Kolkata] PHP   1. {main}() D:\wamp64\www\emsdemo\View\dropdown.php:0
+[18-Sep-2023 12:09:06 Asia/Kolkata] PHP Warning:  Undefined variable $selected in D:\wamp64\www\emsdemo\View\dropdown.php on line 34
+[18-Sep-2023 12:09:06 Asia/Kolkata] PHP Stack trace:
+[18-Sep-2023 12:09:06 Asia/Kolkata] PHP   1. {main}() D:\wamp64\www\emsdemo\View\dropdown.php:0
+[18-Sep-2023 12:09:06 Asia/Kolkata] PHP Warning:  Undefined variable $selected in D:\wamp64\www\emsdemo\View\dropdown.php on line 34
+[18-Sep-2023 12:09:06 Asia/Kolkata] PHP Stack trace:
+[18-Sep-2023 12:09:06 Asia/Kolkata] PHP   1. {main}() D:\wamp64\www\emsdemo\View\dropdown.php:0
+[18-Sep-2023 12:09:06 Asia/Kolkata] PHP Warning:  Undefined variable $selected in D:\wamp64\www\emsdemo\View\dropdown.php on line 34
+[18-Sep-2023 12:09:06 Asia/Kolkata] PHP Stack trace:
+[18-Sep-2023 12:09:06 Asia/Kolkata] PHP   1. {main}() D:\wamp64\www\emsdemo\View\dropdown.php:0
+[18-Sep-2023 12:09:06 Asia/Kolkata] PHP Warning:  Undefined variable $selected in D:\wamp64\www\emsdemo\View\dropdown.php on line 34
+[18-Sep-2023 12:09:06 Asia/Kolkata] PHP Stack trace:
+[18-Sep-2023 12:09:06 Asia/Kolkata] PHP   1. {main}() D:\wamp64\www\emsdemo\View\dropdown.php:0
+[18-Sep-2023 12:09:06 Asia/Kolkata] PHP Warning:  Undefined variable $selected in D:\wamp64\www\emsdemo\View\dropdown.php on line 34
+[18-Sep-2023 12:09:06 Asia/Kolkata] PHP Stack trace:
+[18-Sep-2023 12:09:06 Asia/Kolkata] PHP   1. {main}() D:\wamp64\www\emsdemo\View\dropdown.php:0
+[18-Sep-2023 12:09:06 Asia/Kolkata] PHP Warning:  Undefined variable $selected in D:\wamp64\www\emsdemo\View\dropdown.php on line 34
+[18-Sep-2023 12:09:06 Asia/Kolkata] PHP Stack trace:
+[18-Sep-2023 12:09:06 Asia/Kolkata] PHP   1. {main}() D:\wamp64\www\emsdemo\View\dropdown.php:0
+[18-Sep-2023 12:09:06 Asia/Kolkata] PHP Warning:  Undefined variable $selected in D:\wamp64\www\emsdemo\View\dropdown.php on line 34
+[18-Sep-2023 12:09:06 Asia/Kolkata] PHP Stack trace:
+[18-Sep-2023 12:09:06 Asia/Kolkata] PHP   1. {main}() D:\wamp64\www\emsdemo\View\dropdown.php:0
+[18-Sep-2023 12:09:06 Asia/Kolkata] PHP Warning:  Undefined variable $selected in D:\wamp64\www\emsdemo\View\dropdown.php on line 34
+[18-Sep-2023 12:09:06 Asia/Kolkata] PHP Stack trace:
+[18-Sep-2023 12:09:06 Asia/Kolkata] PHP   1. {main}() D:\wamp64\www\emsdemo\View\dropdown.php:0
+[18-Sep-2023 12:09:06 Asia/Kolkata] PHP Warning:  Undefined variable $selected in D:\wamp64\www\emsdemo\View\dropdown.php on line 34
+[18-Sep-2023 12:09:06 Asia/Kolkata] PHP Stack trace:
+[18-Sep-2023 12:09:06 Asia/Kolkata] PHP   1. {main}() D:\wamp64\www\emsdemo\View\dropdown.php:0
+[18-Sep-2023 12:09:06 Asia/Kolkata] PHP Warning:  Undefined variable $selected in D:\wamp64\www\emsdemo\View\dropdown.php on line 34
+[18-Sep-2023 12:09:06 Asia/Kolkata] PHP Stack trace:
+[18-Sep-2023 12:09:06 Asia/Kolkata] PHP   1. {main}() D:\wamp64\www\emsdemo\View\dropdown.php:0
+[18-Sep-2023 12:09:06 Asia/Kolkata] PHP Warning:  Undefined variable $selected in D:\wamp64\www\emsdemo\View\dropdown.php on line 34
+[18-Sep-2023 12:09:06 Asia/Kolkata] PHP Stack trace:
+[18-Sep-2023 12:09:06 Asia/Kolkata] PHP   1. {main}() D:\wamp64\www\emsdemo\View\dropdown.php:0
+[18-Sep-2023 12:09:06 Asia/Kolkata] PHP Warning:  Undefined variable $selected in D:\wamp64\www\emsdemo\View\dropdown.php on line 34
+[18-Sep-2023 12:09:06 Asia/Kolkata] PHP Stack trace:
+[18-Sep-2023 12:09:06 Asia/Kolkata] PHP   1. {main}() D:\wamp64\www\emsdemo\View\dropdown.php:0
+[18-Sep-2023 12:09:06 Asia/Kolkata] PHP Warning:  Undefined variable $selected in D:\wamp64\www\emsdemo\View\dropdown.php on line 34
+[18-Sep-2023 12:09:06 Asia/Kolkata] PHP Stack trace:
+[18-Sep-2023 12:09:06 Asia/Kolkata] PHP   1. {main}() D:\wamp64\www\emsdemo\View\dropdown.php:0
+[18-Sep-2023 12:09:06 Asia/Kolkata] PHP Warning:  Undefined variable $selected in D:\wamp64\www\emsdemo\View\dropdown.php on line 34
+[18-Sep-2023 12:09:06 Asia/Kolkata] PHP Stack trace:
+[18-Sep-2023 12:09:06 Asia/Kolkata] PHP   1. {main}() D:\wamp64\www\emsdemo\View\dropdown.php:0
+[18-Sep-2023 12:09:06 Asia/Kolkata] PHP Warning:  Undefined variable $selected in D:\wamp64\www\emsdemo\View\dropdown.php on line 34
+[18-Sep-2023 12:09:06 Asia/Kolkata] PHP Stack trace:
+[18-Sep-2023 12:09:06 Asia/Kolkata] PHP   1. {main}() D:\wamp64\www\emsdemo\View\dropdown.php:0
+[18-Sep-2023 12:09:06 Asia/Kolkata] PHP Warning:  Undefined variable $selected in D:\wamp64\www\emsdemo\View\dropdown.php on line 34
+[18-Sep-2023 12:09:06 Asia/Kolkata] PHP Stack trace:
+[18-Sep-2023 12:09:06 Asia/Kolkata] PHP   1. {main}() D:\wamp64\www\emsdemo\View\dropdown.php:0
+[18-Sep-2023 12:09:06 Asia/Kolkata] PHP Warning:  Undefined variable $selected in D:\wamp64\www\emsdemo\View\dropdown.php on line 34
+[18-Sep-2023 12:09:06 Asia/Kolkata] PHP Stack trace:
+[18-Sep-2023 12:09:06 Asia/Kolkata] PHP   1. {main}() D:\wamp64\www\emsdemo\View\dropdown.php:0
+[18-Sep-2023 12:09:06 Asia/Kolkata] PHP Warning:  Undefined variable $selected in D:\wamp64\www\emsdemo\View\dropdown.php on line 34
+[18-Sep-2023 12:09:06 Asia/Kolkata] PHP Stack trace:
+[18-Sep-2023 12:09:06 Asia/Kolkata] PHP   1. {main}() D:\wamp64\www\emsdemo\View\dropdown.php:0
+[18-Sep-2023 12:09:06 Asia/Kolkata] PHP Warning:  Undefined variable $selected in D:\wamp64\www\emsdemo\View\dropdown.php on line 34
+[18-Sep-2023 12:09:06 Asia/Kolkata] PHP Stack trace:
+[18-Sep-2023 12:09:06 Asia/Kolkata] PHP   1. {main}() D:\wamp64\www\emsdemo\View\dropdown.php:0
+[18-Sep-2023 12:09:06 Asia/Kolkata] PHP Warning:  Undefined variable $selected in D:\wamp64\www\emsdemo\View\dropdown.php on line 34
+[18-Sep-2023 12:09:06 Asia/Kolkata] PHP Stack trace:
+[18-Sep-2023 12:09:06 Asia/Kolkata] PHP   1. {main}() D:\wamp64\www\emsdemo\View\dropdown.php:0
+[18-Sep-2023 12:09:06 Asia/Kolkata] PHP Warning:  Undefined variable $selected in D:\wamp64\www\emsdemo\View\dropdown.php on line 34
+[18-Sep-2023 12:09:06 Asia/Kolkata] PHP Stack trace:
+[18-Sep-2023 12:09:06 Asia/Kolkata] PHP   1. {main}() D:\wamp64\www\emsdemo\View\dropdown.php:0
+[18-Sep-2023 12:09:06 Asia/Kolkata] PHP Warning:  Undefined variable $selected in D:\wamp64\www\emsdemo\View\dropdown.php on line 34
+[18-Sep-2023 12:09:06 Asia/Kolkata] PHP Stack trace:
+[18-Sep-2023 12:09:06 Asia/Kolkata] PHP   1. {main}() D:\wamp64\www\emsdemo\View\dropdown.php:0
+[18-Sep-2023 12:09:06 Asia/Kolkata] PHP Warning:  Undefined variable $selected in D:\wamp64\www\emsdemo\View\dropdown.php on line 34
+[18-Sep-2023 12:09:06 Asia/Kolkata] PHP Stack trace:
+[18-Sep-2023 12:09:06 Asia/Kolkata] PHP   1. {main}() D:\wamp64\www\emsdemo\View\dropdown.php:0
+[18-Sep-2023 12:09:06 Asia/Kolkata] PHP Warning:  Undefined variable $selected in D:\wamp64\www\emsdemo\View\dropdown.php on line 34
+[18-Sep-2023 12:09:06 Asia/Kolkata] PHP Stack trace:
+[18-Sep-2023 12:09:06 Asia/Kolkata] PHP   1. {main}() D:\wamp64\www\emsdemo\View\dropdown.php:0
+[18-Sep-2023 12:09:06 Asia/Kolkata] PHP Warning:  Undefined variable $selected in D:\wamp64\www\emsdemo\View\dropdown.php on line 34
+[18-Sep-2023 12:09:06 Asia/Kolkata] PHP Stack trace:
+[18-Sep-2023 12:09:06 Asia/Kolkata] PHP   1. {main}() D:\wamp64\www\emsdemo\View\dropdown.php:0
+[18-Sep-2023 12:09:06 Asia/Kolkata] PHP Warning:  Undefined variable $selected in D:\wamp64\www\emsdemo\View\dropdown.php on line 34
+[18-Sep-2023 12:09:06 Asia/Kolkata] PHP Stack trace:
+[18-Sep-2023 12:09:06 Asia/Kolkata] PHP   1. {main}() D:\wamp64\www\emsdemo\View\dropdown.php:0
+[18-Sep-2023 12:09:06 Asia/Kolkata] PHP Warning:  Undefined variable $selected in D:\wamp64\www\emsdemo\View\dropdown.php on line 34
+[18-Sep-2023 12:09:06 Asia/Kolkata] PHP Stack trace:
+[18-Sep-2023 12:09:06 Asia/Kolkata] PHP   1. {main}() D:\wamp64\www\emsdemo\View\dropdown.php:0
+[18-Sep-2023 12:09:06 Asia/Kolkata] PHP Warning:  Undefined variable $selected in D:\wamp64\www\emsdemo\View\dropdown.php on line 34
+[18-Sep-2023 12:09:06 Asia/Kolkata] PHP Stack trace:
+[18-Sep-2023 12:09:06 Asia/Kolkata] PHP   1. {main}() D:\wamp64\www\emsdemo\View\dropdown.php:0
+[18-Sep-2023 12:09:06 Asia/Kolkata] PHP Warning:  Undefined variable $selected in D:\wamp64\www\emsdemo\View\dropdown.php on line 34
+[18-Sep-2023 12:09:06 Asia/Kolkata] PHP Stack trace:
+[18-Sep-2023 12:09:06 Asia/Kolkata] PHP   1. {main}() D:\wamp64\www\emsdemo\View\dropdown.php:0
+[18-Sep-2023 12:09:06 Asia/Kolkata] PHP Warning:  Undefined variable $selected in D:\wamp64\www\emsdemo\View\dropdown.php on line 34
+[18-Sep-2023 12:09:06 Asia/Kolkata] PHP Stack trace:
+[18-Sep-2023 12:09:06 Asia/Kolkata] PHP   1. {main}() D:\wamp64\www\emsdemo\View\dropdown.php:0
+[18-Sep-2023 12:09:06 Asia/Kolkata] PHP Warning:  Undefined variable $selected in D:\wamp64\www\emsdemo\View\dropdown.php on line 34
+[18-Sep-2023 12:09:06 Asia/Kolkata] PHP Stack trace:
+[18-Sep-2023 12:09:06 Asia/Kolkata] PHP   1. {main}() D:\wamp64\www\emsdemo\View\dropdown.php:0
+[18-Sep-2023 12:09:06 Asia/Kolkata] PHP Warning:  Undefined variable $selected in D:\wamp64\www\emsdemo\View\dropdown.php on line 34
+[18-Sep-2023 12:09:06 Asia/Kolkata] PHP Stack trace:
+[18-Sep-2023 12:09:06 Asia/Kolkata] PHP   1. {main}() D:\wamp64\www\emsdemo\View\dropdown.php:0
+[18-Sep-2023 12:09:06 Asia/Kolkata] PHP Warning:  Undefined variable $selected in D:\wamp64\www\emsdemo\View\dropdown.php on line 34
+[18-Sep-2023 12:09:06 Asia/Kolkata] PHP Stack trace:
+[18-Sep-2023 12:09:06 Asia/Kolkata] PHP   1. {main}() D:\wamp64\www\emsdemo\View\dropdown.php:0
+[18-Sep-2023 12:09:06 Asia/Kolkata] PHP Warning:  Undefined variable $selected in D:\wamp64\www\emsdemo\View\dropdown.php on line 34
+[18-Sep-2023 12:09:06 Asia/Kolkata] PHP Stack trace:
+[18-Sep-2023 12:09:06 Asia/Kolkata] PHP   1. {main}() D:\wamp64\www\emsdemo\View\dropdown.php:0
+[18-Sep-2023 12:09:06 Asia/Kolkata] PHP Warning:  Undefined variable $selected in D:\wamp64\www\emsdemo\View\dropdown.php on line 34
+[18-Sep-2023 12:09:06 Asia/Kolkata] PHP Stack trace:
+[18-Sep-2023 12:09:06 Asia/Kolkata] PHP   1. {main}() D:\wamp64\www\emsdemo\View\dropdown.php:0
+[18-Sep-2023 12:09:06 Asia/Kolkata] PHP Warning:  Undefined variable $selected in D:\wamp64\www\emsdemo\View\dropdown.php on line 34
+[18-Sep-2023 12:09:06 Asia/Kolkata] PHP Stack trace:
+[18-Sep-2023 12:09:06 Asia/Kolkata] PHP   1. {main}() D:\wamp64\www\emsdemo\View\dropdown.php:0
+[18-Sep-2023 12:09:06 Asia/Kolkata] PHP Warning:  Undefined variable $selected in D:\wamp64\www\emsdemo\View\dropdown.php on line 34
+[18-Sep-2023 12:09:06 Asia/Kolkata] PHP Stack trace:
+[18-Sep-2023 12:09:06 Asia/Kolkata] PHP   1. {main}() D:\wamp64\www\emsdemo\View\dropdown.php:0
+[18-Sep-2023 12:09:06 Asia/Kolkata] PHP Warning:  Undefined variable $selected in D:\wamp64\www\emsdemo\View\dropdown.php on line 34
+[18-Sep-2023 12:09:06 Asia/Kolkata] PHP Stack trace:
+[18-Sep-2023 12:09:06 Asia/Kolkata] PHP   1. {main}() D:\wamp64\www\emsdemo\View\dropdown.php:0

@@ -1,0 +1,242 @@
+<?php
+// Server Config file
+require_once(__dir__ . '/../Config/init.php');
+require_once(CLS . 'MysqliDb.php');
+date_default_timezone_set('Asia/Kolkata');
+// Main contain Header file which contains html , head , body , one default form 
+require(ROOT_PATH . 'AppCode/nHead.php');
+$myDB = new MysqliDb();
+$conn = $myDB->dbConnect();
+$sess = $_SESSION['__user_logid'] == 'CE111930187' ||  $_SESSION['__user_logid'] == 'CE03070003' ||  $_SESSION['__user_logid'] == 'CE01145570' ||  $_SESSION['__user_logid'] == 'CE071829465';
+if ($sess) {
+	$__user_logid = $_SESSION['__user_logid'];
+	if (!isset($__user_logid)) {
+		$location = URL . 'Login';
+		echo "<script>location.href='" . $location . "'</script>";
+	} else {
+		$isPostBack = false;
+		$referer = "";
+		$alert_msg = "";
+		$thisPage = REQUEST_SCHEME . "://" . $_SERVER['HTTP_HOST'] . $_SERVER['REQUEST_URI'];
+
+		if (isset($_SERVER['HTTP_REFERER'])) {
+			$referer = $_SERVER['HTTP_REFERER'];
+		}
+
+		if ($referer == $thisPage) {
+			$isPostBack = true;
+		}
+	}
+} else {
+	$location = URL . 'Login';
+	echo "<script>location.href='" . $location . "'</script>";
+}
+$msg = $searchBy = $empid = '';
+$classvarr = "'.byID'";
+$icardStatus = '0';
+if ($isPostBack && isset($_POST['txt_dateTo'])) {
+	if (isset($_POST["token"]) && isset($_SESSION["token"]) && $_POST["token"] == $_SESSION["token"]) {
+		$date_To = cleanUserInput($_POST['txt_dateTo']);
+		$date_From = cleanUserInput($_POST['txt_dateFrom']);
+		$icardStatus = cleanUserInput($_POST['icardStatus']);
+	}
+} else {
+	$date_To = date('Y-m-d', time());
+	$d = new DateTime($date_To);
+	$d->modify('first day of this month');
+	$date_From = $d->format('Y-m-d');
+	//$date_From= "2019-12-09"; 
+
+}
+$sql = "SELECT a.EmployeeID, a.EmployeeName, a.DOB, a.DOJ, concat(a.clientname,' | ',a.Process,' | ',a.sub_process) as newprocess,  a.account_head,a.designation, a.ReportTo ,b.ID_Card from whole_details_peremp a  inner JOIN  doc_al_status b on a.EmployeeID=b.EmployeeID where  b.ID_Card=? and a.DOJ between ? and ?";
+?>
+
+<script>
+	$(document).ready(function() {
+		$('#txt_dateFrom,#txt_dateTo').datetimepicker({
+			timepicker: false,
+			format: 'Y-m-d'
+		});
+
+		$('#myTable').DataTable({
+			dom: 'Bfrtip',
+			"iDisplayLength": 25,
+			scrollCollapse: true,
+			lengthMenu: [
+				[5, 10, 25, 50, -1],
+				['5 rows', '10 rows', '25 rows', '50 rows', 'Show all']
+			],
+			buttons: [{
+				extend: 'excel',
+				text: 'EXCEL',
+				extension: '.xlsx',
+				exportOptions: {
+					modifier: {
+						page: 'all'
+					}
+				},
+				title: 'table'
+			}, 'pageLength']
+		});
+
+
+		$('.buttons-excel').attr('id', 'buttons_excel');
+		$('.buttons-page-length').attr('id', 'buttons_page_length');
+	});
+</script>
+
+<!-- This div not contain a End on this Page because this activity already done in footer Page -->
+<div id="content" class="content">
+
+	<!-- Header Text for Page and Title -->
+	<span id="PageTittle_span" class="hidden">Print ID Card</span>
+
+	<!-- Main Div for all Page -->
+	<div class="pim-container row" id="div_main">
+
+		<!-- Sub Main Div for all Page -->
+		<div class="form-div">
+
+			<!-- Header for Form If any -->
+			<h4>Print Employee ID Card</h4>
+
+			<!-- Form container if any -->
+			<div class="schema-form-section row">
+
+				<?php
+				$_SESSION["token"] = csrfToken();
+				?>
+				<input type="hidden" name="token" value="<?= $_SESSION["token"] ?>">
+
+				<div class="input-field col s12 m12" id="rpt_container">
+					<div class="input-field col s3 m3">
+
+						<input type="text" name="txt_dateFrom" id="txt_dateFrom" value="<?php echo $date_From; ?>" />
+					</div>
+					<div class="input-field col s3 m3">
+
+						<input type="text" name="txt_dateTo" id="txt_dateTo" value="<?php echo $date_To; ?>" />
+					</div>
+					<div class="input-field col s3 m3">
+						<select name="icardStatus" id="icardStatus">
+							<option value="0" <?php if ($icardStatus == '0') {
+													echo "selected";
+												} ?>>Not Issued</option>
+							<option value="1" <?php if ($icardStatus == '1') {
+													echo "selected";
+												} ?>>Issued</option>
+						</select>
+					</div>
+					<div class="input-field col s3 m3">
+
+						<button type="submit" class="btn waves-effect waves-green" name="btn_view" id="btn_view"> Search</button>
+						<!--<button type="submit" class="button button-3d-action button-rounded" name="btn_export" id="btn_export"><i class="fa fa-download"></i> Export</button>-->
+					</div>
+
+				</div>
+				<div id="pnlTable">
+					<?php
+					//$sql="select EmployeeID, EmployeeName, DOB, DOJ, concat(clientname,' | ',Process,' | ',sub_process) as newprocess,  account_head,designation, ReportTo from whole_details_peremp where DOJ>='2019-08-10' ";
+					$selectQury = $conn->prepare($sql);
+					$selectQury->bind_param("iss", $icardStatus, $date_From, $date_To);
+					$selectQury->execute();
+					$result = $selectQury->get_result();
+
+					// $result = $myDB->query($sql);
+
+					?>
+					<table id="myTable" class="data dataTable no-footer" cellspacing="0" width="100%">
+						<thead>
+							<tr>
+								<th>SN.</th>
+								<th>EmployeeID</th>
+								<th>EmployeeName</th>
+								<th>Date of Birth</th>
+								<th>Date of Joinning</th>
+								<th>Process</th>
+								<th>Designation</th>
+								<th>Print Status</th>
+							</tr>
+						</thead>
+						<tbody>
+							<?php
+							$count = 1;
+							if ($result->num_rows > 0) {
+								foreach ($result as $key => $value) {
+									echo '<tr>';
+									echo '<td  id="countc' . $count . '">' . $count . '</td>';
+									echo '<td  id="empid' . $value['EmployeeID'] . '" class="div_tempCard"><a href="#" title="Print It" data_empID="' . $value['EmployeeID'] . '" id="a_print_card"  onclick="issueIdCard(\'' . $value['EmployeeID'] . '\');">' . $value['EmployeeID'] . '</a></td>';
+									echo '<td  id="empname' . $count . '" >' . $value['EmployeeName'] . '</td>';
+									echo '<td  id="bob' . $count . '" >' . $value['DOB'] . '</td>';
+									echo '<td  id="doj' . $count . '"  >' . $value['DOJ'] . '</td>';
+									echo '<td  id="process' . $count . '"  >' . $value['newprocess'] . '</td>';
+									echo '<td  id="desig' . $count . '"  >' . $value['designation'] . '</td>';
+							?>
+									<td class="tbl__ID" id="emptext<?php echo $value['EmployeeID']; ?>">
+										<?php if ($value['ID_Card'] == 1) {
+											echo 'Issued';
+										} else {
+											echo 'Not Issued';
+										} ?>
+
+									</td>
+
+
+							<?php
+									echo '</tr>';
+									$count++;
+								}
+							} else {
+								echo "<tr><td colspan='6'>Data not found</td></tr>";
+							}
+							?>
+						</tbody>
+					</table>
+				</div>
+
+
+			</div>
+			<!--Form container End -->
+		</div>
+		<!--Main Div for all Page End -->
+	</div>
+	<!--Content Div for all Page End -->
+</div>
+<script>
+	$(document).ready(function() {
+		/* $('.div_tempCard').on('click',function(){
+		 	var txtEmployeeID= $(this).children('a').attr('data_EmpID');
+		 	alert(txtEmployeeID);
+			$.ajax({url: "../Controller/OLReportIssueIdCard.php?EmpID="+$(this).children('a').attr('data_EmpID'), success: function(result){
+				
+		            if(result)
+					{	
+						var abc= $('#emptext'+txtEmployeeID).html('Issued');
+						 alert_msg='Id Card issued successfully';
+						 $(function(){ toastr.success(alert_msg); });
+					} 
+				}	
+			});
+	    
+
+	    });*/
+	});
+
+	function issueIdCard(empid) {
+		var txtEmployeeID = empid;
+		$.ajax({
+			url: "../Controller/OLReportIssueIdCard.php?EmpID=" + txtEmployeeID,
+			success: function(result) {
+				if (result) {
+					var abc = $('#emptext' + txtEmployeeID).html('Issued');
+					alert_msg = 'Id Card issued successfully';
+					$(function() {
+						toastr.success(alert_msg);
+					});
+				}
+			}
+		});
+		var popup = window.open("../Controller/get_tempCard.php?EmpID=" + empid, "popupWindow", "width=600px,height=600px,scrollbars=yes");
+	}
+</script>
+<?php include(ROOT_PATH . 'AppCode/footer.mpt'); ?>

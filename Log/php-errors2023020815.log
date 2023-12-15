@@ -1,0 +1,375 @@
+[08-Feb-2023 15:14:12 Asia/Kolkata] PHP Notice:  Undefined index: clientName in C:\wamp64\www\emsdemo\View\rpt_Atnd_new.php on line 219
+[08-Feb-2023 15:14:12 Asia/Kolkata] PHP Stack trace:
+[08-Feb-2023 15:14:12 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\emsdemo\View\rpt_Atnd_new.php:0
+[08-Feb-2023 15:14:12 Asia/Kolkata] PHP Notice:  Undefined index: txt_dateMonth in C:\wamp64\www\emsdemo\View\rpt_Atnd_new.php on line 225
+[08-Feb-2023 15:14:12 Asia/Kolkata] PHP Stack trace:
+[08-Feb-2023 15:14:12 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\emsdemo\View\rpt_Atnd_new.php:0
+[08-Feb-2023 15:14:12 Asia/Kolkata] PHP Notice:  Undefined variable: monthCount in C:\wamp64\www\emsdemo\View\rpt_Atnd_new.php on line 230
+[08-Feb-2023 15:14:12 Asia/Kolkata] PHP Stack trace:
+[08-Feb-2023 15:14:12 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\emsdemo\View\rpt_Atnd_new.php:0
+[08-Feb-2023 15:14:12 Asia/Kolkata] PHP Notice:  Undefined variable: monthCount in C:\wamp64\www\emsdemo\View\rpt_Atnd_new.php on line 232
+[08-Feb-2023 15:14:12 Asia/Kolkata] PHP Stack trace:
+[08-Feb-2023 15:14:12 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\emsdemo\View\rpt_Atnd_new.php:0
+[08-Feb-2023 15:14:56 Asia/Kolkata] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in C:\wamp64\www\emsdemo\AppData\lib\PHPExcel\Shared\String.php on line 529
+[08-Feb-2023 15:14:56 Asia/Kolkata] PHP Stack trace:
+[08-Feb-2023 15:14:56 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\emsdemo\View\upload_consult_data.php:0
+[08-Feb-2023 15:14:56 Asia/Kolkata] PHP   2. require_once() C:\wamp64\www\emsdemo\View\upload_consult_data.php:10
+[08-Feb-2023 15:14:56 Asia/Kolkata] PHP   3. require() C:\wamp64\www\emsdemo\AppData\lib\PHPExcel\IOFactory.php:35
+[08-Feb-2023 15:14:56 Asia/Kolkata] PHP   4. spl_autoload_call($class_name = 'PHPExcel_Shared_String') C:\wamp64\www\emsdemo\AppData\lib\PHPExcel\Autoloader.php:36
+[08-Feb-2023 15:14:56 Asia/Kolkata] PHP   5. PHPExcel_Autoloader::Load($pClassName = 'PHPExcel_Shared_String') C:\wamp64\www\emsdemo\AppData\lib\PHPExcel\Autoloader.php:36
+[08-Feb-2023 15:14:56 Asia/Kolkata] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in C:\wamp64\www\emsdemo\AppData\lib\PHPExcel\Shared\String.php on line 530
+[08-Feb-2023 15:14:56 Asia/Kolkata] PHP Stack trace:
+[08-Feb-2023 15:14:56 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\emsdemo\View\upload_consult_data.php:0
+[08-Feb-2023 15:14:56 Asia/Kolkata] PHP   2. require_once() C:\wamp64\www\emsdemo\View\upload_consult_data.php:10
+[08-Feb-2023 15:14:56 Asia/Kolkata] PHP   3. require() C:\wamp64\www\emsdemo\AppData\lib\PHPExcel\IOFactory.php:35
+[08-Feb-2023 15:14:56 Asia/Kolkata] PHP   4. spl_autoload_call($class_name = 'PHPExcel_Shared_String') C:\wamp64\www\emsdemo\AppData\lib\PHPExcel\Autoloader.php:36
+[08-Feb-2023 15:14:56 Asia/Kolkata] PHP   5. PHPExcel_Autoloader::Load($pClassName = 'PHPExcel_Shared_String') C:\wamp64\www\emsdemo\AppData\lib\PHPExcel\Autoloader.php:36
+[08-Feb-2023 15:14:56 Asia/Kolkata] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in C:\wamp64\www\emsdemo\AppData\lib\PHPExcel\Shared\String.php on line 536
+[08-Feb-2023 15:14:56 Asia/Kolkata] PHP Stack trace:
+[08-Feb-2023 15:14:56 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\emsdemo\View\upload_consult_data.php:0
+[08-Feb-2023 15:14:56 Asia/Kolkata] PHP   2. require_once() C:\wamp64\www\emsdemo\View\upload_consult_data.php:10
+[08-Feb-2023 15:14:56 Asia/Kolkata] PHP   3. require() C:\wamp64\www\emsdemo\AppData\lib\PHPExcel\IOFactory.php:35
+[08-Feb-2023 15:14:56 Asia/Kolkata] PHP   4. spl_autoload_call($class_name = 'PHPExcel_Shared_String') C:\wamp64\www\emsdemo\AppData\lib\PHPExcel\Autoloader.php:36
+[08-Feb-2023 15:14:56 Asia/Kolkata] PHP   5. PHPExcel_Autoloader::Load($pClassName = 'PHPExcel_Shared_String') C:\wamp64\www\emsdemo\AppData\lib\PHPExcel\Autoloader.php:36
+[08-Feb-2023 15:14:56 Asia/Kolkata] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in C:\wamp64\www\emsdemo\AppData\lib\PHPExcel\Shared\String.php on line 536
+[08-Feb-2023 15:14:56 Asia/Kolkata] PHP Stack trace:
+[08-Feb-2023 15:14:56 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\emsdemo\View\upload_consult_data.php:0
+[08-Feb-2023 15:14:56 Asia/Kolkata] PHP   2. require_once() C:\wamp64\www\emsdemo\View\upload_consult_data.php:10
+[08-Feb-2023 15:14:56 Asia/Kolkata] PHP   3. require() C:\wamp64\www\emsdemo\AppData\lib\PHPExcel\IOFactory.php:35
+[08-Feb-2023 15:14:56 Asia/Kolkata] PHP   4. spl_autoload_call($class_name = 'PHPExcel_Shared_String') C:\wamp64\www\emsdemo\AppData\lib\PHPExcel\Autoloader.php:36
+[08-Feb-2023 15:14:56 Asia/Kolkata] PHP   5. PHPExcel_Autoloader::Load($pClassName = 'PHPExcel_Shared_String') C:\wamp64\www\emsdemo\AppData\lib\PHPExcel\Autoloader.php:36
+[08-Feb-2023 15:14:56 Asia/Kolkata] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in C:\wamp64\www\emsdemo\AppData\lib\PHPExcel\Shared\String.php on line 537
+[08-Feb-2023 15:14:56 Asia/Kolkata] PHP Stack trace:
+[08-Feb-2023 15:14:56 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\emsdemo\View\upload_consult_data.php:0
+[08-Feb-2023 15:14:56 Asia/Kolkata] PHP   2. require_once() C:\wamp64\www\emsdemo\View\upload_consult_data.php:10
+[08-Feb-2023 15:14:56 Asia/Kolkata] PHP   3. require() C:\wamp64\www\emsdemo\AppData\lib\PHPExcel\IOFactory.php:35
+[08-Feb-2023 15:14:56 Asia/Kolkata] PHP   4. spl_autoload_call($class_name = 'PHPExcel_Shared_String') C:\wamp64\www\emsdemo\AppData\lib\PHPExcel\Autoloader.php:36
+[08-Feb-2023 15:14:56 Asia/Kolkata] PHP   5. PHPExcel_Autoloader::Load($pClassName = 'PHPExcel_Shared_String') C:\wamp64\www\emsdemo\AppData\lib\PHPExcel\Autoloader.php:36
+[08-Feb-2023 15:14:56 Asia/Kolkata] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in C:\wamp64\www\emsdemo\AppData\lib\PHPExcel\Shared\String.php on line 537
+[08-Feb-2023 15:14:56 Asia/Kolkata] PHP Stack trace:
+[08-Feb-2023 15:14:56 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\emsdemo\View\upload_consult_data.php:0
+[08-Feb-2023 15:14:56 Asia/Kolkata] PHP   2. require_once() C:\wamp64\www\emsdemo\View\upload_consult_data.php:10
+[08-Feb-2023 15:14:56 Asia/Kolkata] PHP   3. require() C:\wamp64\www\emsdemo\AppData\lib\PHPExcel\IOFactory.php:35
+[08-Feb-2023 15:14:56 Asia/Kolkata] PHP   4. spl_autoload_call($class_name = 'PHPExcel_Shared_String') C:\wamp64\www\emsdemo\AppData\lib\PHPExcel\Autoloader.php:36
+[08-Feb-2023 15:14:56 Asia/Kolkata] PHP   5. PHPExcel_Autoloader::Load($pClassName = 'PHPExcel_Shared_String') C:\wamp64\www\emsdemo\AppData\lib\PHPExcel\Autoloader.php:36
+[08-Feb-2023 15:17:14 Asia/Kolkata] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in C:\wamp64\www\emsdemo\AppData\lib\PHPExcel\ReferenceHelper.php on line 892
+[08-Feb-2023 15:17:14 Asia/Kolkata] PHP Stack trace:
+[08-Feb-2023 15:17:14 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\emsdemo\View\upload_consult_data.php:0
+[08-Feb-2023 15:17:14 Asia/Kolkata] PHP   2. PHPExcel_IOFactory::load($pFilename = 'C:\\wamp64\\www\\emsdemo\\Config/../Upload/upload_format_bank_detail.xlsx') C:\wamp64\www\emsdemo\View\upload_consult_data.php:67
+[08-Feb-2023 15:17:14 Asia/Kolkata] PHP   3. PHPExcel_IOFactory::createReaderForFile($pFilename = 'C:\\wamp64\\www\\emsdemo\\Config/../Upload/upload_format_bank_detail.xlsx') C:\wamp64\www\emsdemo\AppData\lib\PHPExcel\IOFactory.php:191
+[08-Feb-2023 15:17:14 Asia/Kolkata] PHP   4. PHPExcel_IOFactory::createReader($readerType = 'Excel2007') C:\wamp64\www\emsdemo\AppData\lib\PHPExcel\IOFactory.php:266
+[08-Feb-2023 15:17:14 Asia/Kolkata] PHP   5. PHPExcel_Reader_Excel2007->__construct() C:\wamp64\www\emsdemo\AppData\lib\PHPExcel\IOFactory.php:170
+[08-Feb-2023 15:17:14 Asia/Kolkata] PHP   6. spl_autoload_call($class_name = 'PHPExcel_ReferenceHelper') C:\wamp64\www\emsdemo\AppData\lib\PHPExcel\Reader\Excel2007.php:67
+[08-Feb-2023 15:17:14 Asia/Kolkata] PHP   7. PHPExcel_Autoloader::Load($pClassName = 'PHPExcel_ReferenceHelper') C:\wamp64\www\emsdemo\AppData\lib\PHPExcel\Reader\Excel2007.php:67
+[08-Feb-2023 15:17:14 Asia/Kolkata] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in C:\wamp64\www\emsdemo\AppData\lib\PHPExcel\ReferenceHelper.php on line 892
+[08-Feb-2023 15:17:14 Asia/Kolkata] PHP Stack trace:
+[08-Feb-2023 15:17:14 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\emsdemo\View\upload_consult_data.php:0
+[08-Feb-2023 15:17:14 Asia/Kolkata] PHP   2. PHPExcel_IOFactory::load($pFilename = 'C:\\wamp64\\www\\emsdemo\\Config/../Upload/upload_format_bank_detail.xlsx') C:\wamp64\www\emsdemo\View\upload_consult_data.php:67
+[08-Feb-2023 15:17:14 Asia/Kolkata] PHP   3. PHPExcel_IOFactory::createReaderForFile($pFilename = 'C:\\wamp64\\www\\emsdemo\\Config/../Upload/upload_format_bank_detail.xlsx') C:\wamp64\www\emsdemo\AppData\lib\PHPExcel\IOFactory.php:191
+[08-Feb-2023 15:17:14 Asia/Kolkata] PHP   4. PHPExcel_IOFactory::createReader($readerType = 'Excel2007') C:\wamp64\www\emsdemo\AppData\lib\PHPExcel\IOFactory.php:266
+[08-Feb-2023 15:17:14 Asia/Kolkata] PHP   5. PHPExcel_Reader_Excel2007->__construct() C:\wamp64\www\emsdemo\AppData\lib\PHPExcel\IOFactory.php:170
+[08-Feb-2023 15:17:14 Asia/Kolkata] PHP   6. spl_autoload_call($class_name = 'PHPExcel_ReferenceHelper') C:\wamp64\www\emsdemo\AppData\lib\PHPExcel\Reader\Excel2007.php:67
+[08-Feb-2023 15:17:14 Asia/Kolkata] PHP   7. PHPExcel_Autoloader::Load($pClassName = 'PHPExcel_ReferenceHelper') C:\wamp64\www\emsdemo\AppData\lib\PHPExcel\Reader\Excel2007.php:67
+[08-Feb-2023 15:17:14 Asia/Kolkata] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in C:\wamp64\www\emsdemo\AppData\lib\PHPExcel\ReferenceHelper.php on line 894
+[08-Feb-2023 15:17:14 Asia/Kolkata] PHP Stack trace:
+[08-Feb-2023 15:17:14 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\emsdemo\View\upload_consult_data.php:0
+[08-Feb-2023 15:17:14 Asia/Kolkata] PHP   2. PHPExcel_IOFactory::load($pFilename = 'C:\\wamp64\\www\\emsdemo\\Config/../Upload/upload_format_bank_detail.xlsx') C:\wamp64\www\emsdemo\View\upload_consult_data.php:67
+[08-Feb-2023 15:17:14 Asia/Kolkata] PHP   3. PHPExcel_IOFactory::createReaderForFile($pFilename = 'C:\\wamp64\\www\\emsdemo\\Config/../Upload/upload_format_bank_detail.xlsx') C:\wamp64\www\emsdemo\AppData\lib\PHPExcel\IOFactory.php:191
+[08-Feb-2023 15:17:14 Asia/Kolkata] PHP   4. PHPExcel_IOFactory::createReader($readerType = 'Excel2007') C:\wamp64\www\emsdemo\AppData\lib\PHPExcel\IOFactory.php:266
+[08-Feb-2023 15:17:14 Asia/Kolkata] PHP   5. PHPExcel_Reader_Excel2007->__construct() C:\wamp64\www\emsdemo\AppData\lib\PHPExcel\IOFactory.php:170
+[08-Feb-2023 15:17:14 Asia/Kolkata] PHP   6. spl_autoload_call($class_name = 'PHPExcel_ReferenceHelper') C:\wamp64\www\emsdemo\AppData\lib\PHPExcel\Reader\Excel2007.php:67
+[08-Feb-2023 15:17:14 Asia/Kolkata] PHP   7. PHPExcel_Autoloader::Load($pClassName = 'PHPExcel_ReferenceHelper') C:\wamp64\www\emsdemo\AppData\lib\PHPExcel\Reader\Excel2007.php:67
+[08-Feb-2023 15:17:14 Asia/Kolkata] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in C:\wamp64\www\emsdemo\AppData\lib\PHPExcel\ReferenceHelper.php on line 894
+[08-Feb-2023 15:17:14 Asia/Kolkata] PHP Stack trace:
+[08-Feb-2023 15:17:14 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\emsdemo\View\upload_consult_data.php:0
+[08-Feb-2023 15:17:14 Asia/Kolkata] PHP   2. PHPExcel_IOFactory::load($pFilename = 'C:\\wamp64\\www\\emsdemo\\Config/../Upload/upload_format_bank_detail.xlsx') C:\wamp64\www\emsdemo\View\upload_consult_data.php:67
+[08-Feb-2023 15:17:14 Asia/Kolkata] PHP   3. PHPExcel_IOFactory::createReaderForFile($pFilename = 'C:\\wamp64\\www\\emsdemo\\Config/../Upload/upload_format_bank_detail.xlsx') C:\wamp64\www\emsdemo\AppData\lib\PHPExcel\IOFactory.php:191
+[08-Feb-2023 15:17:14 Asia/Kolkata] PHP   4. PHPExcel_IOFactory::createReader($readerType = 'Excel2007') C:\wamp64\www\emsdemo\AppData\lib\PHPExcel\IOFactory.php:266
+[08-Feb-2023 15:17:14 Asia/Kolkata] PHP   5. PHPExcel_Reader_Excel2007->__construct() C:\wamp64\www\emsdemo\AppData\lib\PHPExcel\IOFactory.php:170
+[08-Feb-2023 15:17:14 Asia/Kolkata] PHP   6. spl_autoload_call($class_name = 'PHPExcel_ReferenceHelper') C:\wamp64\www\emsdemo\AppData\lib\PHPExcel\Reader\Excel2007.php:67
+[08-Feb-2023 15:17:14 Asia/Kolkata] PHP   7. PHPExcel_Autoloader::Load($pClassName = 'PHPExcel_ReferenceHelper') C:\wamp64\www\emsdemo\AppData\lib\PHPExcel\Reader\Excel2007.php:67
+[08-Feb-2023 15:17:14 Asia/Kolkata] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in C:\wamp64\www\emsdemo\AppData\lib\PHPExcel\Calculation.php on line 2186
+[08-Feb-2023 15:17:14 Asia/Kolkata] PHP Stack trace:
+[08-Feb-2023 15:17:14 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\emsdemo\View\upload_consult_data.php:0
+[08-Feb-2023 15:17:14 Asia/Kolkata] PHP   2. PHPExcel_IOFactory::load($pFilename = 'C:\\wamp64\\www\\emsdemo\\Config/../Upload/upload_format_bank_detail.xlsx') C:\wamp64\www\emsdemo\View\upload_consult_data.php:67
+[08-Feb-2023 15:17:14 Asia/Kolkata] PHP   3. PHPExcel_Reader_Excel2007->load($pFilename = 'C:\\wamp64\\www\\emsdemo\\Config/../Upload/upload_format_bank_detail.xlsx') C:\wamp64\www\emsdemo\AppData\lib\PHPExcel\IOFactory.php:192
+[08-Feb-2023 15:17:14 Asia/Kolkata] PHP   4. PHPExcel->__construct() C:\wamp64\www\emsdemo\AppData\lib\PHPExcel\Reader\Excel2007.php:351
+[08-Feb-2023 15:17:14 Asia/Kolkata] PHP   5. spl_autoload_call($class_name = 'PHPExcel_Calculation') C:\wamp64\www\emsdemo\AppData\lib\PHPExcel.php:360
+[08-Feb-2023 15:17:14 Asia/Kolkata] PHP   6. PHPExcel_Autoloader::Load($pClassName = 'PHPExcel_Calculation') C:\wamp64\www\emsdemo\AppData\lib\PHPExcel.php:360
+[08-Feb-2023 15:17:14 Asia/Kolkata] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in C:\wamp64\www\emsdemo\AppData\lib\PHPExcel\Calculation.php on line 2186
+[08-Feb-2023 15:17:14 Asia/Kolkata] PHP Stack trace:
+[08-Feb-2023 15:17:14 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\emsdemo\View\upload_consult_data.php:0
+[08-Feb-2023 15:17:14 Asia/Kolkata] PHP   2. PHPExcel_IOFactory::load($pFilename = 'C:\\wamp64\\www\\emsdemo\\Config/../Upload/upload_format_bank_detail.xlsx') C:\wamp64\www\emsdemo\View\upload_consult_data.php:67
+[08-Feb-2023 15:17:14 Asia/Kolkata] PHP   3. PHPExcel_Reader_Excel2007->load($pFilename = 'C:\\wamp64\\www\\emsdemo\\Config/../Upload/upload_format_bank_detail.xlsx') C:\wamp64\www\emsdemo\AppData\lib\PHPExcel\IOFactory.php:192
+[08-Feb-2023 15:17:14 Asia/Kolkata] PHP   4. PHPExcel->__construct() C:\wamp64\www\emsdemo\AppData\lib\PHPExcel\Reader\Excel2007.php:351
+[08-Feb-2023 15:17:14 Asia/Kolkata] PHP   5. spl_autoload_call($class_name = 'PHPExcel_Calculation') C:\wamp64\www\emsdemo\AppData\lib\PHPExcel.php:360
+[08-Feb-2023 15:17:14 Asia/Kolkata] PHP   6. PHPExcel_Autoloader::Load($pClassName = 'PHPExcel_Calculation') C:\wamp64\www\emsdemo\AppData\lib\PHPExcel.php:360
+[08-Feb-2023 15:17:14 Asia/Kolkata] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in C:\wamp64\www\emsdemo\AppData\lib\PHPExcel\Calculation.php on line 2294
+[08-Feb-2023 15:17:14 Asia/Kolkata] PHP Stack trace:
+[08-Feb-2023 15:17:14 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\emsdemo\View\upload_consult_data.php:0
+[08-Feb-2023 15:17:14 Asia/Kolkata] PHP   2. PHPExcel_IOFactory::load($pFilename = 'C:\\wamp64\\www\\emsdemo\\Config/../Upload/upload_format_bank_detail.xlsx') C:\wamp64\www\emsdemo\View\upload_consult_data.php:67
+[08-Feb-2023 15:17:14 Asia/Kolkata] PHP   3. PHPExcel_Reader_Excel2007->load($pFilename = 'C:\\wamp64\\www\\emsdemo\\Config/../Upload/upload_format_bank_detail.xlsx') C:\wamp64\www\emsdemo\AppData\lib\PHPExcel\IOFactory.php:192
+[08-Feb-2023 15:17:14 Asia/Kolkata] PHP   4. PHPExcel->__construct() C:\wamp64\www\emsdemo\AppData\lib\PHPExcel\Reader\Excel2007.php:351
+[08-Feb-2023 15:17:15 Asia/Kolkata] PHP   5. spl_autoload_call($class_name = 'PHPExcel_Calculation') C:\wamp64\www\emsdemo\AppData\lib\PHPExcel.php:360
+[08-Feb-2023 15:17:15 Asia/Kolkata] PHP   6. PHPExcel_Autoloader::Load($pClassName = 'PHPExcel_Calculation') C:\wamp64\www\emsdemo\AppData\lib\PHPExcel.php:360
+[08-Feb-2023 15:17:15 Asia/Kolkata] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in C:\wamp64\www\emsdemo\AppData\lib\PHPExcel\Calculation.php on line 2294
+[08-Feb-2023 15:17:15 Asia/Kolkata] PHP Stack trace:
+[08-Feb-2023 15:17:15 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\emsdemo\View\upload_consult_data.php:0
+[08-Feb-2023 15:17:15 Asia/Kolkata] PHP   2. PHPExcel_IOFactory::load($pFilename = 'C:\\wamp64\\www\\emsdemo\\Config/../Upload/upload_format_bank_detail.xlsx') C:\wamp64\www\emsdemo\View\upload_consult_data.php:67
+[08-Feb-2023 15:17:15 Asia/Kolkata] PHP   3. PHPExcel_Reader_Excel2007->load($pFilename = 'C:\\wamp64\\www\\emsdemo\\Config/../Upload/upload_format_bank_detail.xlsx') C:\wamp64\www\emsdemo\AppData\lib\PHPExcel\IOFactory.php:192
+[08-Feb-2023 15:17:15 Asia/Kolkata] PHP   4. PHPExcel->__construct() C:\wamp64\www\emsdemo\AppData\lib\PHPExcel\Reader\Excel2007.php:351
+[08-Feb-2023 15:17:15 Asia/Kolkata] PHP   5. spl_autoload_call($class_name = 'PHPExcel_Calculation') C:\wamp64\www\emsdemo\AppData\lib\PHPExcel.php:360
+[08-Feb-2023 15:17:15 Asia/Kolkata] PHP   6. PHPExcel_Autoloader::Load($pClassName = 'PHPExcel_Calculation') C:\wamp64\www\emsdemo\AppData\lib\PHPExcel.php:360
+[08-Feb-2023 15:17:15 Asia/Kolkata] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in C:\wamp64\www\emsdemo\AppData\lib\PHPExcel\Calculation.php on line 2296
+[08-Feb-2023 15:17:15 Asia/Kolkata] PHP Stack trace:
+[08-Feb-2023 15:17:15 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\emsdemo\View\upload_consult_data.php:0
+[08-Feb-2023 15:17:15 Asia/Kolkata] PHP   2. PHPExcel_IOFactory::load($pFilename = 'C:\\wamp64\\www\\emsdemo\\Config/../Upload/upload_format_bank_detail.xlsx') C:\wamp64\www\emsdemo\View\upload_consult_data.php:67
+[08-Feb-2023 15:17:15 Asia/Kolkata] PHP   3. PHPExcel_Reader_Excel2007->load($pFilename = 'C:\\wamp64\\www\\emsdemo\\Config/../Upload/upload_format_bank_detail.xlsx') C:\wamp64\www\emsdemo\AppData\lib\PHPExcel\IOFactory.php:192
+[08-Feb-2023 15:17:15 Asia/Kolkata] PHP   4. PHPExcel->__construct() C:\wamp64\www\emsdemo\AppData\lib\PHPExcel\Reader\Excel2007.php:351
+[08-Feb-2023 15:17:15 Asia/Kolkata] PHP   5. spl_autoload_call($class_name = 'PHPExcel_Calculation') C:\wamp64\www\emsdemo\AppData\lib\PHPExcel.php:360
+[08-Feb-2023 15:17:15 Asia/Kolkata] PHP   6. PHPExcel_Autoloader::Load($pClassName = 'PHPExcel_Calculation') C:\wamp64\www\emsdemo\AppData\lib\PHPExcel.php:360
+[08-Feb-2023 15:17:15 Asia/Kolkata] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in C:\wamp64\www\emsdemo\AppData\lib\PHPExcel\Calculation.php on line 2372
+[08-Feb-2023 15:17:15 Asia/Kolkata] PHP Stack trace:
+[08-Feb-2023 15:17:15 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\emsdemo\View\upload_consult_data.php:0
+[08-Feb-2023 15:17:15 Asia/Kolkata] PHP   2. PHPExcel_IOFactory::load($pFilename = 'C:\\wamp64\\www\\emsdemo\\Config/../Upload/upload_format_bank_detail.xlsx') C:\wamp64\www\emsdemo\View\upload_consult_data.php:67
+[08-Feb-2023 15:17:15 Asia/Kolkata] PHP   3. PHPExcel_Reader_Excel2007->load($pFilename = 'C:\\wamp64\\www\\emsdemo\\Config/../Upload/upload_format_bank_detail.xlsx') C:\wamp64\www\emsdemo\AppData\lib\PHPExcel\IOFactory.php:192
+[08-Feb-2023 15:17:15 Asia/Kolkata] PHP   4. PHPExcel->__construct() C:\wamp64\www\emsdemo\AppData\lib\PHPExcel\Reader\Excel2007.php:351
+[08-Feb-2023 15:17:15 Asia/Kolkata] PHP   5. spl_autoload_call($class_name = 'PHPExcel_Calculation') C:\wamp64\www\emsdemo\AppData\lib\PHPExcel.php:360
+[08-Feb-2023 15:17:15 Asia/Kolkata] PHP   6. PHPExcel_Autoloader::Load($pClassName = 'PHPExcel_Calculation') C:\wamp64\www\emsdemo\AppData\lib\PHPExcel.php:360
+[08-Feb-2023 15:17:15 Asia/Kolkata] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in C:\wamp64\www\emsdemo\AppData\lib\PHPExcel\Calculation.php on line 2374
+[08-Feb-2023 15:17:15 Asia/Kolkata] PHP Stack trace:
+[08-Feb-2023 15:17:15 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\emsdemo\View\upload_consult_data.php:0
+[08-Feb-2023 15:17:15 Asia/Kolkata] PHP   2. PHPExcel_IOFactory::load($pFilename = 'C:\\wamp64\\www\\emsdemo\\Config/../Upload/upload_format_bank_detail.xlsx') C:\wamp64\www\emsdemo\View\upload_consult_data.php:67
+[08-Feb-2023 15:17:15 Asia/Kolkata] PHP   3. PHPExcel_Reader_Excel2007->load($pFilename = 'C:\\wamp64\\www\\emsdemo\\Config/../Upload/upload_format_bank_detail.xlsx') C:\wamp64\www\emsdemo\AppData\lib\PHPExcel\IOFactory.php:192
+[08-Feb-2023 15:17:15 Asia/Kolkata] PHP   4. PHPExcel->__construct() C:\wamp64\www\emsdemo\AppData\lib\PHPExcel\Reader\Excel2007.php:351
+[08-Feb-2023 15:17:15 Asia/Kolkata] PHP   5. spl_autoload_call($class_name = 'PHPExcel_Calculation') C:\wamp64\www\emsdemo\AppData\lib\PHPExcel.php:360
+[08-Feb-2023 15:17:15 Asia/Kolkata] PHP   6. PHPExcel_Autoloader::Load($pClassName = 'PHPExcel_Calculation') C:\wamp64\www\emsdemo\AppData\lib\PHPExcel.php:360
+[08-Feb-2023 15:17:15 Asia/Kolkata] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in C:\wamp64\www\emsdemo\AppData\lib\PHPExcel\Calculation.php on line 2383
+[08-Feb-2023 15:17:15 Asia/Kolkata] PHP Stack trace:
+[08-Feb-2023 15:17:15 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\emsdemo\View\upload_consult_data.php:0
+[08-Feb-2023 15:17:15 Asia/Kolkata] PHP   2. PHPExcel_IOFactory::load($pFilename = 'C:\\wamp64\\www\\emsdemo\\Config/../Upload/upload_format_bank_detail.xlsx') C:\wamp64\www\emsdemo\View\upload_consult_data.php:67
+[08-Feb-2023 15:17:15 Asia/Kolkata] PHP   3. PHPExcel_Reader_Excel2007->load($pFilename = 'C:\\wamp64\\www\\emsdemo\\Config/../Upload/upload_format_bank_detail.xlsx') C:\wamp64\www\emsdemo\AppData\lib\PHPExcel\IOFactory.php:192
+[08-Feb-2023 15:17:15 Asia/Kolkata] PHP   4. PHPExcel->__construct() C:\wamp64\www\emsdemo\AppData\lib\PHPExcel\Reader\Excel2007.php:351
+[08-Feb-2023 15:17:15 Asia/Kolkata] PHP   5. spl_autoload_call($class_name = 'PHPExcel_Calculation') C:\wamp64\www\emsdemo\AppData\lib\PHPExcel.php:360
+[08-Feb-2023 15:17:15 Asia/Kolkata] PHP   6. PHPExcel_Autoloader::Load($pClassName = 'PHPExcel_Calculation') C:\wamp64\www\emsdemo\AppData\lib\PHPExcel.php:360
+[08-Feb-2023 15:17:15 Asia/Kolkata] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in C:\wamp64\www\emsdemo\AppData\lib\PHPExcel\Calculation.php on line 2632
+[08-Feb-2023 15:17:15 Asia/Kolkata] PHP Stack trace:
+[08-Feb-2023 15:17:15 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\emsdemo\View\upload_consult_data.php:0
+[08-Feb-2023 15:17:15 Asia/Kolkata] PHP   2. PHPExcel_IOFactory::load($pFilename = 'C:\\wamp64\\www\\emsdemo\\Config/../Upload/upload_format_bank_detail.xlsx') C:\wamp64\www\emsdemo\View\upload_consult_data.php:67
+[08-Feb-2023 15:17:15 Asia/Kolkata] PHP   3. PHPExcel_Reader_Excel2007->load($pFilename = 'C:\\wamp64\\www\\emsdemo\\Config/../Upload/upload_format_bank_detail.xlsx') C:\wamp64\www\emsdemo\AppData\lib\PHPExcel\IOFactory.php:192
+[08-Feb-2023 15:17:15 Asia/Kolkata] PHP   4. PHPExcel->__construct() C:\wamp64\www\emsdemo\AppData\lib\PHPExcel\Reader\Excel2007.php:351
+[08-Feb-2023 15:17:15 Asia/Kolkata] PHP   5. spl_autoload_call($class_name = 'PHPExcel_Calculation') C:\wamp64\www\emsdemo\AppData\lib\PHPExcel.php:360
+[08-Feb-2023 15:17:15 Asia/Kolkata] PHP   6. PHPExcel_Autoloader::Load($pClassName = 'PHPExcel_Calculation') C:\wamp64\www\emsdemo\AppData\lib\PHPExcel.php:360
+[08-Feb-2023 15:17:15 Asia/Kolkata] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in C:\wamp64\www\emsdemo\AppData\lib\PHPExcel\Calculation.php on line 2761
+[08-Feb-2023 15:17:15 Asia/Kolkata] PHP Stack trace:
+[08-Feb-2023 15:17:15 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\emsdemo\View\upload_consult_data.php:0
+[08-Feb-2023 15:17:15 Asia/Kolkata] PHP   2. PHPExcel_IOFactory::load($pFilename = 'C:\\wamp64\\www\\emsdemo\\Config/../Upload/upload_format_bank_detail.xlsx') C:\wamp64\www\emsdemo\View\upload_consult_data.php:67
+[08-Feb-2023 15:17:15 Asia/Kolkata] PHP   3. PHPExcel_Reader_Excel2007->load($pFilename = 'C:\\wamp64\\www\\emsdemo\\Config/../Upload/upload_format_bank_detail.xlsx') C:\wamp64\www\emsdemo\AppData\lib\PHPExcel\IOFactory.php:192
+[08-Feb-2023 15:17:15 Asia/Kolkata] PHP   4. PHPExcel->__construct() C:\wamp64\www\emsdemo\AppData\lib\PHPExcel\Reader\Excel2007.php:351
+[08-Feb-2023 15:17:15 Asia/Kolkata] PHP   5. spl_autoload_call($class_name = 'PHPExcel_Calculation') C:\wamp64\www\emsdemo\AppData\lib\PHPExcel.php:360
+[08-Feb-2023 15:17:15 Asia/Kolkata] PHP   6. PHPExcel_Autoloader::Load($pClassName = 'PHPExcel_Calculation') C:\wamp64\www\emsdemo\AppData\lib\PHPExcel.php:360
+[08-Feb-2023 15:17:15 Asia/Kolkata] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in C:\wamp64\www\emsdemo\AppData\lib\PHPExcel\Calculation.php on line 2763
+[08-Feb-2023 15:17:15 Asia/Kolkata] PHP Stack trace:
+[08-Feb-2023 15:17:15 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\emsdemo\View\upload_consult_data.php:0
+[08-Feb-2023 15:17:15 Asia/Kolkata] PHP   2. PHPExcel_IOFactory::load($pFilename = 'C:\\wamp64\\www\\emsdemo\\Config/../Upload/upload_format_bank_detail.xlsx') C:\wamp64\www\emsdemo\View\upload_consult_data.php:67
+[08-Feb-2023 15:17:15 Asia/Kolkata] PHP   3. PHPExcel_Reader_Excel2007->load($pFilename = 'C:\\wamp64\\www\\emsdemo\\Config/../Upload/upload_format_bank_detail.xlsx') C:\wamp64\www\emsdemo\AppData\lib\PHPExcel\IOFactory.php:192
+[08-Feb-2023 15:17:15 Asia/Kolkata] PHP   4. PHPExcel->__construct() C:\wamp64\www\emsdemo\AppData\lib\PHPExcel\Reader\Excel2007.php:351
+[08-Feb-2023 15:17:15 Asia/Kolkata] PHP   5. spl_autoload_call($class_name = 'PHPExcel_Calculation') C:\wamp64\www\emsdemo\AppData\lib\PHPExcel.php:360
+[08-Feb-2023 15:17:15 Asia/Kolkata] PHP   6. PHPExcel_Autoloader::Load($pClassName = 'PHPExcel_Calculation') C:\wamp64\www\emsdemo\AppData\lib\PHPExcel.php:360
+[08-Feb-2023 15:17:15 Asia/Kolkata] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in C:\wamp64\www\emsdemo\AppData\lib\PHPExcel\Calculation.php on line 2764
+[08-Feb-2023 15:17:15 Asia/Kolkata] PHP Stack trace:
+[08-Feb-2023 15:17:15 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\emsdemo\View\upload_consult_data.php:0
+[08-Feb-2023 15:17:15 Asia/Kolkata] PHP   2. PHPExcel_IOFactory::load($pFilename = 'C:\\wamp64\\www\\emsdemo\\Config/../Upload/upload_format_bank_detail.xlsx') C:\wamp64\www\emsdemo\View\upload_consult_data.php:67
+[08-Feb-2023 15:17:15 Asia/Kolkata] PHP   3. PHPExcel_Reader_Excel2007->load($pFilename = 'C:\\wamp64\\www\\emsdemo\\Config/../Upload/upload_format_bank_detail.xlsx') C:\wamp64\www\emsdemo\AppData\lib\PHPExcel\IOFactory.php:192
+[08-Feb-2023 15:17:15 Asia/Kolkata] PHP   4. PHPExcel->__construct() C:\wamp64\www\emsdemo\AppData\lib\PHPExcel\Reader\Excel2007.php:351
+[08-Feb-2023 15:17:15 Asia/Kolkata] PHP   5. spl_autoload_call($class_name = 'PHPExcel_Calculation') C:\wamp64\www\emsdemo\AppData\lib\PHPExcel.php:360
+[08-Feb-2023 15:17:15 Asia/Kolkata] PHP   6. PHPExcel_Autoloader::Load($pClassName = 'PHPExcel_Calculation') C:\wamp64\www\emsdemo\AppData\lib\PHPExcel.php:360
+[08-Feb-2023 15:17:15 Asia/Kolkata] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in C:\wamp64\www\emsdemo\AppData\lib\PHPExcel\Calculation.php on line 3039
+[08-Feb-2023 15:17:15 Asia/Kolkata] PHP Stack trace:
+[08-Feb-2023 15:17:15 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\emsdemo\View\upload_consult_data.php:0
+[08-Feb-2023 15:17:15 Asia/Kolkata] PHP   2. PHPExcel_IOFactory::load($pFilename = 'C:\\wamp64\\www\\emsdemo\\Config/../Upload/upload_format_bank_detail.xlsx') C:\wamp64\www\emsdemo\View\upload_consult_data.php:67
+[08-Feb-2023 15:17:15 Asia/Kolkata] PHP   3. PHPExcel_Reader_Excel2007->load($pFilename = 'C:\\wamp64\\www\\emsdemo\\Config/../Upload/upload_format_bank_detail.xlsx') C:\wamp64\www\emsdemo\AppData\lib\PHPExcel\IOFactory.php:192
+[08-Feb-2023 15:17:15 Asia/Kolkata] PHP   4. PHPExcel->__construct() C:\wamp64\www\emsdemo\AppData\lib\PHPExcel\Reader\Excel2007.php:351
+[08-Feb-2023 15:17:15 Asia/Kolkata] PHP   5. spl_autoload_call($class_name = 'PHPExcel_Calculation') C:\wamp64\www\emsdemo\AppData\lib\PHPExcel.php:360
+[08-Feb-2023 15:17:15 Asia/Kolkata] PHP   6. PHPExcel_Autoloader::Load($pClassName = 'PHPExcel_Calculation') C:\wamp64\www\emsdemo\AppData\lib\PHPExcel.php:360
+[08-Feb-2023 15:17:15 Asia/Kolkata] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in C:\wamp64\www\emsdemo\AppData\lib\PHPExcel\Calculation.php on line 3039
+[08-Feb-2023 15:17:15 Asia/Kolkata] PHP Stack trace:
+[08-Feb-2023 15:17:15 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\emsdemo\View\upload_consult_data.php:0
+[08-Feb-2023 15:17:15 Asia/Kolkata] PHP   2. PHPExcel_IOFactory::load($pFilename = 'C:\\wamp64\\www\\emsdemo\\Config/../Upload/upload_format_bank_detail.xlsx') C:\wamp64\www\emsdemo\View\upload_consult_data.php:67
+[08-Feb-2023 15:17:15 Asia/Kolkata] PHP   3. PHPExcel_Reader_Excel2007->load($pFilename = 'C:\\wamp64\\www\\emsdemo\\Config/../Upload/upload_format_bank_detail.xlsx') C:\wamp64\www\emsdemo\AppData\lib\PHPExcel\IOFactory.php:192
+[08-Feb-2023 15:17:15 Asia/Kolkata] PHP   4. PHPExcel->__construct() C:\wamp64\www\emsdemo\AppData\lib\PHPExcel\Reader\Excel2007.php:351
+[08-Feb-2023 15:17:15 Asia/Kolkata] PHP   5. spl_autoload_call($class_name = 'PHPExcel_Calculation') C:\wamp64\www\emsdemo\AppData\lib\PHPExcel.php:360
+[08-Feb-2023 15:17:15 Asia/Kolkata] PHP   6. PHPExcel_Autoloader::Load($pClassName = 'PHPExcel_Calculation') C:\wamp64\www\emsdemo\AppData\lib\PHPExcel.php:360
+[08-Feb-2023 15:17:15 Asia/Kolkata] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in C:\wamp64\www\emsdemo\AppData\lib\PHPExcel\Calculation.php on line 3042
+[08-Feb-2023 15:17:15 Asia/Kolkata] PHP Stack trace:
+[08-Feb-2023 15:17:15 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\emsdemo\View\upload_consult_data.php:0
+[08-Feb-2023 15:17:15 Asia/Kolkata] PHP   2. PHPExcel_IOFactory::load($pFilename = 'C:\\wamp64\\www\\emsdemo\\Config/../Upload/upload_format_bank_detail.xlsx') C:\wamp64\www\emsdemo\View\upload_consult_data.php:67
+[08-Feb-2023 15:17:15 Asia/Kolkata] PHP   3. PHPExcel_Reader_Excel2007->load($pFilename = 'C:\\wamp64\\www\\emsdemo\\Config/../Upload/upload_format_bank_detail.xlsx') C:\wamp64\www\emsdemo\AppData\lib\PHPExcel\IOFactory.php:192
+[08-Feb-2023 15:17:15 Asia/Kolkata] PHP   4. PHPExcel->__construct() C:\wamp64\www\emsdemo\AppData\lib\PHPExcel\Reader\Excel2007.php:351
+[08-Feb-2023 15:17:15 Asia/Kolkata] PHP   5. spl_autoload_call($class_name = 'PHPExcel_Calculation') C:\wamp64\www\emsdemo\AppData\lib\PHPExcel.php:360
+[08-Feb-2023 15:17:15 Asia/Kolkata] PHP   6. PHPExcel_Autoloader::Load($pClassName = 'PHPExcel_Calculation') C:\wamp64\www\emsdemo\AppData\lib\PHPExcel.php:360
+[08-Feb-2023 15:17:15 Asia/Kolkata] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in C:\wamp64\www\emsdemo\AppData\lib\PHPExcel\Calculation.php on line 3043
+[08-Feb-2023 15:17:15 Asia/Kolkata] PHP Stack trace:
+[08-Feb-2023 15:17:15 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\emsdemo\View\upload_consult_data.php:0
+[08-Feb-2023 15:17:15 Asia/Kolkata] PHP   2. PHPExcel_IOFactory::load($pFilename = 'C:\\wamp64\\www\\emsdemo\\Config/../Upload/upload_format_bank_detail.xlsx') C:\wamp64\www\emsdemo\View\upload_consult_data.php:67
+[08-Feb-2023 15:17:15 Asia/Kolkata] PHP   3. PHPExcel_Reader_Excel2007->load($pFilename = 'C:\\wamp64\\www\\emsdemo\\Config/../Upload/upload_format_bank_detail.xlsx') C:\wamp64\www\emsdemo\AppData\lib\PHPExcel\IOFactory.php:192
+[08-Feb-2023 15:17:15 Asia/Kolkata] PHP   4. PHPExcel->__construct() C:\wamp64\www\emsdemo\AppData\lib\PHPExcel\Reader\Excel2007.php:351
+[08-Feb-2023 15:17:15 Asia/Kolkata] PHP   5. spl_autoload_call($class_name = 'PHPExcel_Calculation') C:\wamp64\www\emsdemo\AppData\lib\PHPExcel.php:360
+[08-Feb-2023 15:17:15 Asia/Kolkata] PHP   6. PHPExcel_Autoloader::Load($pClassName = 'PHPExcel_Calculation') C:\wamp64\www\emsdemo\AppData\lib\PHPExcel.php:360
+[08-Feb-2023 15:17:15 Asia/Kolkata] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in C:\wamp64\www\emsdemo\AppData\lib\PHPExcel\Calculation.php on line 3459
+[08-Feb-2023 15:17:15 Asia/Kolkata] PHP Stack trace:
+[08-Feb-2023 15:17:15 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\emsdemo\View\upload_consult_data.php:0
+[08-Feb-2023 15:17:15 Asia/Kolkata] PHP   2. PHPExcel_IOFactory::load($pFilename = 'C:\\wamp64\\www\\emsdemo\\Config/../Upload/upload_format_bank_detail.xlsx') C:\wamp64\www\emsdemo\View\upload_consult_data.php:67
+[08-Feb-2023 15:17:15 Asia/Kolkata] PHP   3. PHPExcel_Reader_Excel2007->load($pFilename = 'C:\\wamp64\\www\\emsdemo\\Config/../Upload/upload_format_bank_detail.xlsx') C:\wamp64\www\emsdemo\AppData\lib\PHPExcel\IOFactory.php:192
+[08-Feb-2023 15:17:15 Asia/Kolkata] PHP   4. PHPExcel->__construct() C:\wamp64\www\emsdemo\AppData\lib\PHPExcel\Reader\Excel2007.php:351
+[08-Feb-2023 15:17:15 Asia/Kolkata] PHP   5. spl_autoload_call($class_name = 'PHPExcel_Calculation') C:\wamp64\www\emsdemo\AppData\lib\PHPExcel.php:360
+[08-Feb-2023 15:17:15 Asia/Kolkata] PHP   6. PHPExcel_Autoloader::Load($pClassName = 'PHPExcel_Calculation') C:\wamp64\www\emsdemo\AppData\lib\PHPExcel.php:360
+[08-Feb-2023 15:17:15 Asia/Kolkata] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in C:\wamp64\www\emsdemo\AppData\lib\PHPExcel\Calculation.php on line 3459
+[08-Feb-2023 15:17:15 Asia/Kolkata] PHP Stack trace:
+[08-Feb-2023 15:17:15 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\emsdemo\View\upload_consult_data.php:0
+[08-Feb-2023 15:17:15 Asia/Kolkata] PHP   2. PHPExcel_IOFactory::load($pFilename = 'C:\\wamp64\\www\\emsdemo\\Config/../Upload/upload_format_bank_detail.xlsx') C:\wamp64\www\emsdemo\View\upload_consult_data.php:67
+[08-Feb-2023 15:17:15 Asia/Kolkata] PHP   3. PHPExcel_Reader_Excel2007->load($pFilename = 'C:\\wamp64\\www\\emsdemo\\Config/../Upload/upload_format_bank_detail.xlsx') C:\wamp64\www\emsdemo\AppData\lib\PHPExcel\IOFactory.php:192
+[08-Feb-2023 15:17:15 Asia/Kolkata] PHP   4. PHPExcel->__construct() C:\wamp64\www\emsdemo\AppData\lib\PHPExcel\Reader\Excel2007.php:351
+[08-Feb-2023 15:17:15 Asia/Kolkata] PHP   5. spl_autoload_call($class_name = 'PHPExcel_Calculation') C:\wamp64\www\emsdemo\AppData\lib\PHPExcel.php:360
+[08-Feb-2023 15:17:15 Asia/Kolkata] PHP   6. PHPExcel_Autoloader::Load($pClassName = 'PHPExcel_Calculation') C:\wamp64\www\emsdemo\AppData\lib\PHPExcel.php:360
+[08-Feb-2023 15:17:15 Asia/Kolkata] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in C:\wamp64\www\emsdemo\AppData\lib\PHPExcel\Calculation.php on line 3501
+[08-Feb-2023 15:17:15 Asia/Kolkata] PHP Stack trace:
+[08-Feb-2023 15:17:15 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\emsdemo\View\upload_consult_data.php:0
+[08-Feb-2023 15:17:15 Asia/Kolkata] PHP   2. PHPExcel_IOFactory::load($pFilename = 'C:\\wamp64\\www\\emsdemo\\Config/../Upload/upload_format_bank_detail.xlsx') C:\wamp64\www\emsdemo\View\upload_consult_data.php:67
+[08-Feb-2023 15:17:15 Asia/Kolkata] PHP   3. PHPExcel_Reader_Excel2007->load($pFilename = 'C:\\wamp64\\www\\emsdemo\\Config/../Upload/upload_format_bank_detail.xlsx') C:\wamp64\www\emsdemo\AppData\lib\PHPExcel\IOFactory.php:192
+[08-Feb-2023 15:17:15 Asia/Kolkata] PHP   4. PHPExcel->__construct() C:\wamp64\www\emsdemo\AppData\lib\PHPExcel\Reader\Excel2007.php:351
+[08-Feb-2023 15:17:15 Asia/Kolkata] PHP   5. spl_autoload_call($class_name = 'PHPExcel_Calculation') C:\wamp64\www\emsdemo\AppData\lib\PHPExcel.php:360
+[08-Feb-2023 15:17:15 Asia/Kolkata] PHP   6. PHPExcel_Autoloader::Load($pClassName = 'PHPExcel_Calculation') C:\wamp64\www\emsdemo\AppData\lib\PHPExcel.php:360
+[08-Feb-2023 15:17:15 Asia/Kolkata] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in C:\wamp64\www\emsdemo\AppData\lib\PHPExcel\Calculation.php on line 3505
+[08-Feb-2023 15:17:15 Asia/Kolkata] PHP Stack trace:
+[08-Feb-2023 15:17:15 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\emsdemo\View\upload_consult_data.php:0
+[08-Feb-2023 15:17:15 Asia/Kolkata] PHP   2. PHPExcel_IOFactory::load($pFilename = 'C:\\wamp64\\www\\emsdemo\\Config/../Upload/upload_format_bank_detail.xlsx') C:\wamp64\www\emsdemo\View\upload_consult_data.php:67
+[08-Feb-2023 15:17:15 Asia/Kolkata] PHP   3. PHPExcel_Reader_Excel2007->load($pFilename = 'C:\\wamp64\\www\\emsdemo\\Config/../Upload/upload_format_bank_detail.xlsx') C:\wamp64\www\emsdemo\AppData\lib\PHPExcel\IOFactory.php:192
+[08-Feb-2023 15:17:15 Asia/Kolkata] PHP   4. PHPExcel->__construct() C:\wamp64\www\emsdemo\AppData\lib\PHPExcel\Reader\Excel2007.php:351
+[08-Feb-2023 15:17:15 Asia/Kolkata] PHP   5. spl_autoload_call($class_name = 'PHPExcel_Calculation') C:\wamp64\www\emsdemo\AppData\lib\PHPExcel.php:360
+[08-Feb-2023 15:17:15 Asia/Kolkata] PHP   6. PHPExcel_Autoloader::Load($pClassName = 'PHPExcel_Calculation') C:\wamp64\www\emsdemo\AppData\lib\PHPExcel.php:360
+[08-Feb-2023 15:17:15 Asia/Kolkata] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in C:\wamp64\www\emsdemo\AppData\lib\PHPExcel\Calculation.php on line 3558
+[08-Feb-2023 15:17:15 Asia/Kolkata] PHP Stack trace:
+[08-Feb-2023 15:17:15 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\emsdemo\View\upload_consult_data.php:0
+[08-Feb-2023 15:17:15 Asia/Kolkata] PHP   2. PHPExcel_IOFactory::load($pFilename = 'C:\\wamp64\\www\\emsdemo\\Config/../Upload/upload_format_bank_detail.xlsx') C:\wamp64\www\emsdemo\View\upload_consult_data.php:67
+[08-Feb-2023 15:17:15 Asia/Kolkata] PHP   3. PHPExcel_Reader_Excel2007->load($pFilename = 'C:\\wamp64\\www\\emsdemo\\Config/../Upload/upload_format_bank_detail.xlsx') C:\wamp64\www\emsdemo\AppData\lib\PHPExcel\IOFactory.php:192
+[08-Feb-2023 15:17:15 Asia/Kolkata] PHP   4. PHPExcel->__construct() C:\wamp64\www\emsdemo\AppData\lib\PHPExcel\Reader\Excel2007.php:351
+[08-Feb-2023 15:17:15 Asia/Kolkata] PHP   5. spl_autoload_call($class_name = 'PHPExcel_Calculation') C:\wamp64\www\emsdemo\AppData\lib\PHPExcel.php:360
+[08-Feb-2023 15:17:15 Asia/Kolkata] PHP   6. PHPExcel_Autoloader::Load($pClassName = 'PHPExcel_Calculation') C:\wamp64\www\emsdemo\AppData\lib\PHPExcel.php:360
+[08-Feb-2023 15:17:15 Asia/Kolkata] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in C:\wamp64\www\emsdemo\AppData\lib\PHPExcel\Calculation.php on line 3559
+[08-Feb-2023 15:17:15 Asia/Kolkata] PHP Stack trace:
+[08-Feb-2023 15:17:15 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\emsdemo\View\upload_consult_data.php:0
+[08-Feb-2023 15:17:15 Asia/Kolkata] PHP   2. PHPExcel_IOFactory::load($pFilename = 'C:\\wamp64\\www\\emsdemo\\Config/../Upload/upload_format_bank_detail.xlsx') C:\wamp64\www\emsdemo\View\upload_consult_data.php:67
+[08-Feb-2023 15:17:15 Asia/Kolkata] PHP   3. PHPExcel_Reader_Excel2007->load($pFilename = 'C:\\wamp64\\www\\emsdemo\\Config/../Upload/upload_format_bank_detail.xlsx') C:\wamp64\www\emsdemo\AppData\lib\PHPExcel\IOFactory.php:192
+[08-Feb-2023 15:17:15 Asia/Kolkata] PHP   4. PHPExcel->__construct() C:\wamp64\www\emsdemo\AppData\lib\PHPExcel\Reader\Excel2007.php:351
+[08-Feb-2023 15:17:15 Asia/Kolkata] PHP   5. spl_autoload_call($class_name = 'PHPExcel_Calculation') C:\wamp64\www\emsdemo\AppData\lib\PHPExcel.php:360
+[08-Feb-2023 15:17:15 Asia/Kolkata] PHP   6. PHPExcel_Autoloader::Load($pClassName = 'PHPExcel_Calculation') C:\wamp64\www\emsdemo\AppData\lib\PHPExcel.php:360
+[08-Feb-2023 15:17:15 Asia/Kolkata] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in C:\wamp64\www\emsdemo\AppData\lib\PHPExcel\Worksheet\AutoFilter.php on line 729
+[08-Feb-2023 15:17:15 Asia/Kolkata] PHP Stack trace:
+[08-Feb-2023 15:17:15 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\emsdemo\View\upload_consult_data.php:0
+[08-Feb-2023 15:17:15 Asia/Kolkata] PHP   2. PHPExcel_IOFactory::load($pFilename = 'C:\\wamp64\\www\\emsdemo\\Config/../Upload/upload_format_bank_detail.xlsx') C:\wamp64\www\emsdemo\View\upload_consult_data.php:67
+[08-Feb-2023 15:17:15 Asia/Kolkata] PHP   3. PHPExcel_Reader_Excel2007->load($pFilename = 'C:\\wamp64\\www\\emsdemo\\Config/../Upload/upload_format_bank_detail.xlsx') C:\wamp64\www\emsdemo\AppData\lib\PHPExcel\IOFactory.php:192
+[08-Feb-2023 15:17:15 Asia/Kolkata] PHP   4. PHPExcel->__construct() C:\wamp64\www\emsdemo\AppData\lib\PHPExcel\Reader\Excel2007.php:351
+[08-Feb-2023 15:17:15 Asia/Kolkata] PHP   5. PHPExcel_Worksheet->__construct($pParent = class PHPExcel { private $_uniqueID = '63e36fa2dcc58'; private $_properties = NULL; private $_security = NULL; private $_workSheetCollection = []; private $_calculationEngine = class PHPExcel_Calculation { private $_workbook = ...; private $_calculationCache = [...]; private $_calculationCacheEnabled = TRUE; private $debugLog = NULL; public $suppressFormulaErrors = FALSE; public $formulaError = NULL; private $_cyclicReferenceStack = class PHPExcel_CalcEngine_CyclicReferenceStack { ... }; private $_cyclicFormulaCount = 0; private $_cyclicFormulaCell = ''; public $cyclicFormulaCount = 0; private $_savedPrecision = '14'; public $_debugLog = class PHPExcel_CalcEngine_Logger { ... } }; private $_activeSheetIndex = 0; private $_namedRanges = []; private $_cellXfSupervisor = NULL; private $_cellXfCollection = []; private $_cellStyleXfCollection = []; private $_hasMacros = FALSE; private $_macrosCode = NULL; private $_macrosCertificate = NULL; private $_ribbonXMLData = NULL; private $_ribbonBinObjects = NULL }, $pTitle = *uninitialized*) C:\wamp64\www\emsdemo\AppData\lib\PHPExcel.php:364
+[08-Feb-2023 15:17:15 Asia/Kolkata] PHP   6. spl_autoload_call($class_name = 'PHPExcel_Worksheet_AutoFilter') C:\wamp64\www\emsdemo\AppData\lib\PHPExcel\Worksheet.php:379
+[08-Feb-2023 15:17:15 Asia/Kolkata] PHP   7. PHPExcel_Autoloader::Load($pClassName = 'PHPExcel_Worksheet_AutoFilter') C:\wamp64\www\emsdemo\AppData\lib\PHPExcel\Worksheet.php:379
+[08-Feb-2023 15:17:15 Asia/Kolkata] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in C:\wamp64\www\emsdemo\AppData\lib\PHPExcel\Worksheet\AutoFilter.php on line 729
+[08-Feb-2023 15:17:15 Asia/Kolkata] PHP Stack trace:
+[08-Feb-2023 15:17:15 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\emsdemo\View\upload_consult_data.php:0
+[08-Feb-2023 15:17:15 Asia/Kolkata] PHP   2. PHPExcel_IOFactory::load($pFilename = 'C:\\wamp64\\www\\emsdemo\\Config/../Upload/upload_format_bank_detail.xlsx') C:\wamp64\www\emsdemo\View\upload_consult_data.php:67
+[08-Feb-2023 15:17:15 Asia/Kolkata] PHP   3. PHPExcel_Reader_Excel2007->load($pFilename = 'C:\\wamp64\\www\\emsdemo\\Config/../Upload/upload_format_bank_detail.xlsx') C:\wamp64\www\emsdemo\AppData\lib\PHPExcel\IOFactory.php:192
+[08-Feb-2023 15:17:15 Asia/Kolkata] PHP   4. PHPExcel->__construct() C:\wamp64\www\emsdemo\AppData\lib\PHPExcel\Reader\Excel2007.php:351
+[08-Feb-2023 15:17:15 Asia/Kolkata] PHP   5. PHPExcel_Worksheet->__construct($pParent = class PHPExcel { private $_uniqueID = '63e36fa2dcc58'; private $_properties = NULL; private $_security = NULL; private $_workSheetCollection = []; private $_calculationEngine = class PHPExcel_Calculation { private $_workbook = ...; private $_calculationCache = [...]; private $_calculationCacheEnabled = TRUE; private $debugLog = NULL; public $suppressFormulaErrors = FALSE; public $formulaError = NULL; private $_cyclicReferenceStack = class PHPExcel_CalcEngine_CyclicReferenceStack { ... }; private $_cyclicFormulaCount = 0; private $_cyclicFormulaCell = ''; public $cyclicFormulaCount = 0; private $_savedPrecision = '14'; public $_debugLog = class PHPExcel_CalcEngine_Logger { ... } }; private $_activeSheetIndex = 0; private $_namedRanges = []; private $_cellXfSupervisor = NULL; private $_cellXfCollection = []; private $_cellStyleXfCollection = []; private $_hasMacros = FALSE; private $_macrosCode = NULL; private $_macrosCertificate = NULL; private $_ribbonXMLData = NULL; private $_ribbonBinObjects = NULL }, $pTitle = *uninitialized*) C:\wamp64\www\emsdemo\AppData\lib\PHPExcel.php:364
+[08-Feb-2023 15:17:15 Asia/Kolkata] PHP   6. spl_autoload_call($class_name = 'PHPExcel_Worksheet_AutoFilter') C:\wamp64\www\emsdemo\AppData\lib\PHPExcel\Worksheet.php:379
+[08-Feb-2023 15:17:15 Asia/Kolkata] PHP   7. PHPExcel_Autoloader::Load($pClassName = 'PHPExcel_Worksheet_AutoFilter') C:\wamp64\www\emsdemo\AppData\lib\PHPExcel\Worksheet.php:379
+[08-Feb-2023 15:17:16 Asia/Kolkata] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in C:\wamp64\www\emsdemo\AppData\lib\PHPExcel\Cell.php on line 772
+[08-Feb-2023 15:17:16 Asia/Kolkata] PHP Stack trace:
+[08-Feb-2023 15:17:16 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\emsdemo\View\upload_consult_data.php:0
+[08-Feb-2023 15:17:16 Asia/Kolkata] PHP   2. PHPExcel_IOFactory::load($pFilename = 'C:\\wamp64\\www\\emsdemo\\Config/../Upload/upload_format_bank_detail.xlsx') C:\wamp64\www\emsdemo\View\upload_consult_data.php:67
+[08-Feb-2023 15:17:16 Asia/Kolkata] PHP   3. PHPExcel_Reader_Excel2007->load($pFilename = 'C:\\wamp64\\www\\emsdemo\\Config/../Upload/upload_format_bank_detail.xlsx') C:\wamp64\www\emsdemo\AppData\lib\PHPExcel\IOFactory.php:192
+[08-Feb-2023 15:17:16 Asia/Kolkata] PHP   4. spl_autoload_call($class_name = 'PHPExcel_Cell') C:\wamp64\www\emsdemo\AppData\lib\PHPExcel\Reader\Excel2007.php:782
+[08-Feb-2023 15:17:16 Asia/Kolkata] PHP   5. PHPExcel_Autoloader::Load($pClassName = 'PHPExcel_Cell') C:\wamp64\www\emsdemo\AppData\lib\PHPExcel\Reader\Excel2007.php:782
+[08-Feb-2023 15:17:16 Asia/Kolkata] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in C:\wamp64\www\emsdemo\AppData\lib\PHPExcel\Cell.php on line 773
+[08-Feb-2023 15:17:16 Asia/Kolkata] PHP Stack trace:
+[08-Feb-2023 15:17:16 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\emsdemo\View\upload_consult_data.php:0
+[08-Feb-2023 15:17:16 Asia/Kolkata] PHP   2. PHPExcel_IOFactory::load($pFilename = 'C:\\wamp64\\www\\emsdemo\\Config/../Upload/upload_format_bank_detail.xlsx') C:\wamp64\www\emsdemo\View\upload_consult_data.php:67
+[08-Feb-2023 15:17:16 Asia/Kolkata] PHP   3. PHPExcel_Reader_Excel2007->load($pFilename = 'C:\\wamp64\\www\\emsdemo\\Config/../Upload/upload_format_bank_detail.xlsx') C:\wamp64\www\emsdemo\AppData\lib\PHPExcel\IOFactory.php:192
+[08-Feb-2023 15:17:16 Asia/Kolkata] PHP   4. spl_autoload_call($class_name = 'PHPExcel_Cell') C:\wamp64\www\emsdemo\AppData\lib\PHPExcel\Reader\Excel2007.php:782
+[08-Feb-2023 15:17:16 Asia/Kolkata] PHP   5. PHPExcel_Autoloader::Load($pClassName = 'PHPExcel_Cell') C:\wamp64\www\emsdemo\AppData\lib\PHPExcel\Reader\Excel2007.php:782
+[08-Feb-2023 15:17:16 Asia/Kolkata] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in C:\wamp64\www\emsdemo\AppData\lib\PHPExcel\Cell.php on line 776
+[08-Feb-2023 15:17:16 Asia/Kolkata] PHP Stack trace:
+[08-Feb-2023 15:17:16 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\emsdemo\View\upload_consult_data.php:0
+[08-Feb-2023 15:17:16 Asia/Kolkata] PHP   2. PHPExcel_IOFactory::load($pFilename = 'C:\\wamp64\\www\\emsdemo\\Config/../Upload/upload_format_bank_detail.xlsx') C:\wamp64\www\emsdemo\View\upload_consult_data.php:67
+[08-Feb-2023 15:17:16 Asia/Kolkata] PHP   3. PHPExcel_Reader_Excel2007->load($pFilename = 'C:\\wamp64\\www\\emsdemo\\Config/../Upload/upload_format_bank_detail.xlsx') C:\wamp64\www\emsdemo\AppData\lib\PHPExcel\IOFactory.php:192
+[08-Feb-2023 15:17:16 Asia/Kolkata] PHP   4. spl_autoload_call($class_name = 'PHPExcel_Cell') C:\wamp64\www\emsdemo\AppData\lib\PHPExcel\Reader\Excel2007.php:782
+[08-Feb-2023 15:17:16 Asia/Kolkata] PHP   5. PHPExcel_Autoloader::Load($pClassName = 'PHPExcel_Cell') C:\wamp64\www\emsdemo\AppData\lib\PHPExcel\Reader\Excel2007.php:782
+[08-Feb-2023 15:17:16 Asia/Kolkata] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in C:\wamp64\www\emsdemo\AppData\lib\PHPExcel\Cell.php on line 777
+[08-Feb-2023 15:17:16 Asia/Kolkata] PHP Stack trace:
+[08-Feb-2023 15:17:16 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\emsdemo\View\upload_consult_data.php:0
+[08-Feb-2023 15:17:16 Asia/Kolkata] PHP   2. PHPExcel_IOFactory::load($pFilename = 'C:\\wamp64\\www\\emsdemo\\Config/../Upload/upload_format_bank_detail.xlsx') C:\wamp64\www\emsdemo\View\upload_consult_data.php:67
+[08-Feb-2023 15:17:16 Asia/Kolkata] PHP   3. PHPExcel_Reader_Excel2007->load($pFilename = 'C:\\wamp64\\www\\emsdemo\\Config/../Upload/upload_format_bank_detail.xlsx') C:\wamp64\www\emsdemo\AppData\lib\PHPExcel\IOFactory.php:192
+[08-Feb-2023 15:17:16 Asia/Kolkata] PHP   4. spl_autoload_call($class_name = 'PHPExcel_Cell') C:\wamp64\www\emsdemo\AppData\lib\PHPExcel\Reader\Excel2007.php:782
+[08-Feb-2023 15:17:16 Asia/Kolkata] PHP   5. PHPExcel_Autoloader::Load($pClassName = 'PHPExcel_Cell') C:\wamp64\www\emsdemo\AppData\lib\PHPExcel\Reader\Excel2007.php:782
+[08-Feb-2023 15:17:16 Asia/Kolkata] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in C:\wamp64\www\emsdemo\AppData\lib\PHPExcel\Cell.php on line 777
+[08-Feb-2023 15:17:16 Asia/Kolkata] PHP Stack trace:
+[08-Feb-2023 15:17:16 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\emsdemo\View\upload_consult_data.php:0
+[08-Feb-2023 15:17:16 Asia/Kolkata] PHP   2. PHPExcel_IOFactory::load($pFilename = 'C:\\wamp64\\www\\emsdemo\\Config/../Upload/upload_format_bank_detail.xlsx') C:\wamp64\www\emsdemo\View\upload_consult_data.php:67
+[08-Feb-2023 15:17:16 Asia/Kolkata] PHP   3. PHPExcel_Reader_Excel2007->load($pFilename = 'C:\\wamp64\\www\\emsdemo\\Config/../Upload/upload_format_bank_detail.xlsx') C:\wamp64\www\emsdemo\AppData\lib\PHPExcel\IOFactory.php:192
+[08-Feb-2023 15:17:16 Asia/Kolkata] PHP   4. spl_autoload_call($class_name = 'PHPExcel_Cell') C:\wamp64\www\emsdemo\AppData\lib\PHPExcel\Reader\Excel2007.php:782
+[08-Feb-2023 15:17:16 Asia/Kolkata] PHP   5. PHPExcel_Autoloader::Load($pClassName = 'PHPExcel_Cell') C:\wamp64\www\emsdemo\AppData\lib\PHPExcel\Reader\Excel2007.php:782
+[08-Feb-2023 15:17:16 Asia/Kolkata] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in C:\wamp64\www\emsdemo\AppData\lib\PHPExcel\Cell.php on line 779
+[08-Feb-2023 15:17:16 Asia/Kolkata] PHP Stack trace:
+[08-Feb-2023 15:17:16 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\emsdemo\View\upload_consult_data.php:0
+[08-Feb-2023 15:17:16 Asia/Kolkata] PHP   2. PHPExcel_IOFactory::load($pFilename = 'C:\\wamp64\\www\\emsdemo\\Config/../Upload/upload_format_bank_detail.xlsx') C:\wamp64\www\emsdemo\View\upload_consult_data.php:67
+[08-Feb-2023 15:17:16 Asia/Kolkata] PHP   3. PHPExcel_Reader_Excel2007->load($pFilename = 'C:\\wamp64\\www\\emsdemo\\Config/../Upload/upload_format_bank_detail.xlsx') C:\wamp64\www\emsdemo\AppData\lib\PHPExcel\IOFactory.php:192
+[08-Feb-2023 15:17:16 Asia/Kolkata] PHP   4. spl_autoload_call($class_name = 'PHPExcel_Cell') C:\wamp64\www\emsdemo\AppData\lib\PHPExcel\Reader\Excel2007.php:782
+[08-Feb-2023 15:17:16 Asia/Kolkata] PHP   5. PHPExcel_Autoloader::Load($pClassName = 'PHPExcel_Cell') C:\wamp64\www\emsdemo\AppData\lib\PHPExcel\Reader\Excel2007.php:782
+[08-Feb-2023 15:17:16 Asia/Kolkata] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in C:\wamp64\www\emsdemo\AppData\lib\PHPExcel\Cell.php on line 780
+[08-Feb-2023 15:17:16 Asia/Kolkata] PHP Stack trace:
+[08-Feb-2023 15:17:16 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\emsdemo\View\upload_consult_data.php:0
+[08-Feb-2023 15:17:16 Asia/Kolkata] PHP   2. PHPExcel_IOFactory::load($pFilename = 'C:\\wamp64\\www\\emsdemo\\Config/../Upload/upload_format_bank_detail.xlsx') C:\wamp64\www\emsdemo\View\upload_consult_data.php:67
+[08-Feb-2023 15:17:16 Asia/Kolkata] PHP   3. PHPExcel_Reader_Excel2007->load($pFilename = 'C:\\wamp64\\www\\emsdemo\\Config/../Upload/upload_format_bank_detail.xlsx') C:\wamp64\www\emsdemo\AppData\lib\PHPExcel\IOFactory.php:192
+[08-Feb-2023 15:17:16 Asia/Kolkata] PHP   4. spl_autoload_call($class_name = 'PHPExcel_Cell') C:\wamp64\www\emsdemo\AppData\lib\PHPExcel\Reader\Excel2007.php:782
+[08-Feb-2023 15:17:16 Asia/Kolkata] PHP   5. PHPExcel_Autoloader::Load($pClassName = 'PHPExcel_Cell') C:\wamp64\www\emsdemo\AppData\lib\PHPExcel\Reader\Excel2007.php:782
+[08-Feb-2023 15:17:16 Asia/Kolkata] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in C:\wamp64\www\emsdemo\AppData\lib\PHPExcel\Cell.php on line 780
+[08-Feb-2023 15:17:16 Asia/Kolkata] PHP Stack trace:
+[08-Feb-2023 15:17:16 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\emsdemo\View\upload_consult_data.php:0
+[08-Feb-2023 15:17:16 Asia/Kolkata] PHP   2. PHPExcel_IOFactory::load($pFilename = 'C:\\wamp64\\www\\emsdemo\\Config/../Upload/upload_format_bank_detail.xlsx') C:\wamp64\www\emsdemo\View\upload_consult_data.php:67
+[08-Feb-2023 15:17:16 Asia/Kolkata] PHP   3. PHPExcel_Reader_Excel2007->load($pFilename = 'C:\\wamp64\\www\\emsdemo\\Config/../Upload/upload_format_bank_detail.xlsx') C:\wamp64\www\emsdemo\AppData\lib\PHPExcel\IOFactory.php:192
+[08-Feb-2023 15:17:16 Asia/Kolkata] PHP   4. spl_autoload_call($class_name = 'PHPExcel_Cell') C:\wamp64\www\emsdemo\AppData\lib\PHPExcel\Reader\Excel2007.php:782
+[08-Feb-2023 15:17:16 Asia/Kolkata] PHP   5. PHPExcel_Autoloader::Load($pClassName = 'PHPExcel_Cell') C:\wamp64\www\emsdemo\AppData\lib\PHPExcel\Reader\Excel2007.php:782
+[08-Feb-2023 15:17:16 Asia/Kolkata] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in C:\wamp64\www\emsdemo\AppData\lib\PHPExcel\Cell.php on line 780
+[08-Feb-2023 15:17:16 Asia/Kolkata] PHP Stack trace:
+[08-Feb-2023 15:17:16 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\emsdemo\View\upload_consult_data.php:0
+[08-Feb-2023 15:17:16 Asia/Kolkata] PHP   2. PHPExcel_IOFactory::load($pFilename = 'C:\\wamp64\\www\\emsdemo\\Config/../Upload/upload_format_bank_detail.xlsx') C:\wamp64\www\emsdemo\View\upload_consult_data.php:67
+[08-Feb-2023 15:17:16 Asia/Kolkata] PHP   3. PHPExcel_Reader_Excel2007->load($pFilename = 'C:\\wamp64\\www\\emsdemo\\Config/../Upload/upload_format_bank_detail.xlsx') C:\wamp64\www\emsdemo\AppData\lib\PHPExcel\IOFactory.php:192
+[08-Feb-2023 15:17:16 Asia/Kolkata] PHP   4. spl_autoload_call($class_name = 'PHPExcel_Cell') C:\wamp64\www\emsdemo\AppData\lib\PHPExcel\Reader\Excel2007.php:782
+[08-Feb-2023 15:17:16 Asia/Kolkata] PHP   5. PHPExcel_Autoloader::Load($pClassName = 'PHPExcel_Cell') C:\wamp64\www\emsdemo\AppData\lib\PHPExcel\Reader\Excel2007.php:782
+[08-Feb-2023 15:17:16 Asia/Kolkata] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in C:\wamp64\www\emsdemo\AppData\lib\PHPExcel\Cell.php on line 784
+[08-Feb-2023 15:17:16 Asia/Kolkata] PHP Stack trace:
+[08-Feb-2023 15:17:16 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\emsdemo\View\upload_consult_data.php:0
+[08-Feb-2023 15:17:16 Asia/Kolkata] PHP   2. PHPExcel_IOFactory::load($pFilename = 'C:\\wamp64\\www\\emsdemo\\Config/../Upload/upload_format_bank_detail.xlsx') C:\wamp64\www\emsdemo\View\upload_consult_data.php:67
+[08-Feb-2023 15:17:16 Asia/Kolkata] PHP   3. PHPExcel_Reader_Excel2007->load($pFilename = 'C:\\wamp64\\www\\emsdemo\\Config/../Upload/upload_format_bank_detail.xlsx') C:\wamp64\www\emsdemo\AppData\lib\PHPExcel\IOFactory.php:192
+[08-Feb-2023 15:17:16 Asia/Kolkata] PHP   4. spl_autoload_call($class_name = 'PHPExcel_Cell') C:\wamp64\www\emsdemo\AppData\lib\PHPExcel\Reader\Excel2007.php:782
+[08-Feb-2023 15:17:16 Asia/Kolkata] PHP   5. PHPExcel_Autoloader::Load($pClassName = 'PHPExcel_Cell') C:\wamp64\www\emsdemo\AppData\lib\PHPExcel\Reader\Excel2007.php:782
+[08-Feb-2023 15:17:16 Asia/Kolkata] PHP Notice:  Undefined index: txt_Type_Upload in C:\wamp64\www\emsdemo\View\upload_consult_data.php on line 100
+[08-Feb-2023 15:17:16 Asia/Kolkata] PHP Stack trace:
+[08-Feb-2023 15:17:16 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\emsdemo\View\upload_consult_data.php:0
+[08-Feb-2023 15:28:19 Asia/Kolkata] PHP Notice:  Undefined index: txt_Type_Upload in C:\wamp64\www\emsdemo\View\upload_consult_data.php on line 100
+[08-Feb-2023 15:28:19 Asia/Kolkata] PHP Stack trace:
+[08-Feb-2023 15:28:19 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\emsdemo\View\upload_consult_data.php:0
+[08-Feb-2023 15:43:53 Asia/Kolkata] PHP Notice:  Undefined variable: isPostBack in C:\wamp64\www\emsdemo\View\rpt_manual_atnd.php on line 42
+[08-Feb-2023 15:43:53 Asia/Kolkata] PHP Stack trace:
+[08-Feb-2023 15:43:53 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\emsdemo\View\rpt_manual_atnd.php:0
+[08-Feb-2023 15:44:07 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in C:\wamp64\www\emsdemo\View\index.php on line 356
+[08-Feb-2023 15:44:07 Asia/Kolkata] PHP Stack trace:
+[08-Feb-2023 15:44:07 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\emsdemo\View\index.php:0
+[08-Feb-2023 15:46:01 Asia/Kolkata] PHP Notice:  Undefined variable: isPostBack in C:\wamp64\www\emsdemo\View\rpt_manual_atnd.php on line 42
+[08-Feb-2023 15:46:01 Asia/Kolkata] PHP Stack trace:
+[08-Feb-2023 15:46:01 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\emsdemo\View\rpt_manual_atnd.php:0
+[08-Feb-2023 15:46:33 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in C:\wamp64\www\emsdemo\View\index.php on line 356
+[08-Feb-2023 15:46:33 Asia/Kolkata] PHP Stack trace:
+[08-Feb-2023 15:46:33 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\emsdemo\View\index.php:0
+[08-Feb-2023 15:49:09 Asia/Kolkata] PHP Notice:  Undefined variable: isPostBack in C:\wamp64\www\emsdemo\View\rpt_manual_atnd.php on line 42
+[08-Feb-2023 15:49:09 Asia/Kolkata] PHP Stack trace:
+[08-Feb-2023 15:49:09 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\emsdemo\View\rpt_manual_atnd.php:0

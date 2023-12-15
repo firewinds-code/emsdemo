@@ -1,0 +1,163 @@
+[04-Jan-2023 10:02:47 Asia/Kolkata] PHP Notice:  Undefined index: __user_logid in /var/www/html/erpm/AppCode/nHead.php on line 2
+[04-Jan-2023 10:03:14 Asia/Kolkata] PHP Notice:  Undefined index: __user_logid in /var/www/html/erpm/AppCode/nHead.php on line 2
+[04-Jan-2023 10:03:52 Asia/Kolkata] PHP Warning:  mysqli_stmt::bind_param(): Number of elements in type definition string doesn't match number of bind variables in /var/www/html/erpm/Controller/ConLog.php on line 464
+[04-Jan-2023 10:03:53 Asia/Kolkata] PHP Notice:  Undefined index: to in /var/www/html/erpm/View/calcRange.php on line 42
+[04-Jan-2023 10:03:55 Asia/Kolkata] PHP Notice:  Object of class mysqli_result could not be converted to int in /var/www/html/erpm/View/calcRange.php on line 412
+[04-Jan-2023 10:03:55 Asia/Kolkata] PHP Notice:  Undefined index: 2023-01-03 in /var/www/html/erpm/View/calcRange.php on line 583
+[04-Jan-2023 10:03:55 Asia/Kolkata] PHP Notice:  Undefined index: 2023-01-03 in /var/www/html/erpm/View/calcRange.php on line 932
+[04-Jan-2023 10:03:55 Asia/Kolkata] PHP Notice:  Undefined index: 2023-01-03 in /var/www/html/erpm/View/calcRange.php on line 1225
+[04-Jan-2023 10:03:55 Asia/Kolkata] PHP Notice:  Array to string conversion in /var/www/html/erpm/View/calcRange.php on line 1559
+[04-Jan-2023 10:03:55 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /var/www/html/erpm/View/index.php on line 346
+[04-Jan-2023 10:16:00 Asia/Kolkata] PHP Warning:  mysqli_stmt::bind_param(): Number of elements in type definition string doesn't match number of bind variables in /var/www/html/erpm/Controller/ConLog.php on line 464
+[04-Jan-2023 10:16:00 Asia/Kolkata] PHP Notice:  Undefined index: to in /var/www/html/erpm/View/calcRange.php on line 42
+[04-Jan-2023 10:16:01 Asia/Kolkata] PHP Notice:  Object of class mysqli_result could not be converted to int in /var/www/html/erpm/View/calcRange.php on line 412
+[04-Jan-2023 10:16:01 Asia/Kolkata] PHP Notice:  Undefined index: 2023-01-03 in /var/www/html/erpm/View/calcRange.php on line 583
+[04-Jan-2023 10:16:01 Asia/Kolkata] PHP Notice:  Undefined index: 2023-01-03 in /var/www/html/erpm/View/calcRange.php on line 932
+[04-Jan-2023 10:16:01 Asia/Kolkata] PHP Notice:  Undefined index: 2023-01-03 in /var/www/html/erpm/View/calcRange.php on line 1225
+[04-Jan-2023 10:16:01 Asia/Kolkata] PHP Notice:  Array to string conversion in /var/www/html/erpm/View/calcRange.php on line 1559
+[04-Jan-2023 10:16:01 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /var/www/html/erpm/View/index.php on line 346
+[04-Jan-2023 10:17:59 Asia/Kolkata] PHP Notice:  Undefined index: __user_logid in /var/www/html/erpm/AppCode/nHead.php on line 2
+[04-Jan-2023 10:18:01 Asia/Kolkata] PHP Warning:  mysqli_stmt::bind_param(): Number of elements in type definition string doesn't match number of bind variables in /var/www/html/erpm/Controller/ConLog.php on line 464
+[04-Jan-2023 10:18:03 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /var/www/html/erpm/View/index.php on line 346
+[04-Jan-2023 10:18:11 Asia/Kolkata] PHP Notice:  Undefined index: ack_check in /var/www/html/erpm/View/ijp_intro_acknowledge.php on line 22
+[04-Jan-2023 10:19:09 Asia/Kolkata] PHP Notice:  Undefined index: __user_logid in /var/www/html/erpm/AppCode/nHead.php on line 2
+[04-Jan-2023 10:20:33 Asia/Kolkata] PHP Notice:  Undefined index: __user_logid in /var/www/html/erpm/AppCode/nHead.php on line 2
+[04-Jan-2023 10:20:35 Asia/Kolkata] PHP Notice:  Undefined index: __user_logid in /var/www/html/erpm/AppCode/nHead.php on line 2
+[04-Jan-2023 10:26:08 Asia/Kolkata] PHP Notice:  Undefined index: __user_logid in /var/www/html/erpm/AppCode/nHead.php on line 2
+[04-Jan-2023 10:31:03 Asia/Kolkata] PHP Notice:  Undefined index: __user_logid in /var/www/html/erpm/AppCode/nHead.php on line 2
+[04-Jan-2023 10:31:34 Asia/Kolkata] PHP Notice:  Undefined index: __user_logid in /var/www/html/erpm/AppCode/nHead.php on line 2
+[04-Jan-2023 10:31:38 Asia/Kolkata] PHP Warning:  mysqli_stmt::bind_param(): Number of elements in type definition string doesn't match number of bind variables in /var/www/html/erpm/Controller/ConLog.php on line 464
+[04-Jan-2023 10:31:38 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /var/www/html/erpm/View/index.php on line 346
+[04-Jan-2023 10:31:44 Asia/Kolkata] PHP Notice:  Undefined index: txt_dateFrom in /var/www/html/erpm/View/message-popup.php on line 27
+[04-Jan-2023 10:31:44 Asia/Kolkata] PHP Notice:  Undefined index: txt_dateto in /var/www/html/erpm/View/message-popup.php on line 34
+[04-Jan-2023 10:31:54 Asia/Kolkata] PHP Notice:  Undefined variable: locationdir in /var/www/html/erpm/View/EmployeInfo.php on line 160
+[04-Jan-2023 10:31:55 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type int in /var/www/html/erpm/View/EmployeInfo.php on line 879
+[04-Jan-2023 10:31:55 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type int in /var/www/html/erpm/View/EmployeInfo.php on line 879
+[04-Jan-2023 10:31:55 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type int in /var/www/html/erpm/View/EmployeInfo.php on line 879
+[04-Jan-2023 10:32:04 Asia/Kolkata] PHP Warning:  mysqli_stmt::bind_param(): Number of elements in type definition string doesn't match number of bind variables in /var/www/html/erpm/Controller/ConLog.php on line 464
+[04-Jan-2023 10:32:04 Asia/Kolkata] PHP Warning:  Use of undefined constant EMS_CenterName - assumed 'EMS_CenterName' (this will throw an Error in a future version of PHP) in /var/www/html/erpm/Controller/ConLog.php on line 470
+[04-Jan-2023 10:32:04 Asia/Kolkata] PHP Warning:  Use of undefined constant EMAIL_HOST - assumed 'EMAIL_HOST' (this will throw an Error in a future version of PHP) in /var/www/html/erpm/Controller/ConLog.php on line 473
+[04-Jan-2023 10:32:04 Asia/Kolkata] PHP Warning:  Use of undefined constant EMAIL_AUTH - assumed 'EMAIL_AUTH' (this will throw an Error in a future version of PHP) in /var/www/html/erpm/Controller/ConLog.php on line 474
+[04-Jan-2023 10:32:04 Asia/Kolkata] PHP Warning:  Use of undefined constant EMAIL_USER - assumed 'EMAIL_USER' (this will throw an Error in a future version of PHP) in /var/www/html/erpm/Controller/ConLog.php on line 475
+[04-Jan-2023 10:32:04 Asia/Kolkata] PHP Warning:  Use of undefined constant EMAIL_PASS - assumed 'EMAIL_PASS' (this will throw an Error in a future version of PHP) in /var/www/html/erpm/Controller/ConLog.php on line 476
+[04-Jan-2023 10:32:04 Asia/Kolkata] PHP Warning:  Use of undefined constant EMAIL_SMTPSecure - assumed 'EMAIL_SMTPSecure' (this will throw an Error in a future version of PHP) in /var/www/html/erpm/Controller/ConLog.php on line 477
+[04-Jan-2023 10:32:04 Asia/Kolkata] PHP Warning:  Use of undefined constant EMAIL_PORT - assumed 'EMAIL_PORT' (this will throw an Error in a future version of PHP) in /var/www/html/erpm/Controller/ConLog.php on line 478
+[04-Jan-2023 10:32:04 Asia/Kolkata] PHP Warning:  Use of undefined constant EMAIL_FROM - assumed 'EMAIL_FROM' (this will throw an Error in a future version of PHP) in /var/www/html/erpm/Controller/ConLog.php on line 479
+[04-Jan-2023 10:32:04 Asia/Kolkata] PHP Warning:  Use of undefined constant EMS_CenterName - assumed 'EMS_CenterName' (this will throw an Error in a future version of PHP) in /var/www/html/erpm/Controller/ConLog.php on line 482
+[04-Jan-2023 10:32:06 Asia/Kolkata] PHP Notice:  Undefined index: to in /var/www/html/erpm/View/calcRange.php on line 42
+[04-Jan-2023 10:32:07 Asia/Kolkata] PHP Notice:  Object of class mysqli_result could not be converted to int in /var/www/html/erpm/View/calcRange.php on line 412
+[04-Jan-2023 10:32:07 Asia/Kolkata] PHP Notice:  Undefined index: 2023-01-03 in /var/www/html/erpm/View/calcRange.php on line 583
+[04-Jan-2023 10:32:07 Asia/Kolkata] PHP Notice:  Undefined index: 2023-01-03 in /var/www/html/erpm/View/calcRange.php on line 932
+[04-Jan-2023 10:32:07 Asia/Kolkata] PHP Notice:  Undefined index: 2023-01-03 in /var/www/html/erpm/View/calcRange.php on line 1225
+[04-Jan-2023 10:32:07 Asia/Kolkata] PHP Notice:  Array to string conversion in /var/www/html/erpm/View/calcRange.php on line 1559
+[04-Jan-2023 10:32:07 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /var/www/html/erpm/View/index.php on line 346
+[04-Jan-2023 10:32:17 Asia/Kolkata] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /var/www/html/erpm/AppData/lib/PHPExcel/Shared/String.php on line 529
+[04-Jan-2023 10:32:17 Asia/Kolkata] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /var/www/html/erpm/AppData/lib/PHPExcel/Shared/String.php on line 530
+[04-Jan-2023 10:32:17 Asia/Kolkata] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /var/www/html/erpm/AppData/lib/PHPExcel/Shared/String.php on line 536
+[04-Jan-2023 10:32:17 Asia/Kolkata] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /var/www/html/erpm/AppData/lib/PHPExcel/Shared/String.php on line 536
+[04-Jan-2023 10:32:17 Asia/Kolkata] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /var/www/html/erpm/AppData/lib/PHPExcel/Shared/String.php on line 537
+[04-Jan-2023 10:32:17 Asia/Kolkata] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /var/www/html/erpm/AppData/lib/PHPExcel/Shared/String.php on line 537
+[04-Jan-2023 10:34:20 Asia/Kolkata] PHP Notice:  Undefined index: __user_logid in /var/www/html/erpm/AppCode/nHead.php on line 2
+[04-Jan-2023 10:36:30 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /var/www/html/erpm/View/index.php on line 346
+[04-Jan-2023 10:36:36 Asia/Kolkata] PHP Notice:  Undefined index: __user_logid in /var/www/html/erpm/AppCode/nHead.php on line 2
+[04-Jan-2023 10:36:38 Asia/Kolkata] PHP Warning:  mysqli_stmt::bind_param(): Number of elements in type definition string doesn't match number of bind variables in /var/www/html/erpm/Controller/ConLog.php on line 464
+[04-Jan-2023 10:36:40 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /var/www/html/erpm/View/index.php on line 346
+[04-Jan-2023 10:36:59 Asia/Kolkata] PHP Warning:  A non-numeric value encountered in /var/www/html/erpm/View/site_master.php on line 180
+[04-Jan-2023 10:37:16 Asia/Kolkata] PHP Warning:  A non-numeric value encountered in /var/www/html/erpm/View/site_master.php on line 180
+[04-Jan-2023 10:37:40 Asia/Kolkata] PHP Warning:  mysqli_stmt::bind_param(): Number of elements in type definition string doesn't match number of bind variables in /var/www/html/erpm/Controller/ConLog.php on line 464
+[04-Jan-2023 10:37:40 Asia/Kolkata] PHP Warning:  Use of undefined constant EMS_CenterName - assumed 'EMS_CenterName' (this will throw an Error in a future version of PHP) in /var/www/html/erpm/Controller/ConLog.php on line 470
+[04-Jan-2023 10:37:40 Asia/Kolkata] PHP Warning:  Use of undefined constant EMAIL_HOST - assumed 'EMAIL_HOST' (this will throw an Error in a future version of PHP) in /var/www/html/erpm/Controller/ConLog.php on line 473
+[04-Jan-2023 10:37:40 Asia/Kolkata] PHP Warning:  Use of undefined constant EMAIL_AUTH - assumed 'EMAIL_AUTH' (this will throw an Error in a future version of PHP) in /var/www/html/erpm/Controller/ConLog.php on line 474
+[04-Jan-2023 10:37:40 Asia/Kolkata] PHP Warning:  Use of undefined constant EMAIL_USER - assumed 'EMAIL_USER' (this will throw an Error in a future version of PHP) in /var/www/html/erpm/Controller/ConLog.php on line 475
+[04-Jan-2023 10:37:40 Asia/Kolkata] PHP Warning:  Use of undefined constant EMAIL_PASS - assumed 'EMAIL_PASS' (this will throw an Error in a future version of PHP) in /var/www/html/erpm/Controller/ConLog.php on line 476
+[04-Jan-2023 10:37:40 Asia/Kolkata] PHP Warning:  Use of undefined constant EMAIL_SMTPSecure - assumed 'EMAIL_SMTPSecure' (this will throw an Error in a future version of PHP) in /var/www/html/erpm/Controller/ConLog.php on line 477
+[04-Jan-2023 10:37:40 Asia/Kolkata] PHP Warning:  Use of undefined constant EMAIL_PORT - assumed 'EMAIL_PORT' (this will throw an Error in a future version of PHP) in /var/www/html/erpm/Controller/ConLog.php on line 478
+[04-Jan-2023 10:37:40 Asia/Kolkata] PHP Warning:  Use of undefined constant EMAIL_FROM - assumed 'EMAIL_FROM' (this will throw an Error in a future version of PHP) in /var/www/html/erpm/Controller/ConLog.php on line 479
+[04-Jan-2023 10:37:40 Asia/Kolkata] PHP Warning:  Use of undefined constant EMS_CenterName - assumed 'EMS_CenterName' (this will throw an Error in a future version of PHP) in /var/www/html/erpm/Controller/ConLog.php on line 482
+[04-Jan-2023 10:38:34 Asia/Kolkata] PHP Warning:  A non-numeric value encountered in /var/www/html/erpm/View/site_master.php on line 180
+[04-Jan-2023 10:41:10 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /var/www/html/erpm/View/index.php on line 346
+[04-Jan-2023 10:43:17 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /var/www/html/erpm/View/index.php on line 346
+[04-Jan-2023 10:44:09 Asia/Kolkata] PHP Warning:  mysqli_stmt::bind_param(): Number of elements in type definition string doesn't match number of bind variables in /var/www/html/erpm/Controller/ConLog.php on line 464
+[04-Jan-2023 10:44:09 Asia/Kolkata] PHP Warning:  Use of undefined constant EMS_CenterName - assumed 'EMS_CenterName' (this will throw an Error in a future version of PHP) in /var/www/html/erpm/Controller/ConLog.php on line 470
+[04-Jan-2023 10:44:09 Asia/Kolkata] PHP Warning:  Use of undefined constant EMAIL_HOST - assumed 'EMAIL_HOST' (this will throw an Error in a future version of PHP) in /var/www/html/erpm/Controller/ConLog.php on line 473
+[04-Jan-2023 10:44:09 Asia/Kolkata] PHP Warning:  Use of undefined constant EMAIL_AUTH - assumed 'EMAIL_AUTH' (this will throw an Error in a future version of PHP) in /var/www/html/erpm/Controller/ConLog.php on line 474
+[04-Jan-2023 10:44:09 Asia/Kolkata] PHP Warning:  Use of undefined constant EMAIL_USER - assumed 'EMAIL_USER' (this will throw an Error in a future version of PHP) in /var/www/html/erpm/Controller/ConLog.php on line 475
+[04-Jan-2023 10:44:09 Asia/Kolkata] PHP Warning:  Use of undefined constant EMAIL_PASS - assumed 'EMAIL_PASS' (this will throw an Error in a future version of PHP) in /var/www/html/erpm/Controller/ConLog.php on line 476
+[04-Jan-2023 10:44:09 Asia/Kolkata] PHP Warning:  Use of undefined constant EMAIL_SMTPSecure - assumed 'EMAIL_SMTPSecure' (this will throw an Error in a future version of PHP) in /var/www/html/erpm/Controller/ConLog.php on line 477
+[04-Jan-2023 10:44:09 Asia/Kolkata] PHP Warning:  Use of undefined constant EMAIL_PORT - assumed 'EMAIL_PORT' (this will throw an Error in a future version of PHP) in /var/www/html/erpm/Controller/ConLog.php on line 478
+[04-Jan-2023 10:44:09 Asia/Kolkata] PHP Warning:  Use of undefined constant EMAIL_FROM - assumed 'EMAIL_FROM' (this will throw an Error in a future version of PHP) in /var/www/html/erpm/Controller/ConLog.php on line 479
+[04-Jan-2023 10:44:09 Asia/Kolkata] PHP Warning:  Use of undefined constant EMS_CenterName - assumed 'EMS_CenterName' (this will throw an Error in a future version of PHP) in /var/www/html/erpm/Controller/ConLog.php on line 482
+[04-Jan-2023 10:44:11 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /var/www/html/erpm/View/index.php on line 346
+[04-Jan-2023 10:44:55 Asia/Kolkata] PHP Notice:  Undefined variable: locationdir in /var/www/html/erpm/View/EmployeInfo.php on line 160
+[04-Jan-2023 10:44:55 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type int in /var/www/html/erpm/View/EmployeInfo.php on line 879
+[04-Jan-2023 10:44:55 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type int in /var/www/html/erpm/View/EmployeInfo.php on line 879
+[04-Jan-2023 10:44:55 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type int in /var/www/html/erpm/View/EmployeInfo.php on line 879
+[04-Jan-2023 10:46:00 Asia/Kolkata] PHP Notice:  Undefined variable: locationdir in /var/www/html/erpm/View/EmployeInfo.php on line 160
+[04-Jan-2023 10:46:01 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type int in /var/www/html/erpm/View/EmployeInfo.php on line 879
+[04-Jan-2023 10:46:01 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type int in /var/www/html/erpm/View/EmployeInfo.php on line 879
+[04-Jan-2023 10:46:01 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type int in /var/www/html/erpm/View/EmployeInfo.php on line 879
+[04-Jan-2023 10:47:10 Asia/Kolkata] PHP Notice:  Undefined variable: locationdir in /var/www/html/erpm/View/EmployeInfo.php on line 160
+[04-Jan-2023 10:47:11 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type int in /var/www/html/erpm/View/EmployeInfo.php on line 879
+[04-Jan-2023 10:47:11 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type int in /var/www/html/erpm/View/EmployeInfo.php on line 879
+[04-Jan-2023 10:47:11 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type int in /var/www/html/erpm/View/EmployeInfo.php on line 879
+[04-Jan-2023 10:48:01 Asia/Kolkata] PHP Notice:  Undefined variable: emp_mail in /var/www/html/erpm/View/employee_serach.php on line 347
+[04-Jan-2023 10:48:28 Asia/Kolkata] PHP Notice:  Undefined index: txt_dateFrom in /var/www/html/erpm/View/message-popup.php on line 27
+[04-Jan-2023 10:48:28 Asia/Kolkata] PHP Notice:  Undefined index: txt_dateto in /var/www/html/erpm/View/message-popup.php on line 34
+[04-Jan-2023 10:48:28 Asia/Kolkata] PHP Notice:  Undefined index: txt_dateFrom in /var/www/html/erpm/View/message-popup.php on line 27
+[04-Jan-2023 10:48:28 Asia/Kolkata] PHP Notice:  Undefined index: txt_dateto in /var/www/html/erpm/View/message-popup.php on line 34
+[04-Jan-2023 10:48:33 Asia/Kolkata] PHP Notice:  Undefined index: txt_dateFrom in /var/www/html/erpm/View/message-popup.php on line 27
+[04-Jan-2023 10:48:33 Asia/Kolkata] PHP Notice:  Undefined index: txt_dateto in /var/www/html/erpm/View/message-popup.php on line 34
+[04-Jan-2023 10:48:48 Asia/Kolkata] PHP Notice:  Undefined variable: locationdir in /var/www/html/erpm/View/EmployeInfo.php on line 160
+[04-Jan-2023 10:48:49 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type int in /var/www/html/erpm/View/EmployeInfo.php on line 879
+[04-Jan-2023 10:48:49 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type int in /var/www/html/erpm/View/EmployeInfo.php on line 879
+[04-Jan-2023 10:48:49 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type int in /var/www/html/erpm/View/EmployeInfo.php on line 879
+[04-Jan-2023 10:48:51 Asia/Kolkata] PHP Notice:  Undefined variable: locationdir in /var/www/html/erpm/View/EmployeInfo.php on line 160
+[04-Jan-2023 10:48:52 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type int in /var/www/html/erpm/View/EmployeInfo.php on line 879
+[04-Jan-2023 10:48:52 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type int in /var/www/html/erpm/View/EmployeInfo.php on line 879
+[04-Jan-2023 10:48:52 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type int in /var/www/html/erpm/View/EmployeInfo.php on line 879
+[04-Jan-2023 10:48:52 Asia/Kolkata] PHP Notice:  Undefined variable: imsrc_rrt in /var/www/html/erpm/View/EmployeInfo.php on line 1356
+[04-Jan-2023 10:48:52 Asia/Kolkata] PHP Notice:  Undefined variable: imsrc_rrrt in /var/www/html/erpm/View/EmployeInfo.php on line 1367
+[04-Jan-2023 10:48:54 Asia/Kolkata] PHP Notice:  Undefined variable: locationdir in /var/www/html/erpm/View/EmployeInfo.php on line 160
+[04-Jan-2023 10:48:54 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type int in /var/www/html/erpm/View/EmployeInfo.php on line 879
+[04-Jan-2023 10:48:54 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type int in /var/www/html/erpm/View/EmployeInfo.php on line 879
+[04-Jan-2023 10:48:54 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type int in /var/www/html/erpm/View/EmployeInfo.php on line 879
+[04-Jan-2023 10:48:54 Asia/Kolkata] PHP Notice:  Undefined variable: imsrc_rrt in /var/www/html/erpm/View/EmployeInfo.php on line 1356
+[04-Jan-2023 10:48:54 Asia/Kolkata] PHP Notice:  Undefined variable: imsrc_rrrt in /var/www/html/erpm/View/EmployeInfo.php on line 1367
+[04-Jan-2023 10:49:34 Asia/Kolkata] PHP Notice:  Undefined variable: locationdir in /var/www/html/erpm/View/EmployeInfo.php on line 160
+[04-Jan-2023 10:49:35 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type int in /var/www/html/erpm/View/EmployeInfo.php on line 879
+[04-Jan-2023 10:49:35 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type int in /var/www/html/erpm/View/EmployeInfo.php on line 879
+[04-Jan-2023 10:49:35 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type int in /var/www/html/erpm/View/EmployeInfo.php on line 879
+[04-Jan-2023 10:49:35 Asia/Kolkata] PHP Notice:  Undefined variable: imsrc_rrt in /var/www/html/erpm/View/EmployeInfo.php on line 1356
+[04-Jan-2023 10:49:35 Asia/Kolkata] PHP Notice:  Undefined variable: imsrc_rrrt in /var/www/html/erpm/View/EmployeInfo.php on line 1367
+[04-Jan-2023 10:51:20 Asia/Kolkata] PHP Notice:  Undefined variable: locationdir in /var/www/html/erpm/View/EmployeInfo.php on line 160
+[04-Jan-2023 10:51:21 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type int in /var/www/html/erpm/View/EmployeInfo.php on line 879
+[04-Jan-2023 10:51:21 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type int in /var/www/html/erpm/View/EmployeInfo.php on line 879
+[04-Jan-2023 10:51:21 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type int in /var/www/html/erpm/View/EmployeInfo.php on line 879
+[04-Jan-2023 10:51:21 Asia/Kolkata] PHP Notice:  Undefined variable: imsrc_rrt in /var/www/html/erpm/View/EmployeInfo.php on line 1356
+[04-Jan-2023 10:51:21 Asia/Kolkata] PHP Notice:  Undefined variable: imsrc_rrrt in /var/www/html/erpm/View/EmployeInfo.php on line 1367
+[04-Jan-2023 10:56:34 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /var/www/html/erpm/View/index.php on line 346
+[04-Jan-2023 10:58:35 Asia/Kolkata] PHP Notice:  Undefined index: EmployeeID in /var/www/html/erpm/View/EmployeInfo.php on line 11
+[04-Jan-2023 10:58:43 Asia/Kolkata] PHP Notice:  Undefined variable: locationdir in /var/www/html/erpm/View/EmployeInfo.php on line 160
+[04-Jan-2023 10:58:44 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type int in /var/www/html/erpm/View/EmployeInfo.php on line 879
+[04-Jan-2023 10:58:44 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type int in /var/www/html/erpm/View/EmployeInfo.php on line 879
+[04-Jan-2023 10:58:44 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type int in /var/www/html/erpm/View/EmployeInfo.php on line 879
+[04-Jan-2023 10:58:44 Asia/Kolkata] PHP Notice:  Undefined variable: imsrc_rrt in /var/www/html/erpm/View/EmployeInfo.php on line 1356
+[04-Jan-2023 10:58:44 Asia/Kolkata] PHP Notice:  Undefined variable: imsrc_rrrt in /var/www/html/erpm/View/EmployeInfo.php on line 1367
+[04-Jan-2023 10:58:49 Asia/Kolkata] PHP Notice:  Undefined variable: locationdir in /var/www/html/erpm/View/EmployeInfo.php on line 160
+[04-Jan-2023 10:58:49 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type int in /var/www/html/erpm/View/EmployeInfo.php on line 879
+[04-Jan-2023 10:58:49 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type int in /var/www/html/erpm/View/EmployeInfo.php on line 879
+[04-Jan-2023 10:58:49 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type int in /var/www/html/erpm/View/EmployeInfo.php on line 879
+[04-Jan-2023 10:58:49 Asia/Kolkata] PHP Notice:  Undefined variable: imsrc_rrt in /var/www/html/erpm/View/EmployeInfo.php on line 1356
+[04-Jan-2023 10:58:49 Asia/Kolkata] PHP Notice:  Undefined variable: imsrc_rrrt in /var/www/html/erpm/View/EmployeInfo.php on line 1367
+[04-Jan-2023 10:59:30 Asia/Kolkata] PHP Notice:  Undefined variable: locationdir in /var/www/html/erpm/View/EmployeInfo.php on line 160
+[04-Jan-2023 10:59:31 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type int in /var/www/html/erpm/View/EmployeInfo.php on line 879
+[04-Jan-2023 10:59:31 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type int in /var/www/html/erpm/View/EmployeInfo.php on line 879
+[04-Jan-2023 10:59:31 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type int in /var/www/html/erpm/View/EmployeInfo.php on line 879
+[04-Jan-2023 10:59:31 Asia/Kolkata] PHP Notice:  Undefined variable: imsrc_rrt in /var/www/html/erpm/View/EmployeInfo.php on line 1356
+[04-Jan-2023 10:59:31 Asia/Kolkata] PHP Notice:  Undefined variable: imsrc_rrrt in /var/www/html/erpm/View/EmployeInfo.php on line 1367
+[04-Jan-2023 10:59:46 Asia/Kolkata] PHP Notice:  Undefined variable: locationdir in /var/www/html/erpm/View/EmployeInfo.php on line 160
+[04-Jan-2023 10:59:47 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type int in /var/www/html/erpm/View/EmployeInfo.php on line 879
+[04-Jan-2023 10:59:47 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type int in /var/www/html/erpm/View/EmployeInfo.php on line 879
+[04-Jan-2023 10:59:47 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type int in /var/www/html/erpm/View/EmployeInfo.php on line 879
+[04-Jan-2023 10:59:47 Asia/Kolkata] PHP Notice:  Undefined variable: imsrc_rrt in /var/www/html/erpm/View/EmployeInfo.php on line 1356
+[04-Jan-2023 10:59:47 Asia/Kolkata] PHP Notice:  Undefined variable: imsrc_rrrt in /var/www/html/erpm/View/EmployeInfo.php on line 1367

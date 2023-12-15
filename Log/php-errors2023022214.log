@@ -1,0 +1,9 @@
+[22-Feb-2023 14:12:08 Asia/Kolkata] PHP Fatal error:  Uncaught TypeError: setcookie(): Argument #5 ($domain) must be of type string, array given in C:\wamp64\www\emsdemo\View\EmployeInfo.php:54
+Stack trace:
+#0 C:\wamp64\www\emsdemo\View\EmployeInfo.php(54): setcookie('reload', 'hidden', 1679647328, '/', Array)
+#1 {main}
+  thrown in C:\wamp64\www\emsdemo\View\EmployeInfo.php on line 54
+[22-Feb-2023 14:16:30 Asia/Kolkata] PHP Warning:  Undefined array key "__user_logid" in C:\wamp64\www\emsdemo\AppCode\nHead.php on line 2
+[22-Feb-2023 14:16:30 Asia/Kolkata] PHP Stack trace:
+[22-Feb-2023 14:16:30 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\emsdemo\View\transfer_report.php:0
+[22-Feb-2023 14:16:30 Asia/Kolkata] PHP   2. require() C:\wamp64\www\emsdemo\View\transfer_report.php:9

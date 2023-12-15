@@ -1,0 +1,5 @@
+[15-Dec-2022 12:50:48 Asia/Kolkata] PHP Notice:  Undefined index: __user_logid in /var/www/html/erpm/AppCode/nHead.php on line 2
+[15-Dec-2022 12:51:17 Asia/Kolkata] PHP Notice:  Undefined index: __user_logid in /var/www/html/erpm/AppCode/nHead.php on line 2
+[15-Dec-2022 12:51:20 Asia/Kolkata] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /var/www/html/erpm/AppData/lib/PHPMailer-master/PHPMailerAutoload.php on line 45
+[15-Dec-2022 12:51:20 Asia/Kolkata] PHP Warning:  mysqli_stmt::bind_param(): Number of elements in type definition string doesn't match number of bind variables in /var/www/html/erpm/Controller/ConLog.php on line 464
+[15-Dec-2022 12:51:22 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /var/www/html/erpm/View/index.php on line 346

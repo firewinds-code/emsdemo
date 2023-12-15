@@ -1,0 +1,110 @@
+[09-Feb-2023 10:01:31 Asia/Kolkata] PHP Notice:  Undefined index: to in C:\wamp64\www\emsdemo\View\calcRange.php on line 42
+[09-Feb-2023 10:01:31 Asia/Kolkata] PHP Stack trace:
+[09-Feb-2023 10:01:31 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\emsdemo\View\calcRange.php:0
+[09-Feb-2023 10:01:34 Asia/Kolkata] PHP Notice:  Object of class mysqli_result could not be converted to int in C:\wamp64\www\emsdemo\View\calcRange.php on line 412
+[09-Feb-2023 10:01:34 Asia/Kolkata] PHP Stack trace:
+[09-Feb-2023 10:01:34 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\emsdemo\View\calcRange.php:0
+[09-Feb-2023 10:01:34 Asia/Kolkata] PHP   2. BioMetric->__construct($EmployeeID = 'CE12102224', $DateFrom = '2023-02-08', $DateTo = '2023-02-08', $Emd_des = 'Manager', $Emp_status = 6, $emp_dod = NULL, $emp_module = '2010-12-06 00:00:00') C:\wamp64\www\emsdemo\View\calcRange.php:2358
+[09-Feb-2023 10:01:34 Asia/Kolkata] PHP Notice:  Undefined index: 2023-02-08 in C:\wamp64\www\emsdemo\View\calcRange.php on line 583
+[09-Feb-2023 10:01:34 Asia/Kolkata] PHP Stack trace:
+[09-Feb-2023 10:01:34 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\emsdemo\View\calcRange.php:0
+[09-Feb-2023 10:01:34 Asia/Kolkata] PHP   2. BioMetric->__construct($EmployeeID = 'CE12102224', $DateFrom = '2023-02-08', $DateTo = '2023-02-08', $Emd_des = 'Manager', $Emp_status = 6, $emp_dod = NULL, $emp_module = '2010-12-06 00:00:00') C:\wamp64\www\emsdemo\View\calcRange.php:2358
+[09-Feb-2023 10:01:34 Asia/Kolkata] PHP   3. BioMetric->__calculation_for_day($__date = '2023-02-08', $__EmpID = 'CE12102224', $__des = 'Manager', $__status = 6) C:\wamp64\www\emsdemo\View\calcRange.php:558
+[09-Feb-2023 10:01:34 Asia/Kolkata] PHP Notice:  Undefined index: 2023-02-08 in C:\wamp64\www\emsdemo\View\calcRange.php on line 932
+[09-Feb-2023 10:01:34 Asia/Kolkata] PHP Stack trace:
+[09-Feb-2023 10:01:34 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\emsdemo\View\calcRange.php:0
+[09-Feb-2023 10:01:34 Asia/Kolkata] PHP   2. BioMetric->__construct($EmployeeID = 'CE12102224', $DateFrom = '2023-02-08', $DateTo = '2023-02-08', $Emd_des = 'Manager', $Emp_status = 6, $emp_dod = NULL, $emp_module = '2010-12-06 00:00:00') C:\wamp64\www\emsdemo\View\calcRange.php:2358
+[09-Feb-2023 10:01:34 Asia/Kolkata] PHP   3. BioMetric->__calculation_for_day($__date = '2023-02-08', $__EmpID = 'CE12102224', $__des = 'Manager', $__status = 6) C:\wamp64\www\emsdemo\View\calcRange.php:558
+[09-Feb-2023 10:01:34 Asia/Kolkata] PHP Notice:  Undefined index: 2023-02-08 in C:\wamp64\www\emsdemo\View\calcRange.php on line 1225
+[09-Feb-2023 10:01:34 Asia/Kolkata] PHP Stack trace:
+[09-Feb-2023 10:01:34 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\emsdemo\View\calcRange.php:0
+[09-Feb-2023 10:01:34 Asia/Kolkata] PHP   2. BioMetric->__construct($EmployeeID = 'CE12102224', $DateFrom = '2023-02-08', $DateTo = '2023-02-08', $Emd_des = 'Manager', $Emp_status = 6, $emp_dod = NULL, $emp_module = '2010-12-06 00:00:00') C:\wamp64\www\emsdemo\View\calcRange.php:2358
+[09-Feb-2023 10:01:34 Asia/Kolkata] PHP   3. BioMetric->__calculation_for_day($__date = '2023-02-08', $__EmpID = 'CE12102224', $__des = 'Manager', $__status = 6) C:\wamp64\www\emsdemo\View\calcRange.php:558
+[09-Feb-2023 10:01:35 Asia/Kolkata] PHP Notice:  Array to string conversion in C:\wamp64\www\emsdemo\View\calcRange.php on line 1559
+[09-Feb-2023 10:01:35 Asia/Kolkata] PHP Stack trace:
+[09-Feb-2023 10:01:35 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\emsdemo\View\calcRange.php:0
+[09-Feb-2023 10:01:35 Asia/Kolkata] PHP   2. BioMetric->__construct($EmployeeID = 'CE12102224', $DateFrom = '2023-02-08', $DateTo = '2023-02-08', $Emd_des = 'Manager', $Emp_status = 6, $emp_dod = NULL, $emp_module = '2010-12-06 00:00:00') C:\wamp64\www\emsdemo\View\calcRange.php:2358
+[09-Feb-2023 10:01:35 Asia/Kolkata] PHP   3. BioMetric->__calculation_for_day($__date = '2023-02-08', $__EmpID = 'CE12102224', $__des = 'Manager', $__status = 6) C:\wamp64\www\emsdemo\View\calcRange.php:558
+[09-Feb-2023 10:01:35 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in C:\wamp64\www\emsdemo\View\index.php on line 356
+[09-Feb-2023 10:01:35 Asia/Kolkata] PHP Stack trace:
+[09-Feb-2023 10:01:35 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\emsdemo\View\index.php:0
+[09-Feb-2023 10:06:14 Asia/Kolkata] PHP Notice:  Undefined variable: error in C:\wamp64\www\emsdemo\View\resign_module_oh.php on line 222
+[09-Feb-2023 10:06:14 Asia/Kolkata] PHP Stack trace:
+[09-Feb-2023 10:06:14 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\emsdemo\View\resign_module_oh.php:0
+[09-Feb-2023 10:27:28 Asia/Kolkata] PHP Notice:  Undefined variable: error in C:\wamp64\www\emsdemo\View\resign_module_oh.php on line 222
+[09-Feb-2023 10:27:29 Asia/Kolkata] PHP Stack trace:
+[09-Feb-2023 10:27:29 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\emsdemo\View\resign_module_oh.php:0
+[09-Feb-2023 10:33:18 Asia/Kolkata] PHP Notice:  Undefined index: __user_logid in C:\wamp64\www\emsdemo\AppCode\nHead.php on line 2
+[09-Feb-2023 10:33:18 Asia/Kolkata] PHP Stack trace:
+[09-Feb-2023 10:33:18 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\emsdemo\View\releiving_experience_letter_manual.php:0
+[09-Feb-2023 10:33:18 Asia/Kolkata] PHP   2. require() C:\wamp64\www\emsdemo\View\releiving_experience_letter_manual.php:6
+[09-Feb-2023 10:33:27 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in C:\wamp64\www\emsdemo\View\index.php on line 356
+[09-Feb-2023 10:33:27 Asia/Kolkata] PHP Stack trace:
+[09-Feb-2023 10:33:27 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\emsdemo\View\index.php:0
+[09-Feb-2023 10:33:36 Asia/Kolkata] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in C:\wamp64\www\emsdemo\TCPDF\tcpdf.php on line 16899
+[09-Feb-2023 10:33:36 Asia/Kolkata] PHP Stack trace:
+[09-Feb-2023 10:33:36 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\emsdemo\View\releiving_experience_letter_manual.php:0
+[09-Feb-2023 10:33:36 Asia/Kolkata] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in C:\wamp64\www\emsdemo\TCPDF\tcpdf.php on line 16899
+[09-Feb-2023 10:33:36 Asia/Kolkata] PHP Stack trace:
+[09-Feb-2023 10:33:36 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\emsdemo\View\releiving_experience_letter_manual.php:0
+[09-Feb-2023 10:33:36 Asia/Kolkata] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in C:\wamp64\www\emsdemo\TCPDF\tcpdf.php on line 16902
+[09-Feb-2023 10:33:36 Asia/Kolkata] PHP Stack trace:
+[09-Feb-2023 10:33:36 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\emsdemo\View\releiving_experience_letter_manual.php:0
+[09-Feb-2023 10:33:36 Asia/Kolkata] PHP Warning:  "continue" targeting switch is equivalent to "break". Did you mean to use "continue 2"? in C:\wamp64\www\emsdemo\TCPDF\tcpdf.php on line 17784
+[09-Feb-2023 10:33:36 Asia/Kolkata] PHP Stack trace:
+[09-Feb-2023 10:33:36 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\emsdemo\View\releiving_experience_letter_manual.php:0
+[09-Feb-2023 10:33:36 Asia/Kolkata] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in C:\wamp64\www\emsdemo\TCPDF\include\tcpdf_images.php on line 318
+[09-Feb-2023 10:33:36 Asia/Kolkata] PHP Stack trace:
+[09-Feb-2023 10:33:36 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\emsdemo\View\releiving_experience_letter_manual.php:0
+[09-Feb-2023 10:33:36 Asia/Kolkata] PHP   2. require() C:\wamp64\www\emsdemo\View\releiving_experience_letter_manual.php:12
+[09-Feb-2023 10:39:19 Asia/Kolkata] PHP Notice:  Undefined index: searchID in C:\wamp64\www\emsdemo\View\releiving_experience_letter_manual.php on line 26
+[09-Feb-2023 10:39:19 Asia/Kolkata] PHP Stack trace:
+[09-Feb-2023 10:39:19 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\emsdemo\View\releiving_experience_letter_manual.php:0
+[09-Feb-2023 10:43:13 Asia/Kolkata] PHP Notice:  Undefined variable: error in C:\wamp64\www\emsdemo\View\releiving_experience_letter_manual.php on line 145
+[09-Feb-2023 10:43:13 Asia/Kolkata] PHP Stack trace:
+[09-Feb-2023 10:43:13 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\emsdemo\View\releiving_experience_letter_manual.php:0
+[09-Feb-2023 10:43:55 Asia/Kolkata] PHP Notice:  Undefined variable: error in C:\wamp64\www\emsdemo\View\releiving_experience_letter_manual.php on line 145
+[09-Feb-2023 10:43:55 Asia/Kolkata] PHP Stack trace:
+[09-Feb-2023 10:43:55 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\emsdemo\View\releiving_experience_letter_manual.php:0
+[09-Feb-2023 10:44:38 Asia/Kolkata] PHP Notice:  Undefined variable: error in C:\wamp64\www\emsdemo\View\releiving_experience_letter_manual.php on line 145
+[09-Feb-2023 10:44:38 Asia/Kolkata] PHP Stack trace:
+[09-Feb-2023 10:44:38 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\emsdemo\View\releiving_experience_letter_manual.php:0
+[09-Feb-2023 10:44:57 Asia/Kolkata] PHP Notice:  Undefined variable: error in C:\wamp64\www\emsdemo\View\releiving_experience_letter_manual.php on line 145
+[09-Feb-2023 10:44:57 Asia/Kolkata] PHP Stack trace:
+[09-Feb-2023 10:44:57 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\emsdemo\View\releiving_experience_letter_manual.php:0
+[09-Feb-2023 10:46:03 Asia/Kolkata] PHP Notice:  Undefined variable: error in C:\wamp64\www\emsdemo\View\releiving_experience_letter_manual.php on line 145
+[09-Feb-2023 10:46:03 Asia/Kolkata] PHP Stack trace:
+[09-Feb-2023 10:46:03 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\emsdemo\View\releiving_experience_letter_manual.php:0
+[09-Feb-2023 10:46:51 Asia/Kolkata] PHP Notice:  Undefined variable: error in C:\wamp64\www\emsdemo\View\releiving_experience_letter_manual.php on line 146
+[09-Feb-2023 10:46:51 Asia/Kolkata] PHP Stack trace:
+[09-Feb-2023 10:46:51 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\emsdemo\View\releiving_experience_letter_manual.php:0
+[09-Feb-2023 10:47:27 Asia/Kolkata] PHP Notice:  Undefined variable: error in C:\wamp64\www\emsdemo\View\releiving_experience_letter_manual.php on line 146
+[09-Feb-2023 10:47:27 Asia/Kolkata] PHP Stack trace:
+[09-Feb-2023 10:47:27 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\emsdemo\View\releiving_experience_letter_manual.php:0
+[09-Feb-2023 10:48:00 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in C:\wamp64\www\emsdemo\View\releiving_experience_letter_manual.php on line 67
+[09-Feb-2023 10:48:00 Asia/Kolkata] PHP Stack trace:
+[09-Feb-2023 10:48:00 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\emsdemo\View\releiving_experience_letter_manual.php:0
+[09-Feb-2023 10:48:00 Asia/Kolkata] PHP Notice:  Undefined variable: error in C:\wamp64\www\emsdemo\View\releiving_experience_letter_manual.php on line 146
+[09-Feb-2023 10:48:00 Asia/Kolkata] PHP Stack trace:
+[09-Feb-2023 10:48:00 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\emsdemo\View\releiving_experience_letter_manual.php:0
+[09-Feb-2023 10:50:32 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in C:\wamp64\www\emsdemo\View\releiving_experience_letter_manual.php on line 67
+[09-Feb-2023 10:50:32 Asia/Kolkata] PHP Stack trace:
+[09-Feb-2023 10:50:32 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\emsdemo\View\releiving_experience_letter_manual.php:0
+[09-Feb-2023 10:50:32 Asia/Kolkata] PHP Notice:  Undefined variable: error in C:\wamp64\www\emsdemo\View\releiving_experience_letter_manual.php on line 146
+[09-Feb-2023 10:50:33 Asia/Kolkata] PHP Stack trace:
+[09-Feb-2023 10:50:33 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\emsdemo\View\releiving_experience_letter_manual.php:0
+[09-Feb-2023 10:50:54 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in C:\wamp64\www\emsdemo\View\releiving_experience_letter_manual.php on line 67
+[09-Feb-2023 10:50:54 Asia/Kolkata] PHP Stack trace:
+[09-Feb-2023 10:50:54 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\emsdemo\View\releiving_experience_letter_manual.php:0
+[09-Feb-2023 10:50:54 Asia/Kolkata] PHP Notice:  Undefined variable: error in C:\wamp64\www\emsdemo\View\releiving_experience_letter_manual.php on line 146
+[09-Feb-2023 10:50:54 Asia/Kolkata] PHP Stack trace:
+[09-Feb-2023 10:50:54 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\emsdemo\View\releiving_experience_letter_manual.php:0
+[09-Feb-2023 10:51:26 Asia/Kolkata] PHP Notice:  Undefined variable: error in C:\wamp64\www\emsdemo\View\releiving_experience_letter_manual.php on line 146
+[09-Feb-2023 10:51:26 Asia/Kolkata] PHP Stack trace:
+[09-Feb-2023 10:51:26 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\emsdemo\View\releiving_experience_letter_manual.php:0
+[09-Feb-2023 10:53:18 Asia/Kolkata] PHP Notice:  Undefined variable: error in C:\wamp64\www\emsdemo\View\releiving_experience_letter_manual.php on line 145
+[09-Feb-2023 10:53:18 Asia/Kolkata] PHP Stack trace:
+[09-Feb-2023 10:53:18 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\emsdemo\View\releiving_experience_letter_manual.php:0
+[09-Feb-2023 10:54:59 Asia/Kolkata] PHP Notice:  Undefined variable: error in C:\wamp64\www\emsdemo\View\releiving_experience_letter_manual.php on line 145
+[09-Feb-2023 10:54:59 Asia/Kolkata] PHP Stack trace:
+[09-Feb-2023 10:54:59 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\emsdemo\View\releiving_experience_letter_manual.php:0

@@ -1,0 +1,30 @@
+[03-Mar-2023 10:11:35 Asia/Kolkata] PHP Warning:  Undefined array key "to" in C:\wamp64\www\emsdemo\View\calcRange.php on line 42
+[03-Mar-2023 10:11:35 Asia/Kolkata] PHP Stack trace:
+[03-Mar-2023 10:11:35 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\emsdemo\View\calcRange.php:0
+[03-Mar-2023 10:11:38 Asia/Kolkata] PHP Notice:  Object of class mysqli_result could not be converted to int in C:\wamp64\www\emsdemo\View\calcRange.php on line 412
+[03-Mar-2023 10:11:38 Asia/Kolkata] PHP Stack trace:
+[03-Mar-2023 10:11:38 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\emsdemo\View\calcRange.php:0
+[03-Mar-2023 10:11:38 Asia/Kolkata] PHP   2. BioMetric->__construct($EmployeeID = 'CE10091236', $DateFrom = '2023-03-02', $DateTo = '2023-03-02', $Emd_des = 'Deputy General Manager', $Emp_status = 6, $emp_dod = NULL, $emp_module = '2009-10-12 00:00:00') C:\wamp64\www\emsdemo\View\calcRange.php:2358
+[03-Mar-2023 10:11:38 Asia/Kolkata] PHP Warning:  Undefined array key "2023-03-02" in C:\wamp64\www\emsdemo\View\calcRange.php on line 583
+[03-Mar-2023 10:11:38 Asia/Kolkata] PHP Stack trace:
+[03-Mar-2023 10:11:38 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\emsdemo\View\calcRange.php:0
+[03-Mar-2023 10:11:38 Asia/Kolkata] PHP   2. BioMetric->__construct($EmployeeID = 'CE10091236', $DateFrom = '2023-03-02', $DateTo = '2023-03-02', $Emd_des = 'Deputy General Manager', $Emp_status = 6, $emp_dod = NULL, $emp_module = '2009-10-12 00:00:00') C:\wamp64\www\emsdemo\View\calcRange.php:2358
+[03-Mar-2023 10:11:38 Asia/Kolkata] PHP   3. BioMetric->__calculation_for_day($__date = '2023-03-02', $__EmpID = 'CE10091236', $__des = 'Deputy General Manager', $__status = 6) C:\wamp64\www\emsdemo\View\calcRange.php:558
+[03-Mar-2023 10:11:38 Asia/Kolkata] PHP Warning:  Undefined array key "2023-03-02" in C:\wamp64\www\emsdemo\View\calcRange.php on line 932
+[03-Mar-2023 10:11:38 Asia/Kolkata] PHP Stack trace:
+[03-Mar-2023 10:11:38 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\emsdemo\View\calcRange.php:0
+[03-Mar-2023 10:11:38 Asia/Kolkata] PHP   2. BioMetric->__construct($EmployeeID = 'CE10091236', $DateFrom = '2023-03-02', $DateTo = '2023-03-02', $Emd_des = 'Deputy General Manager', $Emp_status = 6, $emp_dod = NULL, $emp_module = '2009-10-12 00:00:00') C:\wamp64\www\emsdemo\View\calcRange.php:2358
+[03-Mar-2023 10:11:38 Asia/Kolkata] PHP   3. BioMetric->__calculation_for_day($__date = '2023-03-02', $__EmpID = 'CE10091236', $__des = 'Deputy General Manager', $__status = 6) C:\wamp64\www\emsdemo\View\calcRange.php:558
+[03-Mar-2023 10:11:38 Asia/Kolkata] PHP Warning:  Undefined array key "2023-03-02" in C:\wamp64\www\emsdemo\View\calcRange.php on line 1225
+[03-Mar-2023 10:11:38 Asia/Kolkata] PHP Stack trace:
+[03-Mar-2023 10:11:38 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\emsdemo\View\calcRange.php:0
+[03-Mar-2023 10:11:38 Asia/Kolkata] PHP   2. BioMetric->__construct($EmployeeID = 'CE10091236', $DateFrom = '2023-03-02', $DateTo = '2023-03-02', $Emd_des = 'Deputy General Manager', $Emp_status = 6, $emp_dod = NULL, $emp_module = '2009-10-12 00:00:00') C:\wamp64\www\emsdemo\View\calcRange.php:2358
+[03-Mar-2023 10:11:38 Asia/Kolkata] PHP   3. BioMetric->__calculation_for_day($__date = '2023-03-02', $__EmpID = 'CE10091236', $__des = 'Deputy General Manager', $__status = 6) C:\wamp64\www\emsdemo\View\calcRange.php:558
+[03-Mar-2023 10:11:39 Asia/Kolkata] PHP Warning:  Array to string conversion in C:\wamp64\www\emsdemo\View\calcRange.php on line 1559
+[03-Mar-2023 10:11:39 Asia/Kolkata] PHP Stack trace:
+[03-Mar-2023 10:11:39 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\emsdemo\View\calcRange.php:0
+[03-Mar-2023 10:11:39 Asia/Kolkata] PHP   2. BioMetric->__construct($EmployeeID = 'CE10091236', $DateFrom = '2023-03-02', $DateTo = '2023-03-02', $Emd_des = 'Deputy General Manager', $Emp_status = 6, $emp_dod = NULL, $emp_module = '2009-10-12 00:00:00') C:\wamp64\www\emsdemo\View\calcRange.php:2358
+[03-Mar-2023 10:11:39 Asia/Kolkata] PHP   3. BioMetric->__calculation_for_day($__date = '2023-03-02', $__EmpID = 'CE10091236', $__des = 'Deputy General Manager', $__status = 6) C:\wamp64\www\emsdemo\View\calcRange.php:558
+[03-Mar-2023 10:11:40 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in C:\wamp64\www\emsdemo\View\index.php on line 356
+[03-Mar-2023 10:11:40 Asia/Kolkata] PHP Stack trace:
+[03-Mar-2023 10:11:40 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\emsdemo\View\index.php:0

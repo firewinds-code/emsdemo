@@ -1,0 +1,53 @@
+[27-Jan-2023 12:07:56 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in C:\wamp64\www\emsdemo\View\index.php on line 355
+[27-Jan-2023 12:07:56 Asia/Kolkata] PHP Stack trace:
+[27-Jan-2023 12:07:56 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\emsdemo\View\index.php:0
+[27-Jan-2023 12:08:53 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in C:\wamp64\www\emsdemo\View\index.php on line 355
+[27-Jan-2023 12:08:53 Asia/Kolkata] PHP Stack trace:
+[27-Jan-2023 12:08:53 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\emsdemo\View\index.php:0
+[27-Jan-2023 12:09:55 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in C:\wamp64\www\emsdemo\View\index.php on line 355
+[27-Jan-2023 12:09:55 Asia/Kolkata] PHP Stack trace:
+[27-Jan-2023 12:09:55 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\emsdemo\View\index.php:0
+[27-Jan-2023 12:10:05 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in C:\wamp64\www\emsdemo\View\index.php on line 355
+[27-Jan-2023 12:10:05 Asia/Kolkata] PHP Stack trace:
+[27-Jan-2023 12:10:05 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\emsdemo\View\index.php:0
+[27-Jan-2023 12:13:17 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Call to a member function bind_param() on bool in C:\wamp64\www\emsdemo\Controller\ConLog.php:61
+Stack trace:
+#0 {main}
+  thrown in C:\wamp64\www\emsdemo\Controller\ConLog.php on line 61
+[27-Jan-2023 12:25:57 Asia/Kolkata] PHP Warning:  Undefined variable $con in C:\wamp64\www\emsdemo\Controller\ConLog.php on line 149
+[27-Jan-2023 12:25:57 Asia/Kolkata] PHP Stack trace:
+[27-Jan-2023 12:25:57 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\emsdemo\Controller\ConLog.php:0
+[27-Jan-2023 12:25:57 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in C:\wamp64\www\emsdemo\Controller\ConLog.php:149
+Stack trace:
+#0 {main}
+  thrown in C:\wamp64\www\emsdemo\Controller\ConLog.php on line 149
+[27-Jan-2023 12:26:35 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Call to a member function bind_param() on bool in C:\wamp64\www\emsdemo\Controller\ConLog.php:150
+Stack trace:
+#0 {main}
+  thrown in C:\wamp64\www\emsdemo\Controller\ConLog.php on line 150
+[27-Jan-2023 12:27:06 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Call to a member function bind_param() on bool in C:\wamp64\www\emsdemo\Controller\ConLog.php:150
+Stack trace:
+#0 {main}
+  thrown in C:\wamp64\www\emsdemo\Controller\ConLog.php on line 150
+[27-Jan-2023 12:27:50 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Call to a member function bind_param() on bool in C:\wamp64\www\emsdemo\Controller\ConLog.php:150
+Stack trace:
+#0 {main}
+  thrown in C:\wamp64\www\emsdemo\Controller\ConLog.php on line 150
+[27-Jan-2023 12:29:11 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Call to a member function bind_param() on bool in C:\wamp64\www\emsdemo\Controller\ConLog.php:150
+Stack trace:
+#0 {main}
+  thrown in C:\wamp64\www\emsdemo\Controller\ConLog.php on line 150
+[27-Jan-2023 12:29:27 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Call to a member function bind_param() on bool in C:\wamp64\www\emsdemo\Controller\ConLog.php:150
+Stack trace:
+#0 {main}
+  thrown in C:\wamp64\www\emsdemo\Controller\ConLog.php on line 150
+[27-Jan-2023 12:48:42 Asia/Kolkata] PHP Warning:  Undefined array key "__user_logid" in C:\wamp64\www\emsdemo\AppCode\nHead.php on line 2
+[27-Jan-2023 12:48:42 Asia/Kolkata] PHP Stack trace:
+[27-Jan-2023 12:48:42 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\emsdemo\View\index.php:0
+[27-Jan-2023 12:48:42 Asia/Kolkata] PHP   2. require() C:\wamp64\www\emsdemo\View\index.php:14
+[27-Jan-2023 12:59:19 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in C:\wamp64\www\emsdemo\View\index.php on line 355
+[27-Jan-2023 12:59:19 Asia/Kolkata] PHP Stack trace:
+[27-Jan-2023 12:59:19 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\emsdemo\View\index.php:0
+[27-Jan-2023 12:59:50 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in C:\wamp64\www\emsdemo\View\index.php on line 355
+[27-Jan-2023 12:59:50 Asia/Kolkata] PHP Stack trace:
+[27-Jan-2023 12:59:50 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\emsdemo\View\index.php:0

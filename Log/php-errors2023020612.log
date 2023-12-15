@@ -1,0 +1,568 @@
+[06-Feb-2023 12:08:44 Asia/Kolkata] PHP Warning:  Undefined array key "__user_logid" in C:\wamp64\www\emsdemo\AppCode\nHead.php on line 2
+[06-Feb-2023 12:08:44 Asia/Kolkata] PHP Stack trace:
+[06-Feb-2023 12:08:44 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\emsdemo\View\save_employeemap.php:0
+[06-Feb-2023 12:08:44 Asia/Kolkata] PHP   2. require() C:\wamp64\www\emsdemo\View\save_employeemap.php:11
+[06-Feb-2023 12:09:02 Asia/Kolkata] PHP Warning:  Undefined array key "txt_dateFrom" in C:\wamp64\www\emsdemo\View\message-popup.php on line 28
+[06-Feb-2023 12:09:02 Asia/Kolkata] PHP Stack trace:
+[06-Feb-2023 12:09:02 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\emsdemo\View\message-popup.php:0
+[06-Feb-2023 12:09:02 Asia/Kolkata] PHP Warning:  Undefined array key "txt_dateto" in C:\wamp64\www\emsdemo\View\message-popup.php on line 29
+[06-Feb-2023 12:09:02 Asia/Kolkata] PHP Stack trace:
+[06-Feb-2023 12:09:02 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\emsdemo\View\message-popup.php:0
+[06-Feb-2023 12:09:16 Asia/Kolkata] PHP Warning:  Undefined variable $emp_mail in C:\wamp64\www\emsdemo\View\employee_serach.php on line 347
+[06-Feb-2023 12:09:16 Asia/Kolkata] PHP Stack trace:
+[06-Feb-2023 12:09:16 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\emsdemo\View\employee_serach.php:0
+[06-Feb-2023 12:09:54 Asia/Kolkata] PHP Warning:  Undefined array key "location" in C:\wamp64\www\emsdemo\View\save_personal.php on line 27
+[06-Feb-2023 12:09:54 Asia/Kolkata] PHP Stack trace:
+[06-Feb-2023 12:09:54 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\emsdemo\View\save_personal.php:0
+[06-Feb-2023 12:09:54 Asia/Kolkata] PHP Warning:  Undefined array key "txt_Personal_First" in C:\wamp64\www\emsdemo\View\save_personal.php on line 112
+[06-Feb-2023 12:09:54 Asia/Kolkata] PHP Stack trace:
+[06-Feb-2023 12:09:54 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\emsdemo\View\save_personal.php:0
+[06-Feb-2023 12:09:55 Asia/Kolkata] PHP Warning:  Undefined array key "EmployeeID" in C:\wamp64\www\emsdemo\View\save_personal.php on line 113
+[06-Feb-2023 12:09:55 Asia/Kolkata] PHP Stack trace:
+[06-Feb-2023 12:09:55 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\emsdemo\View\save_personal.php:0
+[06-Feb-2023 12:09:55 Asia/Kolkata] PHP Warning:  Undefined array key "intid" in C:\wamp64\www\emsdemo\View\save_personal.php on line 122
+[06-Feb-2023 12:09:55 Asia/Kolkata] PHP Stack trace:
+[06-Feb-2023 12:09:55 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\emsdemo\View\save_personal.php:0
+[06-Feb-2023 12:10:04 Asia/Kolkata] PHP Warning:  Undefined array key "employment_type" in C:\wamp64\www\emsdemo\View\save_employeemap.php on line 126
+[06-Feb-2023 12:10:04 Asia/Kolkata] PHP Stack trace:
+[06-Feb-2023 12:10:04 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\emsdemo\View\save_employeemap.php:0
+[06-Feb-2023 12:10:04 Asia/Kolkata] PHP Warning:  Undefined array key "EmployeeID" in C:\wamp64\www\emsdemo\View\save_employeemap.php on line 169
+[06-Feb-2023 12:10:04 Asia/Kolkata] PHP Stack trace:
+[06-Feb-2023 12:10:04 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\emsdemo\View\save_employeemap.php:0
+[06-Feb-2023 12:10:05 Asia/Kolkata] PHP Warning:  Undefined array key "btn_empmap_Save" in C:\wamp64\www\emsdemo\View\save_employeemap.php on line 234
+[06-Feb-2023 12:10:05 Asia/Kolkata] PHP Stack trace:
+[06-Feb-2023 12:10:05 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\emsdemo\View\save_employeemap.php:0
+[06-Feb-2023 12:10:05 Asia/Kolkata] PHP Warning:  Undefined array key "rt_type" in C:\wamp64\www\emsdemo\View\save_employeemap.php on line 235
+[06-Feb-2023 12:10:05 Asia/Kolkata] PHP Stack trace:
+[06-Feb-2023 12:10:05 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\emsdemo\View\save_employeemap.php:0
+[06-Feb-2023 12:13:44 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in C:\wamp64\www\emsdemo\View\save_employeemap.php on line 278
+[06-Feb-2023 12:13:44 Asia/Kolkata] PHP Stack trace:
+[06-Feb-2023 12:13:44 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\emsdemo\View\save_employeemap.php:0
+[06-Feb-2023 12:13:44 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in C:\wamp64\www\emsdemo\View\save_employeemap.php on line 279
+[06-Feb-2023 12:13:44 Asia/Kolkata] PHP Stack trace:
+[06-Feb-2023 12:13:44 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\emsdemo\View\save_employeemap.php:0
+[06-Feb-2023 12:23:59 Asia/Kolkata] PHP Warning:  Undefined array key "employment_type" in C:\wamp64\www\emsdemo\View\save_employeemap.php on line 126
+[06-Feb-2023 12:23:59 Asia/Kolkata] PHP Stack trace:
+[06-Feb-2023 12:23:59 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\emsdemo\View\save_employeemap.php:0
+[06-Feb-2023 12:23:59 Asia/Kolkata] PHP Warning:  Undefined array key "EmployeeID" in C:\wamp64\www\emsdemo\View\save_employeemap.php on line 169
+[06-Feb-2023 12:23:59 Asia/Kolkata] PHP Stack trace:
+[06-Feb-2023 12:23:59 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\emsdemo\View\save_employeemap.php:0
+[06-Feb-2023 12:24:00 Asia/Kolkata] PHP Warning:  Undefined array key "btn_empmap_Save" in C:\wamp64\www\emsdemo\View\save_employeemap.php on line 234
+[06-Feb-2023 12:24:00 Asia/Kolkata] PHP Stack trace:
+[06-Feb-2023 12:24:00 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\emsdemo\View\save_employeemap.php:0
+[06-Feb-2023 12:24:00 Asia/Kolkata] PHP Warning:  Undefined array key "rt_type" in C:\wamp64\www\emsdemo\View\save_employeemap.php on line 235
+[06-Feb-2023 12:24:00 Asia/Kolkata] PHP Stack trace:
+[06-Feb-2023 12:24:00 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\emsdemo\View\save_employeemap.php:0
+[06-Feb-2023 12:28:49 Asia/Kolkata] PHP Warning:  Undefined variable $pass in C:\wamp64\www\emsdemo\View\save_employeemap.php on line 1350
+[06-Feb-2023 12:28:49 Asia/Kolkata] PHP Stack trace:
+[06-Feb-2023 12:28:49 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\emsdemo\View\save_employeemap.php:0
+[06-Feb-2023 12:28:50 Asia/Kolkata] PHP Warning:  Undefined variable $dept in C:\wamp64\www\emsdemo\View\save_employeemap.php on line 1440
+[06-Feb-2023 12:28:50 Asia/Kolkata] PHP Stack trace:
+[06-Feb-2023 12:28:50 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\emsdemo\View\save_employeemap.php:0
+[06-Feb-2023 12:28:50 Asia/Kolkata] PHP Warning:  Undefined variable $dept in C:\wamp64\www\emsdemo\View\save_employeemap.php on line 1440
+[06-Feb-2023 12:28:50 Asia/Kolkata] PHP Stack trace:
+[06-Feb-2023 12:28:50 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\emsdemo\View\save_employeemap.php:0
+[06-Feb-2023 12:28:50 Asia/Kolkata] PHP Warning:  Undefined variable $dept in C:\wamp64\www\emsdemo\View\save_employeemap.php on line 1440
+[06-Feb-2023 12:28:50 Asia/Kolkata] PHP Stack trace:
+[06-Feb-2023 12:28:50 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\emsdemo\View\save_employeemap.php:0
+[06-Feb-2023 12:28:51 Asia/Kolkata] PHP Warning:  Undefined variable $client in C:\wamp64\www\emsdemo\View\save_employeemap.php on line 1475
+[06-Feb-2023 12:28:51 Asia/Kolkata] PHP Stack trace:
+[06-Feb-2023 12:28:51 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\emsdemo\View\save_employeemap.php:0
+[06-Feb-2023 12:28:51 Asia/Kolkata] PHP Warning:  Undefined variable $client in C:\wamp64\www\emsdemo\View\save_employeemap.php on line 1475
+[06-Feb-2023 12:28:51 Asia/Kolkata] PHP Stack trace:
+[06-Feb-2023 12:28:51 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\emsdemo\View\save_employeemap.php:0
+[06-Feb-2023 12:28:51 Asia/Kolkata] PHP Warning:  Undefined variable $client in C:\wamp64\www\emsdemo\View\save_employeemap.php on line 1475
+[06-Feb-2023 12:28:51 Asia/Kolkata] PHP Stack trace:
+[06-Feb-2023 12:28:51 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\emsdemo\View\save_employeemap.php:0
+[06-Feb-2023 12:28:51 Asia/Kolkata] PHP Warning:  Undefined variable $client in C:\wamp64\www\emsdemo\View\save_employeemap.php on line 1475
+[06-Feb-2023 12:28:51 Asia/Kolkata] PHP Stack trace:
+[06-Feb-2023 12:28:51 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\emsdemo\View\save_employeemap.php:0
+[06-Feb-2023 12:28:51 Asia/Kolkata] PHP Warning:  Undefined variable $client in C:\wamp64\www\emsdemo\View\save_employeemap.php on line 1475
+[06-Feb-2023 12:28:51 Asia/Kolkata] PHP Stack trace:
+[06-Feb-2023 12:28:51 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\emsdemo\View\save_employeemap.php:0
+[06-Feb-2023 12:28:51 Asia/Kolkata] PHP Warning:  Undefined variable $client in C:\wamp64\www\emsdemo\View\save_employeemap.php on line 1475
+[06-Feb-2023 12:28:51 Asia/Kolkata] PHP Stack trace:
+[06-Feb-2023 12:28:51 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\emsdemo\View\save_employeemap.php:0
+[06-Feb-2023 12:28:51 Asia/Kolkata] PHP Warning:  Undefined variable $client in C:\wamp64\www\emsdemo\View\save_employeemap.php on line 1475
+[06-Feb-2023 12:28:51 Asia/Kolkata] PHP Stack trace:
+[06-Feb-2023 12:28:51 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\emsdemo\View\save_employeemap.php:0
+[06-Feb-2023 12:28:51 Asia/Kolkata] PHP Warning:  Undefined variable $client in C:\wamp64\www\emsdemo\View\save_employeemap.php on line 1475
+[06-Feb-2023 12:28:51 Asia/Kolkata] PHP Stack trace:
+[06-Feb-2023 12:28:51 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\emsdemo\View\save_employeemap.php:0
+[06-Feb-2023 12:28:51 Asia/Kolkata] PHP Warning:  Undefined variable $client in C:\wamp64\www\emsdemo\View\save_employeemap.php on line 1475
+[06-Feb-2023 12:28:51 Asia/Kolkata] PHP Stack trace:
+[06-Feb-2023 12:28:51 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\emsdemo\View\save_employeemap.php:0
+[06-Feb-2023 12:28:51 Asia/Kolkata] PHP Warning:  Undefined variable $client in C:\wamp64\www\emsdemo\View\save_employeemap.php on line 1475
+[06-Feb-2023 12:28:51 Asia/Kolkata] PHP Stack trace:
+[06-Feb-2023 12:28:51 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\emsdemo\View\save_employeemap.php:0
+[06-Feb-2023 12:28:51 Asia/Kolkata] PHP Warning:  Undefined variable $client in C:\wamp64\www\emsdemo\View\save_employeemap.php on line 1475
+[06-Feb-2023 12:28:51 Asia/Kolkata] PHP Stack trace:
+[06-Feb-2023 12:28:51 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\emsdemo\View\save_employeemap.php:0
+[06-Feb-2023 12:28:51 Asia/Kolkata] PHP Warning:  Undefined variable $client in C:\wamp64\www\emsdemo\View\save_employeemap.php on line 1475
+[06-Feb-2023 12:28:51 Asia/Kolkata] PHP Stack trace:
+[06-Feb-2023 12:28:51 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\emsdemo\View\save_employeemap.php:0
+[06-Feb-2023 12:28:51 Asia/Kolkata] PHP Warning:  Undefined variable $client in C:\wamp64\www\emsdemo\View\save_employeemap.php on line 1475
+[06-Feb-2023 12:28:51 Asia/Kolkata] PHP Stack trace:
+[06-Feb-2023 12:28:51 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\emsdemo\View\save_employeemap.php:0
+[06-Feb-2023 12:28:51 Asia/Kolkata] PHP Warning:  Undefined variable $client in C:\wamp64\www\emsdemo\View\save_employeemap.php on line 1475
+[06-Feb-2023 12:28:51 Asia/Kolkata] PHP Stack trace:
+[06-Feb-2023 12:28:51 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\emsdemo\View\save_employeemap.php:0
+[06-Feb-2023 12:28:51 Asia/Kolkata] PHP Warning:  Undefined variable $client in C:\wamp64\www\emsdemo\View\save_employeemap.php on line 1475
+[06-Feb-2023 12:28:51 Asia/Kolkata] PHP Stack trace:
+[06-Feb-2023 12:28:51 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\emsdemo\View\save_employeemap.php:0
+[06-Feb-2023 12:28:51 Asia/Kolkata] PHP Warning:  Undefined variable $client in C:\wamp64\www\emsdemo\View\save_employeemap.php on line 1475
+[06-Feb-2023 12:28:51 Asia/Kolkata] PHP Stack trace:
+[06-Feb-2023 12:28:51 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\emsdemo\View\save_employeemap.php:0
+[06-Feb-2023 12:28:51 Asia/Kolkata] PHP Warning:  Undefined variable $client in C:\wamp64\www\emsdemo\View\save_employeemap.php on line 1475
+[06-Feb-2023 12:28:51 Asia/Kolkata] PHP Stack trace:
+[06-Feb-2023 12:28:51 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\emsdemo\View\save_employeemap.php:0
+[06-Feb-2023 12:28:51 Asia/Kolkata] PHP Warning:  Undefined variable $client in C:\wamp64\www\emsdemo\View\save_employeemap.php on line 1475
+[06-Feb-2023 12:28:51 Asia/Kolkata] PHP Stack trace:
+[06-Feb-2023 12:28:51 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\emsdemo\View\save_employeemap.php:0
+[06-Feb-2023 12:28:51 Asia/Kolkata] PHP Warning:  Undefined variable $client in C:\wamp64\www\emsdemo\View\save_employeemap.php on line 1475
+[06-Feb-2023 12:28:51 Asia/Kolkata] PHP Stack trace:
+[06-Feb-2023 12:28:51 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\emsdemo\View\save_employeemap.php:0
+[06-Feb-2023 12:28:51 Asia/Kolkata] PHP Warning:  Undefined variable $client in C:\wamp64\www\emsdemo\View\save_employeemap.php on line 1475
+[06-Feb-2023 12:28:51 Asia/Kolkata] PHP Stack trace:
+[06-Feb-2023 12:28:51 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\emsdemo\View\save_employeemap.php:0
+[06-Feb-2023 12:28:51 Asia/Kolkata] PHP Warning:  Undefined variable $client in C:\wamp64\www\emsdemo\View\save_employeemap.php on line 1475
+[06-Feb-2023 12:28:51 Asia/Kolkata] PHP Stack trace:
+[06-Feb-2023 12:28:51 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\emsdemo\View\save_employeemap.php:0
+[06-Feb-2023 12:28:51 Asia/Kolkata] PHP Warning:  Undefined variable $client in C:\wamp64\www\emsdemo\View\save_employeemap.php on line 1475
+[06-Feb-2023 12:28:51 Asia/Kolkata] PHP Stack trace:
+[06-Feb-2023 12:28:51 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\emsdemo\View\save_employeemap.php:0
+[06-Feb-2023 12:28:51 Asia/Kolkata] PHP Warning:  Undefined variable $client in C:\wamp64\www\emsdemo\View\save_employeemap.php on line 1475
+[06-Feb-2023 12:28:51 Asia/Kolkata] PHP Stack trace:
+[06-Feb-2023 12:28:51 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\emsdemo\View\save_employeemap.php:0
+[06-Feb-2023 12:28:51 Asia/Kolkata] PHP Warning:  Undefined variable $client in C:\wamp64\www\emsdemo\View\save_employeemap.php on line 1475
+[06-Feb-2023 12:28:51 Asia/Kolkata] PHP Stack trace:
+[06-Feb-2023 12:28:51 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\emsdemo\View\save_employeemap.php:0
+[06-Feb-2023 12:28:51 Asia/Kolkata] PHP Warning:  Undefined variable $client in C:\wamp64\www\emsdemo\View\save_employeemap.php on line 1475
+[06-Feb-2023 12:28:51 Asia/Kolkata] PHP Stack trace:
+[06-Feb-2023 12:28:51 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\emsdemo\View\save_employeemap.php:0
+[06-Feb-2023 12:28:51 Asia/Kolkata] PHP Warning:  Undefined variable $client in C:\wamp64\www\emsdemo\View\save_employeemap.php on line 1475
+[06-Feb-2023 12:28:51 Asia/Kolkata] PHP Stack trace:
+[06-Feb-2023 12:28:51 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\emsdemo\View\save_employeemap.php:0
+[06-Feb-2023 12:28:51 Asia/Kolkata] PHP Warning:  Undefined variable $client in C:\wamp64\www\emsdemo\View\save_employeemap.php on line 1475
+[06-Feb-2023 12:28:51 Asia/Kolkata] PHP Stack trace:
+[06-Feb-2023 12:28:51 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\emsdemo\View\save_employeemap.php:0
+[06-Feb-2023 12:28:51 Asia/Kolkata] PHP Warning:  Undefined variable $client in C:\wamp64\www\emsdemo\View\save_employeemap.php on line 1475
+[06-Feb-2023 12:28:51 Asia/Kolkata] PHP Stack trace:
+[06-Feb-2023 12:28:51 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\emsdemo\View\save_employeemap.php:0
+[06-Feb-2023 12:28:51 Asia/Kolkata] PHP Warning:  Undefined variable $client in C:\wamp64\www\emsdemo\View\save_employeemap.php on line 1475
+[06-Feb-2023 12:28:51 Asia/Kolkata] PHP Stack trace:
+[06-Feb-2023 12:28:51 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\emsdemo\View\save_employeemap.php:0
+[06-Feb-2023 12:28:51 Asia/Kolkata] PHP Warning:  Undefined variable $client in C:\wamp64\www\emsdemo\View\save_employeemap.php on line 1475
+[06-Feb-2023 12:28:51 Asia/Kolkata] PHP Stack trace:
+[06-Feb-2023 12:28:51 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\emsdemo\View\save_employeemap.php:0
+[06-Feb-2023 12:28:51 Asia/Kolkata] PHP Warning:  Undefined variable $client in C:\wamp64\www\emsdemo\View\save_employeemap.php on line 1475
+[06-Feb-2023 12:28:51 Asia/Kolkata] PHP Stack trace:
+[06-Feb-2023 12:28:51 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\emsdemo\View\save_employeemap.php:0
+[06-Feb-2023 12:28:51 Asia/Kolkata] PHP Warning:  Undefined variable $client in C:\wamp64\www\emsdemo\View\save_employeemap.php on line 1475
+[06-Feb-2023 12:28:51 Asia/Kolkata] PHP Stack trace:
+[06-Feb-2023 12:28:51 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\emsdemo\View\save_employeemap.php:0
+[06-Feb-2023 12:28:51 Asia/Kolkata] PHP Warning:  Undefined variable $client in C:\wamp64\www\emsdemo\View\save_employeemap.php on line 1475
+[06-Feb-2023 12:28:51 Asia/Kolkata] PHP Stack trace:
+[06-Feb-2023 12:28:51 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\emsdemo\View\save_employeemap.php:0
+[06-Feb-2023 12:28:51 Asia/Kolkata] PHP Warning:  Undefined variable $client in C:\wamp64\www\emsdemo\View\save_employeemap.php on line 1475
+[06-Feb-2023 12:28:51 Asia/Kolkata] PHP Stack trace:
+[06-Feb-2023 12:28:51 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\emsdemo\View\save_employeemap.php:0
+[06-Feb-2023 12:28:51 Asia/Kolkata] PHP Warning:  Undefined variable $client in C:\wamp64\www\emsdemo\View\save_employeemap.php on line 1475
+[06-Feb-2023 12:28:51 Asia/Kolkata] PHP Stack trace:
+[06-Feb-2023 12:28:51 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\emsdemo\View\save_employeemap.php:0
+[06-Feb-2023 12:28:51 Asia/Kolkata] PHP Warning:  Undefined variable $client in C:\wamp64\www\emsdemo\View\save_employeemap.php on line 1475
+[06-Feb-2023 12:28:51 Asia/Kolkata] PHP Stack trace:
+[06-Feb-2023 12:28:51 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\emsdemo\View\save_employeemap.php:0
+[06-Feb-2023 12:28:51 Asia/Kolkata] PHP Warning:  Undefined variable $client in C:\wamp64\www\emsdemo\View\save_employeemap.php on line 1475
+[06-Feb-2023 12:28:51 Asia/Kolkata] PHP Stack trace:
+[06-Feb-2023 12:28:51 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\emsdemo\View\save_employeemap.php:0
+[06-Feb-2023 12:28:51 Asia/Kolkata] PHP Warning:  Undefined variable $client in C:\wamp64\www\emsdemo\View\save_employeemap.php on line 1475
+[06-Feb-2023 12:28:51 Asia/Kolkata] PHP Stack trace:
+[06-Feb-2023 12:28:51 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\emsdemo\View\save_employeemap.php:0
+[06-Feb-2023 12:28:51 Asia/Kolkata] PHP Warning:  Undefined variable $client in C:\wamp64\www\emsdemo\View\save_employeemap.php on line 1475
+[06-Feb-2023 12:28:51 Asia/Kolkata] PHP Stack trace:
+[06-Feb-2023 12:28:51 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\emsdemo\View\save_employeemap.php:0
+[06-Feb-2023 12:28:51 Asia/Kolkata] PHP Warning:  Undefined variable $client in C:\wamp64\www\emsdemo\View\save_employeemap.php on line 1475
+[06-Feb-2023 12:28:51 Asia/Kolkata] PHP Stack trace:
+[06-Feb-2023 12:28:51 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\emsdemo\View\save_employeemap.php:0
+[06-Feb-2023 12:28:51 Asia/Kolkata] PHP Warning:  Undefined variable $client in C:\wamp64\www\emsdemo\View\save_employeemap.php on line 1475
+[06-Feb-2023 12:28:51 Asia/Kolkata] PHP Stack trace:
+[06-Feb-2023 12:28:51 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\emsdemo\View\save_employeemap.php:0
+[06-Feb-2023 12:28:51 Asia/Kolkata] PHP Warning:  Undefined variable $client in C:\wamp64\www\emsdemo\View\save_employeemap.php on line 1475
+[06-Feb-2023 12:28:51 Asia/Kolkata] PHP Stack trace:
+[06-Feb-2023 12:28:51 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\emsdemo\View\save_employeemap.php:0
+[06-Feb-2023 12:28:51 Asia/Kolkata] PHP Warning:  Undefined variable $client in C:\wamp64\www\emsdemo\View\save_employeemap.php on line 1475
+[06-Feb-2023 12:28:51 Asia/Kolkata] PHP Stack trace:
+[06-Feb-2023 12:28:51 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\emsdemo\View\save_employeemap.php:0
+[06-Feb-2023 12:28:51 Asia/Kolkata] PHP Warning:  Undefined variable $client in C:\wamp64\www\emsdemo\View\save_employeemap.php on line 1475
+[06-Feb-2023 12:28:51 Asia/Kolkata] PHP Stack trace:
+[06-Feb-2023 12:28:51 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\emsdemo\View\save_employeemap.php:0
+[06-Feb-2023 12:28:51 Asia/Kolkata] PHP Warning:  Undefined variable $client in C:\wamp64\www\emsdemo\View\save_employeemap.php on line 1475
+[06-Feb-2023 12:28:51 Asia/Kolkata] PHP Stack trace:
+[06-Feb-2023 12:28:51 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\emsdemo\View\save_employeemap.php:0
+[06-Feb-2023 12:28:51 Asia/Kolkata] PHP Warning:  Undefined variable $client in C:\wamp64\www\emsdemo\View\save_employeemap.php on line 1475
+[06-Feb-2023 12:28:51 Asia/Kolkata] PHP Stack trace:
+[06-Feb-2023 12:28:51 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\emsdemo\View\save_employeemap.php:0
+[06-Feb-2023 12:28:51 Asia/Kolkata] PHP Warning:  Undefined variable $client in C:\wamp64\www\emsdemo\View\save_employeemap.php on line 1475
+[06-Feb-2023 12:28:51 Asia/Kolkata] PHP Stack trace:
+[06-Feb-2023 12:28:51 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\emsdemo\View\save_employeemap.php:0
+[06-Feb-2023 12:28:51 Asia/Kolkata] PHP Warning:  Undefined variable $client in C:\wamp64\www\emsdemo\View\save_employeemap.php on line 1475
+[06-Feb-2023 12:28:51 Asia/Kolkata] PHP Stack trace:
+[06-Feb-2023 12:28:51 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\emsdemo\View\save_employeemap.php:0
+[06-Feb-2023 12:28:51 Asia/Kolkata] PHP Warning:  Undefined variable $client in C:\wamp64\www\emsdemo\View\save_employeemap.php on line 1475
+[06-Feb-2023 12:28:51 Asia/Kolkata] PHP Stack trace:
+[06-Feb-2023 12:28:51 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\emsdemo\View\save_employeemap.php:0
+[06-Feb-2023 12:28:51 Asia/Kolkata] PHP Warning:  Undefined variable $client in C:\wamp64\www\emsdemo\View\save_employeemap.php on line 1475
+[06-Feb-2023 12:28:51 Asia/Kolkata] PHP Stack trace:
+[06-Feb-2023 12:28:51 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\emsdemo\View\save_employeemap.php:0
+[06-Feb-2023 12:28:51 Asia/Kolkata] PHP Warning:  Undefined variable $client in C:\wamp64\www\emsdemo\View\save_employeemap.php on line 1475
+[06-Feb-2023 12:28:51 Asia/Kolkata] PHP Stack trace:
+[06-Feb-2023 12:28:51 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\emsdemo\View\save_employeemap.php:0
+[06-Feb-2023 12:28:51 Asia/Kolkata] PHP Warning:  Undefined variable $client in C:\wamp64\www\emsdemo\View\save_employeemap.php on line 1475
+[06-Feb-2023 12:28:51 Asia/Kolkata] PHP Stack trace:
+[06-Feb-2023 12:28:51 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\emsdemo\View\save_employeemap.php:0
+[06-Feb-2023 12:28:51 Asia/Kolkata] PHP Warning:  Undefined variable $client in C:\wamp64\www\emsdemo\View\save_employeemap.php on line 1475
+[06-Feb-2023 12:28:51 Asia/Kolkata] PHP Stack trace:
+[06-Feb-2023 12:28:51 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\emsdemo\View\save_employeemap.php:0
+[06-Feb-2023 12:28:51 Asia/Kolkata] PHP Warning:  Undefined variable $client in C:\wamp64\www\emsdemo\View\save_employeemap.php on line 1475
+[06-Feb-2023 12:28:51 Asia/Kolkata] PHP Stack trace:
+[06-Feb-2023 12:28:51 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\emsdemo\View\save_employeemap.php:0
+[06-Feb-2023 12:28:51 Asia/Kolkata] PHP Warning:  Undefined variable $client in C:\wamp64\www\emsdemo\View\save_employeemap.php on line 1475
+[06-Feb-2023 12:28:51 Asia/Kolkata] PHP Stack trace:
+[06-Feb-2023 12:28:51 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\emsdemo\View\save_employeemap.php:0
+[06-Feb-2023 12:28:51 Asia/Kolkata] PHP Warning:  Undefined variable $client in C:\wamp64\www\emsdemo\View\save_employeemap.php on line 1475
+[06-Feb-2023 12:28:51 Asia/Kolkata] PHP Stack trace:
+[06-Feb-2023 12:28:51 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\emsdemo\View\save_employeemap.php:0
+[06-Feb-2023 12:28:51 Asia/Kolkata] PHP Warning:  Undefined variable $client in C:\wamp64\www\emsdemo\View\save_employeemap.php on line 1475
+[06-Feb-2023 12:28:51 Asia/Kolkata] PHP Stack trace:
+[06-Feb-2023 12:28:51 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\emsdemo\View\save_employeemap.php:0
+[06-Feb-2023 12:28:51 Asia/Kolkata] PHP Warning:  Undefined variable $client in C:\wamp64\www\emsdemo\View\save_employeemap.php on line 1475
+[06-Feb-2023 12:28:51 Asia/Kolkata] PHP Stack trace:
+[06-Feb-2023 12:28:51 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\emsdemo\View\save_employeemap.php:0
+[06-Feb-2023 12:28:51 Asia/Kolkata] PHP Warning:  Undefined variable $client in C:\wamp64\www\emsdemo\View\save_employeemap.php on line 1475
+[06-Feb-2023 12:28:51 Asia/Kolkata] PHP Stack trace:
+[06-Feb-2023 12:28:51 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\emsdemo\View\save_employeemap.php:0
+[06-Feb-2023 12:28:51 Asia/Kolkata] PHP Warning:  Undefined variable $client in C:\wamp64\www\emsdemo\View\save_employeemap.php on line 1475
+[06-Feb-2023 12:28:51 Asia/Kolkata] PHP Stack trace:
+[06-Feb-2023 12:28:51 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\emsdemo\View\save_employeemap.php:0
+[06-Feb-2023 12:28:51 Asia/Kolkata] PHP Warning:  Undefined variable $client in C:\wamp64\www\emsdemo\View\save_employeemap.php on line 1475
+[06-Feb-2023 12:28:51 Asia/Kolkata] PHP Stack trace:
+[06-Feb-2023 12:28:51 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\emsdemo\View\save_employeemap.php:0
+[06-Feb-2023 12:28:51 Asia/Kolkata] PHP Warning:  Undefined variable $client in C:\wamp64\www\emsdemo\View\save_employeemap.php on line 1475
+[06-Feb-2023 12:28:51 Asia/Kolkata] PHP Stack trace:
+[06-Feb-2023 12:28:51 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\emsdemo\View\save_employeemap.php:0
+[06-Feb-2023 12:28:51 Asia/Kolkata] PHP Warning:  Undefined variable $client in C:\wamp64\www\emsdemo\View\save_employeemap.php on line 1475
+[06-Feb-2023 12:28:51 Asia/Kolkata] PHP Stack trace:
+[06-Feb-2023 12:28:51 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\emsdemo\View\save_employeemap.php:0
+[06-Feb-2023 12:28:51 Asia/Kolkata] PHP Warning:  Undefined variable $client in C:\wamp64\www\emsdemo\View\save_employeemap.php on line 1475
+[06-Feb-2023 12:28:51 Asia/Kolkata] PHP Stack trace:
+[06-Feb-2023 12:28:51 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\emsdemo\View\save_employeemap.php:0
+[06-Feb-2023 12:28:51 Asia/Kolkata] PHP Warning:  Undefined variable $client in C:\wamp64\www\emsdemo\View\save_employeemap.php on line 1475
+[06-Feb-2023 12:28:51 Asia/Kolkata] PHP Stack trace:
+[06-Feb-2023 12:28:51 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\emsdemo\View\save_employeemap.php:0
+[06-Feb-2023 12:28:51 Asia/Kolkata] PHP Warning:  Undefined variable $client in C:\wamp64\www\emsdemo\View\save_employeemap.php on line 1475
+[06-Feb-2023 12:28:51 Asia/Kolkata] PHP Stack trace:
+[06-Feb-2023 12:28:51 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\emsdemo\View\save_employeemap.php:0
+[06-Feb-2023 12:28:51 Asia/Kolkata] PHP Warning:  Undefined variable $client in C:\wamp64\www\emsdemo\View\save_employeemap.php on line 1475
+[06-Feb-2023 12:28:51 Asia/Kolkata] PHP Stack trace:
+[06-Feb-2023 12:28:51 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\emsdemo\View\save_employeemap.php:0
+[06-Feb-2023 12:28:51 Asia/Kolkata] PHP Warning:  Undefined variable $client in C:\wamp64\www\emsdemo\View\save_employeemap.php on line 1475
+[06-Feb-2023 12:28:51 Asia/Kolkata] PHP Stack trace:
+[06-Feb-2023 12:28:51 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\emsdemo\View\save_employeemap.php:0
+[06-Feb-2023 12:28:51 Asia/Kolkata] PHP Warning:  Undefined variable $client in C:\wamp64\www\emsdemo\View\save_employeemap.php on line 1475
+[06-Feb-2023 12:28:51 Asia/Kolkata] PHP Stack trace:
+[06-Feb-2023 12:28:51 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\emsdemo\View\save_employeemap.php:0
+[06-Feb-2023 12:28:51 Asia/Kolkata] PHP Warning:  Undefined variable $client in C:\wamp64\www\emsdemo\View\save_employeemap.php on line 1475
+[06-Feb-2023 12:28:51 Asia/Kolkata] PHP Stack trace:
+[06-Feb-2023 12:28:51 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\emsdemo\View\save_employeemap.php:0
+[06-Feb-2023 12:28:51 Asia/Kolkata] PHP Warning:  Undefined variable $client in C:\wamp64\www\emsdemo\View\save_employeemap.php on line 1475
+[06-Feb-2023 12:28:51 Asia/Kolkata] PHP Stack trace:
+[06-Feb-2023 12:28:51 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\emsdemo\View\save_employeemap.php:0
+[06-Feb-2023 12:28:51 Asia/Kolkata] PHP Warning:  Undefined variable $client in C:\wamp64\www\emsdemo\View\save_employeemap.php on line 1475
+[06-Feb-2023 12:28:51 Asia/Kolkata] PHP Stack trace:
+[06-Feb-2023 12:28:51 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\emsdemo\View\save_employeemap.php:0
+[06-Feb-2023 12:28:51 Asia/Kolkata] PHP Warning:  Undefined variable $client in C:\wamp64\www\emsdemo\View\save_employeemap.php on line 1475
+[06-Feb-2023 12:28:51 Asia/Kolkata] PHP Stack trace:
+[06-Feb-2023 12:28:51 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\emsdemo\View\save_employeemap.php:0
+[06-Feb-2023 12:28:51 Asia/Kolkata] PHP Warning:  Undefined variable $client in C:\wamp64\www\emsdemo\View\save_employeemap.php on line 1475
+[06-Feb-2023 12:28:51 Asia/Kolkata] PHP Stack trace:
+[06-Feb-2023 12:28:51 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\emsdemo\View\save_employeemap.php:0
+[06-Feb-2023 12:28:51 Asia/Kolkata] PHP Warning:  Undefined variable $client in C:\wamp64\www\emsdemo\View\save_employeemap.php on line 1475
+[06-Feb-2023 12:28:51 Asia/Kolkata] PHP Stack trace:
+[06-Feb-2023 12:28:51 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\emsdemo\View\save_employeemap.php:0
+[06-Feb-2023 12:28:51 Asia/Kolkata] PHP Warning:  Undefined variable $client in C:\wamp64\www\emsdemo\View\save_employeemap.php on line 1475
+[06-Feb-2023 12:28:51 Asia/Kolkata] PHP Stack trace:
+[06-Feb-2023 12:28:51 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\emsdemo\View\save_employeemap.php:0
+[06-Feb-2023 12:28:51 Asia/Kolkata] PHP Warning:  Undefined variable $client in C:\wamp64\www\emsdemo\View\save_employeemap.php on line 1475
+[06-Feb-2023 12:28:51 Asia/Kolkata] PHP Stack trace:
+[06-Feb-2023 12:28:51 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\emsdemo\View\save_employeemap.php:0
+[06-Feb-2023 12:28:51 Asia/Kolkata] PHP Warning:  Undefined variable $client in C:\wamp64\www\emsdemo\View\save_employeemap.php on line 1475
+[06-Feb-2023 12:28:51 Asia/Kolkata] PHP Stack trace:
+[06-Feb-2023 12:28:51 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\emsdemo\View\save_employeemap.php:0
+[06-Feb-2023 12:28:51 Asia/Kolkata] PHP Warning:  Undefined variable $client in C:\wamp64\www\emsdemo\View\save_employeemap.php on line 1475
+[06-Feb-2023 12:28:51 Asia/Kolkata] PHP Stack trace:
+[06-Feb-2023 12:28:51 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\emsdemo\View\save_employeemap.php:0
+[06-Feb-2023 12:28:51 Asia/Kolkata] PHP Warning:  Undefined variable $client in C:\wamp64\www\emsdemo\View\save_employeemap.php on line 1475
+[06-Feb-2023 12:28:51 Asia/Kolkata] PHP Stack trace:
+[06-Feb-2023 12:28:51 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\emsdemo\View\save_employeemap.php:0
+[06-Feb-2023 12:28:51 Asia/Kolkata] PHP Warning:  Undefined variable $client in C:\wamp64\www\emsdemo\View\save_employeemap.php on line 1475
+[06-Feb-2023 12:28:51 Asia/Kolkata] PHP Stack trace:
+[06-Feb-2023 12:28:51 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\emsdemo\View\save_employeemap.php:0
+[06-Feb-2023 12:28:51 Asia/Kolkata] PHP Warning:  Undefined variable $client in C:\wamp64\www\emsdemo\View\save_employeemap.php on line 1475
+[06-Feb-2023 12:28:51 Asia/Kolkata] PHP Stack trace:
+[06-Feb-2023 12:28:51 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\emsdemo\View\save_employeemap.php:0
+[06-Feb-2023 12:28:51 Asia/Kolkata] PHP Warning:  Undefined variable $client in C:\wamp64\www\emsdemo\View\save_employeemap.php on line 1475
+[06-Feb-2023 12:28:51 Asia/Kolkata] PHP Stack trace:
+[06-Feb-2023 12:28:51 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\emsdemo\View\save_employeemap.php:0
+[06-Feb-2023 12:28:51 Asia/Kolkata] PHP Warning:  Undefined variable $client in C:\wamp64\www\emsdemo\View\save_employeemap.php on line 1475
+[06-Feb-2023 12:28:51 Asia/Kolkata] PHP Stack trace:
+[06-Feb-2023 12:28:51 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\emsdemo\View\save_employeemap.php:0
+[06-Feb-2023 12:28:51 Asia/Kolkata] PHP Warning:  Undefined variable $client in C:\wamp64\www\emsdemo\View\save_employeemap.php on line 1475
+[06-Feb-2023 12:28:51 Asia/Kolkata] PHP Stack trace:
+[06-Feb-2023 12:28:51 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\emsdemo\View\save_employeemap.php:0
+[06-Feb-2023 12:28:51 Asia/Kolkata] PHP Warning:  Undefined variable $client in C:\wamp64\www\emsdemo\View\save_employeemap.php on line 1475
+[06-Feb-2023 12:28:51 Asia/Kolkata] PHP Stack trace:
+[06-Feb-2023 12:28:51 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\emsdemo\View\save_employeemap.php:0
+[06-Feb-2023 12:28:52 Asia/Kolkata] PHP Warning:  Undefined variable $process in C:\wamp64\www\emsdemo\View\save_employeemap.php on line 1515
+[06-Feb-2023 12:28:52 Asia/Kolkata] PHP Stack trace:
+[06-Feb-2023 12:28:52 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\emsdemo\View\save_employeemap.php:0
+[06-Feb-2023 12:28:52 Asia/Kolkata] PHP Warning:  Undefined variable $subprocess in C:\wamp64\www\emsdemo\View\save_employeemap.php on line 1523
+[06-Feb-2023 12:28:52 Asia/Kolkata] PHP Stack trace:
+[06-Feb-2023 12:28:52 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\emsdemo\View\save_employeemap.php:0
+[06-Feb-2023 12:28:52 Asia/Kolkata] PHP Warning:  Undefined variable $level in C:\wamp64\www\emsdemo\View\save_employeemap.php on line 1534
+[06-Feb-2023 12:28:52 Asia/Kolkata] PHP Stack trace:
+[06-Feb-2023 12:28:52 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\emsdemo\View\save_employeemap.php:0
+[06-Feb-2023 12:28:52 Asia/Kolkata] PHP Warning:  Undefined variable $level in C:\wamp64\www\emsdemo\View\save_employeemap.php on line 1534
+[06-Feb-2023 12:28:52 Asia/Kolkata] PHP Stack trace:
+[06-Feb-2023 12:28:52 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\emsdemo\View\save_employeemap.php:0
+[06-Feb-2023 12:28:52 Asia/Kolkata] PHP Warning:  Undefined variable $level in C:\wamp64\www\emsdemo\View\save_employeemap.php on line 1537
+[06-Feb-2023 12:28:52 Asia/Kolkata] PHP Stack trace:
+[06-Feb-2023 12:28:53 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\emsdemo\View\save_employeemap.php:0
+[06-Feb-2023 12:28:53 Asia/Kolkata] PHP Warning:  Undefined variable $level in C:\wamp64\www\emsdemo\View\save_employeemap.php on line 1540
+[06-Feb-2023 12:28:53 Asia/Kolkata] PHP Stack trace:
+[06-Feb-2023 12:28:53 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\emsdemo\View\save_employeemap.php:0
+[06-Feb-2023 12:28:53 Asia/Kolkata] PHP Warning:  Undefined variable $level in C:\wamp64\www\emsdemo\View\save_employeemap.php on line 1543
+[06-Feb-2023 12:28:53 Asia/Kolkata] PHP Stack trace:
+[06-Feb-2023 12:28:53 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\emsdemo\View\save_employeemap.php:0
+[06-Feb-2023 12:28:53 Asia/Kolkata] PHP Warning:  Undefined variable $level in C:\wamp64\www\emsdemo\View\save_employeemap.php on line 1546
+[06-Feb-2023 12:28:53 Asia/Kolkata] PHP Stack trace:
+[06-Feb-2023 12:28:53 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\emsdemo\View\save_employeemap.php:0
+[06-Feb-2023 12:28:53 Asia/Kolkata] PHP Warning:  Undefined variable $level in C:\wamp64\www\emsdemo\View\save_employeemap.php on line 1549
+[06-Feb-2023 12:28:53 Asia/Kolkata] PHP Stack trace:
+[06-Feb-2023 12:28:53 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\emsdemo\View\save_employeemap.php:0
+[06-Feb-2023 12:28:53 Asia/Kolkata] PHP Warning:  Undefined variable $level in C:\wamp64\www\emsdemo\View\save_employeemap.php on line 1552
+[06-Feb-2023 12:28:53 Asia/Kolkata] PHP Stack trace:
+[06-Feb-2023 12:28:53 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\emsdemo\View\save_employeemap.php:0
+[06-Feb-2023 12:28:53 Asia/Kolkata] PHP Warning:  Undefined variable $level in C:\wamp64\www\emsdemo\View\save_employeemap.php on line 1584
+[06-Feb-2023 12:28:53 Asia/Kolkata] PHP Stack trace:
+[06-Feb-2023 12:28:53 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\emsdemo\View\save_employeemap.php:0
+[06-Feb-2023 12:28:53 Asia/Kolkata] PHP Warning:  Undefined variable $level in C:\wamp64\www\emsdemo\View\save_employeemap.php on line 1587
+[06-Feb-2023 12:28:53 Asia/Kolkata] PHP Stack trace:
+[06-Feb-2023 12:28:53 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\emsdemo\View\save_employeemap.php:0
+[06-Feb-2023 12:28:53 Asia/Kolkata] PHP Warning:  Undefined variable $level in C:\wamp64\www\emsdemo\View\save_employeemap.php on line 1590
+[06-Feb-2023 12:28:53 Asia/Kolkata] PHP Stack trace:
+[06-Feb-2023 12:28:53 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\emsdemo\View\save_employeemap.php:0
+[06-Feb-2023 12:28:53 Asia/Kolkata] PHP Warning:  Undefined variable $level in C:\wamp64\www\emsdemo\View\save_employeemap.php on line 1593
+[06-Feb-2023 12:28:53 Asia/Kolkata] PHP Stack trace:
+[06-Feb-2023 12:28:53 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\emsdemo\View\save_employeemap.php:0
+[06-Feb-2023 12:28:53 Asia/Kolkata] PHP Warning:  Undefined variable $function_ in C:\wamp64\www\emsdemo\View\save_employeemap.php on line 1602
+[06-Feb-2023 12:28:53 Asia/Kolkata] PHP Stack trace:
+[06-Feb-2023 12:28:53 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\emsdemo\View\save_employeemap.php:0
+[06-Feb-2023 12:28:53 Asia/Kolkata] PHP Warning:  Undefined variable $function_ in C:\wamp64\www\emsdemo\View\save_employeemap.php on line 1602
+[06-Feb-2023 12:28:53 Asia/Kolkata] PHP Stack trace:
+[06-Feb-2023 12:28:53 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\emsdemo\View\save_employeemap.php:0
+[06-Feb-2023 12:28:53 Asia/Kolkata] PHP Warning:  Undefined variable $function_ in C:\wamp64\www\emsdemo\View\save_employeemap.php on line 1612
+[06-Feb-2023 12:28:53 Asia/Kolkata] PHP Stack trace:
+[06-Feb-2023 12:28:53 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\emsdemo\View\save_employeemap.php:0
+[06-Feb-2023 12:28:53 Asia/Kolkata] PHP Warning:  Undefined variable $function_ in C:\wamp64\www\emsdemo\View\save_employeemap.php on line 1612
+[06-Feb-2023 12:28:53 Asia/Kolkata] PHP Stack trace:
+[06-Feb-2023 12:28:53 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\emsdemo\View\save_employeemap.php:0
+[06-Feb-2023 12:28:53 Asia/Kolkata] PHP Warning:  Undefined variable $function_ in C:\wamp64\www\emsdemo\View\save_employeemap.php on line 1612
+[06-Feb-2023 12:28:53 Asia/Kolkata] PHP Stack trace:
+[06-Feb-2023 12:28:53 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\emsdemo\View\save_employeemap.php:0
+[06-Feb-2023 12:28:53 Asia/Kolkata] PHP Warning:  Undefined variable $function_ in C:\wamp64\www\emsdemo\View\save_employeemap.php on line 1612
+[06-Feb-2023 12:28:53 Asia/Kolkata] PHP Stack trace:
+[06-Feb-2023 12:28:53 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\emsdemo\View\save_employeemap.php:0
+[06-Feb-2023 12:28:53 Asia/Kolkata] PHP Warning:  Undefined variable $function_ in C:\wamp64\www\emsdemo\View\save_employeemap.php on line 1612
+[06-Feb-2023 12:28:53 Asia/Kolkata] PHP Stack trace:
+[06-Feb-2023 12:28:53 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\emsdemo\View\save_employeemap.php:0
+[06-Feb-2023 12:28:53 Asia/Kolkata] PHP Warning:  Undefined variable $function_ in C:\wamp64\www\emsdemo\View\save_employeemap.php on line 1612
+[06-Feb-2023 12:28:53 Asia/Kolkata] PHP Stack trace:
+[06-Feb-2023 12:28:53 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\emsdemo\View\save_employeemap.php:0
+[06-Feb-2023 12:28:53 Asia/Kolkata] PHP Warning:  Undefined variable $function_ in C:\wamp64\www\emsdemo\View\save_employeemap.php on line 1612
+[06-Feb-2023 12:28:53 Asia/Kolkata] PHP Stack trace:
+[06-Feb-2023 12:28:53 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\emsdemo\View\save_employeemap.php:0
+[06-Feb-2023 12:28:53 Asia/Kolkata] PHP Warning:  Undefined variable $function_ in C:\wamp64\www\emsdemo\View\save_employeemap.php on line 1612
+[06-Feb-2023 12:28:53 Asia/Kolkata] PHP Stack trace:
+[06-Feb-2023 12:28:53 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\emsdemo\View\save_employeemap.php:0
+[06-Feb-2023 12:28:53 Asia/Kolkata] PHP Warning:  Undefined variable $function_ in C:\wamp64\www\emsdemo\View\save_employeemap.php on line 1612
+[06-Feb-2023 12:28:53 Asia/Kolkata] PHP Stack trace:
+[06-Feb-2023 12:28:53 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\emsdemo\View\save_employeemap.php:0
+[06-Feb-2023 12:28:53 Asia/Kolkata] PHP Warning:  Undefined variable $function_ in C:\wamp64\www\emsdemo\View\save_employeemap.php on line 1612
+[06-Feb-2023 12:28:53 Asia/Kolkata] PHP Stack trace:
+[06-Feb-2023 12:28:53 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\emsdemo\View\save_employeemap.php:0
+[06-Feb-2023 12:28:53 Asia/Kolkata] PHP Warning:  Undefined variable $function_ in C:\wamp64\www\emsdemo\View\save_employeemap.php on line 1612
+[06-Feb-2023 12:28:53 Asia/Kolkata] PHP Stack trace:
+[06-Feb-2023 12:28:53 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\emsdemo\View\save_employeemap.php:0
+[06-Feb-2023 12:28:54 Asia/Kolkata] PHP Warning:  Undefined variable $desg in C:\wamp64\www\emsdemo\View\save_employeemap.php on line 1647
+[06-Feb-2023 12:28:54 Asia/Kolkata] PHP Stack trace:
+[06-Feb-2023 12:28:54 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\emsdemo\View\save_employeemap.php:0
+[06-Feb-2023 12:28:54 Asia/Kolkata] PHP Warning:  Undefined variable $desg in C:\wamp64\www\emsdemo\View\save_employeemap.php on line 1647
+[06-Feb-2023 12:28:54 Asia/Kolkata] PHP Stack trace:
+[06-Feb-2023 12:28:54 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\emsdemo\View\save_employeemap.php:0
+[06-Feb-2023 12:28:54 Asia/Kolkata] PHP Warning:  Undefined variable $desg in C:\wamp64\www\emsdemo\View\save_employeemap.php on line 1647
+[06-Feb-2023 12:28:54 Asia/Kolkata] PHP Stack trace:
+[06-Feb-2023 12:28:54 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\emsdemo\View\save_employeemap.php:0
+[06-Feb-2023 12:28:54 Asia/Kolkata] PHP Warning:  Undefined variable $desg in C:\wamp64\www\emsdemo\View\save_employeemap.php on line 1647
+[06-Feb-2023 12:28:54 Asia/Kolkata] PHP Stack trace:
+[06-Feb-2023 12:28:54 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\emsdemo\View\save_employeemap.php:0
+[06-Feb-2023 12:28:54 Asia/Kolkata] PHP Warning:  Undefined variable $desg in C:\wamp64\www\emsdemo\View\save_employeemap.php on line 1647
+[06-Feb-2023 12:28:54 Asia/Kolkata] PHP Stack trace:
+[06-Feb-2023 12:28:54 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\emsdemo\View\save_employeemap.php:0
+[06-Feb-2023 12:28:54 Asia/Kolkata] PHP Warning:  Undefined variable $desg in C:\wamp64\www\emsdemo\View\save_employeemap.php on line 1647
+[06-Feb-2023 12:28:54 Asia/Kolkata] PHP Stack trace:
+[06-Feb-2023 12:28:54 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\emsdemo\View\save_employeemap.php:0
+[06-Feb-2023 12:28:54 Asia/Kolkata] PHP Warning:  Undefined variable $desg in C:\wamp64\www\emsdemo\View\save_employeemap.php on line 1647
+[06-Feb-2023 12:28:54 Asia/Kolkata] PHP Stack trace:
+[06-Feb-2023 12:28:54 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\emsdemo\View\save_employeemap.php:0
+[06-Feb-2023 12:28:54 Asia/Kolkata] PHP Warning:  Undefined variable $desg in C:\wamp64\www\emsdemo\View\save_employeemap.php on line 1647
+[06-Feb-2023 12:28:54 Asia/Kolkata] PHP Stack trace:
+[06-Feb-2023 12:28:54 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\emsdemo\View\save_employeemap.php:0
+[06-Feb-2023 12:28:54 Asia/Kolkata] PHP Warning:  Undefined variable $desg in C:\wamp64\www\emsdemo\View\save_employeemap.php on line 1647
+[06-Feb-2023 12:28:54 Asia/Kolkata] PHP Stack trace:
+[06-Feb-2023 12:28:54 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\emsdemo\View\save_employeemap.php:0
+[06-Feb-2023 12:28:54 Asia/Kolkata] PHP Warning:  Undefined variable $desg in C:\wamp64\www\emsdemo\View\save_employeemap.php on line 1647
+[06-Feb-2023 12:28:54 Asia/Kolkata] PHP Stack trace:
+[06-Feb-2023 12:28:54 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\emsdemo\View\save_employeemap.php:0
+[06-Feb-2023 12:28:54 Asia/Kolkata] PHP Warning:  Undefined variable $desg in C:\wamp64\www\emsdemo\View\save_employeemap.php on line 1647
+[06-Feb-2023 12:28:54 Asia/Kolkata] PHP Stack trace:
+[06-Feb-2023 12:28:54 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\emsdemo\View\save_employeemap.php:0
+[06-Feb-2023 12:28:54 Asia/Kolkata] PHP Warning:  Undefined variable $desg in C:\wamp64\www\emsdemo\View\save_employeemap.php on line 1647
+[06-Feb-2023 12:28:54 Asia/Kolkata] PHP Stack trace:
+[06-Feb-2023 12:28:54 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\emsdemo\View\save_employeemap.php:0
+[06-Feb-2023 12:28:54 Asia/Kolkata] PHP Warning:  Undefined variable $desg in C:\wamp64\www\emsdemo\View\save_employeemap.php on line 1647
+[06-Feb-2023 12:28:54 Asia/Kolkata] PHP Stack trace:
+[06-Feb-2023 12:28:54 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\emsdemo\View\save_employeemap.php:0
+[06-Feb-2023 12:28:54 Asia/Kolkata] PHP Warning:  Undefined variable $desg in C:\wamp64\www\emsdemo\View\save_employeemap.php on line 1647
+[06-Feb-2023 12:28:54 Asia/Kolkata] PHP Stack trace:
+[06-Feb-2023 12:28:54 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\emsdemo\View\save_employeemap.php:0
+[06-Feb-2023 12:28:54 Asia/Kolkata] PHP Warning:  Undefined variable $desg in C:\wamp64\www\emsdemo\View\save_employeemap.php on line 1647
+[06-Feb-2023 12:28:54 Asia/Kolkata] PHP Stack trace:
+[06-Feb-2023 12:28:54 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\emsdemo\View\save_employeemap.php:0
+[06-Feb-2023 12:28:54 Asia/Kolkata] PHP Warning:  Undefined variable $desg in C:\wamp64\www\emsdemo\View\save_employeemap.php on line 1647
+[06-Feb-2023 12:28:54 Asia/Kolkata] PHP Stack trace:
+[06-Feb-2023 12:28:54 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\emsdemo\View\save_employeemap.php:0
+[06-Feb-2023 12:28:54 Asia/Kolkata] PHP Warning:  Undefined variable $desg in C:\wamp64\www\emsdemo\View\save_employeemap.php on line 1647
+[06-Feb-2023 12:28:54 Asia/Kolkata] PHP Stack trace:
+[06-Feb-2023 12:28:54 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\emsdemo\View\save_employeemap.php:0
+[06-Feb-2023 12:28:54 Asia/Kolkata] PHP Warning:  Undefined variable $desg in C:\wamp64\www\emsdemo\View\save_employeemap.php on line 1647
+[06-Feb-2023 12:28:54 Asia/Kolkata] PHP Stack trace:
+[06-Feb-2023 12:28:54 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\emsdemo\View\save_employeemap.php:0
+[06-Feb-2023 12:28:54 Asia/Kolkata] PHP Warning:  Undefined variable $desg in C:\wamp64\www\emsdemo\View\save_employeemap.php on line 1647
+[06-Feb-2023 12:28:54 Asia/Kolkata] PHP Stack trace:
+[06-Feb-2023 12:28:54 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\emsdemo\View\save_employeemap.php:0
+[06-Feb-2023 12:28:54 Asia/Kolkata] PHP Warning:  Undefined variable $desg in C:\wamp64\www\emsdemo\View\save_employeemap.php on line 1647
+[06-Feb-2023 12:28:54 Asia/Kolkata] PHP Stack trace:
+[06-Feb-2023 12:28:54 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\emsdemo\View\save_employeemap.php:0
+[06-Feb-2023 12:28:54 Asia/Kolkata] PHP Warning:  Undefined variable $desg in C:\wamp64\www\emsdemo\View\save_employeemap.php on line 1647
+[06-Feb-2023 12:28:54 Asia/Kolkata] PHP Stack trace:
+[06-Feb-2023 12:28:54 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\emsdemo\View\save_employeemap.php:0
+[06-Feb-2023 12:28:54 Asia/Kolkata] PHP Warning:  Undefined variable $desg in C:\wamp64\www\emsdemo\View\save_employeemap.php on line 1647
+[06-Feb-2023 12:28:54 Asia/Kolkata] PHP Stack trace:
+[06-Feb-2023 12:28:54 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\emsdemo\View\save_employeemap.php:0
+[06-Feb-2023 12:28:54 Asia/Kolkata] PHP Warning:  Undefined variable $desg in C:\wamp64\www\emsdemo\View\save_employeemap.php on line 1647
+[06-Feb-2023 12:28:54 Asia/Kolkata] PHP Stack trace:
+[06-Feb-2023 12:28:54 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\emsdemo\View\save_employeemap.php:0
+[06-Feb-2023 12:28:54 Asia/Kolkata] PHP Warning:  Undefined variable $desg in C:\wamp64\www\emsdemo\View\save_employeemap.php on line 1647
+[06-Feb-2023 12:28:54 Asia/Kolkata] PHP Stack trace:
+[06-Feb-2023 12:28:54 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\emsdemo\View\save_employeemap.php:0
+[06-Feb-2023 12:28:54 Asia/Kolkata] PHP Warning:  Undefined variable $desg in C:\wamp64\www\emsdemo\View\save_employeemap.php on line 1647
+[06-Feb-2023 12:28:54 Asia/Kolkata] PHP Stack trace:
+[06-Feb-2023 12:28:54 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\emsdemo\View\save_employeemap.php:0
+[06-Feb-2023 12:28:54 Asia/Kolkata] PHP Warning:  Undefined variable $desg in C:\wamp64\www\emsdemo\View\save_employeemap.php on line 1647
+[06-Feb-2023 12:28:54 Asia/Kolkata] PHP Stack trace:
+[06-Feb-2023 12:28:54 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\emsdemo\View\save_employeemap.php:0
+[06-Feb-2023 12:28:54 Asia/Kolkata] PHP Warning:  Undefined variable $desg in C:\wamp64\www\emsdemo\View\save_employeemap.php on line 1647
+[06-Feb-2023 12:28:54 Asia/Kolkata] PHP Stack trace:
+[06-Feb-2023 12:28:54 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\emsdemo\View\save_employeemap.php:0
+[06-Feb-2023 12:28:54 Asia/Kolkata] PHP Warning:  Undefined variable $desg in C:\wamp64\www\emsdemo\View\save_employeemap.php on line 1647
+[06-Feb-2023 12:28:54 Asia/Kolkata] PHP Stack trace:
+[06-Feb-2023 12:28:54 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\emsdemo\View\save_employeemap.php:0
+[06-Feb-2023 12:28:54 Asia/Kolkata] PHP Warning:  Undefined variable $desg in C:\wamp64\www\emsdemo\View\save_employeemap.php on line 1647
+[06-Feb-2023 12:28:54 Asia/Kolkata] PHP Stack trace:
+[06-Feb-2023 12:28:54 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\emsdemo\View\save_employeemap.php:0
+[06-Feb-2023 12:28:54 Asia/Kolkata] PHP Warning:  Undefined variable $desg in C:\wamp64\www\emsdemo\View\save_employeemap.php on line 1647
+[06-Feb-2023 12:28:54 Asia/Kolkata] PHP Stack trace:
+[06-Feb-2023 12:28:54 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\emsdemo\View\save_employeemap.php:0
+[06-Feb-2023 12:28:54 Asia/Kolkata] PHP Warning:  Undefined variable $doj in C:\wamp64\www\emsdemo\View\save_employeemap.php on line 1661
+[06-Feb-2023 12:28:54 Asia/Kolkata] PHP Stack trace:
+[06-Feb-2023 12:28:54 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\emsdemo\View\save_employeemap.php:0
+[06-Feb-2023 12:28:54 Asia/Kolkata] PHP Warning:  Undefined variable $source_recruitment_id in C:\wamp64\www\emsdemo\View\save_employeemap.php on line 1690
+[06-Feb-2023 12:28:54 Asia/Kolkata] PHP Stack trace:
+[06-Feb-2023 12:28:54 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\emsdemo\View\save_employeemap.php:0
+[06-Feb-2023 12:28:54 Asia/Kolkata] PHP Warning:  Undefined variable $source_recruitment_id in C:\wamp64\www\emsdemo\View\save_employeemap.php on line 1690
+[06-Feb-2023 12:28:54 Asia/Kolkata] PHP Stack trace:
+[06-Feb-2023 12:28:54 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\emsdemo\View\save_employeemap.php:0
+[06-Feb-2023 12:28:54 Asia/Kolkata] PHP Warning:  Undefined variable $source_recruitment_id in C:\wamp64\www\emsdemo\View\save_employeemap.php on line 1690
+[06-Feb-2023 12:28:54 Asia/Kolkata] PHP Stack trace:
+[06-Feb-2023 12:28:54 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\emsdemo\View\save_employeemap.php:0
+[06-Feb-2023 12:28:54 Asia/Kolkata] PHP Warning:  Undefined variable $source_recruitment_id in C:\wamp64\www\emsdemo\View\save_employeemap.php on line 1690
+[06-Feb-2023 12:28:54 Asia/Kolkata] PHP Stack trace:
+[06-Feb-2023 12:28:54 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\emsdemo\View\save_employeemap.php:0
+[06-Feb-2023 12:28:54 Asia/Kolkata] PHP Warning:  Undefined variable $source_recruitment_id in C:\wamp64\www\emsdemo\View\save_employeemap.php on line 1690
+[06-Feb-2023 12:28:54 Asia/Kolkata] PHP Stack trace:
+[06-Feb-2023 12:28:54 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\emsdemo\View\save_employeemap.php:0
+[06-Feb-2023 12:28:54 Asia/Kolkata] PHP Warning:  Undefined variable $source_recruitment_id in C:\wamp64\www\emsdemo\View\save_employeemap.php on line 1690
+[06-Feb-2023 12:28:54 Asia/Kolkata] PHP Stack trace:
+[06-Feb-2023 12:28:54 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\emsdemo\View\save_employeemap.php:0
+[06-Feb-2023 12:28:54 Asia/Kolkata] PHP Warning:  Undefined variable $source_recruitment_id in C:\wamp64\www\emsdemo\View\save_employeemap.php on line 1690
+[06-Feb-2023 12:28:54 Asia/Kolkata] PHP Stack trace:
+[06-Feb-2023 12:28:54 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\emsdemo\View\save_employeemap.php:0
+[06-Feb-2023 12:28:54 Asia/Kolkata] PHP Warning:  Undefined variable $source_recruitment_id in C:\wamp64\www\emsdemo\View\save_employeemap.php on line 1690
+[06-Feb-2023 12:28:54 Asia/Kolkata] PHP Stack trace:
+[06-Feb-2023 12:28:54 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\emsdemo\View\save_employeemap.php:0
+[06-Feb-2023 12:28:54 Asia/Kolkata] PHP Warning:  Undefined variable $source_recruitment_id in C:\wamp64\www\emsdemo\View\save_employeemap.php on line 1709
+[06-Feb-2023 12:28:54 Asia/Kolkata] PHP Stack trace:
+[06-Feb-2023 12:28:54 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\emsdemo\View\save_employeemap.php:0
+[06-Feb-2023 12:28:54 Asia/Kolkata] PHP Warning:  Undefined variable $dept in C:\wamp64\www\emsdemo\View\save_employeemap.php on line 1763
+[06-Feb-2023 12:28:54 Asia/Kolkata] PHP Stack trace:
+[06-Feb-2023 12:28:54 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\emsdemo\View\save_employeemap.php:0
+[06-Feb-2023 12:28:54 Asia/Kolkata] PHP Warning:  Undefined variable $function_ in C:\wamp64\www\emsdemo\View\save_employeemap.php on line 2124
+[06-Feb-2023 12:28:54 Asia/Kolkata] PHP Stack trace:
+[06-Feb-2023 12:28:54 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\emsdemo\View\save_employeemap.php:0
+[06-Feb-2023 12:29:11 Asia/Kolkata] PHP Warning:  Undefined array key "employment_type" in C:\wamp64\www\emsdemo\View\save_employeemap.php on line 126
+[06-Feb-2023 12:29:11 Asia/Kolkata] PHP Stack trace:
+[06-Feb-2023 12:29:11 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\emsdemo\View\save_employeemap.php:0
+[06-Feb-2023 12:29:11 Asia/Kolkata] PHP Warning:  Undefined array key "EmployeeID" in C:\wamp64\www\emsdemo\View\save_employeemap.php on line 169
+[06-Feb-2023 12:29:11 Asia/Kolkata] PHP Stack trace:
+[06-Feb-2023 12:29:11 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\emsdemo\View\save_employeemap.php:0
+[06-Feb-2023 12:29:14 Asia/Kolkata] PHP Warning:  Undefined array key "btn_empmap_Save" in C:\wamp64\www\emsdemo\View\save_employeemap.php on line 234
+[06-Feb-2023 12:29:14 Asia/Kolkata] PHP Stack trace:
+[06-Feb-2023 12:29:14 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\emsdemo\View\save_employeemap.php:0
+[06-Feb-2023 12:29:14 Asia/Kolkata] PHP Warning:  Undefined array key "rt_type" in C:\wamp64\www\emsdemo\View\save_employeemap.php on line 235
+[06-Feb-2023 12:29:14 Asia/Kolkata] PHP Stack trace:
+[06-Feb-2023 12:29:14 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\emsdemo\View\save_employeemap.php:0
+[06-Feb-2023 12:30:09 Asia/Kolkata] PHP Warning:  Undefined array key "employment_type" in C:\wamp64\www\emsdemo\View\save_employeemap.php on line 126
+[06-Feb-2023 12:30:09 Asia/Kolkata] PHP Stack trace:
+[06-Feb-2023 12:30:09 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\emsdemo\View\save_employeemap.php:0
+[06-Feb-2023 12:30:09 Asia/Kolkata] PHP Warning:  Undefined array key "EmployeeID" in C:\wamp64\www\emsdemo\View\save_employeemap.php on line 169
+[06-Feb-2023 12:30:09 Asia/Kolkata] PHP Stack trace:
+[06-Feb-2023 12:30:09 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\emsdemo\View\save_employeemap.php:0
+[06-Feb-2023 12:30:12 Asia/Kolkata] PHP Warning:  Undefined array key "btn_empmap_Save" in C:\wamp64\www\emsdemo\View\save_employeemap.php on line 234
+[06-Feb-2023 12:30:12 Asia/Kolkata] PHP Stack trace:
+[06-Feb-2023 12:30:12 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\emsdemo\View\save_employeemap.php:0
+[06-Feb-2023 12:30:13 Asia/Kolkata] PHP Warning:  Undefined array key "rt_type" in C:\wamp64\www\emsdemo\View\save_employeemap.php on line 235
+[06-Feb-2023 12:30:13 Asia/Kolkata] PHP Stack trace:
+[06-Feb-2023 12:30:13 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\emsdemo\View\save_employeemap.php:0
+[06-Feb-2023 12:31:30 Asia/Kolkata] PHP Warning:  Undefined array key "employment_type" in C:\wamp64\www\emsdemo\View\save_employeemap.php on line 126
+[06-Feb-2023 12:31:30 Asia/Kolkata] PHP Stack trace:
+[06-Feb-2023 12:31:30 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\emsdemo\View\save_employeemap.php:0
+[06-Feb-2023 12:31:30 Asia/Kolkata] PHP Warning:  Undefined array key "EmployeeID" in C:\wamp64\www\emsdemo\View\save_employeemap.php on line 169
+[06-Feb-2023 12:31:30 Asia/Kolkata] PHP Stack trace:
+[06-Feb-2023 12:31:30 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\emsdemo\View\save_employeemap.php:0
+[06-Feb-2023 12:31:32 Asia/Kolkata] PHP Warning:  Undefined array key "btn_empmap_Save" in C:\wamp64\www\emsdemo\View\save_employeemap.php on line 234
+[06-Feb-2023 12:31:32 Asia/Kolkata] PHP Stack trace:
+[06-Feb-2023 12:31:32 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\emsdemo\View\save_employeemap.php:0
+[06-Feb-2023 12:31:32 Asia/Kolkata] PHP Warning:  Undefined array key "rt_type" in C:\wamp64\www\emsdemo\View\save_employeemap.php on line 235
+[06-Feb-2023 12:31:32 Asia/Kolkata] PHP Stack trace:
+[06-Feb-2023 12:31:32 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\emsdemo\View\save_employeemap.php:0

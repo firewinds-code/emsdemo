@@ -1,0 +1,303 @@
+[02-Jan-2023 14:38:49 Asia/Kolkata] PHP Notice:  Undefined index: __user_logid in /var/www/html/erpm/AppCode/nHead.php on line 2
+[02-Jan-2023 14:38:49 Asia/Kolkata] PHP Notice:  Undefined index: __user_logid in /var/www/html/erpm/AppCode/nHead.php on line 2
+[02-Jan-2023 14:38:53 Asia/Kolkata] PHP Warning:  mysqli_stmt::bind_param(): Number of elements in type definition string doesn't match number of bind variables in /var/www/html/erpm/Controller/ConLog.php on line 464
+[02-Jan-2023 14:38:55 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /var/www/html/erpm/View/index.php on line 346
+[02-Jan-2023 14:39:14 Asia/Kolkata] PHP Notice:  Undefined index: text_trcheck_Batch in /var/www/html/erpm/View/th_check_Extend.php on line 256
+[02-Jan-2023 14:39:14 Asia/Kolkata] PHP Notice:  Undefined index: text_trcheck_Batch in /var/www/html/erpm/View/th_check_Extend.php on line 473
+[02-Jan-2023 14:41:45 Asia/Kolkata] PHP Notice:  Undefined index: __user_logid in /var/www/html/erpm/AppCode/nHead.php on line 2
+[02-Jan-2023 14:41:47 Asia/Kolkata] PHP Warning:  mysqli_stmt::bind_param(): Number of elements in type definition string doesn't match number of bind variables in /var/www/html/erpm/Controller/ConLog.php on line 464
+[02-Jan-2023 14:41:47 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /var/www/html/erpm/View/index.php on line 346
+[02-Jan-2023 14:41:52 Asia/Kolkata] PHP Notice:  Undefined variable: row in /var/www/html/erpm/Controller/get_site_master_controller.php on line 43
+[02-Jan-2023 14:41:52 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /var/www/html/erpm/Controller/get_site_master_controller.php on line 43
+[02-Jan-2023 14:41:52 Asia/Kolkata] PHP Notice:  Undefined variable: row in /var/www/html/erpm/Controller/get_site_master_controller.php on line 45
+[02-Jan-2023 14:41:52 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /var/www/html/erpm/Controller/get_site_master_controller.php on line 45
+[02-Jan-2023 14:41:52 Asia/Kolkata] PHP Notice:  Undefined variable: row in /var/www/html/erpm/Controller/get_site_master_controller.php on line 43
+[02-Jan-2023 14:41:52 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /var/www/html/erpm/Controller/get_site_master_controller.php on line 43
+[02-Jan-2023 14:41:52 Asia/Kolkata] PHP Notice:  Undefined variable: row in /var/www/html/erpm/Controller/get_site_master_controller.php on line 45
+[02-Jan-2023 14:41:52 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /var/www/html/erpm/Controller/get_site_master_controller.php on line 45
+[02-Jan-2023 14:41:52 Asia/Kolkata] PHP Notice:  Undefined variable: row in /var/www/html/erpm/Controller/get_site_master_controller.php on line 43
+[02-Jan-2023 14:41:52 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /var/www/html/erpm/Controller/get_site_master_controller.php on line 43
+[02-Jan-2023 14:41:52 Asia/Kolkata] PHP Notice:  Undefined variable: row in /var/www/html/erpm/Controller/get_site_master_controller.php on line 45
+[02-Jan-2023 14:41:52 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /var/www/html/erpm/Controller/get_site_master_controller.php on line 45
+[02-Jan-2023 14:41:52 Asia/Kolkata] PHP Notice:  Undefined variable: row in /var/www/html/erpm/Controller/get_site_master_controller.php on line 43
+[02-Jan-2023 14:41:52 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /var/www/html/erpm/Controller/get_site_master_controller.php on line 43
+[02-Jan-2023 14:41:52 Asia/Kolkata] PHP Notice:  Undefined variable: row in /var/www/html/erpm/Controller/get_site_master_controller.php on line 45
+[02-Jan-2023 14:41:52 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /var/www/html/erpm/Controller/get_site_master_controller.php on line 45
+[02-Jan-2023 14:41:52 Asia/Kolkata] PHP Notice:  Undefined variable: row in /var/www/html/erpm/Controller/get_site_master_controller.php on line 43
+[02-Jan-2023 14:41:52 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /var/www/html/erpm/Controller/get_site_master_controller.php on line 43
+[02-Jan-2023 14:41:52 Asia/Kolkata] PHP Notice:  Undefined variable: row in /var/www/html/erpm/Controller/get_site_master_controller.php on line 45
+[02-Jan-2023 14:41:52 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /var/www/html/erpm/Controller/get_site_master_controller.php on line 45
+[02-Jan-2023 14:41:52 Asia/Kolkata] PHP Notice:  Undefined variable: row in /var/www/html/erpm/Controller/get_site_master_controller.php on line 43
+[02-Jan-2023 14:41:52 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /var/www/html/erpm/Controller/get_site_master_controller.php on line 43
+[02-Jan-2023 14:41:52 Asia/Kolkata] PHP Notice:  Undefined variable: row in /var/www/html/erpm/Controller/get_site_master_controller.php on line 45
+[02-Jan-2023 14:41:52 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /var/www/html/erpm/Controller/get_site_master_controller.php on line 45
+[02-Jan-2023 14:41:52 Asia/Kolkata] PHP Notice:  Undefined variable: row in /var/www/html/erpm/Controller/get_site_master_controller.php on line 43
+[02-Jan-2023 14:41:52 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /var/www/html/erpm/Controller/get_site_master_controller.php on line 43
+[02-Jan-2023 14:41:52 Asia/Kolkata] PHP Notice:  Undefined variable: row in /var/www/html/erpm/Controller/get_site_master_controller.php on line 45
+[02-Jan-2023 14:41:52 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /var/www/html/erpm/Controller/get_site_master_controller.php on line 45
+[02-Jan-2023 14:41:59 Asia/Kolkata] PHP Notice:  Undefined variable: row in /var/www/html/erpm/Controller/get_site_master_controller.php on line 43
+[02-Jan-2023 14:41:59 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /var/www/html/erpm/Controller/get_site_master_controller.php on line 43
+[02-Jan-2023 14:41:59 Asia/Kolkata] PHP Notice:  Undefined variable: row in /var/www/html/erpm/Controller/get_site_master_controller.php on line 45
+[02-Jan-2023 14:41:59 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /var/www/html/erpm/Controller/get_site_master_controller.php on line 45
+[02-Jan-2023 14:41:59 Asia/Kolkata] PHP Notice:  Undefined variable: row in /var/www/html/erpm/Controller/get_site_master_controller.php on line 43
+[02-Jan-2023 14:41:59 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /var/www/html/erpm/Controller/get_site_master_controller.php on line 43
+[02-Jan-2023 14:41:59 Asia/Kolkata] PHP Notice:  Undefined variable: row in /var/www/html/erpm/Controller/get_site_master_controller.php on line 45
+[02-Jan-2023 14:41:59 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /var/www/html/erpm/Controller/get_site_master_controller.php on line 45
+[02-Jan-2023 14:41:59 Asia/Kolkata] PHP Notice:  Undefined variable: row in /var/www/html/erpm/Controller/get_site_master_controller.php on line 43
+[02-Jan-2023 14:41:59 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /var/www/html/erpm/Controller/get_site_master_controller.php on line 43
+[02-Jan-2023 14:41:59 Asia/Kolkata] PHP Notice:  Undefined variable: row in /var/www/html/erpm/Controller/get_site_master_controller.php on line 45
+[02-Jan-2023 14:41:59 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /var/www/html/erpm/Controller/get_site_master_controller.php on line 45
+[02-Jan-2023 14:41:59 Asia/Kolkata] PHP Notice:  Undefined variable: row in /var/www/html/erpm/Controller/get_site_master_controller.php on line 43
+[02-Jan-2023 14:41:59 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /var/www/html/erpm/Controller/get_site_master_controller.php on line 43
+[02-Jan-2023 14:41:59 Asia/Kolkata] PHP Notice:  Undefined variable: row in /var/www/html/erpm/Controller/get_site_master_controller.php on line 45
+[02-Jan-2023 14:41:59 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /var/www/html/erpm/Controller/get_site_master_controller.php on line 45
+[02-Jan-2023 14:41:59 Asia/Kolkata] PHP Notice:  Undefined variable: row in /var/www/html/erpm/Controller/get_site_master_controller.php on line 43
+[02-Jan-2023 14:41:59 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /var/www/html/erpm/Controller/get_site_master_controller.php on line 43
+[02-Jan-2023 14:41:59 Asia/Kolkata] PHP Notice:  Undefined variable: row in /var/www/html/erpm/Controller/get_site_master_controller.php on line 45
+[02-Jan-2023 14:41:59 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /var/www/html/erpm/Controller/get_site_master_controller.php on line 45
+[02-Jan-2023 14:41:59 Asia/Kolkata] PHP Notice:  Undefined variable: row in /var/www/html/erpm/Controller/get_site_master_controller.php on line 43
+[02-Jan-2023 14:41:59 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /var/www/html/erpm/Controller/get_site_master_controller.php on line 43
+[02-Jan-2023 14:41:59 Asia/Kolkata] PHP Notice:  Undefined variable: row in /var/www/html/erpm/Controller/get_site_master_controller.php on line 45
+[02-Jan-2023 14:41:59 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /var/www/html/erpm/Controller/get_site_master_controller.php on line 45
+[02-Jan-2023 14:41:59 Asia/Kolkata] PHP Notice:  Undefined variable: row in /var/www/html/erpm/Controller/get_site_master_controller.php on line 43
+[02-Jan-2023 14:41:59 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /var/www/html/erpm/Controller/get_site_master_controller.php on line 43
+[02-Jan-2023 14:41:59 Asia/Kolkata] PHP Notice:  Undefined variable: row in /var/www/html/erpm/Controller/get_site_master_controller.php on line 45
+[02-Jan-2023 14:41:59 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /var/www/html/erpm/Controller/get_site_master_controller.php on line 45
+[02-Jan-2023 14:42:10 Asia/Kolkata] PHP Notice:  Undefined variable: row in /var/www/html/erpm/Controller/get_site_master_controller.php on line 43
+[02-Jan-2023 14:42:10 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /var/www/html/erpm/Controller/get_site_master_controller.php on line 43
+[02-Jan-2023 14:42:10 Asia/Kolkata] PHP Notice:  Undefined variable: row in /var/www/html/erpm/Controller/get_site_master_controller.php on line 45
+[02-Jan-2023 14:42:10 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /var/www/html/erpm/Controller/get_site_master_controller.php on line 45
+[02-Jan-2023 14:42:10 Asia/Kolkata] PHP Notice:  Undefined variable: row in /var/www/html/erpm/Controller/get_site_master_controller.php on line 43
+[02-Jan-2023 14:42:10 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /var/www/html/erpm/Controller/get_site_master_controller.php on line 43
+[02-Jan-2023 14:42:10 Asia/Kolkata] PHP Notice:  Undefined variable: row in /var/www/html/erpm/Controller/get_site_master_controller.php on line 45
+[02-Jan-2023 14:42:10 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /var/www/html/erpm/Controller/get_site_master_controller.php on line 45
+[02-Jan-2023 14:42:10 Asia/Kolkata] PHP Notice:  Undefined variable: row in /var/www/html/erpm/Controller/get_site_master_controller.php on line 43
+[02-Jan-2023 14:42:10 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /var/www/html/erpm/Controller/get_site_master_controller.php on line 43
+[02-Jan-2023 14:42:10 Asia/Kolkata] PHP Notice:  Undefined variable: row in /var/www/html/erpm/Controller/get_site_master_controller.php on line 45
+[02-Jan-2023 14:42:10 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /var/www/html/erpm/Controller/get_site_master_controller.php on line 45
+[02-Jan-2023 14:42:10 Asia/Kolkata] PHP Notice:  Undefined variable: row in /var/www/html/erpm/Controller/get_site_master_controller.php on line 43
+[02-Jan-2023 14:42:10 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /var/www/html/erpm/Controller/get_site_master_controller.php on line 43
+[02-Jan-2023 14:42:10 Asia/Kolkata] PHP Notice:  Undefined variable: row in /var/www/html/erpm/Controller/get_site_master_controller.php on line 45
+[02-Jan-2023 14:42:10 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /var/www/html/erpm/Controller/get_site_master_controller.php on line 45
+[02-Jan-2023 14:42:10 Asia/Kolkata] PHP Notice:  Undefined variable: row in /var/www/html/erpm/Controller/get_site_master_controller.php on line 43
+[02-Jan-2023 14:42:10 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /var/www/html/erpm/Controller/get_site_master_controller.php on line 43
+[02-Jan-2023 14:42:10 Asia/Kolkata] PHP Notice:  Undefined variable: row in /var/www/html/erpm/Controller/get_site_master_controller.php on line 45
+[02-Jan-2023 14:42:10 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /var/www/html/erpm/Controller/get_site_master_controller.php on line 45
+[02-Jan-2023 14:42:10 Asia/Kolkata] PHP Notice:  Undefined variable: row in /var/www/html/erpm/Controller/get_site_master_controller.php on line 43
+[02-Jan-2023 14:42:10 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /var/www/html/erpm/Controller/get_site_master_controller.php on line 43
+[02-Jan-2023 14:42:10 Asia/Kolkata] PHP Notice:  Undefined variable: row in /var/www/html/erpm/Controller/get_site_master_controller.php on line 45
+[02-Jan-2023 14:42:10 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /var/www/html/erpm/Controller/get_site_master_controller.php on line 45
+[02-Jan-2023 14:42:10 Asia/Kolkata] PHP Notice:  Undefined variable: row in /var/www/html/erpm/Controller/get_site_master_controller.php on line 43
+[02-Jan-2023 14:42:10 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /var/www/html/erpm/Controller/get_site_master_controller.php on line 43
+[02-Jan-2023 14:42:10 Asia/Kolkata] PHP Notice:  Undefined variable: row in /var/www/html/erpm/Controller/get_site_master_controller.php on line 45
+[02-Jan-2023 14:42:10 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /var/www/html/erpm/Controller/get_site_master_controller.php on line 45
+[02-Jan-2023 14:42:24 Asia/Kolkata] PHP Notice:  Undefined variable: row in /var/www/html/erpm/Controller/get_site_master_controller.php on line 43
+[02-Jan-2023 14:42:24 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /var/www/html/erpm/Controller/get_site_master_controller.php on line 43
+[02-Jan-2023 14:42:24 Asia/Kolkata] PHP Notice:  Undefined variable: row in /var/www/html/erpm/Controller/get_site_master_controller.php on line 45
+[02-Jan-2023 14:42:24 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /var/www/html/erpm/Controller/get_site_master_controller.php on line 45
+[02-Jan-2023 14:42:24 Asia/Kolkata] PHP Notice:  Undefined variable: row in /var/www/html/erpm/Controller/get_site_master_controller.php on line 43
+[02-Jan-2023 14:42:24 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /var/www/html/erpm/Controller/get_site_master_controller.php on line 43
+[02-Jan-2023 14:42:24 Asia/Kolkata] PHP Notice:  Undefined variable: row in /var/www/html/erpm/Controller/get_site_master_controller.php on line 45
+[02-Jan-2023 14:42:24 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /var/www/html/erpm/Controller/get_site_master_controller.php on line 45
+[02-Jan-2023 14:42:24 Asia/Kolkata] PHP Notice:  Undefined variable: row in /var/www/html/erpm/Controller/get_site_master_controller.php on line 43
+[02-Jan-2023 14:42:24 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /var/www/html/erpm/Controller/get_site_master_controller.php on line 43
+[02-Jan-2023 14:42:24 Asia/Kolkata] PHP Notice:  Undefined variable: row in /var/www/html/erpm/Controller/get_site_master_controller.php on line 45
+[02-Jan-2023 14:42:24 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /var/www/html/erpm/Controller/get_site_master_controller.php on line 45
+[02-Jan-2023 14:42:24 Asia/Kolkata] PHP Notice:  Undefined variable: row in /var/www/html/erpm/Controller/get_site_master_controller.php on line 43
+[02-Jan-2023 14:42:24 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /var/www/html/erpm/Controller/get_site_master_controller.php on line 43
+[02-Jan-2023 14:42:24 Asia/Kolkata] PHP Notice:  Undefined variable: row in /var/www/html/erpm/Controller/get_site_master_controller.php on line 45
+[02-Jan-2023 14:42:24 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /var/www/html/erpm/Controller/get_site_master_controller.php on line 45
+[02-Jan-2023 14:42:24 Asia/Kolkata] PHP Notice:  Undefined variable: row in /var/www/html/erpm/Controller/get_site_master_controller.php on line 43
+[02-Jan-2023 14:42:24 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /var/www/html/erpm/Controller/get_site_master_controller.php on line 43
+[02-Jan-2023 14:42:24 Asia/Kolkata] PHP Notice:  Undefined variable: row in /var/www/html/erpm/Controller/get_site_master_controller.php on line 45
+[02-Jan-2023 14:42:24 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /var/www/html/erpm/Controller/get_site_master_controller.php on line 45
+[02-Jan-2023 14:42:24 Asia/Kolkata] PHP Notice:  Undefined variable: row in /var/www/html/erpm/Controller/get_site_master_controller.php on line 43
+[02-Jan-2023 14:42:24 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /var/www/html/erpm/Controller/get_site_master_controller.php on line 43
+[02-Jan-2023 14:42:24 Asia/Kolkata] PHP Notice:  Undefined variable: row in /var/www/html/erpm/Controller/get_site_master_controller.php on line 45
+[02-Jan-2023 14:42:24 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /var/www/html/erpm/Controller/get_site_master_controller.php on line 45
+[02-Jan-2023 14:42:24 Asia/Kolkata] PHP Notice:  Undefined variable: row in /var/www/html/erpm/Controller/get_site_master_controller.php on line 43
+[02-Jan-2023 14:42:24 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /var/www/html/erpm/Controller/get_site_master_controller.php on line 43
+[02-Jan-2023 14:42:24 Asia/Kolkata] PHP Notice:  Undefined variable: row in /var/www/html/erpm/Controller/get_site_master_controller.php on line 45
+[02-Jan-2023 14:42:24 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /var/www/html/erpm/Controller/get_site_master_controller.php on line 45
+[02-Jan-2023 14:42:32 Asia/Kolkata] PHP Notice:  Undefined variable: row in /var/www/html/erpm/Controller/get_site_master_controller.php on line 43
+[02-Jan-2023 14:42:32 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /var/www/html/erpm/Controller/get_site_master_controller.php on line 43
+[02-Jan-2023 14:42:32 Asia/Kolkata] PHP Notice:  Undefined variable: row in /var/www/html/erpm/Controller/get_site_master_controller.php on line 45
+[02-Jan-2023 14:42:32 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /var/www/html/erpm/Controller/get_site_master_controller.php on line 45
+[02-Jan-2023 14:42:32 Asia/Kolkata] PHP Notice:  Undefined variable: row in /var/www/html/erpm/Controller/get_site_master_controller.php on line 43
+[02-Jan-2023 14:42:32 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /var/www/html/erpm/Controller/get_site_master_controller.php on line 43
+[02-Jan-2023 14:42:32 Asia/Kolkata] PHP Notice:  Undefined variable: row in /var/www/html/erpm/Controller/get_site_master_controller.php on line 45
+[02-Jan-2023 14:42:32 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /var/www/html/erpm/Controller/get_site_master_controller.php on line 45
+[02-Jan-2023 14:42:32 Asia/Kolkata] PHP Notice:  Undefined variable: row in /var/www/html/erpm/Controller/get_site_master_controller.php on line 43
+[02-Jan-2023 14:42:32 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /var/www/html/erpm/Controller/get_site_master_controller.php on line 43
+[02-Jan-2023 14:42:32 Asia/Kolkata] PHP Notice:  Undefined variable: row in /var/www/html/erpm/Controller/get_site_master_controller.php on line 45
+[02-Jan-2023 14:42:32 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /var/www/html/erpm/Controller/get_site_master_controller.php on line 45
+[02-Jan-2023 14:42:32 Asia/Kolkata] PHP Notice:  Undefined variable: row in /var/www/html/erpm/Controller/get_site_master_controller.php on line 43
+[02-Jan-2023 14:42:32 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /var/www/html/erpm/Controller/get_site_master_controller.php on line 43
+[02-Jan-2023 14:42:32 Asia/Kolkata] PHP Notice:  Undefined variable: row in /var/www/html/erpm/Controller/get_site_master_controller.php on line 45
+[02-Jan-2023 14:42:32 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /var/www/html/erpm/Controller/get_site_master_controller.php on line 45
+[02-Jan-2023 14:42:32 Asia/Kolkata] PHP Notice:  Undefined variable: row in /var/www/html/erpm/Controller/get_site_master_controller.php on line 43
+[02-Jan-2023 14:42:32 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /var/www/html/erpm/Controller/get_site_master_controller.php on line 43
+[02-Jan-2023 14:42:32 Asia/Kolkata] PHP Notice:  Undefined variable: row in /var/www/html/erpm/Controller/get_site_master_controller.php on line 45
+[02-Jan-2023 14:42:32 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /var/www/html/erpm/Controller/get_site_master_controller.php on line 45
+[02-Jan-2023 14:42:32 Asia/Kolkata] PHP Notice:  Undefined variable: row in /var/www/html/erpm/Controller/get_site_master_controller.php on line 43
+[02-Jan-2023 14:42:32 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /var/www/html/erpm/Controller/get_site_master_controller.php on line 43
+[02-Jan-2023 14:42:32 Asia/Kolkata] PHP Notice:  Undefined variable: row in /var/www/html/erpm/Controller/get_site_master_controller.php on line 45
+[02-Jan-2023 14:42:32 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /var/www/html/erpm/Controller/get_site_master_controller.php on line 45
+[02-Jan-2023 14:42:32 Asia/Kolkata] PHP Notice:  Undefined variable: row in /var/www/html/erpm/Controller/get_site_master_controller.php on line 43
+[02-Jan-2023 14:42:32 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /var/www/html/erpm/Controller/get_site_master_controller.php on line 43
+[02-Jan-2023 14:42:32 Asia/Kolkata] PHP Notice:  Undefined variable: row in /var/www/html/erpm/Controller/get_site_master_controller.php on line 45
+[02-Jan-2023 14:42:32 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /var/www/html/erpm/Controller/get_site_master_controller.php on line 45
+[02-Jan-2023 14:42:33 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Call to a member function bind_param() on bool in /var/www/html/erpm/View/th_check.php:230
+Stack trace:
+#0 {main}
+  thrown in /var/www/html/erpm/View/th_check.php on line 230
+[02-Jan-2023 14:42:52 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Call to a member function bind_param() on bool in /var/www/html/erpm/View/th_check.php:230
+Stack trace:
+#0 {main}
+  thrown in /var/www/html/erpm/View/th_check.php on line 230
+[02-Jan-2023 14:42:56 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Call to a member function bind_param() on bool in /var/www/html/erpm/View/th_check.php:230
+Stack trace:
+#0 {main}
+  thrown in /var/www/html/erpm/View/th_check.php on line 230
+[02-Jan-2023 14:44:03 Asia/Kolkata] PHP Notice:  Undefined variable: row in /var/www/html/erpm/Controller/get_site_master_controller.php on line 43
+[02-Jan-2023 14:44:03 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /var/www/html/erpm/Controller/get_site_master_controller.php on line 43
+[02-Jan-2023 14:44:03 Asia/Kolkata] PHP Notice:  Undefined variable: row in /var/www/html/erpm/Controller/get_site_master_controller.php on line 45
+[02-Jan-2023 14:44:03 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /var/www/html/erpm/Controller/get_site_master_controller.php on line 45
+[02-Jan-2023 14:44:03 Asia/Kolkata] PHP Notice:  Undefined variable: row in /var/www/html/erpm/Controller/get_site_master_controller.php on line 43
+[02-Jan-2023 14:44:03 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /var/www/html/erpm/Controller/get_site_master_controller.php on line 43
+[02-Jan-2023 14:44:03 Asia/Kolkata] PHP Notice:  Undefined variable: row in /var/www/html/erpm/Controller/get_site_master_controller.php on line 45
+[02-Jan-2023 14:44:03 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /var/www/html/erpm/Controller/get_site_master_controller.php on line 45
+[02-Jan-2023 14:44:03 Asia/Kolkata] PHP Notice:  Undefined variable: row in /var/www/html/erpm/Controller/get_site_master_controller.php on line 43
+[02-Jan-2023 14:44:03 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /var/www/html/erpm/Controller/get_site_master_controller.php on line 43
+[02-Jan-2023 14:44:03 Asia/Kolkata] PHP Notice:  Undefined variable: row in /var/www/html/erpm/Controller/get_site_master_controller.php on line 45
+[02-Jan-2023 14:44:03 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /var/www/html/erpm/Controller/get_site_master_controller.php on line 45
+[02-Jan-2023 14:44:03 Asia/Kolkata] PHP Notice:  Undefined variable: row in /var/www/html/erpm/Controller/get_site_master_controller.php on line 43
+[02-Jan-2023 14:44:03 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /var/www/html/erpm/Controller/get_site_master_controller.php on line 43
+[02-Jan-2023 14:44:03 Asia/Kolkata] PHP Notice:  Undefined variable: row in /var/www/html/erpm/Controller/get_site_master_controller.php on line 45
+[02-Jan-2023 14:44:03 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /var/www/html/erpm/Controller/get_site_master_controller.php on line 45
+[02-Jan-2023 14:44:03 Asia/Kolkata] PHP Notice:  Undefined variable: row in /var/www/html/erpm/Controller/get_site_master_controller.php on line 43
+[02-Jan-2023 14:44:03 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /var/www/html/erpm/Controller/get_site_master_controller.php on line 43
+[02-Jan-2023 14:44:03 Asia/Kolkata] PHP Notice:  Undefined variable: row in /var/www/html/erpm/Controller/get_site_master_controller.php on line 45
+[02-Jan-2023 14:44:03 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /var/www/html/erpm/Controller/get_site_master_controller.php on line 45
+[02-Jan-2023 14:44:03 Asia/Kolkata] PHP Notice:  Undefined variable: row in /var/www/html/erpm/Controller/get_site_master_controller.php on line 43
+[02-Jan-2023 14:44:03 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /var/www/html/erpm/Controller/get_site_master_controller.php on line 43
+[02-Jan-2023 14:44:03 Asia/Kolkata] PHP Notice:  Undefined variable: row in /var/www/html/erpm/Controller/get_site_master_controller.php on line 45
+[02-Jan-2023 14:44:03 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /var/www/html/erpm/Controller/get_site_master_controller.php on line 45
+[02-Jan-2023 14:44:03 Asia/Kolkata] PHP Notice:  Undefined variable: row in /var/www/html/erpm/Controller/get_site_master_controller.php on line 43
+[02-Jan-2023 14:44:03 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /var/www/html/erpm/Controller/get_site_master_controller.php on line 43
+[02-Jan-2023 14:44:03 Asia/Kolkata] PHP Notice:  Undefined variable: row in /var/www/html/erpm/Controller/get_site_master_controller.php on line 45
+[02-Jan-2023 14:44:03 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /var/www/html/erpm/Controller/get_site_master_controller.php on line 45
+[02-Jan-2023 14:45:48 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Call to a member function bind_param() on bool in /var/www/html/erpm/View/th_check.php:230
+Stack trace:
+#0 {main}
+  thrown in /var/www/html/erpm/View/th_check.php on line 230
+[02-Jan-2023 14:46:02 Asia/Kolkata] PHP Notice:  Undefined variable: row in /var/www/html/erpm/Controller/get_site_master_controller.php on line 43
+[02-Jan-2023 14:46:02 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /var/www/html/erpm/Controller/get_site_master_controller.php on line 43
+[02-Jan-2023 14:46:02 Asia/Kolkata] PHP Notice:  Undefined variable: row in /var/www/html/erpm/Controller/get_site_master_controller.php on line 45
+[02-Jan-2023 14:46:02 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /var/www/html/erpm/Controller/get_site_master_controller.php on line 45
+[02-Jan-2023 14:46:02 Asia/Kolkata] PHP Notice:  Undefined variable: row in /var/www/html/erpm/Controller/get_site_master_controller.php on line 43
+[02-Jan-2023 14:46:02 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /var/www/html/erpm/Controller/get_site_master_controller.php on line 43
+[02-Jan-2023 14:46:02 Asia/Kolkata] PHP Notice:  Undefined variable: row in /var/www/html/erpm/Controller/get_site_master_controller.php on line 45
+[02-Jan-2023 14:46:02 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /var/www/html/erpm/Controller/get_site_master_controller.php on line 45
+[02-Jan-2023 14:46:02 Asia/Kolkata] PHP Notice:  Undefined variable: row in /var/www/html/erpm/Controller/get_site_master_controller.php on line 43
+[02-Jan-2023 14:46:02 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /var/www/html/erpm/Controller/get_site_master_controller.php on line 43
+[02-Jan-2023 14:46:02 Asia/Kolkata] PHP Notice:  Undefined variable: row in /var/www/html/erpm/Controller/get_site_master_controller.php on line 45
+[02-Jan-2023 14:46:02 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /var/www/html/erpm/Controller/get_site_master_controller.php on line 45
+[02-Jan-2023 14:46:02 Asia/Kolkata] PHP Notice:  Undefined variable: row in /var/www/html/erpm/Controller/get_site_master_controller.php on line 43
+[02-Jan-2023 14:46:02 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /var/www/html/erpm/Controller/get_site_master_controller.php on line 43
+[02-Jan-2023 14:46:02 Asia/Kolkata] PHP Notice:  Undefined variable: row in /var/www/html/erpm/Controller/get_site_master_controller.php on line 45
+[02-Jan-2023 14:46:02 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /var/www/html/erpm/Controller/get_site_master_controller.php on line 45
+[02-Jan-2023 14:46:02 Asia/Kolkata] PHP Notice:  Undefined variable: row in /var/www/html/erpm/Controller/get_site_master_controller.php on line 43
+[02-Jan-2023 14:46:02 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /var/www/html/erpm/Controller/get_site_master_controller.php on line 43
+[02-Jan-2023 14:46:02 Asia/Kolkata] PHP Notice:  Undefined variable: row in /var/www/html/erpm/Controller/get_site_master_controller.php on line 45
+[02-Jan-2023 14:46:02 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /var/www/html/erpm/Controller/get_site_master_controller.php on line 45
+[02-Jan-2023 14:46:02 Asia/Kolkata] PHP Notice:  Undefined variable: row in /var/www/html/erpm/Controller/get_site_master_controller.php on line 43
+[02-Jan-2023 14:46:02 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /var/www/html/erpm/Controller/get_site_master_controller.php on line 43
+[02-Jan-2023 14:46:02 Asia/Kolkata] PHP Notice:  Undefined variable: row in /var/www/html/erpm/Controller/get_site_master_controller.php on line 45
+[02-Jan-2023 14:46:02 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /var/www/html/erpm/Controller/get_site_master_controller.php on line 45
+[02-Jan-2023 14:46:02 Asia/Kolkata] PHP Notice:  Undefined variable: row in /var/www/html/erpm/Controller/get_site_master_controller.php on line 43
+[02-Jan-2023 14:46:02 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /var/www/html/erpm/Controller/get_site_master_controller.php on line 43
+[02-Jan-2023 14:46:02 Asia/Kolkata] PHP Notice:  Undefined variable: row in /var/www/html/erpm/Controller/get_site_master_controller.php on line 45
+[02-Jan-2023 14:46:02 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /var/www/html/erpm/Controller/get_site_master_controller.php on line 45
+[02-Jan-2023 14:46:09 Asia/Kolkata] PHP Notice:  Undefined variable: row in /var/www/html/erpm/Controller/get_site_master_controller.php on line 43
+[02-Jan-2023 14:46:09 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /var/www/html/erpm/Controller/get_site_master_controller.php on line 43
+[02-Jan-2023 14:46:09 Asia/Kolkata] PHP Notice:  Undefined variable: row in /var/www/html/erpm/Controller/get_site_master_controller.php on line 45
+[02-Jan-2023 14:46:09 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /var/www/html/erpm/Controller/get_site_master_controller.php on line 45
+[02-Jan-2023 14:46:09 Asia/Kolkata] PHP Notice:  Undefined variable: row in /var/www/html/erpm/Controller/get_site_master_controller.php on line 43
+[02-Jan-2023 14:46:09 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /var/www/html/erpm/Controller/get_site_master_controller.php on line 43
+[02-Jan-2023 14:46:09 Asia/Kolkata] PHP Notice:  Undefined variable: row in /var/www/html/erpm/Controller/get_site_master_controller.php on line 45
+[02-Jan-2023 14:46:09 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /var/www/html/erpm/Controller/get_site_master_controller.php on line 45
+[02-Jan-2023 14:46:09 Asia/Kolkata] PHP Notice:  Undefined variable: row in /var/www/html/erpm/Controller/get_site_master_controller.php on line 43
+[02-Jan-2023 14:46:09 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /var/www/html/erpm/Controller/get_site_master_controller.php on line 43
+[02-Jan-2023 14:46:09 Asia/Kolkata] PHP Notice:  Undefined variable: row in /var/www/html/erpm/Controller/get_site_master_controller.php on line 45
+[02-Jan-2023 14:46:09 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /var/www/html/erpm/Controller/get_site_master_controller.php on line 45
+[02-Jan-2023 14:46:09 Asia/Kolkata] PHP Notice:  Undefined variable: row in /var/www/html/erpm/Controller/get_site_master_controller.php on line 43
+[02-Jan-2023 14:46:09 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /var/www/html/erpm/Controller/get_site_master_controller.php on line 43
+[02-Jan-2023 14:46:09 Asia/Kolkata] PHP Notice:  Undefined variable: row in /var/www/html/erpm/Controller/get_site_master_controller.php on line 45
+[02-Jan-2023 14:46:09 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /var/www/html/erpm/Controller/get_site_master_controller.php on line 45
+[02-Jan-2023 14:46:09 Asia/Kolkata] PHP Notice:  Undefined variable: row in /var/www/html/erpm/Controller/get_site_master_controller.php on line 43
+[02-Jan-2023 14:46:09 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /var/www/html/erpm/Controller/get_site_master_controller.php on line 43
+[02-Jan-2023 14:46:09 Asia/Kolkata] PHP Notice:  Undefined variable: row in /var/www/html/erpm/Controller/get_site_master_controller.php on line 45
+[02-Jan-2023 14:46:09 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /var/www/html/erpm/Controller/get_site_master_controller.php on line 45
+[02-Jan-2023 14:46:09 Asia/Kolkata] PHP Notice:  Undefined variable: row in /var/www/html/erpm/Controller/get_site_master_controller.php on line 43
+[02-Jan-2023 14:46:09 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /var/www/html/erpm/Controller/get_site_master_controller.php on line 43
+[02-Jan-2023 14:46:09 Asia/Kolkata] PHP Notice:  Undefined variable: row in /var/www/html/erpm/Controller/get_site_master_controller.php on line 45
+[02-Jan-2023 14:46:09 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /var/www/html/erpm/Controller/get_site_master_controller.php on line 45
+[02-Jan-2023 14:46:09 Asia/Kolkata] PHP Notice:  Undefined variable: row in /var/www/html/erpm/Controller/get_site_master_controller.php on line 43
+[02-Jan-2023 14:46:09 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /var/www/html/erpm/Controller/get_site_master_controller.php on line 43
+[02-Jan-2023 14:46:09 Asia/Kolkata] PHP Notice:  Undefined variable: row in /var/www/html/erpm/Controller/get_site_master_controller.php on line 45
+[02-Jan-2023 14:46:09 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /var/www/html/erpm/Controller/get_site_master_controller.php on line 45
+[02-Jan-2023 14:49:10 Asia/Kolkata] PHP Notice:  Undefined variable: row in /var/www/html/erpm/Controller/get_site_master_controller.php on line 43
+[02-Jan-2023 14:49:10 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /var/www/html/erpm/Controller/get_site_master_controller.php on line 43
+[02-Jan-2023 14:49:10 Asia/Kolkata] PHP Notice:  Undefined variable: row in /var/www/html/erpm/Controller/get_site_master_controller.php on line 45
+[02-Jan-2023 14:49:10 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /var/www/html/erpm/Controller/get_site_master_controller.php on line 45
+[02-Jan-2023 14:49:10 Asia/Kolkata] PHP Notice:  Undefined variable: row in /var/www/html/erpm/Controller/get_site_master_controller.php on line 43
+[02-Jan-2023 14:49:10 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /var/www/html/erpm/Controller/get_site_master_controller.php on line 43
+[02-Jan-2023 14:49:10 Asia/Kolkata] PHP Notice:  Undefined variable: row in /var/www/html/erpm/Controller/get_site_master_controller.php on line 45
+[02-Jan-2023 14:49:10 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /var/www/html/erpm/Controller/get_site_master_controller.php on line 45
+[02-Jan-2023 14:49:10 Asia/Kolkata] PHP Notice:  Undefined variable: row in /var/www/html/erpm/Controller/get_site_master_controller.php on line 43
+[02-Jan-2023 14:49:10 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /var/www/html/erpm/Controller/get_site_master_controller.php on line 43
+[02-Jan-2023 14:49:10 Asia/Kolkata] PHP Notice:  Undefined variable: row in /var/www/html/erpm/Controller/get_site_master_controller.php on line 45
+[02-Jan-2023 14:49:10 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /var/www/html/erpm/Controller/get_site_master_controller.php on line 45
+[02-Jan-2023 14:49:10 Asia/Kolkata] PHP Notice:  Undefined variable: row in /var/www/html/erpm/Controller/get_site_master_controller.php on line 43
+[02-Jan-2023 14:49:10 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /var/www/html/erpm/Controller/get_site_master_controller.php on line 43
+[02-Jan-2023 14:49:10 Asia/Kolkata] PHP Notice:  Undefined variable: row in /var/www/html/erpm/Controller/get_site_master_controller.php on line 45
+[02-Jan-2023 14:49:10 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /var/www/html/erpm/Controller/get_site_master_controller.php on line 45
+[02-Jan-2023 14:49:10 Asia/Kolkata] PHP Notice:  Undefined variable: row in /var/www/html/erpm/Controller/get_site_master_controller.php on line 43
+[02-Jan-2023 14:49:10 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /var/www/html/erpm/Controller/get_site_master_controller.php on line 43
+[02-Jan-2023 14:49:10 Asia/Kolkata] PHP Notice:  Undefined variable: row in /var/www/html/erpm/Controller/get_site_master_controller.php on line 45
+[02-Jan-2023 14:49:10 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /var/www/html/erpm/Controller/get_site_master_controller.php on line 45
+[02-Jan-2023 14:49:10 Asia/Kolkata] PHP Notice:  Undefined variable: row in /var/www/html/erpm/Controller/get_site_master_controller.php on line 43
+[02-Jan-2023 14:49:10 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /var/www/html/erpm/Controller/get_site_master_controller.php on line 43
+[02-Jan-2023 14:49:10 Asia/Kolkata] PHP Notice:  Undefined variable: row in /var/www/html/erpm/Controller/get_site_master_controller.php on line 45
+[02-Jan-2023 14:49:10 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /var/www/html/erpm/Controller/get_site_master_controller.php on line 45
+[02-Jan-2023 14:49:10 Asia/Kolkata] PHP Notice:  Undefined variable: row in /var/www/html/erpm/Controller/get_site_master_controller.php on line 43
+[02-Jan-2023 14:49:10 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /var/www/html/erpm/Controller/get_site_master_controller.php on line 43
+[02-Jan-2023 14:49:10 Asia/Kolkata] PHP Notice:  Undefined variable: row in /var/www/html/erpm/Controller/get_site_master_controller.php on line 45
+[02-Jan-2023 14:49:10 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /var/www/html/erpm/Controller/get_site_master_controller.php on line 45
+[02-Jan-2023 14:56:02 Asia/Kolkata] PHP Notice:  Undefined index: __user_logid in /var/www/html/erpm/AppCode/nHead.php on line 2
+[02-Jan-2023 14:56:16 Asia/Kolkata] PHP Warning:  mysqli_stmt::bind_param(): Number of elements in type definition string doesn't match number of bind variables in /var/www/html/erpm/Controller/ConLog.php on line 464
+[02-Jan-2023 14:56:16 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /var/www/html/erpm/View/index.php on line 346
+[02-Jan-2023 14:58:30 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Call to a member function bind_param() on bool in /var/www/html/erpm/View/th_check.php:237
+Stack trace:
+#0 {main}
+  thrown in /var/www/html/erpm/View/th_check.php on line 237
+[02-Jan-2023 14:58:53 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Call to a member function bind_param() on bool in /var/www/html/erpm/View/th_check.php:237
+Stack trace:
+#0 {main}
+  thrown in /var/www/html/erpm/View/th_check.php on line 237
+[02-Jan-2023 14:59:24 Asia/Kolkata] PHP Notice:  Undefined index: __user_logid in /var/www/html/erpm/AppCode/nHead.php on line 2
+[02-Jan-2023 14:59:26 Asia/Kolkata] PHP Warning:  mysqli_stmt::bind_param(): Number of elements in type definition string doesn't match number of bind variables in /var/www/html/erpm/Controller/ConLog.php on line 464
+[02-Jan-2023 14:59:26 Asia/Kolkata] PHP Warning:  Use of undefined constant EMS_CenterName - assumed 'EMS_CenterName' (this will throw an Error in a future version of PHP) in /var/www/html/erpm/Controller/ConLog.php on line 470
+[02-Jan-2023 14:59:26 Asia/Kolkata] PHP Warning:  Use of undefined constant EMAIL_HOST - assumed 'EMAIL_HOST' (this will throw an Error in a future version of PHP) in /var/www/html/erpm/Controller/ConLog.php on line 473
+[02-Jan-2023 14:59:26 Asia/Kolkata] PHP Warning:  Use of undefined constant EMAIL_AUTH - assumed 'EMAIL_AUTH' (this will throw an Error in a future version of PHP) in /var/www/html/erpm/Controller/ConLog.php on line 474
+[02-Jan-2023 14:59:26 Asia/Kolkata] PHP Warning:  Use of undefined constant EMAIL_USER - assumed 'EMAIL_USER' (this will throw an Error in a future version of PHP) in /var/www/html/erpm/Controller/ConLog.php on line 475
+[02-Jan-2023 14:59:26 Asia/Kolkata] PHP Warning:  Use of undefined constant EMAIL_PASS - assumed 'EMAIL_PASS' (this will throw an Error in a future version of PHP) in /var/www/html/erpm/Controller/ConLog.php on line 476
+[02-Jan-2023 14:59:26 Asia/Kolkata] PHP Warning:  Use of undefined constant EMAIL_SMTPSecure - assumed 'EMAIL_SMTPSecure' (this will throw an Error in a future version of PHP) in /var/www/html/erpm/Controller/ConLog.php on line 477
+[02-Jan-2023 14:59:26 Asia/Kolkata] PHP Warning:  Use of undefined constant EMAIL_PORT - assumed 'EMAIL_PORT' (this will throw an Error in a future version of PHP) in /var/www/html/erpm/Controller/ConLog.php on line 478
+[02-Jan-2023 14:59:26 Asia/Kolkata] PHP Warning:  Use of undefined constant EMAIL_FROM - assumed 'EMAIL_FROM' (this will throw an Error in a future version of PHP) in /var/www/html/erpm/Controller/ConLog.php on line 479
+[02-Jan-2023 14:59:26 Asia/Kolkata] PHP Warning:  Use of undefined constant EMS_CenterName - assumed 'EMS_CenterName' (this will throw an Error in a future version of PHP) in /var/www/html/erpm/Controller/ConLog.php on line 482
+[02-Jan-2023 14:59:28 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /var/www/html/erpm/View/index.php on line 346
+[02-Jan-2023 14:59:34 Asia/Kolkata] PHP Notice:  Undefined index: EmployeeID_s in /var/www/html/erpm/View/emp_block.php on line 21
+[02-Jan-2023 14:59:34 Asia/Kolkata] PHP Notice:  Undefined variable: searchBy in /var/www/html/erpm/View/emp_block.php on line 120
+[02-Jan-2023 14:59:34 Asia/Kolkata] PHP Notice:  Undefined index: EmployeeID in /var/www/html/erpm/View/emp_block.php on line 137

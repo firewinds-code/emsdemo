@@ -1,0 +1,16 @@
+[26-Dec-2022 18:13:34 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Call to a member function fetch_all() on bool in /var/www/html/erpm/Services/getNamebyID.php:25
+Stack trace:
+#0 {main}
+  thrown in /var/www/html/erpm/Services/getNamebyID.php on line 25
+[26-Dec-2022 18:13:34 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Call to a member function fetch_all() on bool in /var/www/html/erpm/Services/getNamebyID.php:25
+Stack trace:
+#0 {main}
+  thrown in /var/www/html/erpm/Services/getNamebyID.php on line 25
+[26-Dec-2022 18:13:35 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Call to a member function fetch_all() on bool in /var/www/html/erpm/Services/getNamebyID.php:25
+Stack trace:
+#0 {main}
+  thrown in /var/www/html/erpm/Services/getNamebyID.php on line 25
+[26-Dec-2022 18:13:35 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Call to a member function fetch_all() on bool in /var/www/html/erpm/Services/getNamebyID.php:25
+Stack trace:
+#0 {main}
+  thrown in /var/www/html/erpm/Services/getNamebyID.php on line 25

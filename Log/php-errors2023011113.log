@@ -1,0 +1,74 @@
+[11-Jan-2023 13:01:02 Asia/Kolkata] PHP Notice:  Undefined variable: filename in /var/www/html/erpm/View/save_experience.php on line 171
+[11-Jan-2023 13:01:02 Asia/Kolkata] PHP Notice:  Undefined variable: filename2 in /var/www/html/erpm/View/save_experience.php on line 171
+[11-Jan-2023 13:01:02 Asia/Kolkata] PHP Notice:  Undefined variable: filename3 in /var/www/html/erpm/View/save_experience.php on line 171
+[11-Jan-2023 13:01:02 Asia/Kolkata] PHP Notice:  Undefined variable: filename in /var/www/html/erpm/View/save_experience.php on line 172
+[11-Jan-2023 13:01:02 Asia/Kolkata] PHP Notice:  Undefined variable: filename2 in /var/www/html/erpm/View/save_experience.php on line 173
+[11-Jan-2023 13:01:02 Asia/Kolkata] PHP Notice:  Undefined variable: filename3 in /var/www/html/erpm/View/save_experience.php on line 174
+[11-Jan-2023 13:02:05 Asia/Kolkata] PHP Notice:  Undefined variable: filename in /var/www/html/erpm/View/save_experience.php on line 171
+[11-Jan-2023 13:02:05 Asia/Kolkata] PHP Notice:  Undefined variable: filename2 in /var/www/html/erpm/View/save_experience.php on line 171
+[11-Jan-2023 13:02:05 Asia/Kolkata] PHP Notice:  Undefined variable: filename3 in /var/www/html/erpm/View/save_experience.php on line 171
+[11-Jan-2023 13:02:05 Asia/Kolkata] PHP Notice:  Undefined variable: filename in /var/www/html/erpm/View/save_experience.php on line 172
+[11-Jan-2023 13:02:05 Asia/Kolkata] PHP Notice:  Undefined variable: filename2 in /var/www/html/erpm/View/save_experience.php on line 173
+[11-Jan-2023 13:02:05 Asia/Kolkata] PHP Notice:  Undefined variable: filename3 in /var/www/html/erpm/View/save_experience.php on line 174
+[11-Jan-2023 13:02:05 Asia/Kolkata] PHP Notice:  Undefined variable: experience in /var/www/html/erpm/View/save_experience.php on line 200
+[11-Jan-2023 13:02:05 Asia/Kolkata] PHP Notice:  Undefined variable: experience in /var/www/html/erpm/View/save_experience.php on line 225
+[11-Jan-2023 13:02:05 Asia/Kolkata] PHP Notice:  Undefined variable: experience in /var/www/html/erpm/View/save_experience.php on line 228
+[11-Jan-2023 13:13:47 Asia/Kolkata] PHP Notice:  Undefined index: __user_logid in /var/www/html/erpm/AppCode/nHead.php on line 2
+[11-Jan-2023 13:13:49 Asia/Kolkata] PHP Warning:  mysqli_stmt::bind_param(): Number of elements in type definition string doesn't match number of bind variables in /var/www/html/erpm/Controller/ConLog.php on line 464
+[11-Jan-2023 13:13:49 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /var/www/html/erpm/View/index.php on line 346
+[11-Jan-2023 13:13:51 Asia/Kolkata] PHP Notice:  Undefined offset: 3 in /var/www/html/erpm/View/save_infra.php on line 212
+[11-Jan-2023 13:13:51 Asia/Kolkata] PHP Notice:  Undefined offset: 4 in /var/www/html/erpm/View/save_infra.php on line 213
+[11-Jan-2023 13:13:51 Asia/Kolkata] PHP Notice:  Undefined offset: 5 in /var/www/html/erpm/View/save_infra.php on line 214
+[11-Jan-2023 13:13:51 Asia/Kolkata] PHP Notice:  Undefined offset: 6 in /var/www/html/erpm/View/save_infra.php on line 215
+[11-Jan-2023 13:13:51 Asia/Kolkata] PHP Notice:  Undefined offset: 7 in /var/www/html/erpm/View/save_infra.php on line 216
+[11-Jan-2023 13:13:51 Asia/Kolkata] PHP Notice:  Undefined offset: 8 in /var/www/html/erpm/View/save_infra.php on line 217
+[11-Jan-2023 13:13:51 Asia/Kolkata] PHP Notice:  Undefined offset: 9 in /var/www/html/erpm/View/save_infra.php on line 218
+[11-Jan-2023 13:13:51 Asia/Kolkata] PHP Notice:  Undefined offset: 10 in /var/www/html/erpm/View/save_infra.php on line 219
+[11-Jan-2023 13:13:51 Asia/Kolkata] PHP Notice:  Undefined offset: 11 in /var/www/html/erpm/View/save_infra.php on line 220
+[11-Jan-2023 13:14:15 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type float in /var/www/html/erpm/AppData/lib/PHPExcel/Cell/DefaultValueBinder.php on line 86
+[11-Jan-2023 13:14:15 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type float in /var/www/html/erpm/AppData/lib/PHPExcel/Cell/DefaultValueBinder.php on line 86
+[11-Jan-2023 13:14:15 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type float in /var/www/html/erpm/AppData/lib/PHPExcel/Cell/DefaultValueBinder.php on line 86
+[11-Jan-2023 13:14:15 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type float in /var/www/html/erpm/AppData/lib/PHPExcel/Cell/DefaultValueBinder.php on line 86
+[11-Jan-2023 13:14:15 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type int in /var/www/html/erpm/AppData/lib/PHPExcel/Cell/DefaultValueBinder.php on line 86
+[11-Jan-2023 13:14:15 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type int in /var/www/html/erpm/AppData/lib/PHPExcel/Cell/DefaultValueBinder.php on line 86
+[11-Jan-2023 13:14:15 Asia/Kolkata] PHP Notice:  Undefined variable: count in /var/www/html/erpm/View/pantry_upload_atnd.php on line 123
+[11-Jan-2023 13:14:25 Asia/Kolkata] PHP Notice:  Undefined offset: 3 in /var/www/html/erpm/View/save_infra.php on line 212
+[11-Jan-2023 13:14:25 Asia/Kolkata] PHP Notice:  Undefined offset: 4 in /var/www/html/erpm/View/save_infra.php on line 213
+[11-Jan-2023 13:14:25 Asia/Kolkata] PHP Notice:  Undefined offset: 5 in /var/www/html/erpm/View/save_infra.php on line 214
+[11-Jan-2023 13:14:25 Asia/Kolkata] PHP Notice:  Undefined offset: 6 in /var/www/html/erpm/View/save_infra.php on line 215
+[11-Jan-2023 13:14:25 Asia/Kolkata] PHP Notice:  Undefined offset: 7 in /var/www/html/erpm/View/save_infra.php on line 216
+[11-Jan-2023 13:14:25 Asia/Kolkata] PHP Notice:  Undefined offset: 8 in /var/www/html/erpm/View/save_infra.php on line 217
+[11-Jan-2023 13:14:25 Asia/Kolkata] PHP Notice:  Undefined offset: 9 in /var/www/html/erpm/View/save_infra.php on line 218
+[11-Jan-2023 13:14:25 Asia/Kolkata] PHP Notice:  Undefined offset: 10 in /var/www/html/erpm/View/save_infra.php on line 219
+[11-Jan-2023 13:14:25 Asia/Kolkata] PHP Notice:  Undefined offset: 11 in /var/www/html/erpm/View/save_infra.php on line 220
+[11-Jan-2023 13:14:32 Asia/Kolkata] PHP Notice:  Undefined offset: 3 in /var/www/html/erpm/View/save_infra.php on line 212
+[11-Jan-2023 13:14:32 Asia/Kolkata] PHP Notice:  Undefined offset: 4 in /var/www/html/erpm/View/save_infra.php on line 213
+[11-Jan-2023 13:14:32 Asia/Kolkata] PHP Notice:  Undefined offset: 5 in /var/www/html/erpm/View/save_infra.php on line 214
+[11-Jan-2023 13:14:32 Asia/Kolkata] PHP Notice:  Undefined offset: 6 in /var/www/html/erpm/View/save_infra.php on line 215
+[11-Jan-2023 13:14:32 Asia/Kolkata] PHP Notice:  Undefined offset: 7 in /var/www/html/erpm/View/save_infra.php on line 216
+[11-Jan-2023 13:14:32 Asia/Kolkata] PHP Notice:  Undefined offset: 8 in /var/www/html/erpm/View/save_infra.php on line 217
+[11-Jan-2023 13:14:32 Asia/Kolkata] PHP Notice:  Undefined offset: 9 in /var/www/html/erpm/View/save_infra.php on line 218
+[11-Jan-2023 13:14:32 Asia/Kolkata] PHP Notice:  Undefined offset: 10 in /var/www/html/erpm/View/save_infra.php on line 219
+[11-Jan-2023 13:14:32 Asia/Kolkata] PHP Notice:  Undefined offset: 11 in /var/www/html/erpm/View/save_infra.php on line 220
+[11-Jan-2023 13:17:09 Asia/Kolkata] PHP Notice:  Undefined index: __user_logid in /var/www/html/erpm/AppCode/nHead.php on line 2
+[11-Jan-2023 13:17:16 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type float in /var/www/html/erpm/AppData/lib/PHPExcel/Cell/DefaultValueBinder.php on line 86
+[11-Jan-2023 13:17:16 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type float in /var/www/html/erpm/AppData/lib/PHPExcel/Cell/DefaultValueBinder.php on line 86
+[11-Jan-2023 13:17:16 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type float in /var/www/html/erpm/AppData/lib/PHPExcel/Cell/DefaultValueBinder.php on line 86
+[11-Jan-2023 13:17:16 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type float in /var/www/html/erpm/AppData/lib/PHPExcel/Cell/DefaultValueBinder.php on line 86
+[11-Jan-2023 13:17:16 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type int in /var/www/html/erpm/AppData/lib/PHPExcel/Cell/DefaultValueBinder.php on line 86
+[11-Jan-2023 13:17:16 Asia/Kolkata] PHP Notice:  Undefined variable: count in /var/www/html/erpm/View/pantry_upload_atnd.php on line 123
+[11-Jan-2023 13:18:27 Asia/Kolkata] PHP Notice:  Undefined index: __user_logid in /var/www/html/erpm/AppCode/nHead.php on line 2
+[11-Jan-2023 13:18:29 Asia/Kolkata] PHP Warning:  mysqli_stmt::bind_param(): Number of elements in type definition string doesn't match number of bind variables in /var/www/html/erpm/Controller/ConLog.php on line 464
+[11-Jan-2023 13:18:30 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /var/www/html/erpm/View/index.php on line 346
+[11-Jan-2023 13:46:03 Asia/Kolkata] PHP Notice:  Undefined index: __user_logid in /var/www/html/erpm/AppCode/nHead.php on line 2
+[11-Jan-2023 13:46:06 Asia/Kolkata] PHP Warning:  mysqli_stmt::bind_param(): Number of elements in type definition string doesn't match number of bind variables in /var/www/html/erpm/Controller/ConLog.php on line 464
+[11-Jan-2023 13:46:06 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /var/www/html/erpm/View/index.php on line 346
+[11-Jan-2023 13:46:32 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type float in /var/www/html/erpm/AppData/lib/PHPExcel/Cell/DefaultValueBinder.php on line 86
+[11-Jan-2023 13:46:32 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type float in /var/www/html/erpm/AppData/lib/PHPExcel/Cell/DefaultValueBinder.php on line 86
+[11-Jan-2023 13:46:32 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type float in /var/www/html/erpm/AppData/lib/PHPExcel/Cell/DefaultValueBinder.php on line 86
+[11-Jan-2023 13:46:32 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type float in /var/www/html/erpm/AppData/lib/PHPExcel/Cell/DefaultValueBinder.php on line 86
+[11-Jan-2023 13:46:32 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type int in /var/www/html/erpm/AppData/lib/PHPExcel/Cell/DefaultValueBinder.php on line 86
+[11-Jan-2023 13:46:32 Asia/Kolkata] PHP Notice:  Undefined variable: count in /var/www/html/erpm/View/pantry_upload_atnd.php on line 123
+[11-Jan-2023 13:54:47 Asia/Kolkata] PHP Notice:  Undefined index: __user_logid in /var/www/html/erpm/AppCode/nHead.php on line 2
+[11-Jan-2023 13:54:50 Asia/Kolkata] PHP Warning:  mysqli_stmt::bind_param(): Number of elements in type definition string doesn't match number of bind variables in /var/www/html/erpm/Controller/ConLog.php on line 464
+[11-Jan-2023 13:54:51 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /var/www/html/erpm/View/index.php on line 346

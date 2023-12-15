@@ -1,0 +1,1357 @@
+[13-Jan-2023 15:14:40 Asia/Kolkata] PHP Notice:  Undefined index: __user_logid in /var/www/html/erpm/AppCode/nHead.php on line 2
+[13-Jan-2023 15:14:45 Asia/Kolkata] PHP Warning:  mysqli_stmt::bind_param(): Number of elements in type definition string doesn't match number of bind variables in /var/www/html/erpm/Controller/ConLog.php on line 464
+[13-Jan-2023 15:14:47 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /var/www/html/erpm/View/index.php on line 346
+[13-Jan-2023 15:18:36 Asia/Kolkata] PHP Notice:  Undefined index: txt_dateTo in /var/www/html/erpm/QrSetup/qrinfo_videolist.php on line 19
+[13-Jan-2023 15:22:41 Asia/Kolkata] PHP Fatal error:  Uncaught Exception: Problem preparing query (call GetDTDetailsByID("22..)(".)'.,")) You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '.)'.,")' at line 1 in /var/www/html/erpm/AppData/Class/MysqliDb.php:1514
+Stack trace:
+#0 /var/www/html/erpm/AppData/Class/MysqliDb.php(1127): MysqliDb->_prepareQuery()
+#1 /var/www/html/erpm/AppData/Class/MysqliDb.php(495): MysqliDb->_buildQuery()
+#2 /var/www/html/erpm/Controller/getDataForDownTime.php(10): MysqliDb->query()
+#3 {main}
+  thrown in /var/www/html/erpm/AppData/Class/MysqliDb.php on line 1514
+[13-Jan-2023 15:22:41 Asia/Kolkata] PHP Fatal error:  Uncaught Exception: Problem preparing query (call GetDTDetailsByID("22'mUZkbP<'">ouhQhx")) You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '")' at line 1 in /var/www/html/erpm/AppData/Class/MysqliDb.php:1514
+Stack trace:
+#0 /var/www/html/erpm/AppData/Class/MysqliDb.php(1127): MysqliDb->_prepareQuery()
+#1 /var/www/html/erpm/AppData/Class/MysqliDb.php(495): MysqliDb->_buildQuery()
+#2 /var/www/html/erpm/Controller/getDataForDownTime.php(10): MysqliDb->query()
+#3 {main}
+  thrown in /var/www/html/erpm/AppData/Class/MysqliDb.php on line 1514
+[13-Jan-2023 15:22:50 Asia/Kolkata] PHP Fatal error:  Uncaught Exception: Problem preparing query (call GetDTDetailsByID("22" AND 2151=4807#")) You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1 in /var/www/html/erpm/AppData/Class/MysqliDb.php:1514
+Stack trace:
+#0 /var/www/html/erpm/AppData/Class/MysqliDb.php(1127): MysqliDb->_prepareQuery()
+#1 /var/www/html/erpm/AppData/Class/MysqliDb.php(495): MysqliDb->_buildQuery()
+#2 /var/www/html/erpm/Controller/getDataForDownTime.php(10): MysqliDb->query()
+#3 {main}
+  thrown in /var/www/html/erpm/AppData/Class/MysqliDb.php on line 1514
+[13-Jan-2023 15:22:50 Asia/Kolkata] PHP Fatal error:  Uncaught Exception: Problem preparing query (call GetDTDetailsByID("22" AND 3678=3678#")) You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1 in /var/www/html/erpm/AppData/Class/MysqliDb.php:1514
+Stack trace:
+#0 /var/www/html/erpm/AppData/Class/MysqliDb.php(1127): MysqliDb->_prepareQuery()
+#1 /var/www/html/erpm/AppData/Class/MysqliDb.php(495): MysqliDb->_buildQuery()
+#2 /var/www/html/erpm/Controller/getDataForDownTime.php(10): MysqliDb->query()
+#3 {main}
+  thrown in /var/www/html/erpm/AppData/Class/MysqliDb.php on line 1514
+[13-Jan-2023 15:22:50 Asia/Kolkata] PHP Fatal error:  Uncaught Exception: Problem preparing query (call GetDTDetailsByID("22") AND 9510=7766#")) You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'AND 9510=7766#")' at line 1 in /var/www/html/erpm/AppData/Class/MysqliDb.php:1514
+Stack trace:
+#0 /var/www/html/erpm/AppData/Class/MysqliDb.php(1127): MysqliDb->_prepareQuery()
+#1 /var/www/html/erpm/AppData/Class/MysqliDb.php(495): MysqliDb->_buildQuery()
+#2 /var/www/html/erpm/Controller/getDataForDownTime.php(10): MysqliDb->query()
+#3 {main}
+  thrown in /var/www/html/erpm/AppData/Class/MysqliDb.php on line 1514
+[13-Jan-2023 15:22:50 Asia/Kolkata] PHP Fatal error:  Uncaught Exception: Problem preparing query (call GetDTDetailsByID("22") AND 3678=3678#")) You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'AND 3678=3678#")' at line 1 in /var/www/html/erpm/AppData/Class/MysqliDb.php:1514
+Stack trace:
+#0 /var/www/html/erpm/AppData/Class/MysqliDb.php(1127): MysqliDb->_prepareQuery()
+#1 /var/www/html/erpm/AppData/Class/MysqliDb.php(495): MysqliDb->_buildQuery()
+#2 /var/www/html/erpm/Controller/getDataForDownTime.php(10): MysqliDb->query()
+#3 {main}
+  thrown in /var/www/html/erpm/AppData/Class/MysqliDb.php on line 1514
+[13-Jan-2023 15:22:50 Asia/Kolkata] PHP Fatal error:  Uncaught Exception: Problem preparing query (call GetDTDetailsByID("22")) AND 3922=2574#")) You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ') AND 3922=2574#")' at line 1 in /var/www/html/erpm/AppData/Class/MysqliDb.php:1514
+Stack trace:
+#0 /var/www/html/erpm/AppData/Class/MysqliDb.php(1127): MysqliDb->_prepareQuery()
+#1 /var/www/html/erpm/AppData/Class/MysqliDb.php(495): MysqliDb->_buildQuery()
+#2 /var/www/html/erpm/Controller/getDataForDownTime.php(10): MysqliDb->query()
+#3 {main}
+  thrown in /var/www/html/erpm/AppData/Class/MysqliDb.php on line 1514
+[13-Jan-2023 15:22:50 Asia/Kolkata] PHP Fatal error:  Uncaught Exception: Problem preparing query (call GetDTDetailsByID("22")) AND 3678=3678#")) You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ') AND 3678=3678#")' at line 1 in /var/www/html/erpm/AppData/Class/MysqliDb.php:1514
+Stack trace:
+#0 /var/www/html/erpm/AppData/Class/MysqliDb.php(1127): MysqliDb->_prepareQuery()
+#1 /var/www/html/erpm/AppData/Class/MysqliDb.php(495): MysqliDb->_buildQuery()
+#2 /var/www/html/erpm/Controller/getDataForDownTime.php(10): MysqliDb->query()
+#3 {main}
+  thrown in /var/www/html/erpm/AppData/Class/MysqliDb.php on line 1514
+[13-Jan-2023 15:22:50 Asia/Kolkata] PHP Fatal error:  Uncaught Exception: Problem preparing query (call GetDTDetailsByID("22"))) AND 2709=3300#")) You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ')) AND 2709=3300#")' at line 1 in /var/www/html/erpm/AppData/Class/MysqliDb.php:1514
+Stack trace:
+#0 /var/www/html/erpm/AppData/Class/MysqliDb.php(1127): MysqliDb->_prepareQuery()
+#1 /var/www/html/erpm/AppData/Class/MysqliDb.php(495): MysqliDb->_buildQuery()
+#2 /var/www/html/erpm/Controller/getDataForDownTime.php(10): MysqliDb->query()
+#3 {main}
+  thrown in /var/www/html/erpm/AppData/Class/MysqliDb.php on line 1514
+[13-Jan-2023 15:22:51 Asia/Kolkata] PHP Fatal error:  Uncaught Exception: Problem preparing query (call GetDTDetailsByID("22"))) AND 3678=3678#")) You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ')) AND 3678=3678#")' at line 1 in /var/www/html/erpm/AppData/Class/MysqliDb.php:1514
+Stack trace:
+#0 /var/www/html/erpm/AppData/Class/MysqliDb.php(1127): MysqliDb->_prepareQuery()
+#1 /var/www/html/erpm/AppData/Class/MysqliDb.php(495): MysqliDb->_buildQuery()
+#2 /var/www/html/erpm/Controller/getDataForDownTime.php(10): MysqliDb->query()
+#3 {main}
+  thrown in /var/www/html/erpm/AppData/Class/MysqliDb.php on line 1514
+[13-Jan-2023 15:22:51 Asia/Kolkata] PHP Fatal error:  Uncaught Exception: Problem preparing query (call GetDTDetailsByID("22")) AS zPzf WHERE 4621=4621 AND 2930=7115#")) You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ') AS zPzf WHERE 4621=4621 AND 2930=7115#")' at line 1 in /var/www/html/erpm/AppData/Class/MysqliDb.php:1514
+Stack trace:
+#0 /var/www/html/erpm/AppData/Class/MysqliDb.php(1127): MysqliDb->_prepareQuery()
+#1 /var/www/html/erpm/AppData/Class/MysqliDb.php(495): MysqliDb->_buildQuery()
+#2 /var/www/html/erpm/Controller/getDataForDownTime.php(10): MysqliDb->query()
+#3 {main}
+  thrown in /var/www/html/erpm/AppData/Class/MysqliDb.php on line 1514
+[13-Jan-2023 15:22:51 Asia/Kolkata] PHP Fatal error:  Uncaught Exception: Problem preparing query (call GetDTDetailsByID("22")) AS pagW WHERE 5857=5857 AND 3678=3678#")) You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ') AS pagW WHERE 5857=5857 AND 3678=3678#")' at line 1 in /var/www/html/erpm/AppData/Class/MysqliDb.php:1514
+Stack trace:
+#0 /var/www/html/erpm/AppData/Class/MysqliDb.php(1127): MysqliDb->_prepareQuery()
+#1 /var/www/html/erpm/AppData/Class/MysqliDb.php(495): MysqliDb->_buildQuery()
+#2 /var/www/html/erpm/Controller/getDataForDownTime.php(10): MysqliDb->query()
+#3 {main}
+  thrown in /var/www/html/erpm/AppData/Class/MysqliDb.php on line 1514
+[13-Jan-2023 15:22:51 Asia/Kolkata] PHP Fatal error:  Uncaught Exception: Problem preparing query (call GetDTDetailsByID("22") AS fHWW WHERE 3965=3965 AND 8354=9035#")) You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'AS fHWW WHERE 3965=3965 AND 8354=9035#")' at line 1 in /var/www/html/erpm/AppData/Class/MysqliDb.php:1514
+Stack trace:
+#0 /var/www/html/erpm/AppData/Class/MysqliDb.php(1127): MysqliDb->_prepareQuery()
+#1 /var/www/html/erpm/AppData/Class/MysqliDb.php(495): MysqliDb->_buildQuery()
+#2 /var/www/html/erpm/Controller/getDataForDownTime.php(10): MysqliDb->query()
+#3 {main}
+  thrown in /var/www/html/erpm/AppData/Class/MysqliDb.php on line 1514
+[13-Jan-2023 15:22:51 Asia/Kolkata] PHP Fatal error:  Uncaught Exception: Problem preparing query (call GetDTDetailsByID("22") AS IzkT WHERE 8149=8149 AND 3678=3678#")) You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'AS IzkT WHERE 8149=8149 AND 3678=3678#")' at line 1 in /var/www/html/erpm/AppData/Class/MysqliDb.php:1514
+Stack trace:
+#0 /var/www/html/erpm/AppData/Class/MysqliDb.php(1127): MysqliDb->_prepareQuery()
+#1 /var/www/html/erpm/AppData/Class/MysqliDb.php(495): MysqliDb->_buildQuery()
+#2 /var/www/html/erpm/Controller/getDataForDownTime.php(10): MysqliDb->query()
+#3 {main}
+  thrown in /var/www/html/erpm/AppData/Class/MysqliDb.php on line 1514
+[13-Jan-2023 15:22:53 Asia/Kolkata] PHP Fatal error:  Uncaught Exception: Problem preparing query (call GetDTDetailsByID("-2016" OR 9509=1277#")) You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1 in /var/www/html/erpm/AppData/Class/MysqliDb.php:1514
+Stack trace:
+#0 /var/www/html/erpm/AppData/Class/MysqliDb.php(1127): MysqliDb->_prepareQuery()
+#1 /var/www/html/erpm/AppData/Class/MysqliDb.php(495): MysqliDb->_buildQuery()
+#2 /var/www/html/erpm/Controller/getDataForDownTime.php(10): MysqliDb->query()
+#3 {main}
+  thrown in /var/www/html/erpm/AppData/Class/MysqliDb.php on line 1514
+[13-Jan-2023 15:22:53 Asia/Kolkata] PHP Fatal error:  Uncaught Exception: Problem preparing query (call GetDTDetailsByID("-9527" OR 9074=9074#")) You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1 in /var/www/html/erpm/AppData/Class/MysqliDb.php:1514
+Stack trace:
+#0 /var/www/html/erpm/AppData/Class/MysqliDb.php(1127): MysqliDb->_prepareQuery()
+#1 /var/www/html/erpm/AppData/Class/MysqliDb.php(495): MysqliDb->_buildQuery()
+#2 /var/www/html/erpm/Controller/getDataForDownTime.php(10): MysqliDb->query()
+#3 {main}
+  thrown in /var/www/html/erpm/AppData/Class/MysqliDb.php on line 1514
+[13-Jan-2023 15:22:53 Asia/Kolkata] PHP Fatal error:  Uncaught Exception: Problem preparing query (call GetDTDetailsByID("-1703") OR 6931=6478#")) You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'OR 6931=6478#")' at line 1 in /var/www/html/erpm/AppData/Class/MysqliDb.php:1514
+Stack trace:
+#0 /var/www/html/erpm/AppData/Class/MysqliDb.php(1127): MysqliDb->_prepareQuery()
+#1 /var/www/html/erpm/AppData/Class/MysqliDb.php(495): MysqliDb->_buildQuery()
+#2 /var/www/html/erpm/Controller/getDataForDownTime.php(10): MysqliDb->query()
+#3 {main}
+  thrown in /var/www/html/erpm/AppData/Class/MysqliDb.php on line 1514
+[13-Jan-2023 15:22:54 Asia/Kolkata] PHP Fatal error:  Uncaught Exception: Problem preparing query (call GetDTDetailsByID("-3972") OR 9074=9074#")) You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'OR 9074=9074#")' at line 1 in /var/www/html/erpm/AppData/Class/MysqliDb.php:1514
+Stack trace:
+#0 /var/www/html/erpm/AppData/Class/MysqliDb.php(1127): MysqliDb->_prepareQuery()
+#1 /var/www/html/erpm/AppData/Class/MysqliDb.php(495): MysqliDb->_buildQuery()
+#2 /var/www/html/erpm/Controller/getDataForDownTime.php(10): MysqliDb->query()
+#3 {main}
+  thrown in /var/www/html/erpm/AppData/Class/MysqliDb.php on line 1514
+[13-Jan-2023 15:22:54 Asia/Kolkata] PHP Fatal error:  Uncaught Exception: Problem preparing query (call GetDTDetailsByID("-3059")) OR 6629=7207#")) You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ') OR 6629=7207#")' at line 1 in /var/www/html/erpm/AppData/Class/MysqliDb.php:1514
+Stack trace:
+#0 /var/www/html/erpm/AppData/Class/MysqliDb.php(1127): MysqliDb->_prepareQuery()
+#1 /var/www/html/erpm/AppData/Class/MysqliDb.php(495): MysqliDb->_buildQuery()
+#2 /var/www/html/erpm/Controller/getDataForDownTime.php(10): MysqliDb->query()
+#3 {main}
+  thrown in /var/www/html/erpm/AppData/Class/MysqliDb.php on line 1514
+[13-Jan-2023 15:22:54 Asia/Kolkata] PHP Fatal error:  Uncaught Exception: Problem preparing query (call GetDTDetailsByID("-2783")) OR 9074=9074#")) You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ') OR 9074=9074#")' at line 1 in /var/www/html/erpm/AppData/Class/MysqliDb.php:1514
+Stack trace:
+#0 /var/www/html/erpm/AppData/Class/MysqliDb.php(1127): MysqliDb->_prepareQuery()
+#1 /var/www/html/erpm/AppData/Class/MysqliDb.php(495): MysqliDb->_buildQuery()
+#2 /var/www/html/erpm/Controller/getDataForDownTime.php(10): MysqliDb->query()
+#3 {main}
+  thrown in /var/www/html/erpm/AppData/Class/MysqliDb.php on line 1514
+[13-Jan-2023 15:22:54 Asia/Kolkata] PHP Fatal error:  Uncaught Exception: Problem preparing query (call GetDTDetailsByID("-8935"))) OR 6092=2294#")) You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ')) OR 6092=2294#")' at line 1 in /var/www/html/erpm/AppData/Class/MysqliDb.php:1514
+Stack trace:
+#0 /var/www/html/erpm/AppData/Class/MysqliDb.php(1127): MysqliDb->_prepareQuery()
+#1 /var/www/html/erpm/AppData/Class/MysqliDb.php(495): MysqliDb->_buildQuery()
+#2 /var/www/html/erpm/Controller/getDataForDownTime.php(10): MysqliDb->query()
+#3 {main}
+  thrown in /var/www/html/erpm/AppData/Class/MysqliDb.php on line 1514
+[13-Jan-2023 15:22:54 Asia/Kolkata] PHP Fatal error:  Uncaught Exception: Problem preparing query (call GetDTDetailsByID("-9943"))) OR 9074=9074#")) You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ')) OR 9074=9074#")' at line 1 in /var/www/html/erpm/AppData/Class/MysqliDb.php:1514
+Stack trace:
+#0 /var/www/html/erpm/AppData/Class/MysqliDb.php(1127): MysqliDb->_prepareQuery()
+#1 /var/www/html/erpm/AppData/Class/MysqliDb.php(495): MysqliDb->_buildQuery()
+#2 /var/www/html/erpm/Controller/getDataForDownTime.php(10): MysqliDb->query()
+#3 {main}
+  thrown in /var/www/html/erpm/AppData/Class/MysqliDb.php on line 1514
+[13-Jan-2023 15:22:54 Asia/Kolkata] PHP Fatal error:  Uncaught Exception: Problem preparing query (call GetDTDetailsByID("-4103")) AS IFET WHERE 2271=2271 OR 3189=4350#")) You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ') AS IFET WHERE 2271=2271 OR 3189=4350#")' at line 1 in /var/www/html/erpm/AppData/Class/MysqliDb.php:1514
+Stack trace:
+#0 /var/www/html/erpm/AppData/Class/MysqliDb.php(1127): MysqliDb->_prepareQuery()
+#1 /var/www/html/erpm/AppData/Class/MysqliDb.php(495): MysqliDb->_buildQuery()
+#2 /var/www/html/erpm/Controller/getDataForDownTime.php(10): MysqliDb->query()
+#3 {main}
+  thrown in /var/www/html/erpm/AppData/Class/MysqliDb.php on line 1514
+[13-Jan-2023 15:22:54 Asia/Kolkata] PHP Fatal error:  Uncaught Exception: Problem preparing query (call GetDTDetailsByID("-6536")) AS fxcb WHERE 6290=6290 OR 9074=9074#")) You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ') AS fxcb WHERE 6290=6290 OR 9074=9074#")' at line 1 in /var/www/html/erpm/AppData/Class/MysqliDb.php:1514
+Stack trace:
+#0 /var/www/html/erpm/AppData/Class/MysqliDb.php(1127): MysqliDb->_prepareQuery()
+#1 /var/www/html/erpm/AppData/Class/MysqliDb.php(495): MysqliDb->_buildQuery()
+#2 /var/www/html/erpm/Controller/getDataForDownTime.php(10): MysqliDb->query()
+#3 {main}
+  thrown in /var/www/html/erpm/AppData/Class/MysqliDb.php on line 1514
+[13-Jan-2023 15:22:54 Asia/Kolkata] PHP Fatal error:  Uncaught Exception: Problem preparing query (call GetDTDetailsByID("-5159") AS DTLn WHERE 8510=8510 OR 5982=6154#")) You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'AS DTLn WHERE 8510=8510 OR 5982=6154#")' at line 1 in /var/www/html/erpm/AppData/Class/MysqliDb.php:1514
+Stack trace:
+#0 /var/www/html/erpm/AppData/Class/MysqliDb.php(1127): MysqliDb->_prepareQuery()
+#1 /var/www/html/erpm/AppData/Class/MysqliDb.php(495): MysqliDb->_buildQuery()
+#2 /var/www/html/erpm/Controller/getDataForDownTime.php(10): MysqliDb->query()
+#3 {main}
+  thrown in /var/www/html/erpm/AppData/Class/MysqliDb.php on line 1514
+[13-Jan-2023 15:22:54 Asia/Kolkata] PHP Fatal error:  Uncaught Exception: Problem preparing query (call GetDTDetailsByID("-8880") AS EumJ WHERE 1203=1203 OR 9074=9074#")) You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'AS EumJ WHERE 1203=1203 OR 9074=9074#")' at line 1 in /var/www/html/erpm/AppData/Class/MysqliDb.php:1514
+Stack trace:
+#0 /var/www/html/erpm/AppData/Class/MysqliDb.php(1127): MysqliDb->_prepareQuery()
+#1 /var/www/html/erpm/AppData/Class/MysqliDb.php(495): MysqliDb->_buildQuery()
+#2 /var/www/html/erpm/Controller/getDataForDownTime.php(10): MysqliDb->query()
+#3 {main}
+  thrown in /var/www/html/erpm/AppData/Class/MysqliDb.php on line 1514
+[13-Jan-2023 15:22:56 Asia/Kolkata] PHP Fatal error:  Uncaught Exception: Problem preparing query (call GetDTDetailsByID("22" OR NOT 6784=6912#")) You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1 in /var/www/html/erpm/AppData/Class/MysqliDb.php:1514
+Stack trace:
+#0 /var/www/html/erpm/AppData/Class/MysqliDb.php(1127): MysqliDb->_prepareQuery()
+#1 /var/www/html/erpm/AppData/Class/MysqliDb.php(495): MysqliDb->_buildQuery()
+#2 /var/www/html/erpm/Controller/getDataForDownTime.php(10): MysqliDb->query()
+#3 {main}
+  thrown in /var/www/html/erpm/AppData/Class/MysqliDb.php on line 1514
+[13-Jan-2023 15:22:56 Asia/Kolkata] PHP Fatal error:  Uncaught Exception: Problem preparing query (call GetDTDetailsByID("22" OR NOT 6934=6934#")) You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1 in /var/www/html/erpm/AppData/Class/MysqliDb.php:1514
+Stack trace:
+#0 /var/www/html/erpm/AppData/Class/MysqliDb.php(1127): MysqliDb->_prepareQuery()
+#1 /var/www/html/erpm/AppData/Class/MysqliDb.php(495): MysqliDb->_buildQuery()
+#2 /var/www/html/erpm/Controller/getDataForDownTime.php(10): MysqliDb->query()
+#3 {main}
+  thrown in /var/www/html/erpm/AppData/Class/MysqliDb.php on line 1514
+[13-Jan-2023 15:22:56 Asia/Kolkata] PHP Fatal error:  Uncaught Exception: Problem preparing query (call GetDTDetailsByID("22") OR NOT 3255=9577#")) You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'OR NOT 3255=9577#")' at line 1 in /var/www/html/erpm/AppData/Class/MysqliDb.php:1514
+Stack trace:
+#0 /var/www/html/erpm/AppData/Class/MysqliDb.php(1127): MysqliDb->_prepareQuery()
+#1 /var/www/html/erpm/AppData/Class/MysqliDb.php(495): MysqliDb->_buildQuery()
+#2 /var/www/html/erpm/Controller/getDataForDownTime.php(10): MysqliDb->query()
+#3 {main}
+  thrown in /var/www/html/erpm/AppData/Class/MysqliDb.php on line 1514
+[13-Jan-2023 15:22:56 Asia/Kolkata] PHP Fatal error:  Uncaught Exception: Problem preparing query (call GetDTDetailsByID("22") OR NOT 6934=6934#")) You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'OR NOT 6934=6934#")' at line 1 in /var/www/html/erpm/AppData/Class/MysqliDb.php:1514
+Stack trace:
+#0 /var/www/html/erpm/AppData/Class/MysqliDb.php(1127): MysqliDb->_prepareQuery()
+#1 /var/www/html/erpm/AppData/Class/MysqliDb.php(495): MysqliDb->_buildQuery()
+#2 /var/www/html/erpm/Controller/getDataForDownTime.php(10): MysqliDb->query()
+#3 {main}
+  thrown in /var/www/html/erpm/AppData/Class/MysqliDb.php on line 1514
+[13-Jan-2023 15:22:56 Asia/Kolkata] PHP Fatal error:  Uncaught Exception: Problem preparing query (call GetDTDetailsByID("22")) OR NOT 2291=2604#")) You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ') OR NOT 2291=2604#")' at line 1 in /var/www/html/erpm/AppData/Class/MysqliDb.php:1514
+Stack trace:
+#0 /var/www/html/erpm/AppData/Class/MysqliDb.php(1127): MysqliDb->_prepareQuery()
+#1 /var/www/html/erpm/AppData/Class/MysqliDb.php(495): MysqliDb->_buildQuery()
+#2 /var/www/html/erpm/Controller/getDataForDownTime.php(10): MysqliDb->query()
+#3 {main}
+  thrown in /var/www/html/erpm/AppData/Class/MysqliDb.php on line 1514
+[13-Jan-2023 15:22:56 Asia/Kolkata] PHP Fatal error:  Uncaught Exception: Problem preparing query (call GetDTDetailsByID("22")) OR NOT 6934=6934#")) You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ') OR NOT 6934=6934#")' at line 1 in /var/www/html/erpm/AppData/Class/MysqliDb.php:1514
+Stack trace:
+#0 /var/www/html/erpm/AppData/Class/MysqliDb.php(1127): MysqliDb->_prepareQuery()
+#1 /var/www/html/erpm/AppData/Class/MysqliDb.php(495): MysqliDb->_buildQuery()
+#2 /var/www/html/erpm/Controller/getDataForDownTime.php(10): MysqliDb->query()
+#3 {main}
+  thrown in /var/www/html/erpm/AppData/Class/MysqliDb.php on line 1514
+[13-Jan-2023 15:22:56 Asia/Kolkata] PHP Fatal error:  Uncaught Exception: Problem preparing query (call GetDTDetailsByID("22"))) OR NOT 2291=6971#")) You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ')) OR NOT 2291=6971#")' at line 1 in /var/www/html/erpm/AppData/Class/MysqliDb.php:1514
+Stack trace:
+#0 /var/www/html/erpm/AppData/Class/MysqliDb.php(1127): MysqliDb->_prepareQuery()
+#1 /var/www/html/erpm/AppData/Class/MysqliDb.php(495): MysqliDb->_buildQuery()
+#2 /var/www/html/erpm/Controller/getDataForDownTime.php(10): MysqliDb->query()
+#3 {main}
+  thrown in /var/www/html/erpm/AppData/Class/MysqliDb.php on line 1514
+[13-Jan-2023 15:22:56 Asia/Kolkata] PHP Fatal error:  Uncaught Exception: Problem preparing query (call GetDTDetailsByID("22"))) OR NOT 6934=6934#")) You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ')) OR NOT 6934=6934#")' at line 1 in /var/www/html/erpm/AppData/Class/MysqliDb.php:1514
+Stack trace:
+#0 /var/www/html/erpm/AppData/Class/MysqliDb.php(1127): MysqliDb->_prepareQuery()
+#1 /var/www/html/erpm/AppData/Class/MysqliDb.php(495): MysqliDb->_buildQuery()
+#2 /var/www/html/erpm/Controller/getDataForDownTime.php(10): MysqliDb->query()
+#3 {main}
+  thrown in /var/www/html/erpm/AppData/Class/MysqliDb.php on line 1514
+[13-Jan-2023 15:22:56 Asia/Kolkata] PHP Fatal error:  Uncaught Exception: Problem preparing query (call GetDTDetailsByID("22")) AS SASP WHERE 3988=3988 OR NOT 1422=7891#")) You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ') AS SASP WHERE 3988=3988 OR NOT 1422=7891#")' at line 1 in /var/www/html/erpm/AppData/Class/MysqliDb.php:1514
+Stack trace:
+#0 /var/www/html/erpm/AppData/Class/MysqliDb.php(1127): MysqliDb->_prepareQuery()
+#1 /var/www/html/erpm/AppData/Class/MysqliDb.php(495): MysqliDb->_buildQuery()
+#2 /var/www/html/erpm/Controller/getDataForDownTime.php(10): MysqliDb->query()
+#3 {main}
+  thrown in /var/www/html/erpm/AppData/Class/MysqliDb.php on line 1514
+[13-Jan-2023 15:22:56 Asia/Kolkata] PHP Fatal error:  Uncaught Exception: Problem preparing query (call GetDTDetailsByID("22")) AS IIJU WHERE 3541=3541 OR NOT 6934=6934#")) You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ') AS IIJU WHERE 3541=3541 OR NOT 6934=6934#")' at line 1 in /var/www/html/erpm/AppData/Class/MysqliDb.php:1514
+Stack trace:
+#0 /var/www/html/erpm/AppData/Class/MysqliDb.php(1127): MysqliDb->_prepareQuery()
+#1 /var/www/html/erpm/AppData/Class/MysqliDb.php(495): MysqliDb->_buildQuery()
+#2 /var/www/html/erpm/Controller/getDataForDownTime.php(10): MysqliDb->query()
+#3 {main}
+  thrown in /var/www/html/erpm/AppData/Class/MysqliDb.php on line 1514
+[13-Jan-2023 15:22:57 Asia/Kolkata] PHP Fatal error:  Uncaught Exception: Problem preparing query (call GetDTDetailsByID("22") AS fXeF WHERE 2088=2088 OR NOT 3224=2836#")) You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'AS fXeF WHERE 2088=2088 OR NOT 3224=2836#")' at line 1 in /var/www/html/erpm/AppData/Class/MysqliDb.php:1514
+Stack trace:
+#0 /var/www/html/erpm/AppData/Class/MysqliDb.php(1127): MysqliDb->_prepareQuery()
+#1 /var/www/html/erpm/AppData/Class/MysqliDb.php(495): MysqliDb->_buildQuery()
+#2 /var/www/html/erpm/Controller/getDataForDownTime.php(10): MysqliDb->query()
+#3 {main}
+  thrown in /var/www/html/erpm/AppData/Class/MysqliDb.php on line 1514
+[13-Jan-2023 15:22:57 Asia/Kolkata] PHP Fatal error:  Uncaught Exception: Problem preparing query (call GetDTDetailsByID("22") AS GcAk WHERE 4573=4573 OR NOT 6934=6934#")) You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'AS GcAk WHERE 4573=4573 OR NOT 6934=6934#")' at line 1 in /var/www/html/erpm/AppData/Class/MysqliDb.php:1514
+Stack trace:
+#0 /var/www/html/erpm/AppData/Class/MysqliDb.php(1127): MysqliDb->_prepareQuery()
+#1 /var/www/html/erpm/AppData/Class/MysqliDb.php(495): MysqliDb->_buildQuery()
+#2 /var/www/html/erpm/Controller/getDataForDownTime.php(10): MysqliDb->query()
+#3 {main}
+  thrown in /var/www/html/erpm/AppData/Class/MysqliDb.php on line 1514
+[13-Jan-2023 15:22:59 Asia/Kolkata] PHP Fatal error:  Uncaught Exception: Problem preparing query (call GetDTDetailsByID("22" RLIKE (SELECT (CASE WHEN (4138=6218) THEN 22 ELSE 0x28 END))-- Yacl")) You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1 in /var/www/html/erpm/AppData/Class/MysqliDb.php:1514
+Stack trace:
+#0 /var/www/html/erpm/AppData/Class/MysqliDb.php(1127): MysqliDb->_prepareQuery()
+#1 /var/www/html/erpm/AppData/Class/MysqliDb.php(495): MysqliDb->_buildQuery()
+#2 /var/www/html/erpm/Controller/getDataForDownTime.php(10): MysqliDb->query()
+#3 {main}
+  thrown in /var/www/html/erpm/AppData/Class/MysqliDb.php on line 1514
+[13-Jan-2023 15:22:59 Asia/Kolkata] PHP Fatal error:  Uncaught Exception: Problem preparing query (call GetDTDetailsByID("22" RLIKE (SELECT (CASE WHEN (5061=5061) THEN 22 ELSE 0x28 END))-- mTmm")) You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1 in /var/www/html/erpm/AppData/Class/MysqliDb.php:1514
+Stack trace:
+#0 /var/www/html/erpm/AppData/Class/MysqliDb.php(1127): MysqliDb->_prepareQuery()
+#1 /var/www/html/erpm/AppData/Class/MysqliDb.php(495): MysqliDb->_buildQuery()
+#2 /var/www/html/erpm/Controller/getDataForDownTime.php(10): MysqliDb->query()
+#3 {main}
+  thrown in /var/www/html/erpm/AppData/Class/MysqliDb.php on line 1514
+[13-Jan-2023 15:23:00 Asia/Kolkata] PHP Fatal error:  Uncaught Exception: Problem preparing query (call GetDTDetailsByID("22") RLIKE (SELECT (CASE WHEN (4019=8962) THEN 22 ELSE 0x28 END)) AND ("qChQ"="qChQ")) You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'RLIKE (SELECT (CASE WHEN (4019=8962) THEN 22 ELSE 0x28 END)) AND ("qChQ"="qChQ")' at line 1 in /var/www/html/erpm/AppData/Class/MysqliDb.php:1514
+Stack trace:
+#0 /var/www/html/erpm/AppData/Class/MysqliDb.php(1127): MysqliDb->_prepareQuery()
+#1 /var/www/html/erpm/AppData/Class/MysqliDb.php(495): MysqliDb->_buildQuery()
+#2 /var/www/html/erpm/Controller/getDataForDownTime.php(10): MysqliDb->query()
+#3 {main}
+  thrown in /var/www/html/erpm/AppData/Class/MysqliDb.php on line 1514
+[13-Jan-2023 15:23:00 Asia/Kolkata] PHP Fatal error:  Uncaught Exception: Problem preparing query (call GetDTDetailsByID("22") RLIKE (SELECT (CASE WHEN (5061=5061) THEN 22 ELSE 0x28 END)) AND ("FDoa"="FDoa")) You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'RLIKE (SELECT (CASE WHEN (5061=5061) THEN 22 ELSE 0x28 END)) AND ("FDoa"="FDoa")' at line 1 in /var/www/html/erpm/AppData/Class/MysqliDb.php:1514
+Stack trace:
+#0 /var/www/html/erpm/AppData/Class/MysqliDb.php(1127): MysqliDb->_prepareQuery()
+#1 /var/www/html/erpm/AppData/Class/MysqliDb.php(495): MysqliDb->_buildQuery()
+#2 /var/www/html/erpm/Controller/getDataForDownTime.php(10): MysqliDb->query()
+#3 {main}
+  thrown in /var/www/html/erpm/AppData/Class/MysqliDb.php on line 1514
+[13-Jan-2023 15:23:00 Asia/Kolkata] PHP Fatal error:  Uncaught Exception: Problem preparing query (call GetDTDetailsByID("22")) RLIKE (SELECT (CASE WHEN (1932=1283) THEN 22 ELSE 0x28 END)) AND (("RJog"="RJog")) You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ') RLIKE (SELECT (CASE WHEN (1932=1283) THEN 22 ELSE 0x28 END)) AND (("RJog"="RJo' at line 1 in /var/www/html/erpm/AppData/Class/MysqliDb.php:1514
+Stack trace:
+#0 /var/www/html/erpm/AppData/Class/MysqliDb.php(1127): MysqliDb->_prepareQuery()
+#1 /var/www/html/erpm/AppData/Class/MysqliDb.php(495): MysqliDb->_buildQuery()
+#2 /var/www/html/erpm/Controller/getDataForDownTime.php(10): MysqliDb->query()
+#3 {main}
+  thrown in /var/www/html/erpm/AppData/Class/MysqliDb.php on line 1514
+[13-Jan-2023 15:23:00 Asia/Kolkata] PHP Fatal error:  Uncaught Exception: Problem preparing query (call GetDTDetailsByID("22")) RLIKE (SELECT (CASE WHEN (5061=5061) THEN 22 ELSE 0x28 END)) AND (("KrJk"="KrJk")) You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ') RLIKE (SELECT (CASE WHEN (5061=5061) THEN 22 ELSE 0x28 END)) AND (("KrJk"="KrJ' at line 1 in /var/www/html/erpm/AppData/Class/MysqliDb.php:1514
+Stack trace:
+#0 /var/www/html/erpm/AppData/Class/MysqliDb.php(1127): MysqliDb->_prepareQuery()
+#1 /var/www/html/erpm/AppData/Class/MysqliDb.php(495): MysqliDb->_buildQuery()
+#2 /var/www/html/erpm/Controller/getDataForDownTime.php(10): MysqliDb->query()
+#3 {main}
+  thrown in /var/www/html/erpm/AppData/Class/MysqliDb.php on line 1514
+[13-Jan-2023 15:23:00 Asia/Kolkata] PHP Fatal error:  Uncaught Exception: Problem preparing query (call GetDTDetailsByID("22"))) RLIKE (SELECT (CASE WHEN (3876=2854) THEN 22 ELSE 0x28 END)) AND ((("kbfY"="kbfY")) You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ')) RLIKE (SELECT (CASE WHEN (3876=2854) THEN 22 ELSE 0x28 END)) AND ((("kbfY"="k' at line 1 in /var/www/html/erpm/AppData/Class/MysqliDb.php:1514
+Stack trace:
+#0 /var/www/html/erpm/AppData/Class/MysqliDb.php(1127): MysqliDb->_prepareQuery()
+#1 /var/www/html/erpm/AppData/Class/MysqliDb.php(495): MysqliDb->_buildQuery()
+#2 /var/www/html/erpm/Controller/getDataForDownTime.php(10): MysqliDb->query()
+#3 {main}
+  thrown in /var/www/html/erpm/AppData/Class/MysqliDb.php on line 1514
+[13-Jan-2023 15:23:00 Asia/Kolkata] PHP Fatal error:  Uncaught Exception: Problem preparing query (call GetDTDetailsByID("22"))) RLIKE (SELECT (CASE WHEN (5061=5061) THEN 22 ELSE 0x28 END)) AND ((("qibS"="qibS")) You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ')) RLIKE (SELECT (CASE WHEN (5061=5061) THEN 22 ELSE 0x28 END)) AND ((("qibS"="q' at line 1 in /var/www/html/erpm/AppData/Class/MysqliDb.php:1514
+Stack trace:
+#0 /var/www/html/erpm/AppData/Class/MysqliDb.php(1127): MysqliDb->_prepareQuery()
+#1 /var/www/html/erpm/AppData/Class/MysqliDb.php(495): MysqliDb->_buildQuery()
+#2 /var/www/html/erpm/Controller/getDataForDownTime.php(10): MysqliDb->query()
+#3 {main}
+  thrown in /var/www/html/erpm/AppData/Class/MysqliDb.php on line 1514
+[13-Jan-2023 15:23:00 Asia/Kolkata] PHP Fatal error:  Uncaught Exception: Problem preparing query (call GetDTDetailsByID("22" RLIKE (SELECT (CASE WHEN (3075=6564) THEN 22 ELSE 0x28 END)) AND "ONfH"="ONfH")) Character set 'utf8mb3_general_ci' cannot be used in conjunction with 'binary' in call to regexp_like. in /var/www/html/erpm/AppData/Class/MysqliDb.php:1514
+Stack trace:
+#0 /var/www/html/erpm/AppData/Class/MysqliDb.php(1127): MysqliDb->_prepareQuery()
+#1 /var/www/html/erpm/AppData/Class/MysqliDb.php(495): MysqliDb->_buildQuery()
+#2 /var/www/html/erpm/Controller/getDataForDownTime.php(10): MysqliDb->query()
+#3 {main}
+  thrown in /var/www/html/erpm/AppData/Class/MysqliDb.php on line 1514
+[13-Jan-2023 15:23:00 Asia/Kolkata] PHP Fatal error:  Uncaught Exception: Problem preparing query (call GetDTDetailsByID("22" RLIKE (SELECT (CASE WHEN (5061=5061) THEN 22 ELSE 0x28 END)) AND "vpnI"="vpnI")) Character set 'utf8mb3_general_ci' cannot be used in conjunction with 'binary' in call to regexp_like. in /var/www/html/erpm/AppData/Class/MysqliDb.php:1514
+Stack trace:
+#0 /var/www/html/erpm/AppData/Class/MysqliDb.php(1127): MysqliDb->_prepareQuery()
+#1 /var/www/html/erpm/AppData/Class/MysqliDb.php(495): MysqliDb->_buildQuery()
+#2 /var/www/html/erpm/Controller/getDataForDownTime.php(10): MysqliDb->query()
+#3 {main}
+  thrown in /var/www/html/erpm/AppData/Class/MysqliDb.php on line 1514
+[13-Jan-2023 15:23:00 Asia/Kolkata] PHP Fatal error:  Uncaught Exception: Problem preparing query (call GetDTDetailsByID("22") RLIKE (SELECT (CASE WHEN (5342=1787) THEN 22 ELSE 0x28 END)) AND ("GDJv" LIKE "GDJv")) You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'RLIKE (SELECT (CASE WHEN (5342=1787) THEN 22 ELSE 0x28 END)) AND ("GDJv" LIKE "G' at line 1 in /var/www/html/erpm/AppData/Class/MysqliDb.php:1514
+Stack trace:
+#0 /var/www/html/erpm/AppData/Class/MysqliDb.php(1127): MysqliDb->_prepareQuery()
+#1 /var/www/html/erpm/AppData/Class/MysqliDb.php(495): MysqliDb->_buildQuery()
+#2 /var/www/html/erpm/Controller/getDataForDownTime.php(10): MysqliDb->query()
+#3 {main}
+  thrown in /var/www/html/erpm/AppData/Class/MysqliDb.php on line 1514
+[13-Jan-2023 15:23:00 Asia/Kolkata] PHP Fatal error:  Uncaught Exception: Problem preparing query (call GetDTDetailsByID("22") RLIKE (SELECT (CASE WHEN (5061=5061) THEN 22 ELSE 0x28 END)) AND ("kVAt" LIKE "kVAt")) You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'RLIKE (SELECT (CASE WHEN (5061=5061) THEN 22 ELSE 0x28 END)) AND ("kVAt" LIKE "k' at line 1 in /var/www/html/erpm/AppData/Class/MysqliDb.php:1514
+Stack trace:
+#0 /var/www/html/erpm/AppData/Class/MysqliDb.php(1127): MysqliDb->_prepareQuery()
+#1 /var/www/html/erpm/AppData/Class/MysqliDb.php(495): MysqliDb->_buildQuery()
+#2 /var/www/html/erpm/Controller/getDataForDownTime.php(10): MysqliDb->query()
+#3 {main}
+  thrown in /var/www/html/erpm/AppData/Class/MysqliDb.php on line 1514
+[13-Jan-2023 15:23:00 Asia/Kolkata] PHP Fatal error:  Uncaught Exception: Problem preparing query (call GetDTDetailsByID("22")) RLIKE (SELECT (CASE WHEN (2166=3862) THEN 22 ELSE 0x28 END)) AND (("BsMj" LIKE "BsMj")) You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ') RLIKE (SELECT (CASE WHEN (2166=3862) THEN 22 ELSE 0x28 END)) AND (("BsMj" LIKE' at line 1 in /var/www/html/erpm/AppData/Class/MysqliDb.php:1514
+Stack trace:
+#0 /var/www/html/erpm/AppData/Class/MysqliDb.php(1127): MysqliDb->_prepareQuery()
+#1 /var/www/html/erpm/AppData/Class/MysqliDb.php(495): MysqliDb->_buildQuery()
+#2 /var/www/html/erpm/Controller/getDataForDownTime.php(10): MysqliDb->query()
+#3 {main}
+  thrown in /var/www/html/erpm/AppData/Class/MysqliDb.php on line 1514
+[13-Jan-2023 15:23:00 Asia/Kolkata] PHP Fatal error:  Uncaught Exception: Problem preparing query (call GetDTDetailsByID("22")) RLIKE (SELECT (CASE WHEN (5061=5061) THEN 22 ELSE 0x28 END)) AND (("nuKq" LIKE "nuKq")) You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ') RLIKE (SELECT (CASE WHEN (5061=5061) THEN 22 ELSE 0x28 END)) AND (("nuKq" LIKE' at line 1 in /var/www/html/erpm/AppData/Class/MysqliDb.php:1514
+Stack trace:
+#0 /var/www/html/erpm/AppData/Class/MysqliDb.php(1127): MysqliDb->_prepareQuery()
+#1 /var/www/html/erpm/AppData/Class/MysqliDb.php(495): MysqliDb->_buildQuery()
+#2 /var/www/html/erpm/Controller/getDataForDownTime.php(10): MysqliDb->query()
+#3 {main}
+  thrown in /var/www/html/erpm/AppData/Class/MysqliDb.php on line 1514
+[13-Jan-2023 15:23:01 Asia/Kolkata] PHP Fatal error:  Uncaught Exception: Problem preparing query (call GetDTDetailsByID("22"))) RLIKE (SELECT (CASE WHEN (4424=6667) THEN 22 ELSE 0x28 END)) AND ((("AKoX" LIKE "AKoX")) You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ')) RLIKE (SELECT (CASE WHEN (4424=6667) THEN 22 ELSE 0x28 END)) AND ((("AKoX" LI' at line 1 in /var/www/html/erpm/AppData/Class/MysqliDb.php:1514
+Stack trace:
+#0 /var/www/html/erpm/AppData/Class/MysqliDb.php(1127): MysqliDb->_prepareQuery()
+#1 /var/www/html/erpm/AppData/Class/MysqliDb.php(495): MysqliDb->_buildQuery()
+#2 /var/www/html/erpm/Controller/getDataForDownTime.php(10): MysqliDb->query()
+#3 {main}
+  thrown in /var/www/html/erpm/AppData/Class/MysqliDb.php on line 1514
+[13-Jan-2023 15:23:01 Asia/Kolkata] PHP Fatal error:  Uncaught Exception: Problem preparing query (call GetDTDetailsByID("22"))) RLIKE (SELECT (CASE WHEN (5061=5061) THEN 22 ELSE 0x28 END)) AND ((("GsPg" LIKE "GsPg")) You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ')) RLIKE (SELECT (CASE WHEN (5061=5061) THEN 22 ELSE 0x28 END)) AND ((("GsPg" LI' at line 1 in /var/www/html/erpm/AppData/Class/MysqliDb.php:1514
+Stack trace:
+#0 /var/www/html/erpm/AppData/Class/MysqliDb.php(1127): MysqliDb->_prepareQuery()
+#1 /var/www/html/erpm/AppData/Class/MysqliDb.php(495): MysqliDb->_buildQuery()
+#2 /var/www/html/erpm/Controller/getDataForDownTime.php(10): MysqliDb->query()
+#3 {main}
+  thrown in /var/www/html/erpm/AppData/Class/MysqliDb.php on line 1514
+[13-Jan-2023 15:23:01 Asia/Kolkata] PHP Fatal error:  Uncaught Exception: Problem preparing query (call GetDTDetailsByID("22" RLIKE (SELECT (CASE WHEN (3106=4144) THEN 22 ELSE 0x28 END)) AND "xkvL" LIKE "xkvL")) Character set 'utf8mb3_general_ci' cannot be used in conjunction with 'binary' in call to regexp_like. in /var/www/html/erpm/AppData/Class/MysqliDb.php:1514
+Stack trace:
+#0 /var/www/html/erpm/AppData/Class/MysqliDb.php(1127): MysqliDb->_prepareQuery()
+#1 /var/www/html/erpm/AppData/Class/MysqliDb.php(495): MysqliDb->_buildQuery()
+#2 /var/www/html/erpm/Controller/getDataForDownTime.php(10): MysqliDb->query()
+#3 {main}
+  thrown in /var/www/html/erpm/AppData/Class/MysqliDb.php on line 1514
+[13-Jan-2023 15:23:01 Asia/Kolkata] PHP Fatal error:  Uncaught Exception: Problem preparing query (call GetDTDetailsByID("22" RLIKE (SELECT (CASE WHEN (5061=5061) THEN 22 ELSE 0x28 END)) AND "oEzT" LIKE "oEzT")) Character set 'utf8mb3_general_ci' cannot be used in conjunction with 'binary' in call to regexp_like. in /var/www/html/erpm/AppData/Class/MysqliDb.php:1514
+Stack trace:
+#0 /var/www/html/erpm/AppData/Class/MysqliDb.php(1127): MysqliDb->_prepareQuery()
+#1 /var/www/html/erpm/AppData/Class/MysqliDb.php(495): MysqliDb->_buildQuery()
+#2 /var/www/html/erpm/Controller/getDataForDownTime.php(10): MysqliDb->query()
+#3 {main}
+  thrown in /var/www/html/erpm/AppData/Class/MysqliDb.php on line 1514
+[13-Jan-2023 15:23:01 Asia/Kolkata] PHP Fatal error:  Uncaught Exception: Problem preparing query (call GetDTDetailsByID("22")) AS owYw WHERE 9557=9557 RLIKE (SELECT (CASE WHEN (7520=7055) THEN 22 ELSE 0x28 END))-- CfwV")) You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ') AS owYw WHERE 9557=9557 RLIKE (SELECT (CASE WHEN (7520=7055) THEN 22 ELSE 0x28' at line 1 in /var/www/html/erpm/AppData/Class/MysqliDb.php:1514
+Stack trace:
+#0 /var/www/html/erpm/AppData/Class/MysqliDb.php(1127): MysqliDb->_prepareQuery()
+#1 /var/www/html/erpm/AppData/Class/MysqliDb.php(495): MysqliDb->_buildQuery()
+#2 /var/www/html/erpm/Controller/getDataForDownTime.php(10): MysqliDb->query()
+#3 {main}
+  thrown in /var/www/html/erpm/AppData/Class/MysqliDb.php on line 1514
+[13-Jan-2023 15:23:01 Asia/Kolkata] PHP Fatal error:  Uncaught Exception: Problem preparing query (call GetDTDetailsByID("22")) AS Blah WHERE 8819=8819 RLIKE (SELECT (CASE WHEN (5061=5061) THEN 22 ELSE 0x28 END))-- uPEx")) You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ') AS Blah WHERE 8819=8819 RLIKE (SELECT (CASE WHEN (5061=5061) THEN 22 ELSE 0x28' at line 1 in /var/www/html/erpm/AppData/Class/MysqliDb.php:1514
+Stack trace:
+#0 /var/www/html/erpm/AppData/Class/MysqliDb.php(1127): MysqliDb->_prepareQuery()
+#1 /var/www/html/erpm/AppData/Class/MysqliDb.php(495): MysqliDb->_buildQuery()
+#2 /var/www/html/erpm/Controller/getDataForDownTime.php(10): MysqliDb->query()
+#3 {main}
+  thrown in /var/www/html/erpm/AppData/Class/MysqliDb.php on line 1514
+[13-Jan-2023 15:23:01 Asia/Kolkata] PHP Fatal error:  Uncaught Exception: Problem preparing query (call GetDTDetailsByID("22") AS SAQd WHERE 3777=3777 RLIKE (SELECT (CASE WHEN (2157=2806) THEN 22 ELSE 0x28 END))-- rcXv")) You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'AS SAQd WHERE 3777=3777 RLIKE (SELECT (CASE WHEN (2157=2806) THEN 22 ELSE 0x28 E' at line 1 in /var/www/html/erpm/AppData/Class/MysqliDb.php:1514
+Stack trace:
+#0 /var/www/html/erpm/AppData/Class/MysqliDb.php(1127): MysqliDb->_prepareQuery()
+#1 /var/www/html/erpm/AppData/Class/MysqliDb.php(495): MysqliDb->_buildQuery()
+#2 /var/www/html/erpm/Controller/getDataForDownTime.php(10): MysqliDb->query()
+#3 {main}
+  thrown in /var/www/html/erpm/AppData/Class/MysqliDb.php on line 1514
+[13-Jan-2023 15:23:01 Asia/Kolkata] PHP Fatal error:  Uncaught Exception: Problem preparing query (call GetDTDetailsByID("22") AS lKqO WHERE 3074=3074 RLIKE (SELECT (CASE WHEN (5061=5061) THEN 22 ELSE 0x28 END))-- bYMi")) You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'AS lKqO WHERE 3074=3074 RLIKE (SELECT (CASE WHEN (5061=5061) THEN 22 ELSE 0x28 E' at line 1 in /var/www/html/erpm/AppData/Class/MysqliDb.php:1514
+Stack trace:
+#0 /var/www/html/erpm/AppData/Class/MysqliDb.php(1127): MysqliDb->_prepareQuery()
+#1 /var/www/html/erpm/AppData/Class/MysqliDb.php(495): MysqliDb->_buildQuery()
+#2 /var/www/html/erpm/Controller/getDataForDownTime.php(10): MysqliDb->query()
+#3 {main}
+  thrown in /var/www/html/erpm/AppData/Class/MysqliDb.php on line 1514
+[13-Jan-2023 15:23:03 Asia/Kolkata] PHP Fatal error:  Uncaught Exception: Problem preparing query (call GetDTDetailsByID("22" AND MAKE_SET(6221=6939,6939)-- GZsa")) You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1 in /var/www/html/erpm/AppData/Class/MysqliDb.php:1514
+Stack trace:
+#0 /var/www/html/erpm/AppData/Class/MysqliDb.php(1127): MysqliDb->_prepareQuery()
+#1 /var/www/html/erpm/AppData/Class/MysqliDb.php(495): MysqliDb->_buildQuery()
+#2 /var/www/html/erpm/Controller/getDataForDownTime.php(10): MysqliDb->query()
+#3 {main}
+  thrown in /var/www/html/erpm/AppData/Class/MysqliDb.php on line 1514
+[13-Jan-2023 15:23:03 Asia/Kolkata] PHP Fatal error:  Uncaught Exception: Problem preparing query (call GetDTDetailsByID("22" AND MAKE_SET(6135=6135,4318)-- OZKu")) You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1 in /var/www/html/erpm/AppData/Class/MysqliDb.php:1514
+Stack trace:
+#0 /var/www/html/erpm/AppData/Class/MysqliDb.php(1127): MysqliDb->_prepareQuery()
+#1 /var/www/html/erpm/AppData/Class/MysqliDb.php(495): MysqliDb->_buildQuery()
+#2 /var/www/html/erpm/Controller/getDataForDownTime.php(10): MysqliDb->query()
+#3 {main}
+  thrown in /var/www/html/erpm/AppData/Class/MysqliDb.php on line 1514
+[13-Jan-2023 15:23:04 Asia/Kolkata] PHP Fatal error:  Uncaught Exception: Problem preparing query (call GetDTDetailsByID("22") AND MAKE_SET(2313=1442,1442) AND ("ixVC"="ixVC")) You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'AND MAKE_SET(2313=1442,1442) AND ("ixVC"="ixVC")' at line 1 in /var/www/html/erpm/AppData/Class/MysqliDb.php:1514
+Stack trace:
+#0 /var/www/html/erpm/AppData/Class/MysqliDb.php(1127): MysqliDb->_prepareQuery()
+#1 /var/www/html/erpm/AppData/Class/MysqliDb.php(495): MysqliDb->_buildQuery()
+#2 /var/www/html/erpm/Controller/getDataForDownTime.php(10): MysqliDb->query()
+#3 {main}
+  thrown in /var/www/html/erpm/AppData/Class/MysqliDb.php on line 1514
+[13-Jan-2023 15:23:05 Asia/Kolkata] PHP Fatal error:  Uncaught Exception: Problem preparing query (call GetDTDetailsByID("22") AND MAKE_SET(6135=6135,4318) AND ("htQp"="htQp")) You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'AND MAKE_SET(6135=6135,4318) AND ("htQp"="htQp")' at line 1 in /var/www/html/erpm/AppData/Class/MysqliDb.php:1514
+Stack trace:
+#0 /var/www/html/erpm/AppData/Class/MysqliDb.php(1127): MysqliDb->_prepareQuery()
+#1 /var/www/html/erpm/AppData/Class/MysqliDb.php(495): MysqliDb->_buildQuery()
+#2 /var/www/html/erpm/Controller/getDataForDownTime.php(10): MysqliDb->query()
+#3 {main}
+  thrown in /var/www/html/erpm/AppData/Class/MysqliDb.php on line 1514
+[13-Jan-2023 15:23:05 Asia/Kolkata] PHP Fatal error:  Uncaught Exception: Problem preparing query (call GetDTDetailsByID("22")) AND MAKE_SET(4855=7610,7610) AND (("yEKF"="yEKF")) You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ') AND MAKE_SET(4855=7610,7610) AND (("yEKF"="yEKF")' at line 1 in /var/www/html/erpm/AppData/Class/MysqliDb.php:1514
+Stack trace:
+#0 /var/www/html/erpm/AppData/Class/MysqliDb.php(1127): MysqliDb->_prepareQuery()
+#1 /var/www/html/erpm/AppData/Class/MysqliDb.php(495): MysqliDb->_buildQuery()
+#2 /var/www/html/erpm/Controller/getDataForDownTime.php(10): MysqliDb->query()
+#3 {main}
+  thrown in /var/www/html/erpm/AppData/Class/MysqliDb.php on line 1514
+[13-Jan-2023 15:23:05 Asia/Kolkata] PHP Fatal error:  Uncaught Exception: Problem preparing query (call GetDTDetailsByID("22")) AND MAKE_SET(6135=6135,4318) AND (("tHXH"="tHXH")) You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ') AND MAKE_SET(6135=6135,4318) AND (("tHXH"="tHXH")' at line 1 in /var/www/html/erpm/AppData/Class/MysqliDb.php:1514
+Stack trace:
+#0 /var/www/html/erpm/AppData/Class/MysqliDb.php(1127): MysqliDb->_prepareQuery()
+#1 /var/www/html/erpm/AppData/Class/MysqliDb.php(495): MysqliDb->_buildQuery()
+#2 /var/www/html/erpm/Controller/getDataForDownTime.php(10): MysqliDb->query()
+#3 {main}
+  thrown in /var/www/html/erpm/AppData/Class/MysqliDb.php on line 1514
+[13-Jan-2023 15:23:05 Asia/Kolkata] PHP Fatal error:  Uncaught Exception: Problem preparing query (call GetDTDetailsByID("22"))) AND MAKE_SET(6244=1603,1603) AND ((("ORnE"="ORnE")) You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ')) AND MAKE_SET(6244=1603,1603) AND ((("ORnE"="ORnE")' at line 1 in /var/www/html/erpm/AppData/Class/MysqliDb.php:1514
+Stack trace:
+#0 /var/www/html/erpm/AppData/Class/MysqliDb.php(1127): MysqliDb->_prepareQuery()
+#1 /var/www/html/erpm/AppData/Class/MysqliDb.php(495): MysqliDb->_buildQuery()
+#2 /var/www/html/erpm/Controller/getDataForDownTime.php(10): MysqliDb->query()
+#3 {main}
+  thrown in /var/www/html/erpm/AppData/Class/MysqliDb.php on line 1514
+[13-Jan-2023 15:23:05 Asia/Kolkata] PHP Fatal error:  Uncaught Exception: Problem preparing query (call GetDTDetailsByID("22"))) AND MAKE_SET(6135=6135,4318) AND ((("DzXt"="DzXt")) You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ')) AND MAKE_SET(6135=6135,4318) AND ((("DzXt"="DzXt")' at line 1 in /var/www/html/erpm/AppData/Class/MysqliDb.php:1514
+Stack trace:
+#0 /var/www/html/erpm/AppData/Class/MysqliDb.php(1127): MysqliDb->_prepareQuery()
+#1 /var/www/html/erpm/AppData/Class/MysqliDb.php(495): MysqliDb->_buildQuery()
+#2 /var/www/html/erpm/Controller/getDataForDownTime.php(10): MysqliDb->query()
+#3 {main}
+  thrown in /var/www/html/erpm/AppData/Class/MysqliDb.php on line 1514
+[13-Jan-2023 15:23:05 Asia/Kolkata] PHP Fatal error:  Uncaught Exception: Problem preparing query (call GetDTDetailsByID("22") AND MAKE_SET(4878=7909,7909) AND ("GlLC" LIKE "GlLC")) You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'AND MAKE_SET(4878=7909,7909) AND ("GlLC" LIKE "GlLC")' at line 1 in /var/www/html/erpm/AppData/Class/MysqliDb.php:1514
+Stack trace:
+#0 /var/www/html/erpm/AppData/Class/MysqliDb.php(1127): MysqliDb->_prepareQuery()
+#1 /var/www/html/erpm/AppData/Class/MysqliDb.php(495): MysqliDb->_buildQuery()
+#2 /var/www/html/erpm/Controller/getDataForDownTime.php(10): MysqliDb->query()
+#3 {main}
+  thrown in /var/www/html/erpm/AppData/Class/MysqliDb.php on line 1514
+[13-Jan-2023 15:23:05 Asia/Kolkata] PHP Fatal error:  Uncaught Exception: Problem preparing query (call GetDTDetailsByID("22") AND MAKE_SET(6135=6135,4318) AND ("rmHz" LIKE "rmHz")) You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'AND MAKE_SET(6135=6135,4318) AND ("rmHz" LIKE "rmHz")' at line 1 in /var/www/html/erpm/AppData/Class/MysqliDb.php:1514
+Stack trace:
+#0 /var/www/html/erpm/AppData/Class/MysqliDb.php(1127): MysqliDb->_prepareQuery()
+#1 /var/www/html/erpm/AppData/Class/MysqliDb.php(495): MysqliDb->_buildQuery()
+#2 /var/www/html/erpm/Controller/getDataForDownTime.php(10): MysqliDb->query()
+#3 {main}
+  thrown in /var/www/html/erpm/AppData/Class/MysqliDb.php on line 1514
+[13-Jan-2023 15:23:05 Asia/Kolkata] PHP Fatal error:  Uncaught Exception: Problem preparing query (call GetDTDetailsByID("22")) AND MAKE_SET(6034=2251,2251) AND (("OAJu" LIKE "OAJu")) You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ') AND MAKE_SET(6034=2251,2251) AND (("OAJu" LIKE "OAJu")' at line 1 in /var/www/html/erpm/AppData/Class/MysqliDb.php:1514
+Stack trace:
+#0 /var/www/html/erpm/AppData/Class/MysqliDb.php(1127): MysqliDb->_prepareQuery()
+#1 /var/www/html/erpm/AppData/Class/MysqliDb.php(495): MysqliDb->_buildQuery()
+#2 /var/www/html/erpm/Controller/getDataForDownTime.php(10): MysqliDb->query()
+#3 {main}
+  thrown in /var/www/html/erpm/AppData/Class/MysqliDb.php on line 1514
+[13-Jan-2023 15:23:05 Asia/Kolkata] PHP Fatal error:  Uncaught Exception: Problem preparing query (call GetDTDetailsByID("22")) AND MAKE_SET(6135=6135,4318) AND (("lsFy" LIKE "lsFy")) You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ') AND MAKE_SET(6135=6135,4318) AND (("lsFy" LIKE "lsFy")' at line 1 in /var/www/html/erpm/AppData/Class/MysqliDb.php:1514
+Stack trace:
+#0 /var/www/html/erpm/AppData/Class/MysqliDb.php(1127): MysqliDb->_prepareQuery()
+#1 /var/www/html/erpm/AppData/Class/MysqliDb.php(495): MysqliDb->_buildQuery()
+#2 /var/www/html/erpm/Controller/getDataForDownTime.php(10): MysqliDb->query()
+#3 {main}
+  thrown in /var/www/html/erpm/AppData/Class/MysqliDb.php on line 1514
+[13-Jan-2023 15:23:05 Asia/Kolkata] PHP Fatal error:  Uncaught Exception: Problem preparing query (call GetDTDetailsByID("22"))) AND MAKE_SET(6264=6432,6432) AND ((("cirV" LIKE "cirV")) You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ')) AND MAKE_SET(6264=6432,6432) AND ((("cirV" LIKE "cirV")' at line 1 in /var/www/html/erpm/AppData/Class/MysqliDb.php:1514
+Stack trace:
+#0 /var/www/html/erpm/AppData/Class/MysqliDb.php(1127): MysqliDb->_prepareQuery()
+#1 /var/www/html/erpm/AppData/Class/MysqliDb.php(495): MysqliDb->_buildQuery()
+#2 /var/www/html/erpm/Controller/getDataForDownTime.php(10): MysqliDb->query()
+#3 {main}
+  thrown in /var/www/html/erpm/AppData/Class/MysqliDb.php on line 1514
+[13-Jan-2023 15:23:05 Asia/Kolkata] PHP Fatal error:  Uncaught Exception: Problem preparing query (call GetDTDetailsByID("22"))) AND MAKE_SET(6135=6135,4318) AND ((("WnDD" LIKE "WnDD")) You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ')) AND MAKE_SET(6135=6135,4318) AND ((("WnDD" LIKE "WnDD")' at line 1 in /var/www/html/erpm/AppData/Class/MysqliDb.php:1514
+Stack trace:
+#0 /var/www/html/erpm/AppData/Class/MysqliDb.php(1127): MysqliDb->_prepareQuery()
+#1 /var/www/html/erpm/AppData/Class/MysqliDb.php(495): MysqliDb->_buildQuery()
+#2 /var/www/html/erpm/Controller/getDataForDownTime.php(10): MysqliDb->query()
+#3 {main}
+  thrown in /var/www/html/erpm/AppData/Class/MysqliDb.php on line 1514
+[13-Jan-2023 15:23:06 Asia/Kolkata] PHP Fatal error:  Uncaught Exception: Problem preparing query (call GetDTDetailsByID("22")) AS JcWw WHERE 1089=1089 AND MAKE_SET(4383=7182,7182)-- yTHu")) You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ') AS JcWw WHERE 1089=1089 AND MAKE_SET(4383=7182,7182)-- yTHu")' at line 1 in /var/www/html/erpm/AppData/Class/MysqliDb.php:1514
+Stack trace:
+#0 /var/www/html/erpm/AppData/Class/MysqliDb.php(1127): MysqliDb->_prepareQuery()
+#1 /var/www/html/erpm/AppData/Class/MysqliDb.php(495): MysqliDb->_buildQuery()
+#2 /var/www/html/erpm/Controller/getDataForDownTime.php(10): MysqliDb->query()
+#3 {main}
+  thrown in /var/www/html/erpm/AppData/Class/MysqliDb.php on line 1514
+[13-Jan-2023 15:23:06 Asia/Kolkata] PHP Fatal error:  Uncaught Exception: Problem preparing query (call GetDTDetailsByID("22")) AS Cmwv WHERE 6501=6501 AND MAKE_SET(6135=6135,4318)-- PSfX")) You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ') AS Cmwv WHERE 6501=6501 AND MAKE_SET(6135=6135,4318)-- PSfX")' at line 1 in /var/www/html/erpm/AppData/Class/MysqliDb.php:1514
+Stack trace:
+#0 /var/www/html/erpm/AppData/Class/MysqliDb.php(1127): MysqliDb->_prepareQuery()
+#1 /var/www/html/erpm/AppData/Class/MysqliDb.php(495): MysqliDb->_buildQuery()
+#2 /var/www/html/erpm/Controller/getDataForDownTime.php(10): MysqliDb->query()
+#3 {main}
+  thrown in /var/www/html/erpm/AppData/Class/MysqliDb.php on line 1514
+[13-Jan-2023 15:23:06 Asia/Kolkata] PHP Fatal error:  Uncaught Exception: Problem preparing query (call GetDTDetailsByID("22") AS qNeA WHERE 9348=9348 AND MAKE_SET(3425=2340,2340)-- ScJU")) You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'AS qNeA WHERE 9348=9348 AND MAKE_SET(3425=2340,2340)-- ScJU")' at line 1 in /var/www/html/erpm/AppData/Class/MysqliDb.php:1514
+Stack trace:
+#0 /var/www/html/erpm/AppData/Class/MysqliDb.php(1127): MysqliDb->_prepareQuery()
+#1 /var/www/html/erpm/AppData/Class/MysqliDb.php(495): MysqliDb->_buildQuery()
+#2 /var/www/html/erpm/Controller/getDataForDownTime.php(10): MysqliDb->query()
+#3 {main}
+  thrown in /var/www/html/erpm/AppData/Class/MysqliDb.php on line 1514
+[13-Jan-2023 15:23:06 Asia/Kolkata] PHP Fatal error:  Uncaught Exception: Problem preparing query (call GetDTDetailsByID("22") AS mrnH WHERE 3908=3908 AND MAKE_SET(6135=6135,4318)-- BShc")) You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'AS mrnH WHERE 3908=3908 AND MAKE_SET(6135=6135,4318)-- BShc")' at line 1 in /var/www/html/erpm/AppData/Class/MysqliDb.php:1514
+Stack trace:
+#0 /var/www/html/erpm/AppData/Class/MysqliDb.php(1127): MysqliDb->_prepareQuery()
+#1 /var/www/html/erpm/AppData/Class/MysqliDb.php(495): MysqliDb->_buildQuery()
+#2 /var/www/html/erpm/Controller/getDataForDownTime.php(10): MysqliDb->query()
+#3 {main}
+  thrown in /var/www/html/erpm/AppData/Class/MysqliDb.php on line 1514
+[13-Jan-2023 15:23:09 Asia/Kolkata] PHP Fatal error:  Uncaught Exception: Problem preparing query (call GetDTDetailsByID("-1930" OR MAKE_SET(7662=2838,2838)-- VBkQ")) You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1 in /var/www/html/erpm/AppData/Class/MysqliDb.php:1514
+Stack trace:
+#0 /var/www/html/erpm/AppData/Class/MysqliDb.php(1127): MysqliDb->_prepareQuery()
+#1 /var/www/html/erpm/AppData/Class/MysqliDb.php(495): MysqliDb->_buildQuery()
+#2 /var/www/html/erpm/Controller/getDataForDownTime.php(10): MysqliDb->query()
+#3 {main}
+  thrown in /var/www/html/erpm/AppData/Class/MysqliDb.php on line 1514
+[13-Jan-2023 15:23:09 Asia/Kolkata] PHP Fatal error:  Uncaught Exception: Problem preparing query (call GetDTDetailsByID("-2976" OR MAKE_SET(3432=3432,6638)-- gMjV")) You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1 in /var/www/html/erpm/AppData/Class/MysqliDb.php:1514
+Stack trace:
+#0 /var/www/html/erpm/AppData/Class/MysqliDb.php(1127): MysqliDb->_prepareQuery()
+#1 /var/www/html/erpm/AppData/Class/MysqliDb.php(495): MysqliDb->_buildQuery()
+#2 /var/www/html/erpm/Controller/getDataForDownTime.php(10): MysqliDb->query()
+#3 {main}
+  thrown in /var/www/html/erpm/AppData/Class/MysqliDb.php on line 1514
+[13-Jan-2023 15:23:10 Asia/Kolkata] PHP Fatal error:  Uncaught Exception: Problem preparing query (call GetDTDetailsByID("-1226") OR MAKE_SET(2419=6199,6199) AND ("kXld"="kXld")) You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'OR MAKE_SET(2419=6199,6199) AND ("kXld"="kXld")' at line 1 in /var/www/html/erpm/AppData/Class/MysqliDb.php:1514
+Stack trace:
+#0 /var/www/html/erpm/AppData/Class/MysqliDb.php(1127): MysqliDb->_prepareQuery()
+#1 /var/www/html/erpm/AppData/Class/MysqliDb.php(495): MysqliDb->_buildQuery()
+#2 /var/www/html/erpm/Controller/getDataForDownTime.php(10): MysqliDb->query()
+#3 {main}
+  thrown in /var/www/html/erpm/AppData/Class/MysqliDb.php on line 1514
+[13-Jan-2023 15:23:11 Asia/Kolkata] PHP Fatal error:  Uncaught Exception: Problem preparing query (call GetDTDetailsByID("-7129") OR MAKE_SET(3432=3432,6638) AND ("qjAI"="qjAI")) You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'OR MAKE_SET(3432=3432,6638) AND ("qjAI"="qjAI")' at line 1 in /var/www/html/erpm/AppData/Class/MysqliDb.php:1514
+Stack trace:
+#0 /var/www/html/erpm/AppData/Class/MysqliDb.php(1127): MysqliDb->_prepareQuery()
+#1 /var/www/html/erpm/AppData/Class/MysqliDb.php(495): MysqliDb->_buildQuery()
+#2 /var/www/html/erpm/Controller/getDataForDownTime.php(10): MysqliDb->query()
+#3 {main}
+  thrown in /var/www/html/erpm/AppData/Class/MysqliDb.php on line 1514
+[13-Jan-2023 15:23:11 Asia/Kolkata] PHP Fatal error:  Uncaught Exception: Problem preparing query (call GetDTDetailsByID("-8056")) OR MAKE_SET(4231=2919,2919) AND (("WpLa"="WpLa")) You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ') OR MAKE_SET(4231=2919,2919) AND (("WpLa"="WpLa")' at line 1 in /var/www/html/erpm/AppData/Class/MysqliDb.php:1514
+Stack trace:
+#0 /var/www/html/erpm/AppData/Class/MysqliDb.php(1127): MysqliDb->_prepareQuery()
+#1 /var/www/html/erpm/AppData/Class/MysqliDb.php(495): MysqliDb->_buildQuery()
+#2 /var/www/html/erpm/Controller/getDataForDownTime.php(10): MysqliDb->query()
+#3 {main}
+  thrown in /var/www/html/erpm/AppData/Class/MysqliDb.php on line 1514
+[13-Jan-2023 15:23:11 Asia/Kolkata] PHP Fatal error:  Uncaught Exception: Problem preparing query (call GetDTDetailsByID("-5593")) OR MAKE_SET(3432=3432,6638) AND (("wBgI"="wBgI")) You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ') OR MAKE_SET(3432=3432,6638) AND (("wBgI"="wBgI")' at line 1 in /var/www/html/erpm/AppData/Class/MysqliDb.php:1514
+Stack trace:
+#0 /var/www/html/erpm/AppData/Class/MysqliDb.php(1127): MysqliDb->_prepareQuery()
+#1 /var/www/html/erpm/AppData/Class/MysqliDb.php(495): MysqliDb->_buildQuery()
+#2 /var/www/html/erpm/Controller/getDataForDownTime.php(10): MysqliDb->query()
+#3 {main}
+  thrown in /var/www/html/erpm/AppData/Class/MysqliDb.php on line 1514
+[13-Jan-2023 15:23:11 Asia/Kolkata] PHP Fatal error:  Uncaught Exception: Problem preparing query (call GetDTDetailsByID("-1936"))) OR MAKE_SET(4550=3914,3914) AND ((("Fxjn"="Fxjn")) You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ')) OR MAKE_SET(4550=3914,3914) AND ((("Fxjn"="Fxjn")' at line 1 in /var/www/html/erpm/AppData/Class/MysqliDb.php:1514
+Stack trace:
+#0 /var/www/html/erpm/AppData/Class/MysqliDb.php(1127): MysqliDb->_prepareQuery()
+#1 /var/www/html/erpm/AppData/Class/MysqliDb.php(495): MysqliDb->_buildQuery()
+#2 /var/www/html/erpm/Controller/getDataForDownTime.php(10): MysqliDb->query()
+#3 {main}
+  thrown in /var/www/html/erpm/AppData/Class/MysqliDb.php on line 1514
+[13-Jan-2023 15:23:11 Asia/Kolkata] PHP Fatal error:  Uncaught Exception: Problem preparing query (call GetDTDetailsByID("-7909"))) OR MAKE_SET(3432=3432,6638) AND ((("kqeR"="kqeR")) You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ')) OR MAKE_SET(3432=3432,6638) AND ((("kqeR"="kqeR")' at line 1 in /var/www/html/erpm/AppData/Class/MysqliDb.php:1514
+Stack trace:
+#0 /var/www/html/erpm/AppData/Class/MysqliDb.php(1127): MysqliDb->_prepareQuery()
+#1 /var/www/html/erpm/AppData/Class/MysqliDb.php(495): MysqliDb->_buildQuery()
+#2 /var/www/html/erpm/Controller/getDataForDownTime.php(10): MysqliDb->query()
+#3 {main}
+  thrown in /var/www/html/erpm/AppData/Class/MysqliDb.php on line 1514
+[13-Jan-2023 15:23:11 Asia/Kolkata] PHP Fatal error:  Uncaught Exception: Problem preparing query (call GetDTDetailsByID("-6761") OR MAKE_SET(3885=6616,6616) AND ("Lnnz" LIKE "Lnnz")) You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'OR MAKE_SET(3885=6616,6616) AND ("Lnnz" LIKE "Lnnz")' at line 1 in /var/www/html/erpm/AppData/Class/MysqliDb.php:1514
+Stack trace:
+#0 /var/www/html/erpm/AppData/Class/MysqliDb.php(1127): MysqliDb->_prepareQuery()
+#1 /var/www/html/erpm/AppData/Class/MysqliDb.php(495): MysqliDb->_buildQuery()
+#2 /var/www/html/erpm/Controller/getDataForDownTime.php(10): MysqliDb->query()
+#3 {main}
+  thrown in /var/www/html/erpm/AppData/Class/MysqliDb.php on line 1514
+[13-Jan-2023 15:23:12 Asia/Kolkata] PHP Fatal error:  Uncaught Exception: Problem preparing query (call GetDTDetailsByID("-5960") OR MAKE_SET(3432=3432,6638) AND ("rOoK" LIKE "rOoK")) You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'OR MAKE_SET(3432=3432,6638) AND ("rOoK" LIKE "rOoK")' at line 1 in /var/www/html/erpm/AppData/Class/MysqliDb.php:1514
+Stack trace:
+#0 /var/www/html/erpm/AppData/Class/MysqliDb.php(1127): MysqliDb->_prepareQuery()
+#1 /var/www/html/erpm/AppData/Class/MysqliDb.php(495): MysqliDb->_buildQuery()
+#2 /var/www/html/erpm/Controller/getDataForDownTime.php(10): MysqliDb->query()
+#3 {main}
+  thrown in /var/www/html/erpm/AppData/Class/MysqliDb.php on line 1514
+[13-Jan-2023 15:23:12 Asia/Kolkata] PHP Fatal error:  Uncaught Exception: Problem preparing query (call GetDTDetailsByID("-1236")) OR MAKE_SET(6185=4979,4979) AND (("rjNK" LIKE "rjNK")) You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ') OR MAKE_SET(6185=4979,4979) AND (("rjNK" LIKE "rjNK")' at line 1 in /var/www/html/erpm/AppData/Class/MysqliDb.php:1514
+Stack trace:
+#0 /var/www/html/erpm/AppData/Class/MysqliDb.php(1127): MysqliDb->_prepareQuery()
+#1 /var/www/html/erpm/AppData/Class/MysqliDb.php(495): MysqliDb->_buildQuery()
+#2 /var/www/html/erpm/Controller/getDataForDownTime.php(10): MysqliDb->query()
+#3 {main}
+  thrown in /var/www/html/erpm/AppData/Class/MysqliDb.php on line 1514
+[13-Jan-2023 15:23:12 Asia/Kolkata] PHP Fatal error:  Uncaught Exception: Problem preparing query (call GetDTDetailsByID("-9710")) OR MAKE_SET(3432=3432,6638) AND (("SpRO" LIKE "SpRO")) You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ') OR MAKE_SET(3432=3432,6638) AND (("SpRO" LIKE "SpRO")' at line 1 in /var/www/html/erpm/AppData/Class/MysqliDb.php:1514
+Stack trace:
+#0 /var/www/html/erpm/AppData/Class/MysqliDb.php(1127): MysqliDb->_prepareQuery()
+#1 /var/www/html/erpm/AppData/Class/MysqliDb.php(495): MysqliDb->_buildQuery()
+#2 /var/www/html/erpm/Controller/getDataForDownTime.php(10): MysqliDb->query()
+#3 {main}
+  thrown in /var/www/html/erpm/AppData/Class/MysqliDb.php on line 1514
+[13-Jan-2023 15:23:12 Asia/Kolkata] PHP Fatal error:  Uncaught Exception: Problem preparing query (call GetDTDetailsByID("-9491"))) OR MAKE_SET(3627=5262,5262) AND ((("rBlC" LIKE "rBlC")) You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ')) OR MAKE_SET(3627=5262,5262) AND ((("rBlC" LIKE "rBlC")' at line 1 in /var/www/html/erpm/AppData/Class/MysqliDb.php:1514
+Stack trace:
+#0 /var/www/html/erpm/AppData/Class/MysqliDb.php(1127): MysqliDb->_prepareQuery()
+#1 /var/www/html/erpm/AppData/Class/MysqliDb.php(495): MysqliDb->_buildQuery()
+#2 /var/www/html/erpm/Controller/getDataForDownTime.php(10): MysqliDb->query()
+#3 {main}
+  thrown in /var/www/html/erpm/AppData/Class/MysqliDb.php on line 1514
+[13-Jan-2023 15:23:12 Asia/Kolkata] PHP Fatal error:  Uncaught Exception: Problem preparing query (call GetDTDetailsByID("-1850"))) OR MAKE_SET(3432=3432,6638) AND ((("rTle" LIKE "rTle")) You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ')) OR MAKE_SET(3432=3432,6638) AND ((("rTle" LIKE "rTle")' at line 1 in /var/www/html/erpm/AppData/Class/MysqliDb.php:1514
+Stack trace:
+#0 /var/www/html/erpm/AppData/Class/MysqliDb.php(1127): MysqliDb->_prepareQuery()
+#1 /var/www/html/erpm/AppData/Class/MysqliDb.php(495): MysqliDb->_buildQuery()
+#2 /var/www/html/erpm/Controller/getDataForDownTime.php(10): MysqliDb->query()
+#3 {main}
+  thrown in /var/www/html/erpm/AppData/Class/MysqliDb.php on line 1514
+[13-Jan-2023 15:23:12 Asia/Kolkata] PHP Fatal error:  Uncaught Exception: Problem preparing query (call GetDTDetailsByID("-6156")) AS mqhC WHERE 9046=9046 OR MAKE_SET(8624=4664,4664)-- qggt")) You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ') AS mqhC WHERE 9046=9046 OR MAKE_SET(8624=4664,4664)-- qggt")' at line 1 in /var/www/html/erpm/AppData/Class/MysqliDb.php:1514
+Stack trace:
+#0 /var/www/html/erpm/AppData/Class/MysqliDb.php(1127): MysqliDb->_prepareQuery()
+#1 /var/www/html/erpm/AppData/Class/MysqliDb.php(495): MysqliDb->_buildQuery()
+#2 /var/www/html/erpm/Controller/getDataForDownTime.php(10): MysqliDb->query()
+#3 {main}
+  thrown in /var/www/html/erpm/AppData/Class/MysqliDb.php on line 1514
+[13-Jan-2023 15:23:12 Asia/Kolkata] PHP Fatal error:  Uncaught Exception: Problem preparing query (call GetDTDetailsByID("-2552")) AS zogh WHERE 5602=5602 OR MAKE_SET(3432=3432,6638)-- FukS")) You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ') AS zogh WHERE 5602=5602 OR MAKE_SET(3432=3432,6638)-- FukS")' at line 1 in /var/www/html/erpm/AppData/Class/MysqliDb.php:1514
+Stack trace:
+#0 /var/www/html/erpm/AppData/Class/MysqliDb.php(1127): MysqliDb->_prepareQuery()
+#1 /var/www/html/erpm/AppData/Class/MysqliDb.php(495): MysqliDb->_buildQuery()
+#2 /var/www/html/erpm/Controller/getDataForDownTime.php(10): MysqliDb->query()
+#3 {main}
+  thrown in /var/www/html/erpm/AppData/Class/MysqliDb.php on line 1514
+[13-Jan-2023 15:23:12 Asia/Kolkata] PHP Fatal error:  Uncaught Exception: Problem preparing query (call GetDTDetailsByID("-1280") AS UauE WHERE 4020=4020 OR MAKE_SET(9214=3477,3477)-- AkNi")) You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'AS UauE WHERE 4020=4020 OR MAKE_SET(9214=3477,3477)-- AkNi")' at line 1 in /var/www/html/erpm/AppData/Class/MysqliDb.php:1514
+Stack trace:
+#0 /var/www/html/erpm/AppData/Class/MysqliDb.php(1127): MysqliDb->_prepareQuery()
+#1 /var/www/html/erpm/AppData/Class/MysqliDb.php(495): MysqliDb->_buildQuery()
+#2 /var/www/html/erpm/Controller/getDataForDownTime.php(10): MysqliDb->query()
+#3 {main}
+  thrown in /var/www/html/erpm/AppData/Class/MysqliDb.php on line 1514
+[13-Jan-2023 15:23:13 Asia/Kolkata] PHP Fatal error:  Uncaught Exception: Problem preparing query (call GetDTDetailsByID("-5443") AS Ndix WHERE 4054=4054 OR MAKE_SET(3432=3432,6638)-- XKqG")) You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'AS Ndix WHERE 4054=4054 OR MAKE_SET(3432=3432,6638)-- XKqG")' at line 1 in /var/www/html/erpm/AppData/Class/MysqliDb.php:1514
+Stack trace:
+#0 /var/www/html/erpm/AppData/Class/MysqliDb.php(1127): MysqliDb->_prepareQuery()
+#1 /var/www/html/erpm/AppData/Class/MysqliDb.php(495): MysqliDb->_buildQuery()
+#2 /var/www/html/erpm/Controller/getDataForDownTime.php(10): MysqliDb->query()
+#3 {main}
+  thrown in /var/www/html/erpm/AppData/Class/MysqliDb.php on line 1514
+[13-Jan-2023 15:23:14 Asia/Kolkata] PHP Fatal error:  Uncaught Exception: Problem preparing query (call GetDTDetailsByID("22" AND ELT(3654=5970,5970)-- QiZn")) You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1 in /var/www/html/erpm/AppData/Class/MysqliDb.php:1514
+Stack trace:
+#0 /var/www/html/erpm/AppData/Class/MysqliDb.php(1127): MysqliDb->_prepareQuery()
+#1 /var/www/html/erpm/AppData/Class/MysqliDb.php(495): MysqliDb->_buildQuery()
+#2 /var/www/html/erpm/Controller/getDataForDownTime.php(10): MysqliDb->query()
+#3 {main}
+  thrown in /var/www/html/erpm/AppData/Class/MysqliDb.php on line 1514
+[13-Jan-2023 15:23:14 Asia/Kolkata] PHP Fatal error:  Uncaught Exception: Problem preparing query (call GetDTDetailsByID("22" AND ELT(6664=6664,1881)-- vyOV")) You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1 in /var/www/html/erpm/AppData/Class/MysqliDb.php:1514
+Stack trace:
+#0 /var/www/html/erpm/AppData/Class/MysqliDb.php(1127): MysqliDb->_prepareQuery()
+#1 /var/www/html/erpm/AppData/Class/MysqliDb.php(495): MysqliDb->_buildQuery()
+#2 /var/www/html/erpm/Controller/getDataForDownTime.php(10): MysqliDb->query()
+#3 {main}
+  thrown in /var/www/html/erpm/AppData/Class/MysqliDb.php on line 1514
+[13-Jan-2023 15:23:15 Asia/Kolkata] PHP Fatal error:  Uncaught Exception: Problem preparing query (call GetDTDetailsByID("22") AND ELT(2309=6540,6540) AND ("YPaR"="YPaR")) You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'AND ELT(2309=6540,6540) AND ("YPaR"="YPaR")' at line 1 in /var/www/html/erpm/AppData/Class/MysqliDb.php:1514
+Stack trace:
+#0 /var/www/html/erpm/AppData/Class/MysqliDb.php(1127): MysqliDb->_prepareQuery()
+#1 /var/www/html/erpm/AppData/Class/MysqliDb.php(495): MysqliDb->_buildQuery()
+#2 /var/www/html/erpm/Controller/getDataForDownTime.php(10): MysqliDb->query()
+#3 {main}
+  thrown in /var/www/html/erpm/AppData/Class/MysqliDb.php on line 1514
+[13-Jan-2023 15:23:15 Asia/Kolkata] PHP Fatal error:  Uncaught Exception: Problem preparing query (call GetDTDetailsByID("22") AND ELT(6664=6664,1881) AND ("vamq"="vamq")) You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'AND ELT(6664=6664,1881) AND ("vamq"="vamq")' at line 1 in /var/www/html/erpm/AppData/Class/MysqliDb.php:1514
+Stack trace:
+#0 /var/www/html/erpm/AppData/Class/MysqliDb.php(1127): MysqliDb->_prepareQuery()
+#1 /var/www/html/erpm/AppData/Class/MysqliDb.php(495): MysqliDb->_buildQuery()
+#2 /var/www/html/erpm/Controller/getDataForDownTime.php(10): MysqliDb->query()
+#3 {main}
+  thrown in /var/www/html/erpm/AppData/Class/MysqliDb.php on line 1514
+[13-Jan-2023 15:23:15 Asia/Kolkata] PHP Fatal error:  Uncaught Exception: Problem preparing query (call GetDTDetailsByID("22")) AND ELT(6787=1684,1684) AND (("gBen"="gBen")) You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ') AND ELT(6787=1684,1684) AND (("gBen"="gBen")' at line 1 in /var/www/html/erpm/AppData/Class/MysqliDb.php:1514
+Stack trace:
+#0 /var/www/html/erpm/AppData/Class/MysqliDb.php(1127): MysqliDb->_prepareQuery()
+#1 /var/www/html/erpm/AppData/Class/MysqliDb.php(495): MysqliDb->_buildQuery()
+#2 /var/www/html/erpm/Controller/getDataForDownTime.php(10): MysqliDb->query()
+#3 {main}
+  thrown in /var/www/html/erpm/AppData/Class/MysqliDb.php on line 1514
+[13-Jan-2023 15:23:15 Asia/Kolkata] PHP Fatal error:  Uncaught Exception: Problem preparing query (call GetDTDetailsByID("22")) AND ELT(6664=6664,1881) AND (("MwNt"="MwNt")) You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ') AND ELT(6664=6664,1881) AND (("MwNt"="MwNt")' at line 1 in /var/www/html/erpm/AppData/Class/MysqliDb.php:1514
+Stack trace:
+#0 /var/www/html/erpm/AppData/Class/MysqliDb.php(1127): MysqliDb->_prepareQuery()
+#1 /var/www/html/erpm/AppData/Class/MysqliDb.php(495): MysqliDb->_buildQuery()
+#2 /var/www/html/erpm/Controller/getDataForDownTime.php(10): MysqliDb->query()
+#3 {main}
+  thrown in /var/www/html/erpm/AppData/Class/MysqliDb.php on line 1514
+[13-Jan-2023 15:23:15 Asia/Kolkata] PHP Fatal error:  Uncaught Exception: Problem preparing query (call GetDTDetailsByID("22"))) AND ELT(2922=4073,4073) AND ((("qoLc"="qoLc")) You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ')) AND ELT(2922=4073,4073) AND ((("qoLc"="qoLc")' at line 1 in /var/www/html/erpm/AppData/Class/MysqliDb.php:1514
+Stack trace:
+#0 /var/www/html/erpm/AppData/Class/MysqliDb.php(1127): MysqliDb->_prepareQuery()
+#1 /var/www/html/erpm/AppData/Class/MysqliDb.php(495): MysqliDb->_buildQuery()
+#2 /var/www/html/erpm/Controller/getDataForDownTime.php(10): MysqliDb->query()
+#3 {main}
+  thrown in /var/www/html/erpm/AppData/Class/MysqliDb.php on line 1514
+[13-Jan-2023 15:23:16 Asia/Kolkata] PHP Fatal error:  Uncaught Exception: Problem preparing query (call GetDTDetailsByID("22"))) AND ELT(6664=6664,1881) AND ((("xKYe"="xKYe")) You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ')) AND ELT(6664=6664,1881) AND ((("xKYe"="xKYe")' at line 1 in /var/www/html/erpm/AppData/Class/MysqliDb.php:1514
+Stack trace:
+#0 /var/www/html/erpm/AppData/Class/MysqliDb.php(1127): MysqliDb->_prepareQuery()
+#1 /var/www/html/erpm/AppData/Class/MysqliDb.php(495): MysqliDb->_buildQuery()
+#2 /var/www/html/erpm/Controller/getDataForDownTime.php(10): MysqliDb->query()
+#3 {main}
+  thrown in /var/www/html/erpm/AppData/Class/MysqliDb.php on line 1514
+[13-Jan-2023 15:23:16 Asia/Kolkata] PHP Fatal error:  Uncaught Exception: Problem preparing query (call GetDTDetailsByID("22") AND ELT(4891=9289,9289) AND ("mRJx" LIKE "mRJx")) You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'AND ELT(4891=9289,9289) AND ("mRJx" LIKE "mRJx")' at line 1 in /var/www/html/erpm/AppData/Class/MysqliDb.php:1514
+Stack trace:
+#0 /var/www/html/erpm/AppData/Class/MysqliDb.php(1127): MysqliDb->_prepareQuery()
+#1 /var/www/html/erpm/AppData/Class/MysqliDb.php(495): MysqliDb->_buildQuery()
+#2 /var/www/html/erpm/Controller/getDataForDownTime.php(10): MysqliDb->query()
+#3 {main}
+  thrown in /var/www/html/erpm/AppData/Class/MysqliDb.php on line 1514
+[13-Jan-2023 15:23:16 Asia/Kolkata] PHP Fatal error:  Uncaught Exception: Problem preparing query (call GetDTDetailsByID("22") AND ELT(6664=6664,1881) AND ("Eguk" LIKE "Eguk")) You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'AND ELT(6664=6664,1881) AND ("Eguk" LIKE "Eguk")' at line 1 in /var/www/html/erpm/AppData/Class/MysqliDb.php:1514
+Stack trace:
+#0 /var/www/html/erpm/AppData/Class/MysqliDb.php(1127): MysqliDb->_prepareQuery()
+#1 /var/www/html/erpm/AppData/Class/MysqliDb.php(495): MysqliDb->_buildQuery()
+#2 /var/www/html/erpm/Controller/getDataForDownTime.php(10): MysqliDb->query()
+#3 {main}
+  thrown in /var/www/html/erpm/AppData/Class/MysqliDb.php on line 1514
+[13-Jan-2023 15:23:16 Asia/Kolkata] PHP Fatal error:  Uncaught Exception: Problem preparing query (call GetDTDetailsByID("22")) AND ELT(5420=2383,2383) AND (("WNsd" LIKE "WNsd")) You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ') AND ELT(5420=2383,2383) AND (("WNsd" LIKE "WNsd")' at line 1 in /var/www/html/erpm/AppData/Class/MysqliDb.php:1514
+Stack trace:
+#0 /var/www/html/erpm/AppData/Class/MysqliDb.php(1127): MysqliDb->_prepareQuery()
+#1 /var/www/html/erpm/AppData/Class/MysqliDb.php(495): MysqliDb->_buildQuery()
+#2 /var/www/html/erpm/Controller/getDataForDownTime.php(10): MysqliDb->query()
+#3 {main}
+  thrown in /var/www/html/erpm/AppData/Class/MysqliDb.php on line 1514
+[13-Jan-2023 15:23:16 Asia/Kolkata] PHP Fatal error:  Uncaught Exception: Problem preparing query (call GetDTDetailsByID("22")) AND ELT(6664=6664,1881) AND (("stSA" LIKE "stSA")) You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ') AND ELT(6664=6664,1881) AND (("stSA" LIKE "stSA")' at line 1 in /var/www/html/erpm/AppData/Class/MysqliDb.php:1514
+Stack trace:
+#0 /var/www/html/erpm/AppData/Class/MysqliDb.php(1127): MysqliDb->_prepareQuery()
+#1 /var/www/html/erpm/AppData/Class/MysqliDb.php(495): MysqliDb->_buildQuery()
+#2 /var/www/html/erpm/Controller/getDataForDownTime.php(10): MysqliDb->query()
+#3 {main}
+  thrown in /var/www/html/erpm/AppData/Class/MysqliDb.php on line 1514
+[13-Jan-2023 15:23:16 Asia/Kolkata] PHP Fatal error:  Uncaught Exception: Problem preparing query (call GetDTDetailsByID("22"))) AND ELT(2390=5301,5301) AND ((("dwoL" LIKE "dwoL")) You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ')) AND ELT(2390=5301,5301) AND ((("dwoL" LIKE "dwoL")' at line 1 in /var/www/html/erpm/AppData/Class/MysqliDb.php:1514
+Stack trace:
+#0 /var/www/html/erpm/AppData/Class/MysqliDb.php(1127): MysqliDb->_prepareQuery()
+#1 /var/www/html/erpm/AppData/Class/MysqliDb.php(495): MysqliDb->_buildQuery()
+#2 /var/www/html/erpm/Controller/getDataForDownTime.php(10): MysqliDb->query()
+#3 {main}
+  thrown in /var/www/html/erpm/AppData/Class/MysqliDb.php on line 1514
+[13-Jan-2023 15:23:16 Asia/Kolkata] PHP Fatal error:  Uncaught Exception: Problem preparing query (call GetDTDetailsByID("22"))) AND ELT(6664=6664,1881) AND ((("rLBz" LIKE "rLBz")) You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ')) AND ELT(6664=6664,1881) AND ((("rLBz" LIKE "rLBz")' at line 1 in /var/www/html/erpm/AppData/Class/MysqliDb.php:1514
+Stack trace:
+#0 /var/www/html/erpm/AppData/Class/MysqliDb.php(1127): MysqliDb->_prepareQuery()
+#1 /var/www/html/erpm/AppData/Class/MysqliDb.php(495): MysqliDb->_buildQuery()
+#2 /var/www/html/erpm/Controller/getDataForDownTime.php(10): MysqliDb->query()
+#3 {main}
+  thrown in /var/www/html/erpm/AppData/Class/MysqliDb.php on line 1514
+[13-Jan-2023 15:23:17 Asia/Kolkata] PHP Fatal error:  Uncaught Exception: Problem preparing query (call GetDTDetailsByID("22")) AS BMpC WHERE 3791=3791 AND ELT(1942=1015,1015)-- uVMt")) You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ') AS BMpC WHERE 3791=3791 AND ELT(1942=1015,1015)-- uVMt")' at line 1 in /var/www/html/erpm/AppData/Class/MysqliDb.php:1514
+Stack trace:
+#0 /var/www/html/erpm/AppData/Class/MysqliDb.php(1127): MysqliDb->_prepareQuery()
+#1 /var/www/html/erpm/AppData/Class/MysqliDb.php(495): MysqliDb->_buildQuery()
+#2 /var/www/html/erpm/Controller/getDataForDownTime.php(10): MysqliDb->query()
+#3 {main}
+  thrown in /var/www/html/erpm/AppData/Class/MysqliDb.php on line 1514
+[13-Jan-2023 15:23:17 Asia/Kolkata] PHP Fatal error:  Uncaught Exception: Problem preparing query (call GetDTDetailsByID("22")) AS AFkr WHERE 1386=1386 AND ELT(6664=6664,1881)-- ljZO")) You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ') AS AFkr WHERE 1386=1386 AND ELT(6664=6664,1881)-- ljZO")' at line 1 in /var/www/html/erpm/AppData/Class/MysqliDb.php:1514
+Stack trace:
+#0 /var/www/html/erpm/AppData/Class/MysqliDb.php(1127): MysqliDb->_prepareQuery()
+#1 /var/www/html/erpm/AppData/Class/MysqliDb.php(495): MysqliDb->_buildQuery()
+#2 /var/www/html/erpm/Controller/getDataForDownTime.php(10): MysqliDb->query()
+#3 {main}
+  thrown in /var/www/html/erpm/AppData/Class/MysqliDb.php on line 1514
+[13-Jan-2023 15:23:17 Asia/Kolkata] PHP Fatal error:  Uncaught Exception: Problem preparing query (call GetDTDetailsByID("22") AS kxyt WHERE 3488=3488 AND ELT(3153=8162,8162)-- yZHv")) You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'AS kxyt WHERE 3488=3488 AND ELT(3153=8162,8162)-- yZHv")' at line 1 in /var/www/html/erpm/AppData/Class/MysqliDb.php:1514
+Stack trace:
+#0 /var/www/html/erpm/AppData/Class/MysqliDb.php(1127): MysqliDb->_prepareQuery()
+#1 /var/www/html/erpm/AppData/Class/MysqliDb.php(495): MysqliDb->_buildQuery()
+#2 /var/www/html/erpm/Controller/getDataForDownTime.php(10): MysqliDb->query()
+#3 {main}
+  thrown in /var/www/html/erpm/AppData/Class/MysqliDb.php on line 1514
+[13-Jan-2023 15:23:17 Asia/Kolkata] PHP Fatal error:  Uncaught Exception: Problem preparing query (call GetDTDetailsByID("22") AS KhvJ WHERE 5646=5646 AND ELT(6664=6664,1881)-- WxKi")) You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'AS KhvJ WHERE 5646=5646 AND ELT(6664=6664,1881)-- WxKi")' at line 1 in /var/www/html/erpm/AppData/Class/MysqliDb.php:1514
+Stack trace:
+#0 /var/www/html/erpm/AppData/Class/MysqliDb.php(1127): MysqliDb->_prepareQuery()
+#1 /var/www/html/erpm/AppData/Class/MysqliDb.php(495): MysqliDb->_buildQuery()
+#2 /var/www/html/erpm/Controller/getDataForDownTime.php(10): MysqliDb->query()
+#3 {main}
+  thrown in /var/www/html/erpm/AppData/Class/MysqliDb.php on line 1514
+[13-Jan-2023 15:23:19 Asia/Kolkata] PHP Fatal error:  Uncaught Exception: Problem preparing query (call GetDTDetailsByID("-4637" OR ELT(8786=7473,7473)-- JuYt")) You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1 in /var/www/html/erpm/AppData/Class/MysqliDb.php:1514
+Stack trace:
+#0 /var/www/html/erpm/AppData/Class/MysqliDb.php(1127): MysqliDb->_prepareQuery()
+#1 /var/www/html/erpm/AppData/Class/MysqliDb.php(495): MysqliDb->_buildQuery()
+#2 /var/www/html/erpm/Controller/getDataForDownTime.php(10): MysqliDb->query()
+#3 {main}
+  thrown in /var/www/html/erpm/AppData/Class/MysqliDb.php on line 1514
+[13-Jan-2023 15:23:19 Asia/Kolkata] PHP Fatal error:  Uncaught Exception: Problem preparing query (call GetDTDetailsByID("-5658" OR ELT(9473=9473,2782)-- jigc")) You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1 in /var/www/html/erpm/AppData/Class/MysqliDb.php:1514
+Stack trace:
+#0 /var/www/html/erpm/AppData/Class/MysqliDb.php(1127): MysqliDb->_prepareQuery()
+#1 /var/www/html/erpm/AppData/Class/MysqliDb.php(495): MysqliDb->_buildQuery()
+#2 /var/www/html/erpm/Controller/getDataForDownTime.php(10): MysqliDb->query()
+#3 {main}
+  thrown in /var/www/html/erpm/AppData/Class/MysqliDb.php on line 1514
+[13-Jan-2023 15:23:20 Asia/Kolkata] PHP Fatal error:  Uncaught Exception: Problem preparing query (call GetDTDetailsByID("-5783") OR ELT(8630=5093,5093) AND ("RtkV"="RtkV")) You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'OR ELT(8630=5093,5093) AND ("RtkV"="RtkV")' at line 1 in /var/www/html/erpm/AppData/Class/MysqliDb.php:1514
+Stack trace:
+#0 /var/www/html/erpm/AppData/Class/MysqliDb.php(1127): MysqliDb->_prepareQuery()
+#1 /var/www/html/erpm/AppData/Class/MysqliDb.php(495): MysqliDb->_buildQuery()
+#2 /var/www/html/erpm/Controller/getDataForDownTime.php(10): MysqliDb->query()
+#3 {main}
+  thrown in /var/www/html/erpm/AppData/Class/MysqliDb.php on line 1514
+[13-Jan-2023 15:23:20 Asia/Kolkata] PHP Fatal error:  Uncaught Exception: Problem preparing query (call GetDTDetailsByID("-9299") OR ELT(9473=9473,2782) AND ("ruoo"="ruoo")) You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'OR ELT(9473=9473,2782) AND ("ruoo"="ruoo")' at line 1 in /var/www/html/erpm/AppData/Class/MysqliDb.php:1514
+Stack trace:
+#0 /var/www/html/erpm/AppData/Class/MysqliDb.php(1127): MysqliDb->_prepareQuery()
+#1 /var/www/html/erpm/AppData/Class/MysqliDb.php(495): MysqliDb->_buildQuery()
+#2 /var/www/html/erpm/Controller/getDataForDownTime.php(10): MysqliDb->query()
+#3 {main}
+  thrown in /var/www/html/erpm/AppData/Class/MysqliDb.php on line 1514
+[13-Jan-2023 15:23:20 Asia/Kolkata] PHP Fatal error:  Uncaught Exception: Problem preparing query (call GetDTDetailsByID("-4290")) OR ELT(6945=3206,3206) AND (("TrHx"="TrHx")) You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ') OR ELT(6945=3206,3206) AND (("TrHx"="TrHx")' at line 1 in /var/www/html/erpm/AppData/Class/MysqliDb.php:1514
+Stack trace:
+#0 /var/www/html/erpm/AppData/Class/MysqliDb.php(1127): MysqliDb->_prepareQuery()
+#1 /var/www/html/erpm/AppData/Class/MysqliDb.php(495): MysqliDb->_buildQuery()
+#2 /var/www/html/erpm/Controller/getDataForDownTime.php(10): MysqliDb->query()
+#3 {main}
+  thrown in /var/www/html/erpm/AppData/Class/MysqliDb.php on line 1514
+[13-Jan-2023 15:23:20 Asia/Kolkata] PHP Fatal error:  Uncaught Exception: Problem preparing query (call GetDTDetailsByID("-6213")) OR ELT(9473=9473,2782) AND (("GZxU"="GZxU")) You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ') OR ELT(9473=9473,2782) AND (("GZxU"="GZxU")' at line 1 in /var/www/html/erpm/AppData/Class/MysqliDb.php:1514
+Stack trace:
+#0 /var/www/html/erpm/AppData/Class/MysqliDb.php(1127): MysqliDb->_prepareQuery()
+#1 /var/www/html/erpm/AppData/Class/MysqliDb.php(495): MysqliDb->_buildQuery()
+#2 /var/www/html/erpm/Controller/getDataForDownTime.php(10): MysqliDb->query()
+#3 {main}
+  thrown in /var/www/html/erpm/AppData/Class/MysqliDb.php on line 1514
+[13-Jan-2023 15:23:20 Asia/Kolkata] PHP Fatal error:  Uncaught Exception: Problem preparing query (call GetDTDetailsByID("-2129"))) OR ELT(1427=3568,3568) AND ((("SZCv"="SZCv")) You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ')) OR ELT(1427=3568,3568) AND ((("SZCv"="SZCv")' at line 1 in /var/www/html/erpm/AppData/Class/MysqliDb.php:1514
+Stack trace:
+#0 /var/www/html/erpm/AppData/Class/MysqliDb.php(1127): MysqliDb->_prepareQuery()
+#1 /var/www/html/erpm/AppData/Class/MysqliDb.php(495): MysqliDb->_buildQuery()
+#2 /var/www/html/erpm/Controller/getDataForDownTime.php(10): MysqliDb->query()
+#3 {main}
+  thrown in /var/www/html/erpm/AppData/Class/MysqliDb.php on line 1514
+[13-Jan-2023 15:23:20 Asia/Kolkata] PHP Fatal error:  Uncaught Exception: Problem preparing query (call GetDTDetailsByID("-4816"))) OR ELT(9473=9473,2782) AND ((("sTOR"="sTOR")) You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ')) OR ELT(9473=9473,2782) AND ((("sTOR"="sTOR")' at line 1 in /var/www/html/erpm/AppData/Class/MysqliDb.php:1514
+Stack trace:
+#0 /var/www/html/erpm/AppData/Class/MysqliDb.php(1127): MysqliDb->_prepareQuery()
+#1 /var/www/html/erpm/AppData/Class/MysqliDb.php(495): MysqliDb->_buildQuery()
+#2 /var/www/html/erpm/Controller/getDataForDownTime.php(10): MysqliDb->query()
+#3 {main}
+  thrown in /var/www/html/erpm/AppData/Class/MysqliDb.php on line 1514
+[13-Jan-2023 15:23:21 Asia/Kolkata] PHP Fatal error:  Uncaught Exception: Problem preparing query (call GetDTDetailsByID("-7728") OR ELT(2258=9558,9558) AND ("sCtw" LIKE "sCtw")) You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'OR ELT(2258=9558,9558) AND ("sCtw" LIKE "sCtw")' at line 1 in /var/www/html/erpm/AppData/Class/MysqliDb.php:1514
+Stack trace:
+#0 /var/www/html/erpm/AppData/Class/MysqliDb.php(1127): MysqliDb->_prepareQuery()
+#1 /var/www/html/erpm/AppData/Class/MysqliDb.php(495): MysqliDb->_buildQuery()
+#2 /var/www/html/erpm/Controller/getDataForDownTime.php(10): MysqliDb->query()
+#3 {main}
+  thrown in /var/www/html/erpm/AppData/Class/MysqliDb.php on line 1514
+[13-Jan-2023 15:23:21 Asia/Kolkata] PHP Fatal error:  Uncaught Exception: Problem preparing query (call GetDTDetailsByID("-5074") OR ELT(9473=9473,2782) AND ("VLhU" LIKE "VLhU")) You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'OR ELT(9473=9473,2782) AND ("VLhU" LIKE "VLhU")' at line 1 in /var/www/html/erpm/AppData/Class/MysqliDb.php:1514
+Stack trace:
+#0 /var/www/html/erpm/AppData/Class/MysqliDb.php(1127): MysqliDb->_prepareQuery()
+#1 /var/www/html/erpm/AppData/Class/MysqliDb.php(495): MysqliDb->_buildQuery()
+#2 /var/www/html/erpm/Controller/getDataForDownTime.php(10): MysqliDb->query()
+#3 {main}
+  thrown in /var/www/html/erpm/AppData/Class/MysqliDb.php on line 1514
+[13-Jan-2023 15:23:21 Asia/Kolkata] PHP Fatal error:  Uncaught Exception: Problem preparing query (call GetDTDetailsByID("-2433")) OR ELT(8518=1261,1261) AND (("ihXF" LIKE "ihXF")) You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ') OR ELT(8518=1261,1261) AND (("ihXF" LIKE "ihXF")' at line 1 in /var/www/html/erpm/AppData/Class/MysqliDb.php:1514
+Stack trace:
+#0 /var/www/html/erpm/AppData/Class/MysqliDb.php(1127): MysqliDb->_prepareQuery()
+#1 /var/www/html/erpm/AppData/Class/MysqliDb.php(495): MysqliDb->_buildQuery()
+#2 /var/www/html/erpm/Controller/getDataForDownTime.php(10): MysqliDb->query()
+#3 {main}
+  thrown in /var/www/html/erpm/AppData/Class/MysqliDb.php on line 1514
+[13-Jan-2023 15:23:21 Asia/Kolkata] PHP Fatal error:  Uncaught Exception: Problem preparing query (call GetDTDetailsByID("-9102")) OR ELT(9473=9473,2782) AND (("YNHx" LIKE "YNHx")) You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ') OR ELT(9473=9473,2782) AND (("YNHx" LIKE "YNHx")' at line 1 in /var/www/html/erpm/AppData/Class/MysqliDb.php:1514
+Stack trace:
+#0 /var/www/html/erpm/AppData/Class/MysqliDb.php(1127): MysqliDb->_prepareQuery()
+#1 /var/www/html/erpm/AppData/Class/MysqliDb.php(495): MysqliDb->_buildQuery()
+#2 /var/www/html/erpm/Controller/getDataForDownTime.php(10): MysqliDb->query()
+#3 {main}
+  thrown in /var/www/html/erpm/AppData/Class/MysqliDb.php on line 1514
+[13-Jan-2023 15:23:21 Asia/Kolkata] PHP Fatal error:  Uncaught Exception: Problem preparing query (call GetDTDetailsByID("-9728"))) OR ELT(2732=9025,9025) AND ((("KKqj" LIKE "KKqj")) You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ')) OR ELT(2732=9025,9025) AND ((("KKqj" LIKE "KKqj")' at line 1 in /var/www/html/erpm/AppData/Class/MysqliDb.php:1514
+Stack trace:
+#0 /var/www/html/erpm/AppData/Class/MysqliDb.php(1127): MysqliDb->_prepareQuery()
+#1 /var/www/html/erpm/AppData/Class/MysqliDb.php(495): MysqliDb->_buildQuery()
+#2 /var/www/html/erpm/Controller/getDataForDownTime.php(10): MysqliDb->query()
+#3 {main}
+  thrown in /var/www/html/erpm/AppData/Class/MysqliDb.php on line 1514
+[13-Jan-2023 15:23:21 Asia/Kolkata] PHP Fatal error:  Uncaught Exception: Problem preparing query (call GetDTDetailsByID("-7915"))) OR ELT(9473=9473,2782) AND ((("gube" LIKE "gube")) You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ')) OR ELT(9473=9473,2782) AND ((("gube" LIKE "gube")' at line 1 in /var/www/html/erpm/AppData/Class/MysqliDb.php:1514
+Stack trace:
+#0 /var/www/html/erpm/AppData/Class/MysqliDb.php(1127): MysqliDb->_prepareQuery()
+#1 /var/www/html/erpm/AppData/Class/MysqliDb.php(495): MysqliDb->_buildQuery()
+#2 /var/www/html/erpm/Controller/getDataForDownTime.php(10): MysqliDb->query()
+#3 {main}
+  thrown in /var/www/html/erpm/AppData/Class/MysqliDb.php on line 1514
+[13-Jan-2023 15:23:21 Asia/Kolkata] PHP Fatal error:  Uncaught Exception: Problem preparing query (call GetDTDetailsByID("-3803")) AS HyxC WHERE 9811=9811 OR ELT(1120=9037,9037)-- Xbxy")) You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ') AS HyxC WHERE 9811=9811 OR ELT(1120=9037,9037)-- Xbxy")' at line 1 in /var/www/html/erpm/AppData/Class/MysqliDb.php:1514
+Stack trace:
+#0 /var/www/html/erpm/AppData/Class/MysqliDb.php(1127): MysqliDb->_prepareQuery()
+#1 /var/www/html/erpm/AppData/Class/MysqliDb.php(495): MysqliDb->_buildQuery()
+#2 /var/www/html/erpm/Controller/getDataForDownTime.php(10): MysqliDb->query()
+#3 {main}
+  thrown in /var/www/html/erpm/AppData/Class/MysqliDb.php on line 1514
+[13-Jan-2023 15:23:21 Asia/Kolkata] PHP Fatal error:  Uncaught Exception: Problem preparing query (call GetDTDetailsByID("-5154")) AS BNEb WHERE 3086=3086 OR ELT(9473=9473,2782)-- jFLH")) You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ') AS BNEb WHERE 3086=3086 OR ELT(9473=9473,2782)-- jFLH")' at line 1 in /var/www/html/erpm/AppData/Class/MysqliDb.php:1514
+Stack trace:
+#0 /var/www/html/erpm/AppData/Class/MysqliDb.php(1127): MysqliDb->_prepareQuery()
+#1 /var/www/html/erpm/AppData/Class/MysqliDb.php(495): MysqliDb->_buildQuery()
+#2 /var/www/html/erpm/Controller/getDataForDownTime.php(10): MysqliDb->query()
+#3 {main}
+  thrown in /var/www/html/erpm/AppData/Class/MysqliDb.php on line 1514
+[13-Jan-2023 15:23:21 Asia/Kolkata] PHP Fatal error:  Uncaught Exception: Problem preparing query (call GetDTDetailsByID("-3922") AS ojoH WHERE 1896=1896 OR ELT(4524=7114,7114)-- jLUp")) You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'AS ojoH WHERE 1896=1896 OR ELT(4524=7114,7114)-- jLUp")' at line 1 in /var/www/html/erpm/AppData/Class/MysqliDb.php:1514
+Stack trace:
+#0 /var/www/html/erpm/AppData/Class/MysqliDb.php(1127): MysqliDb->_prepareQuery()
+#1 /var/www/html/erpm/AppData/Class/MysqliDb.php(495): MysqliDb->_buildQuery()
+#2 /var/www/html/erpm/Controller/getDataForDownTime.php(10): MysqliDb->query()
+#3 {main}
+  thrown in /var/www/html/erpm/AppData/Class/MysqliDb.php on line 1514
+[13-Jan-2023 15:23:22 Asia/Kolkata] PHP Fatal error:  Uncaught Exception: Problem preparing query (call GetDTDetailsByID("-2575") AS zMik WHERE 9291=9291 OR ELT(9473=9473,2782)-- SAhj")) You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'AS zMik WHERE 9291=9291 OR ELT(9473=9473,2782)-- SAhj")' at line 1 in /var/www/html/erpm/AppData/Class/MysqliDb.php:1514
+Stack trace:
+#0 /var/www/html/erpm/AppData/Class/MysqliDb.php(1127): MysqliDb->_prepareQuery()
+#1 /var/www/html/erpm/AppData/Class/MysqliDb.php(495): MysqliDb->_buildQuery()
+#2 /var/www/html/erpm/Controller/getDataForDownTime.php(10): MysqliDb->query()
+#3 {main}
+  thrown in /var/www/html/erpm/AppData/Class/MysqliDb.php on line 1514
+[13-Jan-2023 15:23:24 Asia/Kolkata] PHP Fatal error:  Uncaught Exception: Problem preparing query (call GetDTDetailsByID("22" AND (9798=2867)*2867-- HePz")) You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1 in /var/www/html/erpm/AppData/Class/MysqliDb.php:1514
+Stack trace:
+#0 /var/www/html/erpm/AppData/Class/MysqliDb.php(1127): MysqliDb->_prepareQuery()
+#1 /var/www/html/erpm/AppData/Class/MysqliDb.php(495): MysqliDb->_buildQuery()
+#2 /var/www/html/erpm/Controller/getDataForDownTime.php(10): MysqliDb->query()
+#3 {main}
+  thrown in /var/www/html/erpm/AppData/Class/MysqliDb.php on line 1514
+[13-Jan-2023 15:23:24 Asia/Kolkata] PHP Fatal error:  Uncaught Exception: Problem preparing query (call GetDTDetailsByID("22" AND (2509=2509)*7234-- HcmM")) You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1 in /var/www/html/erpm/AppData/Class/MysqliDb.php:1514
+Stack trace:
+#0 /var/www/html/erpm/AppData/Class/MysqliDb.php(1127): MysqliDb->_prepareQuery()
+#1 /var/www/html/erpm/AppData/Class/MysqliDb.php(495): MysqliDb->_buildQuery()
+#2 /var/www/html/erpm/Controller/getDataForDownTime.php(10): MysqliDb->query()
+#3 {main}
+  thrown in /var/www/html/erpm/AppData/Class/MysqliDb.php on line 1514
+[13-Jan-2023 15:23:25 Asia/Kolkata] PHP Fatal error:  Uncaught Exception: Problem preparing query (call GetDTDetailsByID("22") AND (8101=3005)*3005 AND ("YyQm"="YyQm")) You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'AND (8101=3005)*3005 AND ("YyQm"="YyQm")' at line 1 in /var/www/html/erpm/AppData/Class/MysqliDb.php:1514
+Stack trace:
+#0 /var/www/html/erpm/AppData/Class/MysqliDb.php(1127): MysqliDb->_prepareQuery()
+#1 /var/www/html/erpm/AppData/Class/MysqliDb.php(495): MysqliDb->_buildQuery()
+#2 /var/www/html/erpm/Controller/getDataForDownTime.php(10): MysqliDb->query()
+#3 {main}
+  thrown in /var/www/html/erpm/AppData/Class/MysqliDb.php on line 1514
+[13-Jan-2023 15:23:25 Asia/Kolkata] PHP Fatal error:  Uncaught Exception: Problem preparing query (call GetDTDetailsByID("22") AND (2509=2509)*7234 AND ("GWKk"="GWKk")) You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'AND (2509=2509)*7234 AND ("GWKk"="GWKk")' at line 1 in /var/www/html/erpm/AppData/Class/MysqliDb.php:1514
+Stack trace:
+#0 /var/www/html/erpm/AppData/Class/MysqliDb.php(1127): MysqliDb->_prepareQuery()
+#1 /var/www/html/erpm/AppData/Class/MysqliDb.php(495): MysqliDb->_buildQuery()
+#2 /var/www/html/erpm/Controller/getDataForDownTime.php(10): MysqliDb->query()
+#3 {main}
+  thrown in /var/www/html/erpm/AppData/Class/MysqliDb.php on line 1514
+[13-Jan-2023 15:23:25 Asia/Kolkata] PHP Fatal error:  Uncaught Exception: Problem preparing query (call GetDTDetailsByID("22")) AND (1399=5342)*5342 AND (("kcEP"="kcEP")) You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ') AND (1399=5342)*5342 AND (("kcEP"="kcEP")' at line 1 in /var/www/html/erpm/AppData/Class/MysqliDb.php:1514
+Stack trace:
+#0 /var/www/html/erpm/AppData/Class/MysqliDb.php(1127): MysqliDb->_prepareQuery()
+#1 /var/www/html/erpm/AppData/Class/MysqliDb.php(495): MysqliDb->_buildQuery()
+#2 /var/www/html/erpm/Controller/getDataForDownTime.php(10): MysqliDb->query()
+#3 {main}
+  thrown in /var/www/html/erpm/AppData/Class/MysqliDb.php on line 1514
+[13-Jan-2023 15:23:25 Asia/Kolkata] PHP Fatal error:  Uncaught Exception: Problem preparing query (call GetDTDetailsByID("22")) AND (2509=2509)*7234 AND (("jUSX"="jUSX")) You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ') AND (2509=2509)*7234 AND (("jUSX"="jUSX")' at line 1 in /var/www/html/erpm/AppData/Class/MysqliDb.php:1514
+Stack trace:
+#0 /var/www/html/erpm/AppData/Class/MysqliDb.php(1127): MysqliDb->_prepareQuery()
+#1 /var/www/html/erpm/AppData/Class/MysqliDb.php(495): MysqliDb->_buildQuery()
+#2 /var/www/html/erpm/Controller/getDataForDownTime.php(10): MysqliDb->query()
+#3 {main}
+  thrown in /var/www/html/erpm/AppData/Class/MysqliDb.php on line 1514
+[13-Jan-2023 15:23:25 Asia/Kolkata] PHP Fatal error:  Uncaught Exception: Problem preparing query (call GetDTDetailsByID("22"))) AND (1772=8265)*8265 AND ((("Evas"="Evas")) You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ')) AND (1772=8265)*8265 AND ((("Evas"="Evas")' at line 1 in /var/www/html/erpm/AppData/Class/MysqliDb.php:1514
+Stack trace:
+#0 /var/www/html/erpm/AppData/Class/MysqliDb.php(1127): MysqliDb->_prepareQuery()
+#1 /var/www/html/erpm/AppData/Class/MysqliDb.php(495): MysqliDb->_buildQuery()
+#2 /var/www/html/erpm/Controller/getDataForDownTime.php(10): MysqliDb->query()
+#3 {main}
+  thrown in /var/www/html/erpm/AppData/Class/MysqliDb.php on line 1514
+[13-Jan-2023 15:23:25 Asia/Kolkata] PHP Fatal error:  Uncaught Exception: Problem preparing query (call GetDTDetailsByID("22"))) AND (2509=2509)*7234 AND ((("efSW"="efSW")) You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ')) AND (2509=2509)*7234 AND ((("efSW"="efSW")' at line 1 in /var/www/html/erpm/AppData/Class/MysqliDb.php:1514
+Stack trace:
+#0 /var/www/html/erpm/AppData/Class/MysqliDb.php(1127): MysqliDb->_prepareQuery()
+#1 /var/www/html/erpm/AppData/Class/MysqliDb.php(495): MysqliDb->_buildQuery()
+#2 /var/www/html/erpm/Controller/getDataForDownTime.php(10): MysqliDb->query()
+#3 {main}
+  thrown in /var/www/html/erpm/AppData/Class/MysqliDb.php on line 1514
+[13-Jan-2023 15:23:26 Asia/Kolkata] PHP Fatal error:  Uncaught Exception: Problem preparing query (call GetDTDetailsByID("22") AND (8701=2612)*2612 AND ("rhFw" LIKE "rhFw")) You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'AND (8701=2612)*2612 AND ("rhFw" LIKE "rhFw")' at line 1 in /var/www/html/erpm/AppData/Class/MysqliDb.php:1514
+Stack trace:
+#0 /var/www/html/erpm/AppData/Class/MysqliDb.php(1127): MysqliDb->_prepareQuery()
+#1 /var/www/html/erpm/AppData/Class/MysqliDb.php(495): MysqliDb->_buildQuery()
+#2 /var/www/html/erpm/Controller/getDataForDownTime.php(10): MysqliDb->query()
+#3 {main}
+  thrown in /var/www/html/erpm/AppData/Class/MysqliDb.php on line 1514
+[13-Jan-2023 15:23:26 Asia/Kolkata] PHP Fatal error:  Uncaught Exception: Problem preparing query (call GetDTDetailsByID("22") AND (2509=2509)*7234 AND ("xhPl" LIKE "xhPl")) You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'AND (2509=2509)*7234 AND ("xhPl" LIKE "xhPl")' at line 1 in /var/www/html/erpm/AppData/Class/MysqliDb.php:1514
+Stack trace:
+#0 /var/www/html/erpm/AppData/Class/MysqliDb.php(1127): MysqliDb->_prepareQuery()
+#1 /var/www/html/erpm/AppData/Class/MysqliDb.php(495): MysqliDb->_buildQuery()
+#2 /var/www/html/erpm/Controller/getDataForDownTime.php(10): MysqliDb->query()
+#3 {main}
+  thrown in /var/www/html/erpm/AppData/Class/MysqliDb.php on line 1514
+[13-Jan-2023 15:23:26 Asia/Kolkata] PHP Fatal error:  Uncaught Exception: Problem preparing query (call GetDTDetailsByID("22")) AND (7084=3276)*3276 AND (("kBWH" LIKE "kBWH")) You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ') AND (7084=3276)*3276 AND (("kBWH" LIKE "kBWH")' at line 1 in /var/www/html/erpm/AppData/Class/MysqliDb.php:1514
+Stack trace:
+#0 /var/www/html/erpm/AppData/Class/MysqliDb.php(1127): MysqliDb->_prepareQuery()
+#1 /var/www/html/erpm/AppData/Class/MysqliDb.php(495): MysqliDb->_buildQuery()
+#2 /var/www/html/erpm/Controller/getDataForDownTime.php(10): MysqliDb->query()
+#3 {main}
+  thrown in /var/www/html/erpm/AppData/Class/MysqliDb.php on line 1514
+[13-Jan-2023 15:23:27 Asia/Kolkata] PHP Fatal error:  Uncaught Exception: Problem preparing query (call GetDTDetailsByID("22")) AND (2509=2509)*7234 AND (("bJXt" LIKE "bJXt")) You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ') AND (2509=2509)*7234 AND (("bJXt" LIKE "bJXt")' at line 1 in /var/www/html/erpm/AppData/Class/MysqliDb.php:1514
+Stack trace:
+#0 /var/www/html/erpm/AppData/Class/MysqliDb.php(1127): MysqliDb->_prepareQuery()
+#1 /var/www/html/erpm/AppData/Class/MysqliDb.php(495): MysqliDb->_buildQuery()
+#2 /var/www/html/erpm/Controller/getDataForDownTime.php(10): MysqliDb->query()
+#3 {main}
+  thrown in /var/www/html/erpm/AppData/Class/MysqliDb.php on line 1514
+[13-Jan-2023 15:23:27 Asia/Kolkata] PHP Fatal error:  Uncaught Exception: Problem preparing query (call GetDTDetailsByID("22"))) AND (5315=6974)*6974 AND ((("hYMk" LIKE "hYMk")) You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ')) AND (5315=6974)*6974 AND ((("hYMk" LIKE "hYMk")' at line 1 in /var/www/html/erpm/AppData/Class/MysqliDb.php:1514
+Stack trace:
+#0 /var/www/html/erpm/AppData/Class/MysqliDb.php(1127): MysqliDb->_prepareQuery()
+#1 /var/www/html/erpm/AppData/Class/MysqliDb.php(495): MysqliDb->_buildQuery()
+#2 /var/www/html/erpm/Controller/getDataForDownTime.php(10): MysqliDb->query()
+#3 {main}
+  thrown in /var/www/html/erpm/AppData/Class/MysqliDb.php on line 1514
+[13-Jan-2023 15:23:27 Asia/Kolkata] PHP Fatal error:  Uncaught Exception: Problem preparing query (call GetDTDetailsByID("22"))) AND (2509=2509)*7234 AND ((("ksGq" LIKE "ksGq")) You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ')) AND (2509=2509)*7234 AND ((("ksGq" LIKE "ksGq")' at line 1 in /var/www/html/erpm/AppData/Class/MysqliDb.php:1514
+Stack trace:
+#0 /var/www/html/erpm/AppData/Class/MysqliDb.php(1127): MysqliDb->_prepareQuery()
+#1 /var/www/html/erpm/AppData/Class/MysqliDb.php(495): MysqliDb->_buildQuery()
+#2 /var/www/html/erpm/Controller/getDataForDownTime.php(10): MysqliDb->query()
+#3 {main}
+  thrown in /var/www/html/erpm/AppData/Class/MysqliDb.php on line 1514
+[13-Jan-2023 15:23:27 Asia/Kolkata] PHP Fatal error:  Uncaught Exception: Problem preparing query (call GetDTDetailsByID("22")) AS uHVN WHERE 9457=9457 AND (3346=8634)*8634-- zHau")) You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ') AS uHVN WHERE 9457=9457 AND (3346=8634)*8634-- zHau")' at line 1 in /var/www/html/erpm/AppData/Class/MysqliDb.php:1514
+Stack trace:
+#0 /var/www/html/erpm/AppData/Class/MysqliDb.php(1127): MysqliDb->_prepareQuery()
+#1 /var/www/html/erpm/AppData/Class/MysqliDb.php(495): MysqliDb->_buildQuery()
+#2 /var/www/html/erpm/Controller/getDataForDownTime.php(10): MysqliDb->query()
+#3 {main}
+  thrown in /var/www/html/erpm/AppData/Class/MysqliDb.php on line 1514
+[13-Jan-2023 15:23:27 Asia/Kolkata] PHP Fatal error:  Uncaught Exception: Problem preparing query (call GetDTDetailsByID("22")) AS qeIB WHERE 5104=5104 AND (2509=2509)*7234-- IHOk")) You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ') AS qeIB WHERE 5104=5104 AND (2509=2509)*7234-- IHOk")' at line 1 in /var/www/html/erpm/AppData/Class/MysqliDb.php:1514
+Stack trace:
+#0 /var/www/html/erpm/AppData/Class/MysqliDb.php(1127): MysqliDb->_prepareQuery()
+#1 /var/www/html/erpm/AppData/Class/MysqliDb.php(495): MysqliDb->_buildQuery()
+#2 /var/www/html/erpm/Controller/getDataForDownTime.php(10): MysqliDb->query()
+#3 {main}
+  thrown in /var/www/html/erpm/AppData/Class/MysqliDb.php on line 1514
+[13-Jan-2023 15:23:28 Asia/Kolkata] PHP Fatal error:  Uncaught Exception: Problem preparing query (call GetDTDetailsByID("22") AS isWY WHERE 6170=6170 AND (6572=7211)*7211-- PFHK")) You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'AS isWY WHERE 6170=6170 AND (6572=7211)*7211-- PFHK")' at line 1 in /var/www/html/erpm/AppData/Class/MysqliDb.php:1514
+Stack trace:
+#0 /var/www/html/erpm/AppData/Class/MysqliDb.php(1127): MysqliDb->_prepareQuery()
+#1 /var/www/html/erpm/AppData/Class/MysqliDb.php(495): MysqliDb->_buildQuery()
+#2 /var/www/html/erpm/Controller/getDataForDownTime.php(10): MysqliDb->query()
+#3 {main}
+  thrown in /var/www/html/erpm/AppData/Class/MysqliDb.php on line 1514
+[13-Jan-2023 15:23:28 Asia/Kolkata] PHP Fatal error:  Uncaught Exception: Problem preparing query (call GetDTDetailsByID("22") AS LTDr WHERE 5666=5666 AND (2509=2509)*7234-- tbKp")) You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'AS LTDr WHERE 5666=5666 AND (2509=2509)*7234-- tbKp")' at line 1 in /var/www/html/erpm/AppData/Class/MysqliDb.php:1514
+Stack trace:
+#0 /var/www/html/erpm/AppData/Class/MysqliDb.php(1127): MysqliDb->_prepareQuery()
+#1 /var/www/html/erpm/AppData/Class/MysqliDb.php(495): MysqliDb->_buildQuery()
+#2 /var/www/html/erpm/Controller/getDataForDownTime.php(10): MysqliDb->query()
+#3 {main}
+  thrown in /var/www/html/erpm/AppData/Class/MysqliDb.php on line 1514
+[13-Jan-2023 15:23:30 Asia/Kolkata] PHP Fatal error:  Uncaught Exception: Problem preparing query (call GetDTDetailsByID("-1903" OR (6084=7121)*7121-- qruv")) You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1 in /var/www/html/erpm/AppData/Class/MysqliDb.php:1514
+Stack trace:
+#0 /var/www/html/erpm/AppData/Class/MysqliDb.php(1127): MysqliDb->_prepareQuery()
+#1 /var/www/html/erpm/AppData/Class/MysqliDb.php(495): MysqliDb->_buildQuery()
+#2 /var/www/html/erpm/Controller/getDataForDownTime.php(10): MysqliDb->query()
+#3 {main}
+  thrown in /var/www/html/erpm/AppData/Class/MysqliDb.php on line 1514
+[13-Jan-2023 15:23:30 Asia/Kolkata] PHP Fatal error:  Uncaught Exception: Problem preparing query (call GetDTDetailsByID("-7545" OR (1261=1261)*8222-- xotz")) You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1 in /var/www/html/erpm/AppData/Class/MysqliDb.php:1514
+Stack trace:
+#0 /var/www/html/erpm/AppData/Class/MysqliDb.php(1127): MysqliDb->_prepareQuery()
+#1 /var/www/html/erpm/AppData/Class/MysqliDb.php(495): MysqliDb->_buildQuery()
+#2 /var/www/html/erpm/Controller/getDataForDownTime.php(10): MysqliDb->query()
+#3 {main}
+  thrown in /var/www/html/erpm/AppData/Class/MysqliDb.php on line 1514
+[13-Jan-2023 15:23:31 Asia/Kolkata] PHP Fatal error:  Uncaught Exception: Problem preparing query (call GetDTDetailsByID("-3348") OR (1457=2796)*2796 AND ("sVeM"="sVeM")) You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'OR (1457=2796)*2796 AND ("sVeM"="sVeM")' at line 1 in /var/www/html/erpm/AppData/Class/MysqliDb.php:1514
+Stack trace:
+#0 /var/www/html/erpm/AppData/Class/MysqliDb.php(1127): MysqliDb->_prepareQuery()
+#1 /var/www/html/erpm/AppData/Class/MysqliDb.php(495): MysqliDb->_buildQuery()
+#2 /var/www/html/erpm/Controller/getDataForDownTime.php(10): MysqliDb->query()
+#3 {main}
+  thrown in /var/www/html/erpm/AppData/Class/MysqliDb.php on line 1514
+[13-Jan-2023 15:23:31 Asia/Kolkata] PHP Fatal error:  Uncaught Exception: Problem preparing query (call GetDTDetailsByID("-2096") OR (1261=1261)*8222 AND ("eYKl"="eYKl")) You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'OR (1261=1261)*8222 AND ("eYKl"="eYKl")' at line 1 in /var/www/html/erpm/AppData/Class/MysqliDb.php:1514
+Stack trace:
+#0 /var/www/html/erpm/AppData/Class/MysqliDb.php(1127): MysqliDb->_prepareQuery()
+#1 /var/www/html/erpm/AppData/Class/MysqliDb.php(495): MysqliDb->_buildQuery()
+#2 /var/www/html/erpm/Controller/getDataForDownTime.php(10): MysqliDb->query()
+#3 {main}
+  thrown in /var/www/html/erpm/AppData/Class/MysqliDb.php on line 1514
+[13-Jan-2023 15:23:31 Asia/Kolkata] PHP Fatal error:  Uncaught Exception: Problem preparing query (call GetDTDetailsByID("-1417")) OR (5703=5908)*5908 AND (("lvKF"="lvKF")) You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ') OR (5703=5908)*5908 AND (("lvKF"="lvKF")' at line 1 in /var/www/html/erpm/AppData/Class/MysqliDb.php:1514
+Stack trace:
+#0 /var/www/html/erpm/AppData/Class/MysqliDb.php(1127): MysqliDb->_prepareQuery()
+#1 /var/www/html/erpm/AppData/Class/MysqliDb.php(495): MysqliDb->_buildQuery()
+#2 /var/www/html/erpm/Controller/getDataForDownTime.php(10): MysqliDb->query()
+#3 {main}
+  thrown in /var/www/html/erpm/AppData/Class/MysqliDb.php on line 1514
+[13-Jan-2023 15:23:31 Asia/Kolkata] PHP Fatal error:  Uncaught Exception: Problem preparing query (call GetDTDetailsByID("-7988")) OR (1261=1261)*8222 AND (("Dtwv"="Dtwv")) You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ') OR (1261=1261)*8222 AND (("Dtwv"="Dtwv")' at line 1 in /var/www/html/erpm/AppData/Class/MysqliDb.php:1514
+Stack trace:
+#0 /var/www/html/erpm/AppData/Class/MysqliDb.php(1127): MysqliDb->_prepareQuery()
+#1 /var/www/html/erpm/AppData/Class/MysqliDb.php(495): MysqliDb->_buildQuery()
+#2 /var/www/html/erpm/Controller/getDataForDownTime.php(10): MysqliDb->query()
+#3 {main}
+  thrown in /var/www/html/erpm/AppData/Class/MysqliDb.php on line 1514
+[13-Jan-2023 15:23:31 Asia/Kolkata] PHP Fatal error:  Uncaught Exception: Problem preparing query (call GetDTDetailsByID("-1849"))) OR (3486=6127)*6127 AND ((("GCCz"="GCCz")) You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ')) OR (3486=6127)*6127 AND ((("GCCz"="GCCz")' at line 1 in /var/www/html/erpm/AppData/Class/MysqliDb.php:1514
+Stack trace:
+#0 /var/www/html/erpm/AppData/Class/MysqliDb.php(1127): MysqliDb->_prepareQuery()
+#1 /var/www/html/erpm/AppData/Class/MysqliDb.php(495): MysqliDb->_buildQuery()
+#2 /var/www/html/erpm/Controller/getDataForDownTime.php(10): MysqliDb->query()
+#3 {main}
+  thrown in /var/www/html/erpm/AppData/Class/MysqliDb.php on line 1514
+[13-Jan-2023 15:23:31 Asia/Kolkata] PHP Fatal error:  Uncaught Exception: Problem preparing query (call GetDTDetailsByID("-7206"))) OR (1261=1261)*8222 AND ((("FvUT"="FvUT")) You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ')) OR (1261=1261)*8222 AND ((("FvUT"="FvUT")' at line 1 in /var/www/html/erpm/AppData/Class/MysqliDb.php:1514
+Stack trace:
+#0 /var/www/html/erpm/AppData/Class/MysqliDb.php(1127): MysqliDb->_prepareQuery()
+#1 /var/www/html/erpm/AppData/Class/MysqliDb.php(495): MysqliDb->_buildQuery()
+#2 /var/www/html/erpm/Controller/getDataForDownTime.php(10): MysqliDb->query()
+#3 {main}
+  thrown in /var/www/html/erpm/AppData/Class/MysqliDb.php on line 1514
+[13-Jan-2023 15:23:31 Asia/Kolkata] PHP Fatal error:  Uncaught Exception: Problem preparing query (call GetDTDetailsByID("-4935") OR (5580=8660)*8660 AND ("uWte" LIKE "uWte")) You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'OR (5580=8660)*8660 AND ("uWte" LIKE "uWte")' at line 1 in /var/www/html/erpm/AppData/Class/MysqliDb.php:1514
+Stack trace:
+#0 /var/www/html/erpm/AppData/Class/MysqliDb.php(1127): MysqliDb->_prepareQuery()
+#1 /var/www/html/erpm/AppData/Class/MysqliDb.php(495): MysqliDb->_buildQuery()
+#2 /var/www/html/erpm/Controller/getDataForDownTime.php(10): MysqliDb->query()
+#3 {main}
+  thrown in /var/www/html/erpm/AppData/Class/MysqliDb.php on line 1514
+[13-Jan-2023 15:23:31 Asia/Kolkata] PHP Fatal error:  Uncaught Exception: Problem preparing query (call GetDTDetailsByID("-7643") OR (1261=1261)*8222 AND ("tNen" LIKE "tNen")) You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'OR (1261=1261)*8222 AND ("tNen" LIKE "tNen")' at line 1 in /var/www/html/erpm/AppData/Class/MysqliDb.php:1514
+Stack trace:
+#0 /var/www/html/erpm/AppData/Class/MysqliDb.php(1127): MysqliDb->_prepareQuery()
+#1 /var/www/html/erpm/AppData/Class/MysqliDb.php(495): MysqliDb->_buildQuery()
+#2 /var/www/html/erpm/Controller/getDataForDownTime.php(10): MysqliDb->query()
+#3 {main}
+  thrown in /var/www/html/erpm/AppData/Class/MysqliDb.php on line 1514
+[13-Jan-2023 15:23:32 Asia/Kolkata] PHP Fatal error:  Uncaught Exception: Problem preparing query (call GetDTDetailsByID("-4095")) OR (6969=1284)*1284 AND (("lmBP" LIKE "lmBP")) You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ') OR (6969=1284)*1284 AND (("lmBP" LIKE "lmBP")' at line 1 in /var/www/html/erpm/AppData/Class/MysqliDb.php:1514
+Stack trace:
+#0 /var/www/html/erpm/AppData/Class/MysqliDb.php(1127): MysqliDb->_prepareQuery()
+#1 /var/www/html/erpm/AppData/Class/MysqliDb.php(495): MysqliDb->_buildQuery()
+#2 /var/www/html/erpm/Controller/getDataForDownTime.php(10): MysqliDb->query()
+#3 {main}
+  thrown in /var/www/html/erpm/AppData/Class/MysqliDb.php on line 1514
+[13-Jan-2023 15:23:32 Asia/Kolkata] PHP Fatal error:  Uncaught Exception: Problem preparing query (call GetDTDetailsByID("-9068")) OR (1261=1261)*8222 AND (("ySTC" LIKE "ySTC")) You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ') OR (1261=1261)*8222 AND (("ySTC" LIKE "ySTC")' at line 1 in /var/www/html/erpm/AppData/Class/MysqliDb.php:1514
+Stack trace:
+#0 /var/www/html/erpm/AppData/Class/MysqliDb.php(1127): MysqliDb->_prepareQuery()
+#1 /var/www/html/erpm/AppData/Class/MysqliDb.php(495): MysqliDb->_buildQuery()
+#2 /var/www/html/erpm/Controller/getDataForDownTime.php(10): MysqliDb->query()
+#3 {main}
+  thrown in /var/www/html/erpm/AppData/Class/MysqliDb.php on line 1514
+[13-Jan-2023 15:23:32 Asia/Kolkata] PHP Fatal error:  Uncaught Exception: Problem preparing query (call GetDTDetailsByID("-1814"))) OR (6156=8734)*8734 AND ((("JSHU" LIKE "JSHU")) You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ')) OR (6156=8734)*8734 AND ((("JSHU" LIKE "JSHU")' at line 1 in /var/www/html/erpm/AppData/Class/MysqliDb.php:1514
+Stack trace:
+#0 /var/www/html/erpm/AppData/Class/MysqliDb.php(1127): MysqliDb->_prepareQuery()
+#1 /var/www/html/erpm/AppData/Class/MysqliDb.php(495): MysqliDb->_buildQuery()
+#2 /var/www/html/erpm/Controller/getDataForDownTime.php(10): MysqliDb->query()
+#3 {main}
+  thrown in /var/www/html/erpm/AppData/Class/MysqliDb.php on line 1514
+[13-Jan-2023 15:23:32 Asia/Kolkata] PHP Fatal error:  Uncaught Exception: Problem preparing query (call GetDTDetailsByID("-8073"))) OR (1261=1261)*8222 AND ((("AKWP" LIKE "AKWP")) You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ')) OR (1261=1261)*8222 AND ((("AKWP" LIKE "AKWP")' at line 1 in /var/www/html/erpm/AppData/Class/MysqliDb.php:1514
+Stack trace:
+#0 /var/www/html/erpm/AppData/Class/MysqliDb.php(1127): MysqliDb->_prepareQuery()
+#1 /var/www/html/erpm/AppData/Class/MysqliDb.php(495): MysqliDb->_buildQuery()
+#2 /var/www/html/erpm/Controller/getDataForDownTime.php(10): MysqliDb->query()
+#3 {main}
+  thrown in /var/www/html/erpm/AppData/Class/MysqliDb.php on line 1514
+[13-Jan-2023 15:23:32 Asia/Kolkata] PHP Fatal error:  Uncaught Exception: Problem preparing query (call GetDTDetailsByID("-8434")) AS YBHs WHERE 3872=3872 OR (7706=9164)*9164-- cNfE")) You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ') AS YBHs WHERE 3872=3872 OR (7706=9164)*9164-- cNfE")' at line 1 in /var/www/html/erpm/AppData/Class/MysqliDb.php:1514
+Stack trace:
+#0 /var/www/html/erpm/AppData/Class/MysqliDb.php(1127): MysqliDb->_prepareQuery()
+#1 /var/www/html/erpm/AppData/Class/MysqliDb.php(495): MysqliDb->_buildQuery()
+#2 /var/www/html/erpm/Controller/getDataForDownTime.php(10): MysqliDb->query()
+#3 {main}
+  thrown in /var/www/html/erpm/AppData/Class/MysqliDb.php on line 1514
+[13-Jan-2023 15:23:33 Asia/Kolkata] PHP Fatal error:  Uncaught Exception: Problem preparing query (call GetDTDetailsByID("-5039")) AS khuf WHERE 9719=9719 OR (1261=1261)*8222-- HVsQ")) You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ') AS khuf WHERE 9719=9719 OR (1261=1261)*8222-- HVsQ")' at line 1 in /var/www/html/erpm/AppData/Class/MysqliDb.php:1514
+Stack trace:
+#0 /var/www/html/erpm/AppData/Class/MysqliDb.php(1127): MysqliDb->_prepareQuery()
+#1 /var/www/html/erpm/AppData/Class/MysqliDb.php(495): MysqliDb->_buildQuery()
+#2 /var/www/html/erpm/Controller/getDataForDownTime.php(10): MysqliDb->query()
+#3 {main}
+  thrown in /var/www/html/erpm/AppData/Class/MysqliDb.php on line 1514
+[13-Jan-2023 15:23:33 Asia/Kolkata] PHP Fatal error:  Uncaught Exception: Problem preparing query (call GetDTDetailsByID("-3368") AS yFeH WHERE 4016=4016 OR (1809=9426)*9426-- UeWI")) You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'AS yFeH WHERE 4016=4016 OR (1809=9426)*9426-- UeWI")' at line 1 in /var/www/html/erpm/AppData/Class/MysqliDb.php:1514
+Stack trace:
+#0 /var/www/html/erpm/AppData/Class/MysqliDb.php(1127): MysqliDb->_prepareQuery()
+#1 /var/www/html/erpm/AppData/Class/MysqliDb.php(495): MysqliDb->_buildQuery()
+#2 /var/www/html/erpm/Controller/getDataForDownTime.php(10): MysqliDb->query()
+#3 {main}
+  thrown in /var/www/html/erpm/AppData/Class/MysqliDb.php on line 1514
+[13-Jan-2023 15:23:33 Asia/Kolkata] PHP Fatal error:  Uncaught Exception: Problem preparing query (call GetDTDetailsByID("-7176") AS ZJju WHERE 9611=9611 OR (1261=1261)*8222-- pRdS")) You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'AS ZJju WHERE 9611=9611 OR (1261=1261)*8222-- pRdS")' at line 1 in /var/www/html/erpm/AppData/Class/MysqliDb.php:1514
+Stack trace:
+#0 /var/www/html/erpm/AppData/Class/MysqliDb.php(1127): MysqliDb->_prepareQuery()
+#1 /var/www/html/erpm/AppData/Class/MysqliDb.php(495): MysqliDb->_buildQuery()
+#2 /var/www/html/erpm/Controller/getDataForDownTime.php(10): MysqliDb->query()
+#3 {main}
+  thrown in /var/www/html/erpm/AppData/Class/MysqliDb.php on line 1514
+[13-Jan-2023 15:23:36 Asia/Kolkata] PHP Fatal error:  Uncaught Exception: Problem preparing query (call GetDTDetailsByID("22";SELECT (CASE WHEN (2313=6238) THEN 2313 ELSE 2313*(SELECT 2313 FROM INFORMATION_SCHEMA.PLUGINS) END)#")) You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ';SELECT (CASE WHEN (2313=6238) THEN 2313 ELSE 2313*(SELECT 2313 FROM INFORMATION' at line 1 in /var/www/html/erpm/AppData/Class/MysqliDb.php:1514
+Stack trace:
+#0 /var/www/html/erpm/AppData/Class/MysqliDb.php(1127): MysqliDb->_prepareQuery()
+#1 /var/www/html/erpm/AppData/Class/MysqliDb.php(495): MysqliDb->_buildQuery()
+#2 /var/www/html/erpm/Controller/getDataForDownTime.php(10): MysqliDb->query()
+#3 {main}
+  thrown in /var/www/html/erpm/AppData/Class/MysqliDb.php on line 1514
+[13-Jan-2023 15:23:36 Asia/Kolkata] PHP Fatal error:  Uncaught Exception: Problem preparing query (call GetDTDetailsByID("22";SELECT (CASE WHEN (7986=7986) THEN 7986 ELSE 7986*(SELECT 7986 FROM INFORMATION_SCHEMA.PLUGINS) END)#")) You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ';SELECT (CASE WHEN (7986=7986) THEN 7986 ELSE 7986*(SELECT 7986 FROM INFORMATION' at line 1 in /var/www/html/erpm/AppData/Class/MysqliDb.php:1514
+Stack trace:
+#0 /var/www/html/erpm/AppData/Class/MysqliDb.php(1127): MysqliDb->_prepareQuery()
+#1 /var/www/html/erpm/AppData/Class/MysqliDb.php(495): MysqliDb->_buildQuery()
+#2 /var/www/html/erpm/Controller/getDataForDownTime.php(10): MysqliDb->query()
+#3 {main}
+  thrown in /var/www/html/erpm/AppData/Class/MysqliDb.php on line 1514
+[13-Jan-2023 15:23:36 Asia/Kolkata] PHP Fatal error:  Uncaught Exception: Problem preparing query (call GetDTDetailsByID("22");SELECT (CASE WHEN (7325=7462) THEN 7325 ELSE 7325*(SELECT 7325 FROM INFORMATION_SCHEMA.PLUGINS) END)#")) You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'SELECT (CASE WHEN (7325=7462) THEN 7325 ELSE 7325*(SELECT 7325 FROM INFORMATION_' at line 1 in /var/www/html/erpm/AppData/Class/MysqliDb.php:1514
+Stack trace:
+#0 /var/www/html/erpm/AppData/Class/MysqliDb.php(1127): MysqliDb->_prepareQuery()
+#1 /var/www/html/erpm/AppData/Class/MysqliDb.php(495): MysqliDb->_buildQuery()
+#2 /var/www/html/erpm/Controller/getDataForDownTime.php(10): MysqliDb->query()
+#3 {main}
+  thrown in /var/www/html/erpm/AppData/Class/MysqliDb.php on line 1514
+[13-Jan-2023 15:23:36 Asia/Kolkata] PHP Fatal error:  Uncaught Exception: Problem preparing query (call GetDTDetailsByID("22");SELECT (CASE WHEN (7986=7986) THEN 7986 ELSE 7986*(SELECT 7986 FROM INFORMATION_SCHEMA.PLUGINS) END)#")) You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'SELECT (CASE WHEN (7986=7986) THEN 7986 ELSE 7986*(SELECT 7986 FROM INFORMATION_' at line 1 in /var/www/html/erpm/AppData/Class/MysqliDb.php:1514
+Stack trace:
+#0 /var/www/html/erpm/AppData/Class/MysqliDb.php(1127): MysqliDb->_prepareQuery()
+#1 /var/www/html/erpm/AppData/Class/MysqliDb.php(495): MysqliDb->_buildQuery()
+#2 /var/www/html/erpm/Controller/getDataForDownTime.php(10): MysqliDb->query()
+#3 {main}
+  thrown in /var/www/html/erpm/AppData/Class/MysqliDb.php on line 1514
+[13-Jan-2023 15:23:36 Asia/Kolkata] PHP Fatal error:  Uncaught Exception: Problem preparing query (call GetDTDetailsByID("22"));SELECT (CASE WHEN (9367=8788) THEN 9367 ELSE 9367*(SELECT 9367 FROM INFORMATION_SCHEMA.PLUGINS) END)#")) You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ');SELECT (CASE WHEN (9367=8788) THEN 9367 ELSE 9367*(SELECT 9367 FROM INFORMATIO' at line 1 in /var/www/html/erpm/AppData/Class/MysqliDb.php:1514
+Stack trace:
+#0 /var/www/html/erpm/AppData/Class/MysqliDb.php(1127): MysqliDb->_prepareQuery()
+#1 /var/www/html/erpm/AppData/Class/MysqliDb.php(495): MysqliDb->_buildQuery()
+#2 /var/www/html/erpm/Controller/getDataForDownTime.php(10): MysqliDb->query()
+#3 {main}
+  thrown in /var/www/html/erpm/AppData/Class/MysqliDb.php on line 1514
+[13-Jan-2023 15:23:36 Asia/Kolkata] PHP Fatal error:  Uncaught Exception: Problem preparing query (call GetDTDetailsByID("22"));SELECT (CASE WHEN (7986=7986) THEN 7986 ELSE 7986*(SELECT 7986 FROM INFORMATION_SCHEMA.PLUGINS) END)#")) You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ');SELECT (CASE WHEN (7986=7986) THEN 7986 ELSE 7986*(SELECT 7986 FROM INFORMATIO' at line 1 in /var/www/html/erpm/AppData/Class/MysqliDb.php:1514
+Stack trace:
+#0 /var/www/html/erpm/AppData/Class/MysqliDb.php(1127): MysqliDb->_prepareQuery()
+#1 /var/www/html/erpm/AppData/Class/MysqliDb.php(495): MysqliDb->_buildQuery()
+#2 /var/www/html/erpm/Controller/getDataForDownTime.php(10): MysqliDb->query()
+#3 {main}
+  thrown in /var/www/html/erpm/AppData/Class/MysqliDb.php on line 1514
+[13-Jan-2023 15:23:36 Asia/Kolkata] PHP Fatal error:  Uncaught Exception: Problem preparing query (call GetDTDetailsByID("22")));SELECT (CASE WHEN (5346=4779) THEN 5346 ELSE 5346*(SELECT 5346 FROM INFORMATION_SCHEMA.PLUGINS) END)#")) You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '));SELECT (CASE WHEN (5346=4779) THEN 5346 ELSE 5346*(SELECT 5346 FROM INFORMATI' at line 1 in /var/www/html/erpm/AppData/Class/MysqliDb.php:1514
+Stack trace:
+#0 /var/www/html/erpm/AppData/Class/MysqliDb.php(1127): MysqliDb->_prepareQuery()
+#1 /var/www/html/erpm/AppData/Class/MysqliDb.php(495): MysqliDb->_buildQuery()
+#2 /var/www/html/erpm/Controller/getDataForDownTime.php(10): MysqliDb->query()
+#3 {main}
+  thrown in /var/www/html/erpm/AppData/Class/MysqliDb.php on line 1514
+[13-Jan-2023 15:23:36 Asia/Kolkata] PHP Fatal error:  Uncaught Exception: Problem preparing query (call GetDTDetailsByID("22")));SELECT (CASE WHEN (7986=7986) THEN 7986 ELSE 7986*(SELECT 7986 FROM INFORMATION_SCHEMA.PLUGINS) END)#")) You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '));SELECT (CASE WHEN (7986=7986) THEN 7986 ELSE 7986*(SELECT 7986 FROM INFORMATI' at line 1 in /var/www/html/erpm/AppData/Class/MysqliDb.php:1514
+Stack trace:
+#0 /var/www/html/erpm/AppData/Class/MysqliDb.php(1127): MysqliDb->_prepareQuery()
+#1 /var/www/html/erpm/AppData/Class/MysqliDb.php(495): MysqliDb->_buildQuery()
+#2 /var/www/html/erpm/Controller/getDataForDownTime.php(10): MysqliDb->query()
+#3 {main}
+  thrown in /var/www/html/erpm/AppData/Class/MysqliDb.php on line 1514
+[13-Jan-2023 15:23:36 Asia/Kolkata] PHP Fatal error:  Uncaught Exception: Problem preparing query (call GetDTDetailsByID("22")) AS SmvG WHERE 4414=4414;SELECT (CASE WHEN (1361=9500) THEN 1361 ELSE 1361*(SELECT 1361 FROM INFORMATION_SCHEMA.PLUGINS) END)#")) You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ') AS SmvG WHERE 4414=4414;SELECT (CASE WHEN (1361=9500) THEN 1361 ELSE 1361*(SEL' at line 1 in /var/www/html/erpm/AppData/Class/MysqliDb.php:1514
+Stack trace:
+#0 /var/www/html/erpm/AppData/Class/MysqliDb.php(1127): MysqliDb->_prepareQuery()
+#1 /var/www/html/erpm/AppData/Class/MysqliDb.php(495): MysqliDb->_buildQuery()
+#2 /var/www/html/erpm/Controller/getDataForDownTime.php(10): MysqliDb->query()
+#3 {main}
+  thrown in /var/www/html/erpm/AppData/Class/MysqliDb.php on line 1514
+[13-Jan-2023 15:23:36 Asia/Kolkata] PHP Fatal error:  Uncaught Exception: Problem preparing query (call GetDTDetailsByID("22")) AS Hrbw WHERE 4641=4641;SELECT (CASE WHEN (7986=7986) THEN 7986 ELSE 7986*(SELECT 7986 FROM INFORMATION_SCHEMA.PLUGINS) END)#")) You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ') AS Hrbw WHERE 4641=4641;SELECT (CASE WHEN (7986=7986) THEN 7986 ELSE 7986*(SEL' at line 1 in /var/www/html/erpm/AppData/Class/MysqliDb.php:1514
+Stack trace:
+#0 /var/www/html/erpm/AppData/Class/MysqliDb.php(1127): MysqliDb->_prepareQuery()
+#1 /var/www/html/erpm/AppData/Class/MysqliDb.php(495): MysqliDb->_buildQuery()
+#2 /var/www/html/erpm/Controller/getDataForDownTime.php(10): MysqliDb->query()
+#3 {main}
+  thrown in /var/www/html/erpm/AppData/Class/MysqliDb.php on line 1514
+[13-Jan-2023 15:23:37 Asia/Kolkata] PHP Fatal error:  Uncaught Exception: Problem preparing query (call GetDTDetailsByID("22") AS BHtt WHERE 3836=3836;SELECT (CASE WHEN (3960=3270) THEN 3960 ELSE 3960*(SELECT 3960 FROM INFORMATION_SCHEMA.PLUGINS) END)#")) You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'AS BHtt WHERE 3836=3836;SELECT (CASE WHEN (3960=3270) THEN 3960 ELSE 3960*(SELEC' at line 1 in /var/www/html/erpm/AppData/Class/MysqliDb.php:1514
+Stack trace:
+#0 /var/www/html/erpm/AppData/Class/MysqliDb.php(1127): MysqliDb->_prepareQuery()
+#1 /var/www/html/erpm/AppData/Class/MysqliDb.php(495): MysqliDb->_buildQuery()
+#2 /var/www/html/erpm/Controller/getDataForDownTime.php(10): MysqliDb->query()
+#3 {main}
+  thrown in /var/www/html/erpm/AppData/Class/MysqliDb.php on line 1514
+[13-Jan-2023 15:23:37 Asia/Kolkata] PHP Fatal error:  Uncaught Exception: Problem preparing query (call GetDTDetailsByID("22") AS OPJP WHERE 2164=2164;SELECT (CASE WHEN (7986=7986) THEN 7986 ELSE 7986*(SELECT 7986 FROM INFORMATION_SCHEMA.PLUGINS) END)#")) You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'AS OPJP WHERE 2164=2164;SELECT (CASE WHEN (7986=7986) THEN 7986 ELSE 7986*(SELEC' at line 1 in /var/www/html/erpm/AppData/Class/MysqliDb.php:1514
+Stack trace:
+#0 /var/www/html/erpm/AppData/Class/MysqliDb.php(1127): MysqliDb->_prepareQuery()
+#1 /var/www/html/erpm/AppData/Class/MysqliDb.php(495): MysqliDb->_buildQuery()
+#2 /var/www/html/erpm/Controller/getDataForDownTime.php(10): MysqliDb->query()
+#3 {main}
+  thrown in /var/www/html/erpm/AppData/Class/MysqliDb.php on line 1514
+[13-Jan-2023 15:23:37 Asia/Kolkata] PHP Fatal error:  Uncaught Exception: Problem preparing query (call GetDTDetailsByID("22"="22";SELECT (CASE WHEN (1074=1570) THEN 1074 ELSE 1074*(SELECT 1074 FROM INFORMATION_SCHEMA.PLUGINS) END)#")) You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ';SELECT (CASE WHEN (1074=1570) THEN 1074 ELSE 1074*(SELECT 1074 FROM INFORMATION' at line 1 in /var/www/html/erpm/AppData/Class/MysqliDb.php:1514
+Stack trace:
+#0 /var/www/html/erpm/AppData/Class/MysqliDb.php(1127): MysqliDb->_prepareQuery()
+#1 /var/www/html/erpm/AppData/Class/MysqliDb.php(495): MysqliDb->_buildQuery()
+#2 /var/www/html/erpm/Controller/getDataForDownTime.php(10): MysqliDb->query()
+#3 {main}
+  thrown in /var/www/html/erpm/AppData/Class/MysqliDb.php on line 1514
+[13-Jan-2023 15:23:37 Asia/Kolkata] PHP Fatal error:  Uncaught Exception: Problem preparing query (call GetDTDetailsByID("22"="22";SELECT (CASE WHEN (7986=7986) THEN 7986 ELSE 7986*(SELECT 7986 FROM INFORMATION_SCHEMA.PLUGINS) END)#")) You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ';SELECT (CASE WHEN (7986=7986) THEN 7986 ELSE 7986*(SELECT 7986 FROM INFORMATION' at line 1 in /var/www/html/erpm/AppData/Class/MysqliDb.php:1514
+Stack trace:
+#0 /var/www/html/erpm/AppData/Class/MysqliDb.php(1127): MysqliDb->_prepareQuery()
+#1 /var/www/html/erpm/AppData/Class/MysqliDb.php(495): MysqliDb->_buildQuery()
+#2 /var/www/html/erpm/Controller/getDataForDownTime.php(10): MysqliDb->query()
+#3 {main}
+  thrown in /var/www/html/erpm/AppData/Class/MysqliDb.php on line 1514
+[13-Jan-2023 15:23:38 Asia/Kolkata] PHP Fatal error:  Uncaught Exception: Problem preparing query (call GetDTDetailsByID("22" AND (SELECT 2*(IF((SELECT * FROM (SELECT CONCAT(0x716a706a71,(SELECT (ELT(5106=5106,1))),0x7170707671,0x78))s), 8446744073709551610, 8446744073709551610)))-- cJyN")) You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1 in /var/www/html/erpm/AppData/Class/MysqliDb.php:1514
+Stack trace:
+#0 /var/www/html/erpm/AppData/Class/MysqliDb.php(1127): MysqliDb->_prepareQuery()
+#1 /var/www/html/erpm/AppData/Class/MysqliDb.php(495): MysqliDb->_buildQuery()
+#2 /var/www/html/erpm/Controller/getDataForDownTime.php(10): MysqliDb->query()
+#3 {main}
+  thrown in /var/www/html/erpm/AppData/Class/MysqliDb.php on line 1514
+[13-Jan-2023 15:23:39 Asia/Kolkata] PHP Fatal error:  Uncaught Exception: Problem preparing query (call GetDTDetailsByID("22") AND (SELECT 2*(IF((SELECT * FROM (SELECT CONCAT(0x716a706a71,(SELECT (ELT(5106=5106,1))),0x7170707671,0x78))s), 8446744073709551610, 8446744073709551610))) AND ("XZLw"="XZLw")) You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'AND (SELECT 2*(IF((SELECT * FROM (SELECT CONCAT(0x716a706a71,(SELECT (ELT(5106=5' at line 1 in /var/www/html/erpm/AppData/Class/MysqliDb.php:1514
+Stack trace:
+#0 /var/www/html/erpm/AppData/Class/MysqliDb.php(1127): MysqliDb->_prepareQuery()
+#1 /var/www/html/erpm/AppData/Class/MysqliDb.php(495): MysqliDb->_buildQuery()
+#2 /var/www/html/erpm/Controller/getDataForDownTime.php(10): MysqliDb->query()
+#3 {main}
+  thrown in /var/www/html/erpm/AppData/Class/MysqliDb.php on line 1514
+[13-Jan-2023 15:23:39 Asia/Kolkata] PHP Fatal error:  Uncaught Exception: Problem preparing query (call GetDTDetailsByID("22")) AND (SELECT 2*(IF((SELECT * FROM (SELECT CONCAT(0x716a706a71,(SELECT (ELT(5106=5106,1))),0x7170707671,0x78))s), 8446744073709551610, 8446744073709551610))) AND (("iMBh"="iMBh")) You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ') AND (SELECT 2*(IF((SELECT * FROM (SELECT CONCAT(0x716a706a71,(SELECT (ELT(5106' at line 1 in /var/www/html/erpm/AppData/Class/MysqliDb.php:1514
+Stack trace:
+#0 /var/www/html/erpm/AppData/Class/MysqliDb.php(1127): MysqliDb->_prepareQuery()
+#1 /var/www/html/erpm/AppData/Class/MysqliDb.php(495): MysqliDb->_buildQuery()
+#2 /var/www/html/erpm/Controller/getDataForDownTime.php(10): MysqliDb->query()
+#3 {main}
+  thrown in /var/www/html/erpm/AppData/Class/MysqliDb.php on line 1514
+[13-Jan-2023 15:23:39 Asia/Kolkata] PHP Fatal error:  Uncaught Exception: Problem preparing query (call GetDTDetailsByID("22"))) AND (SELECT 2*(IF((SELECT * FROM (SELECT CONCAT(0x716a706a71,(SELECT (ELT(5106=5106,1))),0x7170707671,0x78))s), 8446744073709551610, 8446744073709551610))) AND ((("ulHI"="ulHI")) You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ')) AND (SELECT 2*(IF((SELECT * FROM (SELECT CONCAT(0x716a706a71,(SELECT (ELT(510' at line 1 in /var/www/html/erpm/AppData/Class/MysqliDb.php:1514
+Stack trace:
+#0 /var/www/html/erpm/AppData/Class/MysqliDb.php(1127): MysqliDb->_prepareQuery()
+#1 /var/www/html/erpm/AppData/Class/MysqliDb.php(495): MysqliDb->_buildQuery()
+#2 /var/www/html/erpm/Controller/getDataForDownTime.php(10): MysqliDb->query()
+#3 {main}
+  thrown in /var/www/html/erpm/AppData/Class/MysqliDb.php on line 1514
+[13-Jan-2023 15:23:39 Asia/Kolkata] PHP Fatal error:  Uncaught Exception: Problem preparing query (call GetDTDetailsByID("22") AND (SELECT 2*(IF((SELECT * FROM (SELECT CONCAT(0x716a706a71,(SELECT (ELT(5106=5106,1))),0x7170707671,0x78))s), 8446744073709551610, 8446744073709551610))) AND ("fYei" LIKE "fYei")) You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'AND (SELECT 2*(IF((SELECT * FROM (SELECT CONCAT(0x716a706a71,(SELECT (ELT(5106=5' at line 1 in /var/www/html/erpm/AppData/Class/MysqliDb.php:1514
+Stack trace:
+#0 /var/www/html/erpm/AppData/Class/MysqliDb.php(1127): MysqliDb->_prepareQuery()
+#1 /var/www/html/erpm/AppData/Class/MysqliDb.php(495): MysqliDb->_buildQuery()
+#2 /var/www/html/erpm/Controller/getDataForDownTime.php(10): MysqliDb->query()
+#3 {main}
+  thrown in /var/www/html/erpm/AppData/Class/MysqliDb.php on line 1514
+[13-Jan-2023 15:23:39 Asia/Kolkata] PHP Fatal error:  Uncaught Exception: Problem preparing query (call GetDTDetailsByID("22")) AND (SELECT 2*(IF((SELECT * FROM (SELECT CONCAT(0x716a706a71,(SELECT (ELT(5106=5106,1))),0x7170707671,0x78))s), 8446744073709551610, 8446744073709551610))) AND (("WATx" LIKE "WATx")) You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ') AND (SELECT 2*(IF((SELECT * FROM (SELECT CONCAT(0x716a706a71,(SELECT (ELT(5106' at line 1 in /var/www/html/erpm/AppData/Class/MysqliDb.php:1514
+Stack trace:
+#0 /var/www/html/erpm/AppData/Class/MysqliDb.php(1127): MysqliDb->_prepareQuery()
+#1 /var/www/html/erpm/AppData/Class/MysqliDb.php(495): MysqliDb->_buildQuery()
+#2 /var/www/html/erpm/Controller/getDataForDownTime.php(10): MysqliDb->query()
+#3 {main}
+  thrown in /var/www/html/erpm/AppData/Class/MysqliDb.php on line 1514
+[13-Jan-2023 15:23:39 Asia/Kolkata] PHP Fatal error:  Uncaught Exception: Problem preparing query (call GetDTDetailsByID("22"))) AND (SELECT 2*(IF((SELECT * FROM (SELECT CONCAT(0x716a706a71,(SELECT (ELT(5106=5106,1))),0x7170707671,0x78))s), 8446744073709551610, 8446744073709551610))) AND ((("eYqm" LIKE "eYqm")) You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ')) AND (SELECT 2*(IF((SELECT * FROM (SELECT CONCAT(0x716a706a71,(SELECT (ELT(510' at line 1 in /var/www/html/erpm/AppData/Class/MysqliDb.php:1514
+Stack trace:
+#0 /var/www/html/erpm/AppData/Class/MysqliDb.php(1127): MysqliDb->_prepareQuery()
+#1 /var/www/html/erpm/AppData/Class/MysqliDb.php(495): MysqliDb->_buildQuery()
+#2 /var/www/html/erpm/Controller/getDataForDownTime.php(10): MysqliDb->query()
+#3 {main}
+  thrown in /var/www/html/erpm/AppData/Class/MysqliDb.php on line 1514
+[13-Jan-2023 15:23:39 Asia/Kolkata] PHP Fatal error:  Uncaught Exception: Problem preparing query (call GetDTDetailsByID("22") WHERE 5428=5428 AND (SELECT 2*(IF((SELECT * FROM (SELECT CONCAT(0x716a706a71,(SELECT (ELT(5106=5106,1))),0x7170707671,0x78))s), 8446744073709551610, 8446744073709551610)))-- xReG")) You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'WHERE 5428=5428 AND (SELECT 2*(IF((SELECT * FROM (SELECT CONCAT(0x716a706a71,(SE' at line 1 in /var/www/html/erpm/AppData/Class/MysqliDb.php:1514
+Stack trace:
+#0 /var/www/html/erpm/AppData/Class/MysqliDb.php(1127): MysqliDb->_prepareQuery()
+#1 /var/www/html/erpm/AppData/Class/MysqliDb.php(495): MysqliDb->_buildQuery()
+#2 /var/www/html/erpm/Controller/getDataForDownTime.php(10): MysqliDb->query()
+#3 {main}
+  thrown in /var/www/html/erpm/AppData/Class/MysqliDb.php on line 1514
+[13-Jan-2023 15:23:39 Asia/Kolkata] PHP Fatal error:  Uncaught Exception: Problem preparing query (call GetDTDetailsByID("22" WHERE 1732=1732 AND (SELECT 2*(IF((SELECT * FROM (SELECT CONCAT(0x716a706a71,(SELECT (ELT(5106=5106,1))),0x7170707671,0x78))s), 8446744073709551610, 8446744073709551610)))-- COqX")) You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'WHERE 1732=1732 AND (SELECT 2*(IF((SELECT * FROM (SELECT CONCAT(0x716a706a71,(SE' at line 1 in /var/www/html/erpm/AppData/Class/MysqliDb.php:1514
+Stack trace:
+#0 /var/www/html/erpm/AppData/Class/MysqliDb.php(1127): MysqliDb->_prepareQuery()
+#1 /var/www/html/erpm/AppData/Class/MysqliDb.php(495): MysqliDb->_buildQuery()
+#2 /var/www/html/erpm/Controller/getDataForDownTime.php(10): MysqliDb->query()
+#3 {main}
+  thrown in /var/www/html/erpm/AppData/Class/MysqliDb.php on line 1514
+[13-Jan-2023 15:23:40 Asia/Kolkata] PHP Fatal error:  Uncaught Exception: Problem preparing query (call GetDTDetailsByID("22")) AS Ofru WHERE 9703=9703 AND (SELECT 2*(IF((SELECT * FROM (SELECT CONCAT(0x716a706a71,(SELECT (ELT(5106=5106,1))),0x7170707671,0x78))s), 8446744073709551610, 8446744073709551610)))-- mUda")) You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ') AS Ofru WHERE 9703=9703 AND (SELECT 2*(IF((SELECT * FROM (SELECT CONCAT(0x716a' at line 1 in /var/www/html/erpm/AppData/Class/MysqliDb.php:1514
+Stack trace:
+#0 /var/www/html/erpm/AppData/Class/MysqliDb.php(1127): MysqliDb->_prepareQuery()
+#1 /var/www/html/erpm/AppData/Class/MysqliDb.php(495): MysqliDb->_buildQuery()
+#2 /var/www/html/erpm/Controller/getDataForDownTime.php(10): MysqliDb->query()
+#3 {main}
+  thrown in /var/www/html/erpm/AppData/Class/MysqliDb.php on line 1514
+[13-Jan-2023 15:23:40 Asia/Kolkata] PHP Fatal error:  Uncaught Exception: Problem preparing query (call GetDTDetailsByID("22") AS CEQa WHERE 9515=9515 AND (SELECT 2*(IF((SELECT * FROM (SELECT CONCAT(0x716a706a71,(SELECT (ELT(5106=5106,1))),0x7170707671,0x78))s), 8446744073709551610, 8446744073709551610)))-- jJRX")) You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'AS CEQa WHERE 9515=9515 AND (SELECT 2*(IF((SELECT * FROM (SELECT CONCAT(0x716a70' at line 1 in /var/www/html/erpm/AppData/Class/MysqliDb.php:1514
+Stack trace:
+#0 /var/www/html/erpm/AppData/Class/MysqliDb.php(1127): MysqliDb->_prepareQuery()
+#1 /var/www/html/erpm/AppData/Class/MysqliDb.php(495): MysqliDb->_buildQuery()
+#2 /var/www/html/erpm/Controller/getDataForDownTime.php(10): MysqliDb->query()
+#3 {main}
+  thrown in /var/www/html/erpm/AppData/Class/MysqliDb.php on line 1514
+[13-Jan-2023 15:35:31 Asia/Kolkata] PHP Warning:  mysqli_stmt::bind_param(): Number of elements in type definition string doesn't match number of bind variables in /var/www/html/erpm/Controller/ConLog.php on line 464
+[13-Jan-2023 15:35:33 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /var/www/html/erpm/View/index.php on line 346

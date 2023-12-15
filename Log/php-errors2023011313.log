@@ -1,0 +1,8 @@
+[13-Jan-2023 13:00:39 Asia/Kolkata] PHP Warning:  mysqli_stmt::bind_param(): Number of elements in type definition string doesn't match number of bind variables in /var/www/html/erpm/Controller/ConLog.php on line 464
+[13-Jan-2023 13:00:41 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /var/www/html/erpm/View/index.php on line 346
+[13-Jan-2023 13:00:57 Asia/Kolkata] PHP Notice:  Undefined index: txt_dateFrom in /var/www/html/erpm/View/bgv_docsend.php on line 32
+[13-Jan-2023 13:00:57 Asia/Kolkata] PHP Notice:  Undefined variable: htmlresp in /var/www/html/erpm/View/bgv_docsend.php on line 648
+[13-Jan-2023 13:01:42 Asia/Kolkata] PHP Notice:  Undefined index: __user_logid in /var/www/html/erpm/AppCode/nHead.php on line 2
+[13-Jan-2023 13:01:52 Asia/Kolkata] PHP Notice:  Undefined index: __user_logid in /var/www/html/erpm/AppCode/nHead.php on line 2
+[13-Jan-2023 13:06:09 Asia/Kolkata] PHP Notice:  Undefined index: __user_logid in /var/www/html/erpm/AppCode/nHead.php on line 2
+[13-Jan-2023 13:10:12 Asia/Kolkata] PHP Notice:  Undefined index: __user_logid in /var/www/html/erpm/AppCode/nHead.php on line 2

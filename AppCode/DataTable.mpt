@@ -1,0 +1,9 @@
+<script src="<?php echo URL.'FileContainer/DataTable/DataTable.js';?>"></script>
+<script src="<?php echo URL.'FileContainer/DataTable/dataTables.buttons.min.js';?>"></script>
+<script src="<?php echo URL.'FileContainer/DataTable/buttons.flash.min.js';?>"></script>
+<script src="<?php echo URL.'FileContainer/DataTable/jszip.min.js';?>"></script>
+<script src="<?php echo URL.'FileContainer/DataTable/pdfmake.min.js';?>"></script>
+<script src="<?php echo URL.'FileContainer/DataTable/buttons.html5.min.js';?>"></script>
+<script src="<?php echo URL.'FileContainer/DataTable/buttons.print.min.js';?>"></script>
+<link rel="stylesheet" href="<?php echo URL.'FileContainer/DataTable/DataTale.css';?>"/>
+<link rel="stylesheet" href="<?php echo URL.'FileContainer/DataTable/buttons.dataTables.min.css';?>"/>

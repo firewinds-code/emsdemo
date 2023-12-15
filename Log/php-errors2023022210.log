@@ -1,0 +1,147 @@
+[22-Feb-2023 10:10:17 Asia/Kolkata] PHP Warning:  Undefined array key "txt_dateFrom" in C:\wamp64\www\emsdemo\View\message-popup.php on line 28
+[22-Feb-2023 10:10:17 Asia/Kolkata] PHP Stack trace:
+[22-Feb-2023 10:10:17 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\emsdemo\View\message-popup.php:0
+[22-Feb-2023 10:10:17 Asia/Kolkata] PHP Warning:  Undefined array key "txt_dateto" in C:\wamp64\www\emsdemo\View\message-popup.php on line 29
+[22-Feb-2023 10:10:17 Asia/Kolkata] PHP Stack trace:
+[22-Feb-2023 10:10:17 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\emsdemo\View\message-popup.php:0
+[22-Feb-2023 10:21:54 Asia/Kolkata] PHP Notice:  Only variables should be passed by reference in C:\wamp64\www\emsdemo\View\rpt_payroll.php on line 275
+[22-Feb-2023 10:21:54 Asia/Kolkata] PHP Stack trace:
+[22-Feb-2023 10:21:54 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\emsdemo\View\rpt_payroll.php:0
+[22-Feb-2023 10:21:54 Asia/Kolkata] PHP Notice:  Only variables should be passed by reference in C:\wamp64\www\emsdemo\View\rpt_payroll.php on line 275
+[22-Feb-2023 10:21:54 Asia/Kolkata] PHP Stack trace:
+[22-Feb-2023 10:21:54 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\emsdemo\View\rpt_payroll.php:0
+[22-Feb-2023 10:21:54 Asia/Kolkata] PHP Notice:  Only variables should be passed by reference in C:\wamp64\www\emsdemo\View\rpt_payroll.php on line 275
+[22-Feb-2023 10:21:54 Asia/Kolkata] PHP Stack trace:
+[22-Feb-2023 10:21:54 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\emsdemo\View\rpt_payroll.php:0
+[22-Feb-2023 10:21:54 Asia/Kolkata] PHP Notice:  Only variables should be passed by reference in C:\wamp64\www\emsdemo\View\rpt_payroll.php on line 275
+[22-Feb-2023 10:21:54 Asia/Kolkata] PHP Stack trace:
+[22-Feb-2023 10:21:54 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\emsdemo\View\rpt_payroll.php:0
+[22-Feb-2023 10:21:55 Asia/Kolkata] PHP Fatal error:  Uncaught TypeError: count(): Argument #1 ($value) must be of type Countable|array, null given in C:\wamp64\www\emsdemo\View\rpt_payroll.php:823
+Stack trace:
+#0 {main}
+  thrown in C:\wamp64\www\emsdemo\View\rpt_payroll.php on line 823
+[22-Feb-2023 10:24:07 Asia/Kolkata] PHP Notice:  Only variables should be passed by reference in C:\wamp64\www\emsdemo\View\rpt_payroll.php on line 275
+[22-Feb-2023 10:24:07 Asia/Kolkata] PHP Stack trace:
+[22-Feb-2023 10:24:07 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\emsdemo\View\rpt_payroll.php:0
+[22-Feb-2023 10:24:07 Asia/Kolkata] PHP Notice:  Only variables should be passed by reference in C:\wamp64\www\emsdemo\View\rpt_payroll.php on line 275
+[22-Feb-2023 10:24:07 Asia/Kolkata] PHP Stack trace:
+[22-Feb-2023 10:24:07 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\emsdemo\View\rpt_payroll.php:0
+[22-Feb-2023 10:24:07 Asia/Kolkata] PHP Notice:  Only variables should be passed by reference in C:\wamp64\www\emsdemo\View\rpt_payroll.php on line 275
+[22-Feb-2023 10:24:07 Asia/Kolkata] PHP Stack trace:
+[22-Feb-2023 10:24:07 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\emsdemo\View\rpt_payroll.php:0
+[22-Feb-2023 10:24:07 Asia/Kolkata] PHP Notice:  Only variables should be passed by reference in C:\wamp64\www\emsdemo\View\rpt_payroll.php on line 275
+[22-Feb-2023 10:24:07 Asia/Kolkata] PHP Stack trace:
+[22-Feb-2023 10:24:07 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\emsdemo\View\rpt_payroll.php:0
+[22-Feb-2023 10:24:07 Asia/Kolkata] PHP Fatal error:  Uncaught TypeError: count(): Argument #1 ($value) must be of type Countable|array, null given in C:\wamp64\www\emsdemo\View\rpt_payroll.php:823
+Stack trace:
+#0 {main}
+  thrown in C:\wamp64\www\emsdemo\View\rpt_payroll.php on line 823
+[22-Feb-2023 10:24:38 Asia/Kolkata] PHP Warning:  Undefined variable $clean_clfs in C:\wamp64\www\emsdemo\View\rpt_payroll.php on line 259
+[22-Feb-2023 10:24:38 Asia/Kolkata] PHP Stack trace:
+[22-Feb-2023 10:24:38 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\emsdemo\View\rpt_payroll.php:0
+[22-Feb-2023 10:24:38 Asia/Kolkata] PHP Notice:  Only variables should be passed by reference in C:\wamp64\www\emsdemo\View\rpt_payroll.php on line 275
+[22-Feb-2023 10:24:38 Asia/Kolkata] PHP Stack trace:
+[22-Feb-2023 10:24:38 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\emsdemo\View\rpt_payroll.php:0
+[22-Feb-2023 10:24:38 Asia/Kolkata] PHP Notice:  Only variables should be passed by reference in C:\wamp64\www\emsdemo\View\rpt_payroll.php on line 275
+[22-Feb-2023 10:24:38 Asia/Kolkata] PHP Stack trace:
+[22-Feb-2023 10:24:38 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\emsdemo\View\rpt_payroll.php:0
+[22-Feb-2023 10:24:38 Asia/Kolkata] PHP Notice:  Only variables should be passed by reference in C:\wamp64\www\emsdemo\View\rpt_payroll.php on line 275
+[22-Feb-2023 10:24:38 Asia/Kolkata] PHP Stack trace:
+[22-Feb-2023 10:24:38 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\emsdemo\View\rpt_payroll.php:0
+[22-Feb-2023 10:24:38 Asia/Kolkata] PHP Notice:  Only variables should be passed by reference in C:\wamp64\www\emsdemo\View\rpt_payroll.php on line 275
+[22-Feb-2023 10:24:38 Asia/Kolkata] PHP Stack trace:
+[22-Feb-2023 10:24:38 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\emsdemo\View\rpt_payroll.php:0
+[22-Feb-2023 10:25:01 Asia/Kolkata] PHP Warning:  Undefined variable $clean_clfs in C:\wamp64\www\emsdemo\View\rpt_payroll.php on line 259
+[22-Feb-2023 10:25:01 Asia/Kolkata] PHP Stack trace:
+[22-Feb-2023 10:25:01 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\emsdemo\View\rpt_payroll.php:0
+[22-Feb-2023 10:25:01 Asia/Kolkata] PHP Notice:  Only variables should be passed by reference in C:\wamp64\www\emsdemo\View\rpt_payroll.php on line 275
+[22-Feb-2023 10:25:01 Asia/Kolkata] PHP Stack trace:
+[22-Feb-2023 10:25:01 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\emsdemo\View\rpt_payroll.php:0
+[22-Feb-2023 10:25:01 Asia/Kolkata] PHP Notice:  Only variables should be passed by reference in C:\wamp64\www\emsdemo\View\rpt_payroll.php on line 275
+[22-Feb-2023 10:25:01 Asia/Kolkata] PHP Stack trace:
+[22-Feb-2023 10:25:01 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\emsdemo\View\rpt_payroll.php:0
+[22-Feb-2023 10:25:01 Asia/Kolkata] PHP Notice:  Only variables should be passed by reference in C:\wamp64\www\emsdemo\View\rpt_payroll.php on line 275
+[22-Feb-2023 10:25:01 Asia/Kolkata] PHP Stack trace:
+[22-Feb-2023 10:25:01 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\emsdemo\View\rpt_payroll.php:0
+[22-Feb-2023 10:25:01 Asia/Kolkata] PHP Notice:  Only variables should be passed by reference in C:\wamp64\www\emsdemo\View\rpt_payroll.php on line 275
+[22-Feb-2023 10:25:01 Asia/Kolkata] PHP Stack trace:
+[22-Feb-2023 10:25:01 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\emsdemo\View\rpt_payroll.php:0
+[22-Feb-2023 10:31:26 Asia/Kolkata] PHP Warning:  Undefined variable $clean_clfs in C:\wamp64\www\emsdemo\View\rpt_payroll.php on line 259
+[22-Feb-2023 10:31:26 Asia/Kolkata] PHP Stack trace:
+[22-Feb-2023 10:31:26 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\emsdemo\View\rpt_payroll.php:0
+[22-Feb-2023 10:31:26 Asia/Kolkata] PHP Notice:  Only variables should be passed by reference in C:\wamp64\www\emsdemo\View\rpt_payroll.php on line 275
+[22-Feb-2023 10:31:26 Asia/Kolkata] PHP Stack trace:
+[22-Feb-2023 10:31:26 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\emsdemo\View\rpt_payroll.php:0
+[22-Feb-2023 10:31:26 Asia/Kolkata] PHP Notice:  Only variables should be passed by reference in C:\wamp64\www\emsdemo\View\rpt_payroll.php on line 275
+[22-Feb-2023 10:31:26 Asia/Kolkata] PHP Stack trace:
+[22-Feb-2023 10:31:26 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\emsdemo\View\rpt_payroll.php:0
+[22-Feb-2023 10:31:26 Asia/Kolkata] PHP Notice:  Only variables should be passed by reference in C:\wamp64\www\emsdemo\View\rpt_payroll.php on line 275
+[22-Feb-2023 10:31:26 Asia/Kolkata] PHP Stack trace:
+[22-Feb-2023 10:31:26 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\emsdemo\View\rpt_payroll.php:0
+[22-Feb-2023 10:31:26 Asia/Kolkata] PHP Notice:  Only variables should be passed by reference in C:\wamp64\www\emsdemo\View\rpt_payroll.php on line 275
+[22-Feb-2023 10:31:26 Asia/Kolkata] PHP Stack trace:
+[22-Feb-2023 10:31:26 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\emsdemo\View\rpt_payroll.php:0
+[22-Feb-2023 10:38:29 Asia/Kolkata] PHP Notice:  Only variables should be passed by reference in C:\wamp64\www\emsdemo\View\rpt_payroll.php on line 275
+[22-Feb-2023 10:38:29 Asia/Kolkata] PHP Stack trace:
+[22-Feb-2023 10:38:29 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\emsdemo\View\rpt_payroll.php:0
+[22-Feb-2023 10:38:29 Asia/Kolkata] PHP Notice:  Only variables should be passed by reference in C:\wamp64\www\emsdemo\View\rpt_payroll.php on line 275
+[22-Feb-2023 10:38:29 Asia/Kolkata] PHP Stack trace:
+[22-Feb-2023 10:38:29 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\emsdemo\View\rpt_payroll.php:0
+[22-Feb-2023 10:38:29 Asia/Kolkata] PHP Notice:  Only variables should be passed by reference in C:\wamp64\www\emsdemo\View\rpt_payroll.php on line 275
+[22-Feb-2023 10:38:29 Asia/Kolkata] PHP Stack trace:
+[22-Feb-2023 10:38:29 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\emsdemo\View\rpt_payroll.php:0
+[22-Feb-2023 10:38:29 Asia/Kolkata] PHP Notice:  Only variables should be passed by reference in C:\wamp64\www\emsdemo\View\rpt_payroll.php on line 275
+[22-Feb-2023 10:38:29 Asia/Kolkata] PHP Stack trace:
+[22-Feb-2023 10:38:29 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\emsdemo\View\rpt_payroll.php:0
+[22-Feb-2023 10:38:54 Asia/Kolkata] PHP Warning:  Undefined variable $clean_clfs in C:\wamp64\www\emsdemo\View\rpt_payroll.php on line 259
+[22-Feb-2023 10:38:54 Asia/Kolkata] PHP Stack trace:
+[22-Feb-2023 10:38:54 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\emsdemo\View\rpt_payroll.php:0
+[22-Feb-2023 10:38:54 Asia/Kolkata] PHP Notice:  Only variables should be passed by reference in C:\wamp64\www\emsdemo\View\rpt_payroll.php on line 275
+[22-Feb-2023 10:38:54 Asia/Kolkata] PHP Stack trace:
+[22-Feb-2023 10:38:54 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\emsdemo\View\rpt_payroll.php:0
+[22-Feb-2023 10:38:54 Asia/Kolkata] PHP Notice:  Only variables should be passed by reference in C:\wamp64\www\emsdemo\View\rpt_payroll.php on line 275
+[22-Feb-2023 10:38:54 Asia/Kolkata] PHP Stack trace:
+[22-Feb-2023 10:38:54 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\emsdemo\View\rpt_payroll.php:0
+[22-Feb-2023 10:38:54 Asia/Kolkata] PHP Notice:  Only variables should be passed by reference in C:\wamp64\www\emsdemo\View\rpt_payroll.php on line 275
+[22-Feb-2023 10:38:54 Asia/Kolkata] PHP Stack trace:
+[22-Feb-2023 10:38:54 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\emsdemo\View\rpt_payroll.php:0
+[22-Feb-2023 10:38:54 Asia/Kolkata] PHP Notice:  Only variables should be passed by reference in C:\wamp64\www\emsdemo\View\rpt_payroll.php on line 275
+[22-Feb-2023 10:38:54 Asia/Kolkata] PHP Stack trace:
+[22-Feb-2023 10:38:54 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\emsdemo\View\rpt_payroll.php:0
+[22-Feb-2023 10:39:18 Asia/Kolkata] PHP Warning:  Undefined variable $clean_clfs in C:\wamp64\www\emsdemo\View\rpt_payroll.php on line 259
+[22-Feb-2023 10:39:18 Asia/Kolkata] PHP Stack trace:
+[22-Feb-2023 10:39:18 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\emsdemo\View\rpt_payroll.php:0
+[22-Feb-2023 10:39:18 Asia/Kolkata] PHP Notice:  Only variables should be passed by reference in C:\wamp64\www\emsdemo\View\rpt_payroll.php on line 275
+[22-Feb-2023 10:39:18 Asia/Kolkata] PHP Stack trace:
+[22-Feb-2023 10:39:18 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\emsdemo\View\rpt_payroll.php:0
+[22-Feb-2023 10:39:18 Asia/Kolkata] PHP Notice:  Only variables should be passed by reference in C:\wamp64\www\emsdemo\View\rpt_payroll.php on line 275
+[22-Feb-2023 10:39:18 Asia/Kolkata] PHP Stack trace:
+[22-Feb-2023 10:39:18 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\emsdemo\View\rpt_payroll.php:0
+[22-Feb-2023 10:39:18 Asia/Kolkata] PHP Notice:  Only variables should be passed by reference in C:\wamp64\www\emsdemo\View\rpt_payroll.php on line 275
+[22-Feb-2023 10:39:18 Asia/Kolkata] PHP Stack trace:
+[22-Feb-2023 10:39:18 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\emsdemo\View\rpt_payroll.php:0
+[22-Feb-2023 10:39:18 Asia/Kolkata] PHP Notice:  Only variables should be passed by reference in C:\wamp64\www\emsdemo\View\rpt_payroll.php on line 275
+[22-Feb-2023 10:39:18 Asia/Kolkata] PHP Stack trace:
+[22-Feb-2023 10:39:18 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\emsdemo\View\rpt_payroll.php:0
+[22-Feb-2023 10:41:40 Asia/Kolkata] PHP Warning:  Undefined array key "__user_logid" in C:\wamp64\www\emsdemo\AppCode\nHead.php on line 2
+[22-Feb-2023 10:41:40 Asia/Kolkata] PHP Stack trace:
+[22-Feb-2023 10:41:40 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\emsdemo\View\rpt_payroll.php:0
+[22-Feb-2023 10:41:40 Asia/Kolkata] PHP   2. require() C:\wamp64\www\emsdemo\View\rpt_payroll.php:9
+[22-Feb-2023 10:41:56 Asia/Kolkata] PHP Warning:  Undefined array key "txt_dateFrom" in C:\wamp64\www\emsdemo\View\message-popup.php on line 28
+[22-Feb-2023 10:41:56 Asia/Kolkata] PHP Stack trace:
+[22-Feb-2023 10:41:56 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\emsdemo\View\message-popup.php:0
+[22-Feb-2023 10:41:57 Asia/Kolkata] PHP Warning:  Undefined array key "txt_dateto" in C:\wamp64\www\emsdemo\View\message-popup.php on line 29
+[22-Feb-2023 10:41:57 Asia/Kolkata] PHP Stack trace:
+[22-Feb-2023 10:41:57 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\emsdemo\View\message-popup.php:0
+[22-Feb-2023 10:42:33 Asia/Kolkata] PHP Notice:  Only variables should be passed by reference in C:\wamp64\www\emsdemo\View\rpt_payroll.php on line 275
+[22-Feb-2023 10:42:33 Asia/Kolkata] PHP Stack trace:
+[22-Feb-2023 10:42:33 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\emsdemo\View\rpt_payroll.php:0
+[22-Feb-2023 10:42:33 Asia/Kolkata] PHP Notice:  Only variables should be passed by reference in C:\wamp64\www\emsdemo\View\rpt_payroll.php on line 275
+[22-Feb-2023 10:42:33 Asia/Kolkata] PHP Stack trace:
+[22-Feb-2023 10:42:33 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\emsdemo\View\rpt_payroll.php:0
+[22-Feb-2023 10:42:33 Asia/Kolkata] PHP Notice:  Only variables should be passed by reference in C:\wamp64\www\emsdemo\View\rpt_payroll.php on line 275
+[22-Feb-2023 10:42:33 Asia/Kolkata] PHP Stack trace:
+[22-Feb-2023 10:42:33 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\emsdemo\View\rpt_payroll.php:0
+[22-Feb-2023 10:42:33 Asia/Kolkata] PHP Notice:  Only variables should be passed by reference in C:\wamp64\www\emsdemo\View\rpt_payroll.php on line 275
+[22-Feb-2023 10:42:33 Asia/Kolkata] PHP Stack trace:
+[22-Feb-2023 10:42:33 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\emsdemo\View\rpt_payroll.php:0

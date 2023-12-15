@@ -1,0 +1,8 @@
+[20-Jan-2023 18:02:21 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Call to a member function bind_param() on bool in C:\wamp64\www\emsdemo\View\bajaj-finance_declaration.php:21
+Stack trace:
+#0 {main}
+  thrown in C:\wamp64\www\emsdemo\View\bajaj-finance_declaration.php on line 21
+[20-Jan-2023 18:02:35 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Call to a member function bind_param() on bool in C:\wamp64\www\emsdemo\View\bajaj-finance_declaration.php:20
+Stack trace:
+#0 {main}
+  thrown in C:\wamp64\www\emsdemo\View\bajaj-finance_declaration.php on line 20

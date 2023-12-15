@@ -1,0 +1,16 @@
+[18-Feb-2023 12:18:37 Asia/Kolkata] PHP Warning:  Undefined array key "__user_logid" in C:\wamp64\www\emsdemo\AppCode\nHead.php on line 2
+[18-Feb-2023 12:18:37 Asia/Kolkata] PHP Stack trace:
+[18-Feb-2023 12:18:37 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\emsdemo\View\transfer_emp.php:0
+[18-Feb-2023 12:18:37 Asia/Kolkata] PHP   2. require() C:\wamp64\www\emsdemo\View\transfer_emp.php:10
+[18-Feb-2023 12:20:20 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in C:\wamp64\www\emsdemo\View\index.php on line 356
+[18-Feb-2023 12:20:20 Asia/Kolkata] PHP Stack trace:
+[18-Feb-2023 12:20:20 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\emsdemo\View\index.php:0
+[18-Feb-2023 12:42:42 Asia/Kolkata] PHP Warning:  Attempt to read property "num_rows" on bool in C:\wamp64\www\emsdemo\Controller\get_subprocess.php on line 19
+[18-Feb-2023 12:42:42 Asia/Kolkata] PHP Stack trace:
+[18-Feb-2023 12:42:42 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\emsdemo\Controller\get_subprocess.php:0
+[18-Feb-2023 12:42:42 Asia/Kolkata] PHP Warning:  foreach() argument must be of type array|object, bool given in C:\wamp64\www\emsdemo\Controller\get_subprocess.php on line 24
+[18-Feb-2023 12:42:42 Asia/Kolkata] PHP Stack trace:
+[18-Feb-2023 12:42:42 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\emsdemo\Controller\get_subprocess.php:0
+[18-Feb-2023 12:43:53 Asia/Kolkata] PHP Warning:  foreach() argument must be of type array|object, bool given in C:\wamp64\www\emsdemo\Controller\get_subprocess.php on line 23
+[18-Feb-2023 12:43:53 Asia/Kolkata] PHP Stack trace:
+[18-Feb-2023 12:43:53 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\emsdemo\Controller\get_subprocess.php:0

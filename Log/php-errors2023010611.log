@@ -1,0 +1,97 @@
+[06-Jan-2023 11:26:32 Asia/Kolkata] PHP Notice:  Undefined index: __user_logid in /var/www/html/erpm/AppCode/nHead.php on line 2
+[06-Jan-2023 11:26:36 Asia/Kolkata] PHP Notice:  Undefined index: __user_logid in /var/www/html/erpm/AppCode/nHead.php on line 2
+[06-Jan-2023 11:27:07 Asia/Kolkata] PHP Warning:  mysqli_stmt::bind_param(): Number of elements in type definition string doesn't match number of bind variables in /var/www/html/erpm/Controller/ConLog.php on line 464
+[06-Jan-2023 11:27:17 Asia/Kolkata] PHP Warning:  mysqli_stmt::bind_param(): Number of elements in type definition string doesn't match number of bind variables in /var/www/html/erpm/Controller/ConLog.php on line 464
+[06-Jan-2023 11:28:34 Asia/Kolkata] PHP Notice:  Undefined index: __user_logid in /var/www/html/erpm/AppCode/nHead.php on line 2
+[06-Jan-2023 11:28:38 Asia/Kolkata] PHP Warning:  mysqli_stmt::bind_param(): Number of elements in type definition string doesn't match number of bind variables in /var/www/html/erpm/Controller/ConLog.php on line 464
+[06-Jan-2023 11:28:40 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /var/www/html/erpm/View/index.php on line 346
+[06-Jan-2023 11:34:48 Asia/Kolkata] PHP Notice:  Undefined index: __user_logid in /var/www/html/erpm/AppCode/nHead.php on line 2
+[06-Jan-2023 11:35:07 Asia/Kolkata] PHP Warning:  mysqli_stmt::bind_param(): Number of elements in type definition string doesn't match number of bind variables in /var/www/html/erpm/Controller/ConLog.php on line 464
+[06-Jan-2023 11:35:07 Asia/Kolkata] PHP Warning:  Use of undefined constant EMS_CenterName - assumed 'EMS_CenterName' (this will throw an Error in a future version of PHP) in /var/www/html/erpm/Controller/ConLog.php on line 470
+[06-Jan-2023 11:35:07 Asia/Kolkata] PHP Warning:  Use of undefined constant EMAIL_HOST - assumed 'EMAIL_HOST' (this will throw an Error in a future version of PHP) in /var/www/html/erpm/Controller/ConLog.php on line 473
+[06-Jan-2023 11:35:07 Asia/Kolkata] PHP Warning:  Use of undefined constant EMAIL_AUTH - assumed 'EMAIL_AUTH' (this will throw an Error in a future version of PHP) in /var/www/html/erpm/Controller/ConLog.php on line 474
+[06-Jan-2023 11:35:07 Asia/Kolkata] PHP Warning:  Use of undefined constant EMAIL_USER - assumed 'EMAIL_USER' (this will throw an Error in a future version of PHP) in /var/www/html/erpm/Controller/ConLog.php on line 475
+[06-Jan-2023 11:35:07 Asia/Kolkata] PHP Warning:  Use of undefined constant EMAIL_PASS - assumed 'EMAIL_PASS' (this will throw an Error in a future version of PHP) in /var/www/html/erpm/Controller/ConLog.php on line 476
+[06-Jan-2023 11:35:07 Asia/Kolkata] PHP Warning:  Use of undefined constant EMAIL_SMTPSecure - assumed 'EMAIL_SMTPSecure' (this will throw an Error in a future version of PHP) in /var/www/html/erpm/Controller/ConLog.php on line 477
+[06-Jan-2023 11:35:07 Asia/Kolkata] PHP Warning:  Use of undefined constant EMAIL_PORT - assumed 'EMAIL_PORT' (this will throw an Error in a future version of PHP) in /var/www/html/erpm/Controller/ConLog.php on line 478
+[06-Jan-2023 11:35:07 Asia/Kolkata] PHP Warning:  Use of undefined constant EMAIL_FROM - assumed 'EMAIL_FROM' (this will throw an Error in a future version of PHP) in /var/www/html/erpm/Controller/ConLog.php on line 479
+[06-Jan-2023 11:35:07 Asia/Kolkata] PHP Warning:  Use of undefined constant EMS_CenterName - assumed 'EMS_CenterName' (this will throw an Error in a future version of PHP) in /var/www/html/erpm/Controller/ConLog.php on line 482
+[06-Jan-2023 11:35:21 Asia/Kolkata] PHP Notice:  Undefined index: txt_dateFor in /var/www/html/erpm/View/rpt_payroll.php on line 47
+[06-Jan-2023 11:35:21 Asia/Kolkata] PHP Notice:  Undefined index: ddl_clfs_Process in /var/www/html/erpm/View/rpt_payroll.php on line 53
+[06-Jan-2023 11:35:22 Asia/Kolkata] PHP Notice:  Undefined index: ddl_clfs_Process in /var/www/html/erpm/View/rpt_payroll.php on line 246
+[06-Jan-2023 11:35:29 Asia/Kolkata] PHP Notice:  Undefined index: txt_dateFor in /var/www/html/erpm/View/rpt_payroll.php on line 47
+[06-Jan-2023 11:35:29 Asia/Kolkata] PHP Notice:  Undefined index: ddl_clfs_Process in /var/www/html/erpm/View/rpt_payroll.php on line 53
+[06-Jan-2023 11:35:29 Asia/Kolkata] PHP Notice:  Undefined index: ddl_clfs_Process in /var/www/html/erpm/View/rpt_payroll.php on line 246
+[06-Jan-2023 11:37:28 Asia/Kolkata] PHP Notice:  Undefined index: subProcess in /var/www/html/erpm/View/ipp_handle.php on line 47
+[06-Jan-2023 11:37:28 Asia/Kolkata] PHP Notice:  Undefined index: LocationID in /var/www/html/erpm/View/ipp_handle.php on line 51
+[06-Jan-2023 11:37:55 Asia/Kolkata] PHP Warning:  mysqli_stmt::bind_param(): Number of variables doesn't match number of parameters in prepared statement in /var/www/html/erpm/View/BriefingMaster.php on line 1134
+[06-Jan-2023 11:37:55 Asia/Kolkata] PHP Notice:  Trying to get property 'num_rows' of non-object in /var/www/html/erpm/View/BriefingMaster.php on line 1146
+[06-Jan-2023 11:37:55 Asia/Kolkata] PHP Notice:  Undefined index: from_date2 in /var/www/html/erpm/View/BriefingMaster.php on line 1150
+[06-Jan-2023 11:37:55 Asia/Kolkata] PHP Notice:  Undefined index: to_date in /var/www/html/erpm/View/BriefingMaster.php on line 1155
+[06-Jan-2023 11:40:55 Asia/Kolkata] PHP Notice:  Undefined index: fileFor in /var/www/html/erpm/View/ipp_handle.php on line 45
+[06-Jan-2023 11:40:55 Asia/Kolkata] PHP Notice:  Undefined index: subProcess in /var/www/html/erpm/View/ipp_handle.php on line 47
+[06-Jan-2023 11:40:55 Asia/Kolkata] PHP Notice:  Undefined index: LocationID in /var/www/html/erpm/View/ipp_handle.php on line 51
+[06-Jan-2023 11:41:09 Asia/Kolkata] PHP Notice:  Undefined index: txt_dateFor in /var/www/html/erpm/View/rpt_payroll.php on line 47
+[06-Jan-2023 11:41:09 Asia/Kolkata] PHP Notice:  Undefined index: ddl_clfs_Process in /var/www/html/erpm/View/rpt_payroll.php on line 53
+[06-Jan-2023 11:41:10 Asia/Kolkata] PHP Notice:  Undefined index: ddl_clfs_Process in /var/www/html/erpm/View/rpt_payroll.php on line 246
+[06-Jan-2023 11:41:49 Asia/Kolkata] PHP Warning:  move_uploaded_file(/var/www/html/erpm/Config/../briefingDoc/1672985509-1.PNG): failed to open stream: Permission denied in /var/www/html/erpm/View/BriefingMaster.php on line 161
+[06-Jan-2023 11:41:49 Asia/Kolkata] PHP Warning:  move_uploaded_file(): Unable to move '/tmp/phpYZPKN6' to '/var/www/html/erpm/Config/../briefingDoc/1672985509-1.PNG' in /var/www/html/erpm/View/BriefingMaster.php on line 161
+[06-Jan-2023 11:41:49 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Call to a member function bind_param() on bool in /var/www/html/erpm/View/BriefingMaster.php:213
+Stack trace:
+#0 {main}
+  thrown in /var/www/html/erpm/View/BriefingMaster.php on line 213
+[06-Jan-2023 11:43:03 Asia/Kolkata] PHP Notice:  Undefined index: __user_logid in /var/www/html/erpm/AppCode/nHead.php on line 2
+[06-Jan-2023 11:43:25 Asia/Kolkata] PHP Warning:  mysqli_stmt::bind_param(): Number of elements in type definition string doesn't match number of bind variables in /var/www/html/erpm/Controller/ConLog.php on line 464
+[06-Jan-2023 11:43:37 Asia/Kolkata] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /var/www/html/erpm/View/add_personal.php on line 78
+[06-Jan-2023 11:43:37 Asia/Kolkata] PHP Fatal error:  Uncaught Exception: Problem preparing query (call manageOfferSalary('16000','INT112022373007','TE0123237270','CE03070003')) Incorrect number of arguments for PROCEDURE ems.manageOfferSalary; expected 5, got 4 in /var/www/html/erpm/AppData/Class/MysqliDb.php:1514
+Stack trace:
+#0 /var/www/html/erpm/AppData/Class/MysqliDb.php(1127): MysqliDb->_prepareQuery()
+#1 /var/www/html/erpm/AppData/Class/MysqliDb.php(495): MysqliDb->_buildQuery()
+#2 /var/www/html/erpm/View/add_personal.php(82): MysqliDb->query()
+#3 {main}
+  thrown in /var/www/html/erpm/AppData/Class/MysqliDb.php on line 1514
+[06-Jan-2023 11:44:09 Asia/Kolkata] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /var/www/html/erpm/View/add_personal.php on line 78
+[06-Jan-2023 11:44:09 Asia/Kolkata] PHP Fatal error:  Uncaught Exception: Problem preparing query (call manageOfferSalary('16000','INT102021297232','TE0123237270','CE03070003')) Incorrect number of arguments for PROCEDURE ems.manageOfferSalary; expected 5, got 4 in /var/www/html/erpm/AppData/Class/MysqliDb.php:1514
+Stack trace:
+#0 /var/www/html/erpm/AppData/Class/MysqliDb.php(1127): MysqliDb->_prepareQuery()
+#1 /var/www/html/erpm/AppData/Class/MysqliDb.php(495): MysqliDb->_buildQuery()
+#2 /var/www/html/erpm/View/add_personal.php(82): MysqliDb->query()
+#3 {main}
+  thrown in /var/www/html/erpm/AppData/Class/MysqliDb.php on line 1514
+[06-Jan-2023 11:45:02 Asia/Kolkata] PHP Warning:  include(chart_dashboard_highchart.php): failed to open stream: No such file or directory in /var/www/html/erpm/View/DeshBoard.php on line 29
+[06-Jan-2023 11:45:02 Asia/Kolkata] PHP Warning:  include(): Failed opening 'chart_dashboard_highchart.php' for inclusion (include_path='.:/usr/share/php') in /var/www/html/erpm/View/DeshBoard.php on line 29
+[06-Jan-2023 11:45:10 Asia/Kolkata] PHP Notice:  Undefined variable: emp_mail in /var/www/html/erpm/View/employee_serach.php on line 347
+[06-Jan-2023 11:45:20 Asia/Kolkata] PHP Notice:  Undefined index: dateofjoin in /var/www/html/erpm/Controller/conLog_ems.php on line 60
+[06-Jan-2023 11:45:20 Asia/Kolkata] PHP Notice:  Undefined index: OnFloor in /var/www/html/erpm/Controller/conLog_ems.php on line 61
+[06-Jan-2023 11:45:20 Asia/Kolkata] PHP Notice:  Undefined index: password_updated_time in /var/www/html/erpm/Controller/conLog_ems.php on line 62
+[06-Jan-2023 11:45:20 Asia/Kolkata] PHP Notice:  Undefined index: Reportto_Name in /var/www/html/erpm/Controller/conLog_ems.php on line 67
+[06-Jan-2023 11:45:21 Asia/Kolkata] PHP Notice:  Undefined variable: EmployeeData in /var/www/html/erpm/View/avmanual.php on line 472
+[06-Jan-2023 11:45:21 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /var/www/html/erpm/View/avmanual.php on line 472
+[06-Jan-2023 11:45:21 Asia/Kolkata] PHP Notice:  Undefined variable: Adhar_DataEmployeeRow in /var/www/html/erpm/View/avmanual.php on line 490
+[06-Jan-2023 11:45:21 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /var/www/html/erpm/View/avmanual.php on line 490
+[06-Jan-2023 11:45:21 Asia/Kolkata] PHP Notice:  Undefined variable: EmployeeData in /var/www/html/erpm/View/avmanual.php on line 492
+[06-Jan-2023 11:45:21 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /var/www/html/erpm/View/avmanual.php on line 492
+[06-Jan-2023 11:45:50 Asia/Kolkata] PHP Notice:  Undefined index: dateofjoin in /var/www/html/erpm/Controller/conLog_ems.php on line 60
+[06-Jan-2023 11:45:50 Asia/Kolkata] PHP Notice:  Undefined index: OnFloor in /var/www/html/erpm/Controller/conLog_ems.php on line 61
+[06-Jan-2023 11:45:50 Asia/Kolkata] PHP Notice:  Undefined index: password_updated_time in /var/www/html/erpm/Controller/conLog_ems.php on line 62
+[06-Jan-2023 11:45:50 Asia/Kolkata] PHP Notice:  Undefined index: Reportto_Name in /var/www/html/erpm/Controller/conLog_ems.php on line 67
+[06-Jan-2023 11:45:51 Asia/Kolkata] PHP Notice:  Undefined variable: EmployeeData in /var/www/html/erpm/View/avmanual.php on line 472
+[06-Jan-2023 11:45:51 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /var/www/html/erpm/View/avmanual.php on line 472
+[06-Jan-2023 11:45:51 Asia/Kolkata] PHP Notice:  Undefined variable: Adhar_DataEmployeeRow in /var/www/html/erpm/View/avmanual.php on line 490
+[06-Jan-2023 11:45:51 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /var/www/html/erpm/View/avmanual.php on line 490
+[06-Jan-2023 11:45:51 Asia/Kolkata] PHP Notice:  Undefined variable: EmployeeData in /var/www/html/erpm/View/avmanual.php on line 492
+[06-Jan-2023 11:45:51 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /var/www/html/erpm/View/avmanual.php on line 492
+[06-Jan-2023 11:46:23 Asia/Kolkata] PHP Notice:  Undefined variable: EmployeeData in /var/www/html/erpm/View/avmanual.php on line 472
+[06-Jan-2023 11:46:23 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /var/www/html/erpm/View/avmanual.php on line 472
+[06-Jan-2023 11:46:23 Asia/Kolkata] PHP Notice:  Undefined variable: Adhar_DataEmployeeRow in /var/www/html/erpm/View/avmanual.php on line 490
+[06-Jan-2023 11:46:23 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /var/www/html/erpm/View/avmanual.php on line 490
+[06-Jan-2023 11:46:23 Asia/Kolkata] PHP Notice:  Undefined variable: EmployeeData in /var/www/html/erpm/View/avmanual.php on line 492
+[06-Jan-2023 11:46:23 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /var/www/html/erpm/View/avmanual.php on line 492
+[06-Jan-2023 11:52:36 Asia/Kolkata] PHP Notice:  Undefined index: action in /var/www/html/erpm/Controller/getFilterData.php on line 6
+[06-Jan-2023 11:52:36 Asia/Kolkata] PHP Notice:  Undefined index: clientid in /var/www/html/erpm/Controller/getFilterData.php on line 86
+[06-Jan-2023 11:52:36 Asia/Kolkata] PHP Notice:  Undefined index: processid in /var/www/html/erpm/Controller/getFilterData.php on line 112
+[06-Jan-2023 11:57:36 Asia/Kolkata] PHP Notice:  Undefined index: __user_logid in /var/www/html/erpm/AppCode/nHead.php on line 2
+[06-Jan-2023 11:57:52 Asia/Kolkata] PHP Notice:  Undefined index: __user_logid in /var/www/html/erpm/AppCode/nHead.php on line 2
+[06-Jan-2023 11:58:00 Asia/Kolkata] PHP Notice:  Undefined index: __user_logid in /var/www/html/erpm/AppCode/nHead.php on line 2
+[06-Jan-2023 11:59:14 Asia/Kolkata] PHP Notice:  Undefined index: __user_logid in /var/www/html/erpm/AppCode/nHead.php on line 2
+[06-Jan-2023 11:59:24 Asia/Kolkata] PHP Warning:  mysqli_stmt::bind_param(): Number of elements in type definition string doesn't match number of bind variables in /var/www/html/erpm/Controller/ConLog.php on line 464

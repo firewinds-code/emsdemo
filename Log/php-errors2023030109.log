@@ -1,0 +1,18 @@
+[01-Mar-2023 09:36:04 Asia/Kolkata] PHP Warning:  mysqli::__construct(): (HY000/2002): A socket operation was attempted to an unreachable host in C:\wamp64\www\emsdemo\AppData\Class\MysqliDb.php on line 291
+[01-Mar-2023 09:36:04 Asia/Kolkata] PHP Stack trace:
+[01-Mar-2023 09:36:04 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\emsdemo\View\pwd_rcvr.php:0
+[01-Mar-2023 09:36:04 Asia/Kolkata] PHP   2. require_once() C:\wamp64\www\emsdemo\View\pwd_rcvr.php:3
+[01-Mar-2023 09:36:04 Asia/Kolkata] PHP   3. MysqliDb->dbConnect() C:\wamp64\www\emsdemo\Config\init.php:94
+[01-Mar-2023 09:36:04 Asia/Kolkata] PHP   4. mysqli->__construct($hostname = '45.79.125.127', $username = 'root', $password = 'asg@rd#123', $database = 'ems', $port = 3306) C:\wamp64\www\emsdemo\AppData\Class\MysqliDb.php:291
+[01-Mar-2023 09:38:31 Asia/Kolkata] PHP Warning:  mysqli::__construct(): (HY000/2002): A socket operation was attempted to an unreachable host in C:\wamp64\www\emsdemo\AppData\Class\MysqliDb.php on line 291
+[01-Mar-2023 09:38:31 Asia/Kolkata] PHP Stack trace:
+[01-Mar-2023 09:38:31 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\emsdemo\View\pwd_rcvr.php:0
+[01-Mar-2023 09:38:31 Asia/Kolkata] PHP   2. require_once() C:\wamp64\www\emsdemo\View\pwd_rcvr.php:3
+[01-Mar-2023 09:38:31 Asia/Kolkata] PHP   3. MysqliDb->dbConnect() C:\wamp64\www\emsdemo\Config\init.php:94
+[01-Mar-2023 09:38:31 Asia/Kolkata] PHP   4. mysqli->__construct($hostname = '45.79.125.127', $username = 'root', $password = 'asg@rd#123', $database = 'ems', $port = 3306) C:\wamp64\www\emsdemo\AppData\Class\MysqliDb.php:291
+[01-Mar-2023 09:38:34 Asia/Kolkata] PHP Warning:  mysqli::__construct(): (HY000/2002): A socket operation was attempted to an unreachable host in C:\wamp64\www\emsdemo\AppData\Class\MysqliDb.php on line 291
+[01-Mar-2023 09:38:34 Asia/Kolkata] PHP Stack trace:
+[01-Mar-2023 09:38:34 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\emsdemo\View\pwd_rcvr.php:0
+[01-Mar-2023 09:38:34 Asia/Kolkata] PHP   2. require_once() C:\wamp64\www\emsdemo\View\pwd_rcvr.php:3
+[01-Mar-2023 09:38:34 Asia/Kolkata] PHP   3. MysqliDb->dbConnect() C:\wamp64\www\emsdemo\Config\init.php:94
+[01-Mar-2023 09:38:34 Asia/Kolkata] PHP   4. mysqli->__construct($hostname = '45.79.125.127', $username = 'root', $password = 'asg@rd#123', $database = 'ems', $port = 3306) C:\wamp64\www\emsdemo\AppData\Class\MysqliDb.php:291

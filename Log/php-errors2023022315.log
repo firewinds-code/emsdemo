@@ -1,0 +1,103 @@
+[23-Feb-2023 15:43:53 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in C:\wamp64\www\emsdemo\View\index.php on line 356
+[23-Feb-2023 15:43:53 Asia/Kolkata] PHP Stack trace:
+[23-Feb-2023 15:43:53 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\emsdemo\View\index.php:0
+[23-Feb-2023 15:44:06 Asia/Kolkata] PHP Warning:  Undefined array key "travel_date" in C:\wamp64\www\emsdemo\View\expenses.php on line 60
+[23-Feb-2023 15:44:06 Asia/Kolkata] PHP Stack trace:
+[23-Feb-2023 15:44:06 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\emsdemo\View\expenses.php:0
+[23-Feb-2023 15:44:06 Asia/Kolkata] PHP Warning:  Undefined array key "placeFrom" in C:\wamp64\www\emsdemo\View\expenses.php on line 61
+[23-Feb-2023 15:44:06 Asia/Kolkata] PHP Stack trace:
+[23-Feb-2023 15:44:06 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\emsdemo\View\expenses.php:0
+[23-Feb-2023 15:44:07 Asia/Kolkata] PHP Warning:  Undefined array key "placeTO" in C:\wamp64\www\emsdemo\View\expenses.php on line 62
+[23-Feb-2023 15:44:07 Asia/Kolkata] PHP Stack trace:
+[23-Feb-2023 15:44:07 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\emsdemo\View\expenses.php:0
+[23-Feb-2023 15:44:07 Asia/Kolkata] PHP Warning:  Undefined array key "modeOftravel" in C:\wamp64\www\emsdemo\View\expenses.php on line 63
+[23-Feb-2023 15:44:07 Asia/Kolkata] PHP Stack trace:
+[23-Feb-2023 15:44:07 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\emsdemo\View\expenses.php:0
+[23-Feb-2023 15:44:07 Asia/Kolkata] PHP Warning:  Undefined array key "receipt_no" in C:\wamp64\www\emsdemo\View\expenses.php on line 66
+[23-Feb-2023 15:44:07 Asia/Kolkata] PHP Stack trace:
+[23-Feb-2023 15:44:07 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\emsdemo\View\expenses.php:0
+[23-Feb-2023 15:44:07 Asia/Kolkata] PHP Warning:  Undefined array key "remarks" in C:\wamp64\www\emsdemo\View\expenses.php on line 68
+[23-Feb-2023 15:44:07 Asia/Kolkata] PHP Stack trace:
+[23-Feb-2023 15:44:07 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\emsdemo\View\expenses.php:0
+[23-Feb-2023 15:44:08 Asia/Kolkata] PHP Warning:  Undefined array key "returnDate" in C:\wamp64\www\emsdemo\View\expenses.php on line 74
+[23-Feb-2023 15:44:08 Asia/Kolkata] PHP Stack trace:
+[23-Feb-2023 15:44:08 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\emsdemo\View\expenses.php:0
+[23-Feb-2023 15:44:08 Asia/Kolkata] PHP Warning:  Undefined array key "car_km" in C:\wamp64\www\emsdemo\View\expenses.php on line 75
+[23-Feb-2023 15:44:08 Asia/Kolkata] PHP Stack trace:
+[23-Feb-2023 15:44:08 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\emsdemo\View\expenses.php:0
+[23-Feb-2023 15:44:27 Asia/Kolkata] PHP Warning:  Undefined array key "travel_date" in C:\wamp64\www\emsdemo\View\expenses.php on line 60
+[23-Feb-2023 15:44:27 Asia/Kolkata] PHP Stack trace:
+[23-Feb-2023 15:44:27 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\emsdemo\View\expenses.php:0
+[23-Feb-2023 15:44:27 Asia/Kolkata] PHP Warning:  Undefined array key "placeFrom" in C:\wamp64\www\emsdemo\View\expenses.php on line 61
+[23-Feb-2023 15:44:27 Asia/Kolkata] PHP Stack trace:
+[23-Feb-2023 15:44:27 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\emsdemo\View\expenses.php:0
+[23-Feb-2023 15:44:27 Asia/Kolkata] PHP Warning:  Undefined array key "placeTO" in C:\wamp64\www\emsdemo\View\expenses.php on line 62
+[23-Feb-2023 15:44:27 Asia/Kolkata] PHP Stack trace:
+[23-Feb-2023 15:44:27 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\emsdemo\View\expenses.php:0
+[23-Feb-2023 15:44:27 Asia/Kolkata] PHP Warning:  Undefined array key "modeOftravel" in C:\wamp64\www\emsdemo\View\expenses.php on line 63
+[23-Feb-2023 15:44:27 Asia/Kolkata] PHP Stack trace:
+[23-Feb-2023 15:44:27 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\emsdemo\View\expenses.php:0
+[23-Feb-2023 15:44:27 Asia/Kolkata] PHP Warning:  Undefined array key "receipt_no" in C:\wamp64\www\emsdemo\View\expenses.php on line 66
+[23-Feb-2023 15:44:27 Asia/Kolkata] PHP Stack trace:
+[23-Feb-2023 15:44:27 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\emsdemo\View\expenses.php:0
+[23-Feb-2023 15:44:28 Asia/Kolkata] PHP Warning:  Undefined array key "remarks" in C:\wamp64\www\emsdemo\View\expenses.php on line 68
+[23-Feb-2023 15:44:28 Asia/Kolkata] PHP Stack trace:
+[23-Feb-2023 15:44:28 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\emsdemo\View\expenses.php:0
+[23-Feb-2023 15:44:28 Asia/Kolkata] PHP Warning:  Undefined array key "returnDate" in C:\wamp64\www\emsdemo\View\expenses.php on line 74
+[23-Feb-2023 15:44:28 Asia/Kolkata] PHP Stack trace:
+[23-Feb-2023 15:44:28 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\emsdemo\View\expenses.php:0
+[23-Feb-2023 15:44:28 Asia/Kolkata] PHP Warning:  Undefined array key "car_km" in C:\wamp64\www\emsdemo\View\expenses.php on line 75
+[23-Feb-2023 15:44:28 Asia/Kolkata] PHP Stack trace:
+[23-Feb-2023 15:44:28 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\emsdemo\View\expenses.php:0
+[23-Feb-2023 15:45:16 Asia/Kolkata] PHP Warning:  move_uploaded_file(C:\wamp64\www\emsdemo\View/../ExpenseFood/CE12102224_2023-02-23_154516.jpg): Failed to open stream: No such file or directory in C:\wamp64\www\emsdemo\View\expenses.php on line 35
+[23-Feb-2023 15:45:16 Asia/Kolkata] PHP Stack trace:
+[23-Feb-2023 15:45:16 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\emsdemo\View\expenses.php:0
+[23-Feb-2023 15:45:16 Asia/Kolkata] PHP   2. move_uploaded_file($from = 'C:\\wamp64\\tmp\\php56FE.tmp', $to = 'C:\\wamp64\\www\\emsdemo\\View/../ExpenseFood/CE12102224_2023-02-23_154516.jpg') C:\wamp64\www\emsdemo\View\expenses.php:35
+[23-Feb-2023 15:45:16 Asia/Kolkata] PHP Warning:  move_uploaded_file(): Unable to move &quot;C:\wamp64\tmp\php56FE.tmp&quot; to &quot;C:\wamp64\www\emsdemo\View/../ExpenseFood/CE12102224_2023-02-23_154516.jpg&quot; in C:\wamp64\www\emsdemo\View\expenses.php on line 35
+[23-Feb-2023 15:45:16 Asia/Kolkata] PHP Stack trace:
+[23-Feb-2023 15:45:16 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\emsdemo\View\expenses.php:0
+[23-Feb-2023 15:45:16 Asia/Kolkata] PHP   2. move_uploaded_file($from = 'C:\\wamp64\\tmp\\php56FE.tmp', $to = 'C:\\wamp64\\www\\emsdemo\\View/../ExpenseFood/CE12102224_2023-02-23_154516.jpg') C:\wamp64\www\emsdemo\View\expenses.php:35
+[23-Feb-2023 15:45:16 Asia/Kolkata] PHP Warning:  Undefined array key "travel_date" in C:\wamp64\www\emsdemo\View\expenses.php on line 60
+[23-Feb-2023 15:45:16 Asia/Kolkata] PHP Stack trace:
+[23-Feb-2023 15:45:16 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\emsdemo\View\expenses.php:0
+[23-Feb-2023 15:45:16 Asia/Kolkata] PHP Warning:  Undefined array key "placeFrom" in C:\wamp64\www\emsdemo\View\expenses.php on line 61
+[23-Feb-2023 15:45:16 Asia/Kolkata] PHP Stack trace:
+[23-Feb-2023 15:45:16 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\emsdemo\View\expenses.php:0
+[23-Feb-2023 15:45:16 Asia/Kolkata] PHP Warning:  Undefined array key "placeTO" in C:\wamp64\www\emsdemo\View\expenses.php on line 62
+[23-Feb-2023 15:45:16 Asia/Kolkata] PHP Stack trace:
+[23-Feb-2023 15:45:16 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\emsdemo\View\expenses.php:0
+[23-Feb-2023 15:45:16 Asia/Kolkata] PHP Warning:  Undefined array key "modeOftravel" in C:\wamp64\www\emsdemo\View\expenses.php on line 63
+[23-Feb-2023 15:45:16 Asia/Kolkata] PHP Stack trace:
+[23-Feb-2023 15:45:16 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\emsdemo\View\expenses.php:0
+[23-Feb-2023 15:45:17 Asia/Kolkata] PHP Warning:  Undefined array key "returnDate" in C:\wamp64\www\emsdemo\View\expenses.php on line 74
+[23-Feb-2023 15:45:17 Asia/Kolkata] PHP Stack trace:
+[23-Feb-2023 15:45:17 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\emsdemo\View\expenses.php:0
+[23-Feb-2023 15:45:17 Asia/Kolkata] PHP Warning:  Undefined array key "car_km" in C:\wamp64\www\emsdemo\View\expenses.php on line 75
+[23-Feb-2023 15:45:17 Asia/Kolkata] PHP Stack trace:
+[23-Feb-2023 15:45:17 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\emsdemo\View\expenses.php:0
+[23-Feb-2023 15:46:26 Asia/Kolkata] PHP Warning:  move_uploaded_file(C:\wamp64\www\emsdemo\View/../ExpenseFood/CE12102224_2023-02-23_154626.jpg): Failed to open stream: No such file or directory in C:\wamp64\www\emsdemo\View\expenses.php on line 35
+[23-Feb-2023 15:46:26 Asia/Kolkata] PHP Stack trace:
+[23-Feb-2023 15:46:26 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\emsdemo\View\expenses.php:0
+[23-Feb-2023 15:46:26 Asia/Kolkata] PHP   2. move_uploaded_file($from = 'C:\\wamp64\\tmp\\php65C0.tmp', $to = 'C:\\wamp64\\www\\emsdemo\\View/../ExpenseFood/CE12102224_2023-02-23_154626.jpg') C:\wamp64\www\emsdemo\View\expenses.php:35
+[23-Feb-2023 15:46:26 Asia/Kolkata] PHP Warning:  move_uploaded_file(): Unable to move &quot;C:\wamp64\tmp\php65C0.tmp&quot; to &quot;C:\wamp64\www\emsdemo\View/../ExpenseFood/CE12102224_2023-02-23_154626.jpg&quot; in C:\wamp64\www\emsdemo\View\expenses.php on line 35
+[23-Feb-2023 15:46:26 Asia/Kolkata] PHP Stack trace:
+[23-Feb-2023 15:46:26 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\emsdemo\View\expenses.php:0
+[23-Feb-2023 15:46:26 Asia/Kolkata] PHP   2. move_uploaded_file($from = 'C:\\wamp64\\tmp\\php65C0.tmp', $to = 'C:\\wamp64\\www\\emsdemo\\View/../ExpenseFood/CE12102224_2023-02-23_154626.jpg') C:\wamp64\www\emsdemo\View\expenses.php:35
+[23-Feb-2023 15:46:27 Asia/Kolkata] PHP Warning:  Undefined array key "travel_date" in C:\wamp64\www\emsdemo\View\expenses.php on line 60
+[23-Feb-2023 15:46:27 Asia/Kolkata] PHP Stack trace:
+[23-Feb-2023 15:46:27 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\emsdemo\View\expenses.php:0
+[23-Feb-2023 15:46:27 Asia/Kolkata] PHP Warning:  Undefined array key "placeFrom" in C:\wamp64\www\emsdemo\View\expenses.php on line 61
+[23-Feb-2023 15:46:27 Asia/Kolkata] PHP Stack trace:
+[23-Feb-2023 15:46:27 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\emsdemo\View\expenses.php:0
+[23-Feb-2023 15:46:27 Asia/Kolkata] PHP Warning:  Undefined array key "placeTO" in C:\wamp64\www\emsdemo\View\expenses.php on line 62
+[23-Feb-2023 15:46:27 Asia/Kolkata] PHP Stack trace:
+[23-Feb-2023 15:46:27 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\emsdemo\View\expenses.php:0
+[23-Feb-2023 15:46:27 Asia/Kolkata] PHP Warning:  Undefined array key "modeOftravel" in C:\wamp64\www\emsdemo\View\expenses.php on line 63
+[23-Feb-2023 15:46:27 Asia/Kolkata] PHP Stack trace:
+[23-Feb-2023 15:46:27 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\emsdemo\View\expenses.php:0
+[23-Feb-2023 15:46:27 Asia/Kolkata] PHP Warning:  Undefined array key "returnDate" in C:\wamp64\www\emsdemo\View\expenses.php on line 74
+[23-Feb-2023 15:46:27 Asia/Kolkata] PHP Stack trace:
+[23-Feb-2023 15:46:27 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\emsdemo\View\expenses.php:0
+[23-Feb-2023 15:46:28 Asia/Kolkata] PHP Warning:  Undefined array key "car_km" in C:\wamp64\www\emsdemo\View\expenses.php on line 75
+[23-Feb-2023 15:46:28 Asia/Kolkata] PHP Stack trace:
+[23-Feb-2023 15:46:28 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\emsdemo\View\expenses.php:0

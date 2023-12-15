@@ -1,0 +1,987 @@
+[16-Jan-2023 15:21:12 Asia/Kolkata] PHP Warning:  Undefined array key "location" in C:\wamp64\www\emsdemo\View\revenue_master_report.php on line 369
+[16-Jan-2023 15:21:12 Asia/Kolkata] PHP Stack trace:
+[16-Jan-2023 15:21:12 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\emsdemo\View\revenue_master_report.php:0
+[16-Jan-2023 15:21:12 Asia/Kolkata] PHP Warning:  Undefined array key "new_location" in C:\wamp64\www\emsdemo\View\revenue_master_report.php on line 370
+[16-Jan-2023 15:21:12 Asia/Kolkata] PHP Stack trace:
+[16-Jan-2023 15:21:12 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\emsdemo\View\revenue_master_report.php:0
+[16-Jan-2023 15:21:12 Asia/Kolkata] PHP Warning:  Undefined array key "client_name" in C:\wamp64\www\emsdemo\View\revenue_master_report.php on line 371
+[16-Jan-2023 15:21:12 Asia/Kolkata] PHP Stack trace:
+[16-Jan-2023 15:21:12 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\emsdemo\View\revenue_master_report.php:0
+[16-Jan-2023 15:21:12 Asia/Kolkata] PHP Warning:  Undefined array key "process" in C:\wamp64\www\emsdemo\View\revenue_master_report.php on line 372
+[16-Jan-2023 15:21:12 Asia/Kolkata] PHP Stack trace:
+[16-Jan-2023 15:21:12 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\emsdemo\View\revenue_master_report.php:0
+[16-Jan-2023 15:21:12 Asia/Kolkata] PHP Warning:  Undefined array key "model" in C:\wamp64\www\emsdemo\View\revenue_master_report.php on line 373
+[16-Jan-2023 15:21:12 Asia/Kolkata] PHP Stack trace:
+[16-Jan-2023 15:21:12 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\emsdemo\View\revenue_master_report.php:0
+[16-Jan-2023 15:21:12 Asia/Kolkata] PHP Warning:  Undefined array key "vh" in C:\wamp64\www\emsdemo\View\revenue_master_report.php on line 374
+[16-Jan-2023 15:21:12 Asia/Kolkata] PHP Stack trace:
+[16-Jan-2023 15:21:12 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\emsdemo\View\revenue_master_report.php:0
+[16-Jan-2023 15:21:12 Asia/Kolkata] PHP Warning:  Undefined array key "sv0h" in C:\wamp64\www\emsdemo\View\revenue_master_report.php on line 375
+[16-Jan-2023 15:21:12 Asia/Kolkata] PHP Stack trace:
+[16-Jan-2023 15:21:12 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\emsdemo\View\revenue_master_report.php:0
+[16-Jan-2023 15:21:12 Asia/Kolkata] PHP Warning:  Undefined array key "jan_current_rate" in C:\wamp64\www\emsdemo\View\revenue_master_report.php on line 378
+[16-Jan-2023 15:21:12 Asia/Kolkata] PHP Stack trace:
+[16-Jan-2023 15:21:12 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\emsdemo\View\revenue_master_report.php:0
+[16-Jan-2023 15:21:12 Asia/Kolkata] PHP Warning:  Undefined array key "jan_fte_forcast" in C:\wamp64\www\emsdemo\View\revenue_master_report.php on line 379
+[16-Jan-2023 15:21:12 Asia/Kolkata] PHP Stack trace:
+[16-Jan-2023 15:21:12 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\emsdemo\View\revenue_master_report.php:0
+[16-Jan-2023 15:21:12 Asia/Kolkata] PHP Warning:  Undefined array key "model" in C:\wamp64\www\emsdemo\View\revenue_master_report.php on line 380
+[16-Jan-2023 15:21:12 Asia/Kolkata] PHP Stack trace:
+[16-Jan-2023 15:21:12 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\emsdemo\View\revenue_master_report.php:0
+[16-Jan-2023 15:21:12 Asia/Kolkata] PHP Warning:  Undefined array key "model" in C:\wamp64\www\emsdemo\View\revenue_master_report.php on line 382
+[16-Jan-2023 15:21:12 Asia/Kolkata] PHP Stack trace:
+[16-Jan-2023 15:21:12 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\emsdemo\View\revenue_master_report.php:0
+[16-Jan-2023 15:21:12 Asia/Kolkata] PHP Warning:  Undefined array key "jan_fte_forcast" in C:\wamp64\www\emsdemo\View\revenue_master_report.php on line 385
+[16-Jan-2023 15:21:12 Asia/Kolkata] PHP Stack trace:
+[16-Jan-2023 15:21:12 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\emsdemo\View\revenue_master_report.php:0
+[16-Jan-2023 15:21:12 Asia/Kolkata] PHP Warning:  Undefined array key "jan_current_rate" in C:\wamp64\www\emsdemo\View\revenue_master_report.php on line 385
+[16-Jan-2023 15:21:12 Asia/Kolkata] PHP Stack trace:
+[16-Jan-2023 15:21:12 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\emsdemo\View\revenue_master_report.php:0
+[16-Jan-2023 15:21:12 Asia/Kolkata] PHP Warning:  Undefined array key "jan_fte_plan" in C:\wamp64\www\emsdemo\View\revenue_master_report.php on line 389
+[16-Jan-2023 15:21:12 Asia/Kolkata] PHP Stack trace:
+[16-Jan-2023 15:21:12 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\emsdemo\View\revenue_master_report.php:0
+[16-Jan-2023 15:21:12 Asia/Kolkata] PHP Warning:  Undefined array key "jan_rp_plan" in C:\wamp64\www\emsdemo\View\revenue_master_report.php on line 390
+[16-Jan-2023 15:21:12 Asia/Kolkata] PHP Stack trace:
+[16-Jan-2023 15:21:12 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\emsdemo\View\revenue_master_report.php:0
+[16-Jan-2023 15:21:12 Asia/Kolkata] PHP Warning:  Undefined array key "model" in C:\wamp64\www\emsdemo\View\revenue_master_report.php on line 391
+[16-Jan-2023 15:21:12 Asia/Kolkata] PHP Stack trace:
+[16-Jan-2023 15:21:12 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\emsdemo\View\revenue_master_report.php:0
+[16-Jan-2023 15:21:12 Asia/Kolkata] PHP Warning:  Undefined array key "model" in C:\wamp64\www\emsdemo\View\revenue_master_report.php on line 393
+[16-Jan-2023 15:21:12 Asia/Kolkata] PHP Stack trace:
+[16-Jan-2023 15:21:12 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\emsdemo\View\revenue_master_report.php:0
+[16-Jan-2023 15:21:12 Asia/Kolkata] PHP Warning:  Undefined array key "jan_fte_plan" in C:\wamp64\www\emsdemo\View\revenue_master_report.php on line 396
+[16-Jan-2023 15:21:12 Asia/Kolkata] PHP Stack trace:
+[16-Jan-2023 15:21:12 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\emsdemo\View\revenue_master_report.php:0
+[16-Jan-2023 15:21:12 Asia/Kolkata] PHP Warning:  Undefined array key "jan_current_rate" in C:\wamp64\www\emsdemo\View\revenue_master_report.php on line 396
+[16-Jan-2023 15:21:12 Asia/Kolkata] PHP Stack trace:
+[16-Jan-2023 15:21:12 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\emsdemo\View\revenue_master_report.php:0
+[16-Jan-2023 15:21:12 Asia/Kolkata] PHP Warning:  Undefined array key "jan_fte_commit" in C:\wamp64\www\emsdemo\View\revenue_master_report.php on line 399
+[16-Jan-2023 15:21:12 Asia/Kolkata] PHP Stack trace:
+[16-Jan-2023 15:21:12 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\emsdemo\View\revenue_master_report.php:0
+[16-Jan-2023 15:21:12 Asia/Kolkata] PHP Warning:  Undefined array key "jan_rp_commit" in C:\wamp64\www\emsdemo\View\revenue_master_report.php on line 400
+[16-Jan-2023 15:21:12 Asia/Kolkata] PHP Stack trace:
+[16-Jan-2023 15:21:12 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\emsdemo\View\revenue_master_report.php:0
+[16-Jan-2023 15:21:12 Asia/Kolkata] PHP Warning:  Undefined array key "model" in C:\wamp64\www\emsdemo\View\revenue_master_report.php on line 401
+[16-Jan-2023 15:21:12 Asia/Kolkata] PHP Stack trace:
+[16-Jan-2023 15:21:12 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\emsdemo\View\revenue_master_report.php:0
+[16-Jan-2023 15:21:12 Asia/Kolkata] PHP Warning:  Undefined array key "model" in C:\wamp64\www\emsdemo\View\revenue_master_report.php on line 403
+[16-Jan-2023 15:21:12 Asia/Kolkata] PHP Stack trace:
+[16-Jan-2023 15:21:12 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\emsdemo\View\revenue_master_report.php:0
+[16-Jan-2023 15:21:12 Asia/Kolkata] PHP Warning:  Undefined array key "jan_fte_commit" in C:\wamp64\www\emsdemo\View\revenue_master_report.php on line 406
+[16-Jan-2023 15:21:12 Asia/Kolkata] PHP Stack trace:
+[16-Jan-2023 15:21:12 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\emsdemo\View\revenue_master_report.php:0
+[16-Jan-2023 15:21:12 Asia/Kolkata] PHP Warning:  Undefined array key "jan_fte_forcast" in C:\wamp64\www\emsdemo\View\revenue_master_report.php on line 406
+[16-Jan-2023 15:21:12 Asia/Kolkata] PHP Stack trace:
+[16-Jan-2023 15:21:12 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\emsdemo\View\revenue_master_report.php:0
+[16-Jan-2023 15:21:12 Asia/Kolkata] PHP Warning:  Undefined array key "jan_rp_commit" in C:\wamp64\www\emsdemo\View\revenue_master_report.php on line 406
+[16-Jan-2023 15:21:12 Asia/Kolkata] PHP Stack trace:
+[16-Jan-2023 15:21:12 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\emsdemo\View\revenue_master_report.php:0
+[16-Jan-2023 15:21:12 Asia/Kolkata] PHP Warning:  Undefined array key "jan_fte_actuals" in C:\wamp64\www\emsdemo\View\revenue_master_report.php on line 409
+[16-Jan-2023 15:21:12 Asia/Kolkata] PHP Stack trace:
+[16-Jan-2023 15:21:12 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\emsdemo\View\revenue_master_report.php:0
+[16-Jan-2023 15:21:12 Asia/Kolkata] PHP Warning:  Undefined array key "jan_rp_actuals" in C:\wamp64\www\emsdemo\View\revenue_master_report.php on line 410
+[16-Jan-2023 15:21:12 Asia/Kolkata] PHP Stack trace:
+[16-Jan-2023 15:21:12 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\emsdemo\View\revenue_master_report.php:0
+[16-Jan-2023 15:21:12 Asia/Kolkata] PHP Warning:  Undefined array key "model" in C:\wamp64\www\emsdemo\View\revenue_master_report.php on line 411
+[16-Jan-2023 15:21:12 Asia/Kolkata] PHP Stack trace:
+[16-Jan-2023 15:21:12 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\emsdemo\View\revenue_master_report.php:0
+[16-Jan-2023 15:21:12 Asia/Kolkata] PHP Warning:  Undefined array key "model" in C:\wamp64\www\emsdemo\View\revenue_master_report.php on line 413
+[16-Jan-2023 15:21:12 Asia/Kolkata] PHP Stack trace:
+[16-Jan-2023 15:21:12 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\emsdemo\View\revenue_master_report.php:0
+[16-Jan-2023 15:21:12 Asia/Kolkata] PHP Warning:  Undefined array key "jan_fte_actuals" in C:\wamp64\www\emsdemo\View\revenue_master_report.php on line 416
+[16-Jan-2023 15:21:12 Asia/Kolkata] PHP Stack trace:
+[16-Jan-2023 15:21:12 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\emsdemo\View\revenue_master_report.php:0
+[16-Jan-2023 15:21:12 Asia/Kolkata] PHP Warning:  Undefined array key "jan_fte_forcast" in C:\wamp64\www\emsdemo\View\revenue_master_report.php on line 416
+[16-Jan-2023 15:21:12 Asia/Kolkata] PHP Stack trace:
+[16-Jan-2023 15:21:12 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\emsdemo\View\revenue_master_report.php:0
+[16-Jan-2023 15:21:12 Asia/Kolkata] PHP Warning:  Undefined array key "jan_rp_actuals" in C:\wamp64\www\emsdemo\View\revenue_master_report.php on line 416
+[16-Jan-2023 15:21:12 Asia/Kolkata] PHP Stack trace:
+[16-Jan-2023 15:21:12 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\emsdemo\View\revenue_master_report.php:0
+[16-Jan-2023 15:21:12 Asia/Kolkata] PHP Warning:  Undefined array key "feb_current_rate" in C:\wamp64\www\emsdemo\View\revenue_master_report.php on line 423
+[16-Jan-2023 15:21:12 Asia/Kolkata] PHP Stack trace:
+[16-Jan-2023 15:21:12 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\emsdemo\View\revenue_master_report.php:0
+[16-Jan-2023 15:21:12 Asia/Kolkata] PHP Warning:  Undefined array key "feb_fte_forcast" in C:\wamp64\www\emsdemo\View\revenue_master_report.php on line 424
+[16-Jan-2023 15:21:12 Asia/Kolkata] PHP Stack trace:
+[16-Jan-2023 15:21:12 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\emsdemo\View\revenue_master_report.php:0
+[16-Jan-2023 15:21:12 Asia/Kolkata] PHP Warning:  Undefined array key "model" in C:\wamp64\www\emsdemo\View\revenue_master_report.php on line 425
+[16-Jan-2023 15:21:12 Asia/Kolkata] PHP Stack trace:
+[16-Jan-2023 15:21:12 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\emsdemo\View\revenue_master_report.php:0
+[16-Jan-2023 15:21:12 Asia/Kolkata] PHP Warning:  Undefined array key "model" in C:\wamp64\www\emsdemo\View\revenue_master_report.php on line 427
+[16-Jan-2023 15:21:12 Asia/Kolkata] PHP Stack trace:
+[16-Jan-2023 15:21:12 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\emsdemo\View\revenue_master_report.php:0
+[16-Jan-2023 15:21:12 Asia/Kolkata] PHP Warning:  Undefined array key "feb_fte_forcast" in C:\wamp64\www\emsdemo\View\revenue_master_report.php on line 430
+[16-Jan-2023 15:21:12 Asia/Kolkata] PHP Stack trace:
+[16-Jan-2023 15:21:12 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\emsdemo\View\revenue_master_report.php:0
+[16-Jan-2023 15:21:12 Asia/Kolkata] PHP Warning:  Undefined array key "feb_current_rate" in C:\wamp64\www\emsdemo\View\revenue_master_report.php on line 430
+[16-Jan-2023 15:21:12 Asia/Kolkata] PHP Stack trace:
+[16-Jan-2023 15:21:12 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\emsdemo\View\revenue_master_report.php:0
+[16-Jan-2023 15:21:12 Asia/Kolkata] PHP Warning:  Undefined array key "feb_fte_plan" in C:\wamp64\www\emsdemo\View\revenue_master_report.php on line 434
+[16-Jan-2023 15:21:12 Asia/Kolkata] PHP Stack trace:
+[16-Jan-2023 15:21:12 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\emsdemo\View\revenue_master_report.php:0
+[16-Jan-2023 15:21:12 Asia/Kolkata] PHP Warning:  Undefined array key "feb_rp_plan" in C:\wamp64\www\emsdemo\View\revenue_master_report.php on line 435
+[16-Jan-2023 15:21:12 Asia/Kolkata] PHP Stack trace:
+[16-Jan-2023 15:21:12 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\emsdemo\View\revenue_master_report.php:0
+[16-Jan-2023 15:21:12 Asia/Kolkata] PHP Warning:  Undefined array key "model" in C:\wamp64\www\emsdemo\View\revenue_master_report.php on line 436
+[16-Jan-2023 15:21:12 Asia/Kolkata] PHP Stack trace:
+[16-Jan-2023 15:21:12 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\emsdemo\View\revenue_master_report.php:0
+[16-Jan-2023 15:21:12 Asia/Kolkata] PHP Warning:  Undefined array key "model" in C:\wamp64\www\emsdemo\View\revenue_master_report.php on line 438
+[16-Jan-2023 15:21:12 Asia/Kolkata] PHP Stack trace:
+[16-Jan-2023 15:21:12 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\emsdemo\View\revenue_master_report.php:0
+[16-Jan-2023 15:21:12 Asia/Kolkata] PHP Warning:  Undefined array key "feb_fte_plan" in C:\wamp64\www\emsdemo\View\revenue_master_report.php on line 441
+[16-Jan-2023 15:21:12 Asia/Kolkata] PHP Stack trace:
+[16-Jan-2023 15:21:12 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\emsdemo\View\revenue_master_report.php:0
+[16-Jan-2023 15:21:12 Asia/Kolkata] PHP Warning:  Undefined array key "feb_current_rate" in C:\wamp64\www\emsdemo\View\revenue_master_report.php on line 441
+[16-Jan-2023 15:21:12 Asia/Kolkata] PHP Stack trace:
+[16-Jan-2023 15:21:12 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\emsdemo\View\revenue_master_report.php:0
+[16-Jan-2023 15:21:12 Asia/Kolkata] PHP Warning:  Undefined array key "feb_fte_commit" in C:\wamp64\www\emsdemo\View\revenue_master_report.php on line 444
+[16-Jan-2023 15:21:12 Asia/Kolkata] PHP Stack trace:
+[16-Jan-2023 15:21:12 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\emsdemo\View\revenue_master_report.php:0
+[16-Jan-2023 15:21:12 Asia/Kolkata] PHP Warning:  Undefined array key "feb_rp_commit" in C:\wamp64\www\emsdemo\View\revenue_master_report.php on line 445
+[16-Jan-2023 15:21:12 Asia/Kolkata] PHP Stack trace:
+[16-Jan-2023 15:21:12 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\emsdemo\View\revenue_master_report.php:0
+[16-Jan-2023 15:21:12 Asia/Kolkata] PHP Warning:  Undefined array key "model" in C:\wamp64\www\emsdemo\View\revenue_master_report.php on line 446
+[16-Jan-2023 15:21:12 Asia/Kolkata] PHP Stack trace:
+[16-Jan-2023 15:21:12 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\emsdemo\View\revenue_master_report.php:0
+[16-Jan-2023 15:21:12 Asia/Kolkata] PHP Warning:  Undefined array key "model" in C:\wamp64\www\emsdemo\View\revenue_master_report.php on line 448
+[16-Jan-2023 15:21:12 Asia/Kolkata] PHP Stack trace:
+[16-Jan-2023 15:21:12 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\emsdemo\View\revenue_master_report.php:0
+[16-Jan-2023 15:21:12 Asia/Kolkata] PHP Warning:  Undefined array key "feb_fte_commit" in C:\wamp64\www\emsdemo\View\revenue_master_report.php on line 451
+[16-Jan-2023 15:21:12 Asia/Kolkata] PHP Stack trace:
+[16-Jan-2023 15:21:12 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\emsdemo\View\revenue_master_report.php:0
+[16-Jan-2023 15:21:12 Asia/Kolkata] PHP Warning:  Undefined array key "feb_fte_forcast" in C:\wamp64\www\emsdemo\View\revenue_master_report.php on line 451
+[16-Jan-2023 15:21:12 Asia/Kolkata] PHP Stack trace:
+[16-Jan-2023 15:21:12 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\emsdemo\View\revenue_master_report.php:0
+[16-Jan-2023 15:21:12 Asia/Kolkata] PHP Warning:  Undefined array key "feb_rp_commit" in C:\wamp64\www\emsdemo\View\revenue_master_report.php on line 451
+[16-Jan-2023 15:21:12 Asia/Kolkata] PHP Stack trace:
+[16-Jan-2023 15:21:12 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\emsdemo\View\revenue_master_report.php:0
+[16-Jan-2023 15:21:12 Asia/Kolkata] PHP Warning:  Undefined array key "feb_fte_actuals" in C:\wamp64\www\emsdemo\View\revenue_master_report.php on line 454
+[16-Jan-2023 15:21:12 Asia/Kolkata] PHP Stack trace:
+[16-Jan-2023 15:21:12 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\emsdemo\View\revenue_master_report.php:0
+[16-Jan-2023 15:21:12 Asia/Kolkata] PHP Warning:  Undefined array key "feb_rp_actuals" in C:\wamp64\www\emsdemo\View\revenue_master_report.php on line 455
+[16-Jan-2023 15:21:12 Asia/Kolkata] PHP Stack trace:
+[16-Jan-2023 15:21:12 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\emsdemo\View\revenue_master_report.php:0
+[16-Jan-2023 15:21:12 Asia/Kolkata] PHP Warning:  Undefined array key "model" in C:\wamp64\www\emsdemo\View\revenue_master_report.php on line 456
+[16-Jan-2023 15:21:12 Asia/Kolkata] PHP Stack trace:
+[16-Jan-2023 15:21:12 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\emsdemo\View\revenue_master_report.php:0
+[16-Jan-2023 15:21:12 Asia/Kolkata] PHP Warning:  Undefined array key "model" in C:\wamp64\www\emsdemo\View\revenue_master_report.php on line 458
+[16-Jan-2023 15:21:12 Asia/Kolkata] PHP Stack trace:
+[16-Jan-2023 15:21:12 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\emsdemo\View\revenue_master_report.php:0
+[16-Jan-2023 15:21:12 Asia/Kolkata] PHP Warning:  Undefined array key "feb_fte_actuals" in C:\wamp64\www\emsdemo\View\revenue_master_report.php on line 461
+[16-Jan-2023 15:21:12 Asia/Kolkata] PHP Stack trace:
+[16-Jan-2023 15:21:12 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\emsdemo\View\revenue_master_report.php:0
+[16-Jan-2023 15:21:12 Asia/Kolkata] PHP Warning:  Undefined array key "feb_fte_forcast" in C:\wamp64\www\emsdemo\View\revenue_master_report.php on line 461
+[16-Jan-2023 15:21:12 Asia/Kolkata] PHP Stack trace:
+[16-Jan-2023 15:21:12 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\emsdemo\View\revenue_master_report.php:0
+[16-Jan-2023 15:21:12 Asia/Kolkata] PHP Warning:  Undefined array key "feb_rp_actuals" in C:\wamp64\www\emsdemo\View\revenue_master_report.php on line 461
+[16-Jan-2023 15:21:12 Asia/Kolkata] PHP Stack trace:
+[16-Jan-2023 15:21:12 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\emsdemo\View\revenue_master_report.php:0
+[16-Jan-2023 15:21:12 Asia/Kolkata] PHP Warning:  Undefined array key "mar_current_rate" in C:\wamp64\www\emsdemo\View\revenue_master_report.php on line 469
+[16-Jan-2023 15:21:12 Asia/Kolkata] PHP Stack trace:
+[16-Jan-2023 15:21:12 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\emsdemo\View\revenue_master_report.php:0
+[16-Jan-2023 15:21:12 Asia/Kolkata] PHP Warning:  Undefined array key "mar_fte_forcast" in C:\wamp64\www\emsdemo\View\revenue_master_report.php on line 470
+[16-Jan-2023 15:21:12 Asia/Kolkata] PHP Stack trace:
+[16-Jan-2023 15:21:12 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\emsdemo\View\revenue_master_report.php:0
+[16-Jan-2023 15:21:12 Asia/Kolkata] PHP Warning:  Undefined array key "model" in C:\wamp64\www\emsdemo\View\revenue_master_report.php on line 471
+[16-Jan-2023 15:21:12 Asia/Kolkata] PHP Stack trace:
+[16-Jan-2023 15:21:12 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\emsdemo\View\revenue_master_report.php:0
+[16-Jan-2023 15:21:12 Asia/Kolkata] PHP Warning:  Undefined array key "model" in C:\wamp64\www\emsdemo\View\revenue_master_report.php on line 473
+[16-Jan-2023 15:21:12 Asia/Kolkata] PHP Stack trace:
+[16-Jan-2023 15:21:12 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\emsdemo\View\revenue_master_report.php:0
+[16-Jan-2023 15:21:12 Asia/Kolkata] PHP Warning:  Undefined array key "mar_fte_forcast" in C:\wamp64\www\emsdemo\View\revenue_master_report.php on line 476
+[16-Jan-2023 15:21:12 Asia/Kolkata] PHP Stack trace:
+[16-Jan-2023 15:21:12 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\emsdemo\View\revenue_master_report.php:0
+[16-Jan-2023 15:21:12 Asia/Kolkata] PHP Warning:  Undefined array key "mar_current_rate" in C:\wamp64\www\emsdemo\View\revenue_master_report.php on line 476
+[16-Jan-2023 15:21:12 Asia/Kolkata] PHP Stack trace:
+[16-Jan-2023 15:21:12 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\emsdemo\View\revenue_master_report.php:0
+[16-Jan-2023 15:21:12 Asia/Kolkata] PHP Warning:  Undefined array key "mar_fte_plan" in C:\wamp64\www\emsdemo\View\revenue_master_report.php on line 480
+[16-Jan-2023 15:21:12 Asia/Kolkata] PHP Stack trace:
+[16-Jan-2023 15:21:12 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\emsdemo\View\revenue_master_report.php:0
+[16-Jan-2023 15:21:12 Asia/Kolkata] PHP Warning:  Undefined array key "mar_rp_plan" in C:\wamp64\www\emsdemo\View\revenue_master_report.php on line 481
+[16-Jan-2023 15:21:12 Asia/Kolkata] PHP Stack trace:
+[16-Jan-2023 15:21:12 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\emsdemo\View\revenue_master_report.php:0
+[16-Jan-2023 15:21:12 Asia/Kolkata] PHP Warning:  Undefined array key "model" in C:\wamp64\www\emsdemo\View\revenue_master_report.php on line 482
+[16-Jan-2023 15:21:12 Asia/Kolkata] PHP Stack trace:
+[16-Jan-2023 15:21:12 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\emsdemo\View\revenue_master_report.php:0
+[16-Jan-2023 15:21:12 Asia/Kolkata] PHP Warning:  Undefined array key "model" in C:\wamp64\www\emsdemo\View\revenue_master_report.php on line 484
+[16-Jan-2023 15:21:12 Asia/Kolkata] PHP Stack trace:
+[16-Jan-2023 15:21:12 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\emsdemo\View\revenue_master_report.php:0
+[16-Jan-2023 15:21:12 Asia/Kolkata] PHP Warning:  Undefined array key "mar_fte_plan" in C:\wamp64\www\emsdemo\View\revenue_master_report.php on line 487
+[16-Jan-2023 15:21:12 Asia/Kolkata] PHP Stack trace:
+[16-Jan-2023 15:21:12 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\emsdemo\View\revenue_master_report.php:0
+[16-Jan-2023 15:21:12 Asia/Kolkata] PHP Warning:  Undefined array key "mar_current_rate" in C:\wamp64\www\emsdemo\View\revenue_master_report.php on line 487
+[16-Jan-2023 15:21:12 Asia/Kolkata] PHP Stack trace:
+[16-Jan-2023 15:21:12 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\emsdemo\View\revenue_master_report.php:0
+[16-Jan-2023 15:21:12 Asia/Kolkata] PHP Warning:  Undefined array key "mar_fte_commit" in C:\wamp64\www\emsdemo\View\revenue_master_report.php on line 490
+[16-Jan-2023 15:21:12 Asia/Kolkata] PHP Stack trace:
+[16-Jan-2023 15:21:12 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\emsdemo\View\revenue_master_report.php:0
+[16-Jan-2023 15:21:12 Asia/Kolkata] PHP Warning:  Undefined array key "mar_rp_commit" in C:\wamp64\www\emsdemo\View\revenue_master_report.php on line 491
+[16-Jan-2023 15:21:12 Asia/Kolkata] PHP Stack trace:
+[16-Jan-2023 15:21:12 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\emsdemo\View\revenue_master_report.php:0
+[16-Jan-2023 15:21:12 Asia/Kolkata] PHP Warning:  Undefined array key "model" in C:\wamp64\www\emsdemo\View\revenue_master_report.php on line 492
+[16-Jan-2023 15:21:12 Asia/Kolkata] PHP Stack trace:
+[16-Jan-2023 15:21:12 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\emsdemo\View\revenue_master_report.php:0
+[16-Jan-2023 15:21:12 Asia/Kolkata] PHP Warning:  Undefined array key "model" in C:\wamp64\www\emsdemo\View\revenue_master_report.php on line 494
+[16-Jan-2023 15:21:12 Asia/Kolkata] PHP Stack trace:
+[16-Jan-2023 15:21:12 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\emsdemo\View\revenue_master_report.php:0
+[16-Jan-2023 15:21:12 Asia/Kolkata] PHP Warning:  Undefined array key "mar_fte_commit" in C:\wamp64\www\emsdemo\View\revenue_master_report.php on line 497
+[16-Jan-2023 15:21:12 Asia/Kolkata] PHP Stack trace:
+[16-Jan-2023 15:21:12 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\emsdemo\View\revenue_master_report.php:0
+[16-Jan-2023 15:21:12 Asia/Kolkata] PHP Warning:  Undefined array key "mar_fte_forcast" in C:\wamp64\www\emsdemo\View\revenue_master_report.php on line 497
+[16-Jan-2023 15:21:12 Asia/Kolkata] PHP Stack trace:
+[16-Jan-2023 15:21:12 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\emsdemo\View\revenue_master_report.php:0
+[16-Jan-2023 15:21:12 Asia/Kolkata] PHP Warning:  Undefined array key "mar_rp_commit" in C:\wamp64\www\emsdemo\View\revenue_master_report.php on line 497
+[16-Jan-2023 15:21:12 Asia/Kolkata] PHP Stack trace:
+[16-Jan-2023 15:21:12 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\emsdemo\View\revenue_master_report.php:0
+[16-Jan-2023 15:21:12 Asia/Kolkata] PHP Warning:  Undefined array key "mar_fte_actuals" in C:\wamp64\www\emsdemo\View\revenue_master_report.php on line 500
+[16-Jan-2023 15:21:12 Asia/Kolkata] PHP Stack trace:
+[16-Jan-2023 15:21:12 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\emsdemo\View\revenue_master_report.php:0
+[16-Jan-2023 15:21:12 Asia/Kolkata] PHP Warning:  Undefined array key "mar_rp_actuals" in C:\wamp64\www\emsdemo\View\revenue_master_report.php on line 501
+[16-Jan-2023 15:21:12 Asia/Kolkata] PHP Stack trace:
+[16-Jan-2023 15:21:13 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\emsdemo\View\revenue_master_report.php:0
+[16-Jan-2023 15:21:13 Asia/Kolkata] PHP Warning:  Undefined array key "model" in C:\wamp64\www\emsdemo\View\revenue_master_report.php on line 502
+[16-Jan-2023 15:21:13 Asia/Kolkata] PHP Stack trace:
+[16-Jan-2023 15:21:13 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\emsdemo\View\revenue_master_report.php:0
+[16-Jan-2023 15:21:13 Asia/Kolkata] PHP Warning:  Undefined array key "model" in C:\wamp64\www\emsdemo\View\revenue_master_report.php on line 504
+[16-Jan-2023 15:21:13 Asia/Kolkata] PHP Stack trace:
+[16-Jan-2023 15:21:13 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\emsdemo\View\revenue_master_report.php:0
+[16-Jan-2023 15:21:13 Asia/Kolkata] PHP Warning:  Undefined array key "mar_fte_actuals" in C:\wamp64\www\emsdemo\View\revenue_master_report.php on line 507
+[16-Jan-2023 15:21:13 Asia/Kolkata] PHP Stack trace:
+[16-Jan-2023 15:21:13 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\emsdemo\View\revenue_master_report.php:0
+[16-Jan-2023 15:21:13 Asia/Kolkata] PHP Warning:  Undefined array key "mar_fte_forcast" in C:\wamp64\www\emsdemo\View\revenue_master_report.php on line 507
+[16-Jan-2023 15:21:13 Asia/Kolkata] PHP Stack trace:
+[16-Jan-2023 15:21:13 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\emsdemo\View\revenue_master_report.php:0
+[16-Jan-2023 15:21:13 Asia/Kolkata] PHP Warning:  Undefined array key "mar_rp_actuals" in C:\wamp64\www\emsdemo\View\revenue_master_report.php on line 507
+[16-Jan-2023 15:21:13 Asia/Kolkata] PHP Stack trace:
+[16-Jan-2023 15:21:13 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\emsdemo\View\revenue_master_report.php:0
+[16-Jan-2023 15:21:13 Asia/Kolkata] PHP Warning:  Undefined array key "apr_current_rate" in C:\wamp64\www\emsdemo\View\revenue_master_report.php on line 515
+[16-Jan-2023 15:21:13 Asia/Kolkata] PHP Stack trace:
+[16-Jan-2023 15:21:13 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\emsdemo\View\revenue_master_report.php:0
+[16-Jan-2023 15:21:13 Asia/Kolkata] PHP Warning:  Undefined array key "apr_fte_forcast" in C:\wamp64\www\emsdemo\View\revenue_master_report.php on line 516
+[16-Jan-2023 15:21:13 Asia/Kolkata] PHP Stack trace:
+[16-Jan-2023 15:21:13 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\emsdemo\View\revenue_master_report.php:0
+[16-Jan-2023 15:21:13 Asia/Kolkata] PHP Warning:  Undefined array key "model" in C:\wamp64\www\emsdemo\View\revenue_master_report.php on line 517
+[16-Jan-2023 15:21:13 Asia/Kolkata] PHP Stack trace:
+[16-Jan-2023 15:21:13 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\emsdemo\View\revenue_master_report.php:0
+[16-Jan-2023 15:21:13 Asia/Kolkata] PHP Warning:  Undefined array key "model" in C:\wamp64\www\emsdemo\View\revenue_master_report.php on line 519
+[16-Jan-2023 15:21:13 Asia/Kolkata] PHP Stack trace:
+[16-Jan-2023 15:21:13 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\emsdemo\View\revenue_master_report.php:0
+[16-Jan-2023 15:21:13 Asia/Kolkata] PHP Warning:  Undefined array key "apr_fte_forcast" in C:\wamp64\www\emsdemo\View\revenue_master_report.php on line 522
+[16-Jan-2023 15:21:13 Asia/Kolkata] PHP Stack trace:
+[16-Jan-2023 15:21:13 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\emsdemo\View\revenue_master_report.php:0
+[16-Jan-2023 15:21:13 Asia/Kolkata] PHP Warning:  Undefined array key "apr_current_rate" in C:\wamp64\www\emsdemo\View\revenue_master_report.php on line 522
+[16-Jan-2023 15:21:13 Asia/Kolkata] PHP Stack trace:
+[16-Jan-2023 15:21:13 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\emsdemo\View\revenue_master_report.php:0
+[16-Jan-2023 15:21:13 Asia/Kolkata] PHP Warning:  Undefined array key "apr_fte_plan" in C:\wamp64\www\emsdemo\View\revenue_master_report.php on line 526
+[16-Jan-2023 15:21:13 Asia/Kolkata] PHP Stack trace:
+[16-Jan-2023 15:21:13 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\emsdemo\View\revenue_master_report.php:0
+[16-Jan-2023 15:21:13 Asia/Kolkata] PHP Warning:  Undefined array key "apr_rp_plan" in C:\wamp64\www\emsdemo\View\revenue_master_report.php on line 527
+[16-Jan-2023 15:21:13 Asia/Kolkata] PHP Stack trace:
+[16-Jan-2023 15:21:13 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\emsdemo\View\revenue_master_report.php:0
+[16-Jan-2023 15:21:13 Asia/Kolkata] PHP Warning:  Undefined array key "model" in C:\wamp64\www\emsdemo\View\revenue_master_report.php on line 528
+[16-Jan-2023 15:21:13 Asia/Kolkata] PHP Stack trace:
+[16-Jan-2023 15:21:13 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\emsdemo\View\revenue_master_report.php:0
+[16-Jan-2023 15:21:13 Asia/Kolkata] PHP Warning:  Undefined array key "model" in C:\wamp64\www\emsdemo\View\revenue_master_report.php on line 530
+[16-Jan-2023 15:21:13 Asia/Kolkata] PHP Stack trace:
+[16-Jan-2023 15:21:13 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\emsdemo\View\revenue_master_report.php:0
+[16-Jan-2023 15:21:13 Asia/Kolkata] PHP Warning:  Undefined array key "apr_fte_plan" in C:\wamp64\www\emsdemo\View\revenue_master_report.php on line 533
+[16-Jan-2023 15:21:13 Asia/Kolkata] PHP Stack trace:
+[16-Jan-2023 15:21:13 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\emsdemo\View\revenue_master_report.php:0
+[16-Jan-2023 15:21:13 Asia/Kolkata] PHP Warning:  Undefined array key "apr_current_rate" in C:\wamp64\www\emsdemo\View\revenue_master_report.php on line 533
+[16-Jan-2023 15:21:13 Asia/Kolkata] PHP Stack trace:
+[16-Jan-2023 15:21:13 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\emsdemo\View\revenue_master_report.php:0
+[16-Jan-2023 15:21:13 Asia/Kolkata] PHP Warning:  Undefined array key "apr_fte_commit" in C:\wamp64\www\emsdemo\View\revenue_master_report.php on line 536
+[16-Jan-2023 15:21:13 Asia/Kolkata] PHP Stack trace:
+[16-Jan-2023 15:21:13 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\emsdemo\View\revenue_master_report.php:0
+[16-Jan-2023 15:21:13 Asia/Kolkata] PHP Warning:  Undefined array key "apr_rp_commit" in C:\wamp64\www\emsdemo\View\revenue_master_report.php on line 537
+[16-Jan-2023 15:21:13 Asia/Kolkata] PHP Stack trace:
+[16-Jan-2023 15:21:13 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\emsdemo\View\revenue_master_report.php:0
+[16-Jan-2023 15:21:13 Asia/Kolkata] PHP Warning:  Undefined array key "model" in C:\wamp64\www\emsdemo\View\revenue_master_report.php on line 538
+[16-Jan-2023 15:21:13 Asia/Kolkata] PHP Stack trace:
+[16-Jan-2023 15:21:13 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\emsdemo\View\revenue_master_report.php:0
+[16-Jan-2023 15:21:13 Asia/Kolkata] PHP Warning:  Undefined array key "model" in C:\wamp64\www\emsdemo\View\revenue_master_report.php on line 540
+[16-Jan-2023 15:21:13 Asia/Kolkata] PHP Stack trace:
+[16-Jan-2023 15:21:13 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\emsdemo\View\revenue_master_report.php:0
+[16-Jan-2023 15:21:13 Asia/Kolkata] PHP Warning:  Undefined array key "apr_fte_commit" in C:\wamp64\www\emsdemo\View\revenue_master_report.php on line 543
+[16-Jan-2023 15:21:13 Asia/Kolkata] PHP Stack trace:
+[16-Jan-2023 15:21:13 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\emsdemo\View\revenue_master_report.php:0
+[16-Jan-2023 15:21:13 Asia/Kolkata] PHP Warning:  Undefined array key "apr_fte_forcast" in C:\wamp64\www\emsdemo\View\revenue_master_report.php on line 543
+[16-Jan-2023 15:21:13 Asia/Kolkata] PHP Stack trace:
+[16-Jan-2023 15:21:13 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\emsdemo\View\revenue_master_report.php:0
+[16-Jan-2023 15:21:13 Asia/Kolkata] PHP Warning:  Undefined array key "apr_rp_commit" in C:\wamp64\www\emsdemo\View\revenue_master_report.php on line 543
+[16-Jan-2023 15:21:13 Asia/Kolkata] PHP Stack trace:
+[16-Jan-2023 15:21:13 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\emsdemo\View\revenue_master_report.php:0
+[16-Jan-2023 15:21:13 Asia/Kolkata] PHP Warning:  Undefined array key "apr_fte_actuals" in C:\wamp64\www\emsdemo\View\revenue_master_report.php on line 546
+[16-Jan-2023 15:21:13 Asia/Kolkata] PHP Stack trace:
+[16-Jan-2023 15:21:13 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\emsdemo\View\revenue_master_report.php:0
+[16-Jan-2023 15:21:13 Asia/Kolkata] PHP Warning:  Undefined array key "apr_rp_actuals" in C:\wamp64\www\emsdemo\View\revenue_master_report.php on line 547
+[16-Jan-2023 15:21:13 Asia/Kolkata] PHP Stack trace:
+[16-Jan-2023 15:21:13 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\emsdemo\View\revenue_master_report.php:0
+[16-Jan-2023 15:21:13 Asia/Kolkata] PHP Warning:  Undefined array key "model" in C:\wamp64\www\emsdemo\View\revenue_master_report.php on line 548
+[16-Jan-2023 15:21:13 Asia/Kolkata] PHP Stack trace:
+[16-Jan-2023 15:21:13 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\emsdemo\View\revenue_master_report.php:0
+[16-Jan-2023 15:21:13 Asia/Kolkata] PHP Warning:  Undefined array key "model" in C:\wamp64\www\emsdemo\View\revenue_master_report.php on line 550
+[16-Jan-2023 15:21:13 Asia/Kolkata] PHP Stack trace:
+[16-Jan-2023 15:21:13 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\emsdemo\View\revenue_master_report.php:0
+[16-Jan-2023 15:21:13 Asia/Kolkata] PHP Warning:  Undefined array key "apr_fte_actuals" in C:\wamp64\www\emsdemo\View\revenue_master_report.php on line 553
+[16-Jan-2023 15:21:13 Asia/Kolkata] PHP Stack trace:
+[16-Jan-2023 15:21:13 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\emsdemo\View\revenue_master_report.php:0
+[16-Jan-2023 15:21:13 Asia/Kolkata] PHP Warning:  Undefined array key "apr_fte_forcast" in C:\wamp64\www\emsdemo\View\revenue_master_report.php on line 553
+[16-Jan-2023 15:21:13 Asia/Kolkata] PHP Stack trace:
+[16-Jan-2023 15:21:13 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\emsdemo\View\revenue_master_report.php:0
+[16-Jan-2023 15:21:13 Asia/Kolkata] PHP Warning:  Undefined array key "apr_rp_actuals" in C:\wamp64\www\emsdemo\View\revenue_master_report.php on line 553
+[16-Jan-2023 15:21:13 Asia/Kolkata] PHP Stack trace:
+[16-Jan-2023 15:21:13 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\emsdemo\View\revenue_master_report.php:0
+[16-Jan-2023 15:21:13 Asia/Kolkata] PHP Warning:  Undefined array key "may_current_rate" in C:\wamp64\www\emsdemo\View\revenue_master_report.php on line 561
+[16-Jan-2023 15:21:13 Asia/Kolkata] PHP Stack trace:
+[16-Jan-2023 15:21:13 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\emsdemo\View\revenue_master_report.php:0
+[16-Jan-2023 15:21:13 Asia/Kolkata] PHP Warning:  Undefined array key "may_fte_forcast" in C:\wamp64\www\emsdemo\View\revenue_master_report.php on line 562
+[16-Jan-2023 15:21:13 Asia/Kolkata] PHP Stack trace:
+[16-Jan-2023 15:21:13 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\emsdemo\View\revenue_master_report.php:0
+[16-Jan-2023 15:21:13 Asia/Kolkata] PHP Warning:  Undefined array key "model" in C:\wamp64\www\emsdemo\View\revenue_master_report.php on line 563
+[16-Jan-2023 15:21:13 Asia/Kolkata] PHP Stack trace:
+[16-Jan-2023 15:21:13 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\emsdemo\View\revenue_master_report.php:0
+[16-Jan-2023 15:21:13 Asia/Kolkata] PHP Warning:  Undefined array key "model" in C:\wamp64\www\emsdemo\View\revenue_master_report.php on line 565
+[16-Jan-2023 15:21:13 Asia/Kolkata] PHP Stack trace:
+[16-Jan-2023 15:21:13 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\emsdemo\View\revenue_master_report.php:0
+[16-Jan-2023 15:21:13 Asia/Kolkata] PHP Warning:  Undefined array key "may_fte_forcast" in C:\wamp64\www\emsdemo\View\revenue_master_report.php on line 568
+[16-Jan-2023 15:21:13 Asia/Kolkata] PHP Stack trace:
+[16-Jan-2023 15:21:13 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\emsdemo\View\revenue_master_report.php:0
+[16-Jan-2023 15:21:13 Asia/Kolkata] PHP Warning:  Undefined array key "may_current_rate" in C:\wamp64\www\emsdemo\View\revenue_master_report.php on line 568
+[16-Jan-2023 15:21:13 Asia/Kolkata] PHP Stack trace:
+[16-Jan-2023 15:21:13 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\emsdemo\View\revenue_master_report.php:0
+[16-Jan-2023 15:21:13 Asia/Kolkata] PHP Warning:  Undefined array key "may_fte_plan" in C:\wamp64\www\emsdemo\View\revenue_master_report.php on line 572
+[16-Jan-2023 15:21:13 Asia/Kolkata] PHP Stack trace:
+[16-Jan-2023 15:21:13 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\emsdemo\View\revenue_master_report.php:0
+[16-Jan-2023 15:21:13 Asia/Kolkata] PHP Warning:  Undefined array key "may_rp_plan" in C:\wamp64\www\emsdemo\View\revenue_master_report.php on line 573
+[16-Jan-2023 15:21:13 Asia/Kolkata] PHP Stack trace:
+[16-Jan-2023 15:21:13 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\emsdemo\View\revenue_master_report.php:0
+[16-Jan-2023 15:21:13 Asia/Kolkata] PHP Warning:  Undefined array key "model" in C:\wamp64\www\emsdemo\View\revenue_master_report.php on line 574
+[16-Jan-2023 15:21:13 Asia/Kolkata] PHP Stack trace:
+[16-Jan-2023 15:21:13 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\emsdemo\View\revenue_master_report.php:0
+[16-Jan-2023 15:21:13 Asia/Kolkata] PHP Warning:  Undefined array key "model" in C:\wamp64\www\emsdemo\View\revenue_master_report.php on line 576
+[16-Jan-2023 15:21:13 Asia/Kolkata] PHP Stack trace:
+[16-Jan-2023 15:21:13 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\emsdemo\View\revenue_master_report.php:0
+[16-Jan-2023 15:21:13 Asia/Kolkata] PHP Warning:  Undefined array key "may_fte_plan" in C:\wamp64\www\emsdemo\View\revenue_master_report.php on line 579
+[16-Jan-2023 15:21:13 Asia/Kolkata] PHP Stack trace:
+[16-Jan-2023 15:21:13 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\emsdemo\View\revenue_master_report.php:0
+[16-Jan-2023 15:21:13 Asia/Kolkata] PHP Warning:  Undefined array key "may_current_rate" in C:\wamp64\www\emsdemo\View\revenue_master_report.php on line 579
+[16-Jan-2023 15:21:13 Asia/Kolkata] PHP Stack trace:
+[16-Jan-2023 15:21:13 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\emsdemo\View\revenue_master_report.php:0
+[16-Jan-2023 15:21:13 Asia/Kolkata] PHP Warning:  Undefined array key "may_fte_commit" in C:\wamp64\www\emsdemo\View\revenue_master_report.php on line 582
+[16-Jan-2023 15:21:13 Asia/Kolkata] PHP Stack trace:
+[16-Jan-2023 15:21:13 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\emsdemo\View\revenue_master_report.php:0
+[16-Jan-2023 15:21:13 Asia/Kolkata] PHP Warning:  Undefined array key "may_rp_commit" in C:\wamp64\www\emsdemo\View\revenue_master_report.php on line 583
+[16-Jan-2023 15:21:13 Asia/Kolkata] PHP Stack trace:
+[16-Jan-2023 15:21:13 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\emsdemo\View\revenue_master_report.php:0
+[16-Jan-2023 15:21:13 Asia/Kolkata] PHP Warning:  Undefined array key "model" in C:\wamp64\www\emsdemo\View\revenue_master_report.php on line 584
+[16-Jan-2023 15:21:13 Asia/Kolkata] PHP Stack trace:
+[16-Jan-2023 15:21:13 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\emsdemo\View\revenue_master_report.php:0
+[16-Jan-2023 15:21:13 Asia/Kolkata] PHP Warning:  Undefined array key "model" in C:\wamp64\www\emsdemo\View\revenue_master_report.php on line 586
+[16-Jan-2023 15:21:13 Asia/Kolkata] PHP Stack trace:
+[16-Jan-2023 15:21:13 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\emsdemo\View\revenue_master_report.php:0
+[16-Jan-2023 15:21:13 Asia/Kolkata] PHP Warning:  Undefined array key "may_fte_commit" in C:\wamp64\www\emsdemo\View\revenue_master_report.php on line 589
+[16-Jan-2023 15:21:13 Asia/Kolkata] PHP Stack trace:
+[16-Jan-2023 15:21:13 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\emsdemo\View\revenue_master_report.php:0
+[16-Jan-2023 15:21:13 Asia/Kolkata] PHP Warning:  Undefined array key "may_fte_forcast" in C:\wamp64\www\emsdemo\View\revenue_master_report.php on line 589
+[16-Jan-2023 15:21:13 Asia/Kolkata] PHP Stack trace:
+[16-Jan-2023 15:21:13 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\emsdemo\View\revenue_master_report.php:0
+[16-Jan-2023 15:21:13 Asia/Kolkata] PHP Warning:  Undefined array key "may_rp_commit" in C:\wamp64\www\emsdemo\View\revenue_master_report.php on line 589
+[16-Jan-2023 15:21:13 Asia/Kolkata] PHP Stack trace:
+[16-Jan-2023 15:21:13 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\emsdemo\View\revenue_master_report.php:0
+[16-Jan-2023 15:21:13 Asia/Kolkata] PHP Warning:  Undefined array key "may_fte_actuals" in C:\wamp64\www\emsdemo\View\revenue_master_report.php on line 592
+[16-Jan-2023 15:21:13 Asia/Kolkata] PHP Stack trace:
+[16-Jan-2023 15:21:13 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\emsdemo\View\revenue_master_report.php:0
+[16-Jan-2023 15:21:13 Asia/Kolkata] PHP Warning:  Undefined array key "may_rp_actuals" in C:\wamp64\www\emsdemo\View\revenue_master_report.php on line 593
+[16-Jan-2023 15:21:13 Asia/Kolkata] PHP Stack trace:
+[16-Jan-2023 15:21:13 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\emsdemo\View\revenue_master_report.php:0
+[16-Jan-2023 15:21:13 Asia/Kolkata] PHP Warning:  Undefined array key "model" in C:\wamp64\www\emsdemo\View\revenue_master_report.php on line 594
+[16-Jan-2023 15:21:13 Asia/Kolkata] PHP Stack trace:
+[16-Jan-2023 15:21:13 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\emsdemo\View\revenue_master_report.php:0
+[16-Jan-2023 15:21:13 Asia/Kolkata] PHP Warning:  Undefined array key "model" in C:\wamp64\www\emsdemo\View\revenue_master_report.php on line 596
+[16-Jan-2023 15:21:13 Asia/Kolkata] PHP Stack trace:
+[16-Jan-2023 15:21:13 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\emsdemo\View\revenue_master_report.php:0
+[16-Jan-2023 15:21:13 Asia/Kolkata] PHP Warning:  Undefined array key "may_fte_actuals" in C:\wamp64\www\emsdemo\View\revenue_master_report.php on line 599
+[16-Jan-2023 15:21:13 Asia/Kolkata] PHP Stack trace:
+[16-Jan-2023 15:21:13 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\emsdemo\View\revenue_master_report.php:0
+[16-Jan-2023 15:21:13 Asia/Kolkata] PHP Warning:  Undefined array key "may_fte_forcast" in C:\wamp64\www\emsdemo\View\revenue_master_report.php on line 599
+[16-Jan-2023 15:21:13 Asia/Kolkata] PHP Stack trace:
+[16-Jan-2023 15:21:13 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\emsdemo\View\revenue_master_report.php:0
+[16-Jan-2023 15:21:13 Asia/Kolkata] PHP Warning:  Undefined array key "may_rp_actuals" in C:\wamp64\www\emsdemo\View\revenue_master_report.php on line 599
+[16-Jan-2023 15:21:13 Asia/Kolkata] PHP Stack trace:
+[16-Jan-2023 15:21:13 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\emsdemo\View\revenue_master_report.php:0
+[16-Jan-2023 15:21:13 Asia/Kolkata] PHP Warning:  Undefined array key "jun_current_rate" in C:\wamp64\www\emsdemo\View\revenue_master_report.php on line 607
+[16-Jan-2023 15:21:13 Asia/Kolkata] PHP Stack trace:
+[16-Jan-2023 15:21:13 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\emsdemo\View\revenue_master_report.php:0
+[16-Jan-2023 15:21:13 Asia/Kolkata] PHP Warning:  Undefined array key "jun_fte_forcast" in C:\wamp64\www\emsdemo\View\revenue_master_report.php on line 608
+[16-Jan-2023 15:21:13 Asia/Kolkata] PHP Stack trace:
+[16-Jan-2023 15:21:13 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\emsdemo\View\revenue_master_report.php:0
+[16-Jan-2023 15:21:13 Asia/Kolkata] PHP Warning:  Undefined array key "model" in C:\wamp64\www\emsdemo\View\revenue_master_report.php on line 609
+[16-Jan-2023 15:21:13 Asia/Kolkata] PHP Stack trace:
+[16-Jan-2023 15:21:13 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\emsdemo\View\revenue_master_report.php:0
+[16-Jan-2023 15:21:13 Asia/Kolkata] PHP Warning:  Undefined array key "model" in C:\wamp64\www\emsdemo\View\revenue_master_report.php on line 611
+[16-Jan-2023 15:21:13 Asia/Kolkata] PHP Stack trace:
+[16-Jan-2023 15:21:13 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\emsdemo\View\revenue_master_report.php:0
+[16-Jan-2023 15:21:13 Asia/Kolkata] PHP Warning:  Undefined array key "jun_fte_forcast" in C:\wamp64\www\emsdemo\View\revenue_master_report.php on line 614
+[16-Jan-2023 15:21:13 Asia/Kolkata] PHP Stack trace:
+[16-Jan-2023 15:21:13 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\emsdemo\View\revenue_master_report.php:0
+[16-Jan-2023 15:21:13 Asia/Kolkata] PHP Warning:  Undefined array key "jun_current_rate" in C:\wamp64\www\emsdemo\View\revenue_master_report.php on line 614
+[16-Jan-2023 15:21:13 Asia/Kolkata] PHP Stack trace:
+[16-Jan-2023 15:21:13 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\emsdemo\View\revenue_master_report.php:0
+[16-Jan-2023 15:21:13 Asia/Kolkata] PHP Warning:  Undefined array key "jun_fte_plan" in C:\wamp64\www\emsdemo\View\revenue_master_report.php on line 618
+[16-Jan-2023 15:21:13 Asia/Kolkata] PHP Stack trace:
+[16-Jan-2023 15:21:13 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\emsdemo\View\revenue_master_report.php:0
+[16-Jan-2023 15:21:13 Asia/Kolkata] PHP Warning:  Undefined array key "jun_rp_plan" in C:\wamp64\www\emsdemo\View\revenue_master_report.php on line 619
+[16-Jan-2023 15:21:13 Asia/Kolkata] PHP Stack trace:
+[16-Jan-2023 15:21:13 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\emsdemo\View\revenue_master_report.php:0
+[16-Jan-2023 15:21:13 Asia/Kolkata] PHP Warning:  Undefined array key "model" in C:\wamp64\www\emsdemo\View\revenue_master_report.php on line 620
+[16-Jan-2023 15:21:13 Asia/Kolkata] PHP Stack trace:
+[16-Jan-2023 15:21:13 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\emsdemo\View\revenue_master_report.php:0
+[16-Jan-2023 15:21:13 Asia/Kolkata] PHP Warning:  Undefined array key "model" in C:\wamp64\www\emsdemo\View\revenue_master_report.php on line 622
+[16-Jan-2023 15:21:13 Asia/Kolkata] PHP Stack trace:
+[16-Jan-2023 15:21:13 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\emsdemo\View\revenue_master_report.php:0
+[16-Jan-2023 15:21:13 Asia/Kolkata] PHP Warning:  Undefined array key "jun_fte_plan" in C:\wamp64\www\emsdemo\View\revenue_master_report.php on line 625
+[16-Jan-2023 15:21:13 Asia/Kolkata] PHP Stack trace:
+[16-Jan-2023 15:21:13 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\emsdemo\View\revenue_master_report.php:0
+[16-Jan-2023 15:21:13 Asia/Kolkata] PHP Warning:  Undefined array key "jun_current_rate" in C:\wamp64\www\emsdemo\View\revenue_master_report.php on line 625
+[16-Jan-2023 15:21:13 Asia/Kolkata] PHP Stack trace:
+[16-Jan-2023 15:21:13 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\emsdemo\View\revenue_master_report.php:0
+[16-Jan-2023 15:21:13 Asia/Kolkata] PHP Warning:  Undefined array key "jun_fte_commit" in C:\wamp64\www\emsdemo\View\revenue_master_report.php on line 628
+[16-Jan-2023 15:21:13 Asia/Kolkata] PHP Stack trace:
+[16-Jan-2023 15:21:13 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\emsdemo\View\revenue_master_report.php:0
+[16-Jan-2023 15:21:13 Asia/Kolkata] PHP Warning:  Undefined array key "jun_rp_commit" in C:\wamp64\www\emsdemo\View\revenue_master_report.php on line 629
+[16-Jan-2023 15:21:13 Asia/Kolkata] PHP Stack trace:
+[16-Jan-2023 15:21:13 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\emsdemo\View\revenue_master_report.php:0
+[16-Jan-2023 15:21:13 Asia/Kolkata] PHP Warning:  Undefined array key "model" in C:\wamp64\www\emsdemo\View\revenue_master_report.php on line 630
+[16-Jan-2023 15:21:13 Asia/Kolkata] PHP Stack trace:
+[16-Jan-2023 15:21:13 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\emsdemo\View\revenue_master_report.php:0
+[16-Jan-2023 15:21:13 Asia/Kolkata] PHP Warning:  Undefined array key "model" in C:\wamp64\www\emsdemo\View\revenue_master_report.php on line 632
+[16-Jan-2023 15:21:13 Asia/Kolkata] PHP Stack trace:
+[16-Jan-2023 15:21:13 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\emsdemo\View\revenue_master_report.php:0
+[16-Jan-2023 15:21:13 Asia/Kolkata] PHP Warning:  Undefined array key "jun_fte_commit" in C:\wamp64\www\emsdemo\View\revenue_master_report.php on line 635
+[16-Jan-2023 15:21:13 Asia/Kolkata] PHP Stack trace:
+[16-Jan-2023 15:21:13 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\emsdemo\View\revenue_master_report.php:0
+[16-Jan-2023 15:21:13 Asia/Kolkata] PHP Warning:  Undefined array key "jun_fte_forcast" in C:\wamp64\www\emsdemo\View\revenue_master_report.php on line 635
+[16-Jan-2023 15:21:13 Asia/Kolkata] PHP Stack trace:
+[16-Jan-2023 15:21:13 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\emsdemo\View\revenue_master_report.php:0
+[16-Jan-2023 15:21:13 Asia/Kolkata] PHP Warning:  Undefined array key "jun_rp_commit" in C:\wamp64\www\emsdemo\View\revenue_master_report.php on line 635
+[16-Jan-2023 15:21:13 Asia/Kolkata] PHP Stack trace:
+[16-Jan-2023 15:21:13 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\emsdemo\View\revenue_master_report.php:0
+[16-Jan-2023 15:21:13 Asia/Kolkata] PHP Warning:  Undefined array key "jun_fte_actuals" in C:\wamp64\www\emsdemo\View\revenue_master_report.php on line 638
+[16-Jan-2023 15:21:13 Asia/Kolkata] PHP Stack trace:
+[16-Jan-2023 15:21:13 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\emsdemo\View\revenue_master_report.php:0
+[16-Jan-2023 15:21:13 Asia/Kolkata] PHP Warning:  Undefined array key "jun_rp_actuals" in C:\wamp64\www\emsdemo\View\revenue_master_report.php on line 639
+[16-Jan-2023 15:21:13 Asia/Kolkata] PHP Stack trace:
+[16-Jan-2023 15:21:13 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\emsdemo\View\revenue_master_report.php:0
+[16-Jan-2023 15:21:13 Asia/Kolkata] PHP Warning:  Undefined array key "model" in C:\wamp64\www\emsdemo\View\revenue_master_report.php on line 640
+[16-Jan-2023 15:21:13 Asia/Kolkata] PHP Stack trace:
+[16-Jan-2023 15:21:13 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\emsdemo\View\revenue_master_report.php:0
+[16-Jan-2023 15:21:13 Asia/Kolkata] PHP Warning:  Undefined array key "model" in C:\wamp64\www\emsdemo\View\revenue_master_report.php on line 642
+[16-Jan-2023 15:21:13 Asia/Kolkata] PHP Stack trace:
+[16-Jan-2023 15:21:13 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\emsdemo\View\revenue_master_report.php:0
+[16-Jan-2023 15:21:13 Asia/Kolkata] PHP Warning:  Undefined array key "jun_fte_actuals" in C:\wamp64\www\emsdemo\View\revenue_master_report.php on line 645
+[16-Jan-2023 15:21:13 Asia/Kolkata] PHP Stack trace:
+[16-Jan-2023 15:21:13 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\emsdemo\View\revenue_master_report.php:0
+[16-Jan-2023 15:21:13 Asia/Kolkata] PHP Warning:  Undefined array key "jun_fte_forcast" in C:\wamp64\www\emsdemo\View\revenue_master_report.php on line 645
+[16-Jan-2023 15:21:13 Asia/Kolkata] PHP Stack trace:
+[16-Jan-2023 15:21:13 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\emsdemo\View\revenue_master_report.php:0
+[16-Jan-2023 15:21:13 Asia/Kolkata] PHP Warning:  Undefined array key "jun_rp_actuals" in C:\wamp64\www\emsdemo\View\revenue_master_report.php on line 645
+[16-Jan-2023 15:21:13 Asia/Kolkata] PHP Stack trace:
+[16-Jan-2023 15:21:13 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\emsdemo\View\revenue_master_report.php:0
+[16-Jan-2023 15:21:13 Asia/Kolkata] PHP Warning:  Undefined array key "jul_current_rate" in C:\wamp64\www\emsdemo\View\revenue_master_report.php on line 653
+[16-Jan-2023 15:21:13 Asia/Kolkata] PHP Stack trace:
+[16-Jan-2023 15:21:13 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\emsdemo\View\revenue_master_report.php:0
+[16-Jan-2023 15:21:13 Asia/Kolkata] PHP Warning:  Undefined array key "jul_fte_forcast" in C:\wamp64\www\emsdemo\View\revenue_master_report.php on line 654
+[16-Jan-2023 15:21:13 Asia/Kolkata] PHP Stack trace:
+[16-Jan-2023 15:21:13 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\emsdemo\View\revenue_master_report.php:0
+[16-Jan-2023 15:21:13 Asia/Kolkata] PHP Warning:  Undefined array key "model" in C:\wamp64\www\emsdemo\View\revenue_master_report.php on line 655
+[16-Jan-2023 15:21:13 Asia/Kolkata] PHP Stack trace:
+[16-Jan-2023 15:21:13 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\emsdemo\View\revenue_master_report.php:0
+[16-Jan-2023 15:21:13 Asia/Kolkata] PHP Warning:  Undefined array key "model" in C:\wamp64\www\emsdemo\View\revenue_master_report.php on line 657
+[16-Jan-2023 15:21:13 Asia/Kolkata] PHP Stack trace:
+[16-Jan-2023 15:21:13 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\emsdemo\View\revenue_master_report.php:0
+[16-Jan-2023 15:21:13 Asia/Kolkata] PHP Warning:  Undefined array key "jul_fte_forcast" in C:\wamp64\www\emsdemo\View\revenue_master_report.php on line 660
+[16-Jan-2023 15:21:13 Asia/Kolkata] PHP Stack trace:
+[16-Jan-2023 15:21:13 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\emsdemo\View\revenue_master_report.php:0
+[16-Jan-2023 15:21:13 Asia/Kolkata] PHP Warning:  Undefined array key "jul_current_rate" in C:\wamp64\www\emsdemo\View\revenue_master_report.php on line 660
+[16-Jan-2023 15:21:13 Asia/Kolkata] PHP Stack trace:
+[16-Jan-2023 15:21:13 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\emsdemo\View\revenue_master_report.php:0
+[16-Jan-2023 15:21:13 Asia/Kolkata] PHP Warning:  Undefined array key "jul_fte_plan" in C:\wamp64\www\emsdemo\View\revenue_master_report.php on line 664
+[16-Jan-2023 15:21:13 Asia/Kolkata] PHP Stack trace:
+[16-Jan-2023 15:21:13 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\emsdemo\View\revenue_master_report.php:0
+[16-Jan-2023 15:21:13 Asia/Kolkata] PHP Warning:  Undefined array key "jul_rp_plan" in C:\wamp64\www\emsdemo\View\revenue_master_report.php on line 665
+[16-Jan-2023 15:21:13 Asia/Kolkata] PHP Stack trace:
+[16-Jan-2023 15:21:13 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\emsdemo\View\revenue_master_report.php:0
+[16-Jan-2023 15:21:13 Asia/Kolkata] PHP Warning:  Undefined array key "model" in C:\wamp64\www\emsdemo\View\revenue_master_report.php on line 666
+[16-Jan-2023 15:21:13 Asia/Kolkata] PHP Stack trace:
+[16-Jan-2023 15:21:13 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\emsdemo\View\revenue_master_report.php:0
+[16-Jan-2023 15:21:13 Asia/Kolkata] PHP Warning:  Undefined array key "model" in C:\wamp64\www\emsdemo\View\revenue_master_report.php on line 668
+[16-Jan-2023 15:21:13 Asia/Kolkata] PHP Stack trace:
+[16-Jan-2023 15:21:13 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\emsdemo\View\revenue_master_report.php:0
+[16-Jan-2023 15:21:13 Asia/Kolkata] PHP Warning:  Undefined array key "jul_fte_plan" in C:\wamp64\www\emsdemo\View\revenue_master_report.php on line 671
+[16-Jan-2023 15:21:13 Asia/Kolkata] PHP Stack trace:
+[16-Jan-2023 15:21:13 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\emsdemo\View\revenue_master_report.php:0
+[16-Jan-2023 15:21:13 Asia/Kolkata] PHP Warning:  Undefined array key "jul_current_rate" in C:\wamp64\www\emsdemo\View\revenue_master_report.php on line 671
+[16-Jan-2023 15:21:13 Asia/Kolkata] PHP Stack trace:
+[16-Jan-2023 15:21:13 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\emsdemo\View\revenue_master_report.php:0
+[16-Jan-2023 15:21:13 Asia/Kolkata] PHP Warning:  Undefined array key "jul_fte_commit" in C:\wamp64\www\emsdemo\View\revenue_master_report.php on line 674
+[16-Jan-2023 15:21:13 Asia/Kolkata] PHP Stack trace:
+[16-Jan-2023 15:21:13 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\emsdemo\View\revenue_master_report.php:0
+[16-Jan-2023 15:21:13 Asia/Kolkata] PHP Warning:  Undefined array key "jul_rp_commit" in C:\wamp64\www\emsdemo\View\revenue_master_report.php on line 675
+[16-Jan-2023 15:21:13 Asia/Kolkata] PHP Stack trace:
+[16-Jan-2023 15:21:14 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\emsdemo\View\revenue_master_report.php:0
+[16-Jan-2023 15:21:14 Asia/Kolkata] PHP Warning:  Undefined array key "model" in C:\wamp64\www\emsdemo\View\revenue_master_report.php on line 676
+[16-Jan-2023 15:21:14 Asia/Kolkata] PHP Stack trace:
+[16-Jan-2023 15:21:14 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\emsdemo\View\revenue_master_report.php:0
+[16-Jan-2023 15:21:14 Asia/Kolkata] PHP Warning:  Undefined array key "model" in C:\wamp64\www\emsdemo\View\revenue_master_report.php on line 678
+[16-Jan-2023 15:21:14 Asia/Kolkata] PHP Stack trace:
+[16-Jan-2023 15:21:14 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\emsdemo\View\revenue_master_report.php:0
+[16-Jan-2023 15:21:14 Asia/Kolkata] PHP Warning:  Undefined array key "jul_fte_commit" in C:\wamp64\www\emsdemo\View\revenue_master_report.php on line 681
+[16-Jan-2023 15:21:14 Asia/Kolkata] PHP Stack trace:
+[16-Jan-2023 15:21:14 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\emsdemo\View\revenue_master_report.php:0
+[16-Jan-2023 15:21:14 Asia/Kolkata] PHP Warning:  Undefined array key "jul_fte_forcast" in C:\wamp64\www\emsdemo\View\revenue_master_report.php on line 681
+[16-Jan-2023 15:21:14 Asia/Kolkata] PHP Stack trace:
+[16-Jan-2023 15:21:14 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\emsdemo\View\revenue_master_report.php:0
+[16-Jan-2023 15:21:14 Asia/Kolkata] PHP Warning:  Undefined array key "jul_rp_commit" in C:\wamp64\www\emsdemo\View\revenue_master_report.php on line 681
+[16-Jan-2023 15:21:14 Asia/Kolkata] PHP Stack trace:
+[16-Jan-2023 15:21:14 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\emsdemo\View\revenue_master_report.php:0
+[16-Jan-2023 15:21:14 Asia/Kolkata] PHP Warning:  Undefined array key "jul_fte_actuals" in C:\wamp64\www\emsdemo\View\revenue_master_report.php on line 684
+[16-Jan-2023 15:21:14 Asia/Kolkata] PHP Stack trace:
+[16-Jan-2023 15:21:14 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\emsdemo\View\revenue_master_report.php:0
+[16-Jan-2023 15:21:14 Asia/Kolkata] PHP Warning:  Undefined array key "jul_rp_actuals" in C:\wamp64\www\emsdemo\View\revenue_master_report.php on line 685
+[16-Jan-2023 15:21:14 Asia/Kolkata] PHP Stack trace:
+[16-Jan-2023 15:21:14 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\emsdemo\View\revenue_master_report.php:0
+[16-Jan-2023 15:21:14 Asia/Kolkata] PHP Warning:  Undefined array key "model" in C:\wamp64\www\emsdemo\View\revenue_master_report.php on line 686
+[16-Jan-2023 15:21:14 Asia/Kolkata] PHP Stack trace:
+[16-Jan-2023 15:21:14 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\emsdemo\View\revenue_master_report.php:0
+[16-Jan-2023 15:21:14 Asia/Kolkata] PHP Warning:  Undefined array key "model" in C:\wamp64\www\emsdemo\View\revenue_master_report.php on line 688
+[16-Jan-2023 15:21:14 Asia/Kolkata] PHP Stack trace:
+[16-Jan-2023 15:21:14 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\emsdemo\View\revenue_master_report.php:0
+[16-Jan-2023 15:21:14 Asia/Kolkata] PHP Warning:  Undefined array key "jul_fte_actuals" in C:\wamp64\www\emsdemo\View\revenue_master_report.php on line 691
+[16-Jan-2023 15:21:14 Asia/Kolkata] PHP Stack trace:
+[16-Jan-2023 15:21:14 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\emsdemo\View\revenue_master_report.php:0
+[16-Jan-2023 15:21:14 Asia/Kolkata] PHP Warning:  Undefined array key "jul_fte_forcast" in C:\wamp64\www\emsdemo\View\revenue_master_report.php on line 691
+[16-Jan-2023 15:21:14 Asia/Kolkata] PHP Stack trace:
+[16-Jan-2023 15:21:14 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\emsdemo\View\revenue_master_report.php:0
+[16-Jan-2023 15:21:14 Asia/Kolkata] PHP Warning:  Undefined array key "jul_rp_actuals" in C:\wamp64\www\emsdemo\View\revenue_master_report.php on line 691
+[16-Jan-2023 15:21:14 Asia/Kolkata] PHP Stack trace:
+[16-Jan-2023 15:21:14 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\emsdemo\View\revenue_master_report.php:0
+[16-Jan-2023 15:21:14 Asia/Kolkata] PHP Warning:  Undefined array key "aug_current_rate" in C:\wamp64\www\emsdemo\View\revenue_master_report.php on line 699
+[16-Jan-2023 15:21:14 Asia/Kolkata] PHP Stack trace:
+[16-Jan-2023 15:21:14 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\emsdemo\View\revenue_master_report.php:0
+[16-Jan-2023 15:21:14 Asia/Kolkata] PHP Warning:  Undefined array key "aug_fte_forcast" in C:\wamp64\www\emsdemo\View\revenue_master_report.php on line 700
+[16-Jan-2023 15:21:14 Asia/Kolkata] PHP Stack trace:
+[16-Jan-2023 15:21:14 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\emsdemo\View\revenue_master_report.php:0
+[16-Jan-2023 15:21:14 Asia/Kolkata] PHP Warning:  Undefined array key "model" in C:\wamp64\www\emsdemo\View\revenue_master_report.php on line 701
+[16-Jan-2023 15:21:14 Asia/Kolkata] PHP Stack trace:
+[16-Jan-2023 15:21:14 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\emsdemo\View\revenue_master_report.php:0
+[16-Jan-2023 15:21:14 Asia/Kolkata] PHP Warning:  Undefined array key "model" in C:\wamp64\www\emsdemo\View\revenue_master_report.php on line 703
+[16-Jan-2023 15:21:14 Asia/Kolkata] PHP Stack trace:
+[16-Jan-2023 15:21:14 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\emsdemo\View\revenue_master_report.php:0
+[16-Jan-2023 15:21:14 Asia/Kolkata] PHP Warning:  Undefined array key "aug_fte_forcast" in C:\wamp64\www\emsdemo\View\revenue_master_report.php on line 706
+[16-Jan-2023 15:21:14 Asia/Kolkata] PHP Stack trace:
+[16-Jan-2023 15:21:14 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\emsdemo\View\revenue_master_report.php:0
+[16-Jan-2023 15:21:14 Asia/Kolkata] PHP Warning:  Undefined array key "aug_current_rate" in C:\wamp64\www\emsdemo\View\revenue_master_report.php on line 706
+[16-Jan-2023 15:21:14 Asia/Kolkata] PHP Stack trace:
+[16-Jan-2023 15:21:14 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\emsdemo\View\revenue_master_report.php:0
+[16-Jan-2023 15:21:14 Asia/Kolkata] PHP Warning:  Undefined array key "aug_fte_plan" in C:\wamp64\www\emsdemo\View\revenue_master_report.php on line 710
+[16-Jan-2023 15:21:14 Asia/Kolkata] PHP Stack trace:
+[16-Jan-2023 15:21:14 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\emsdemo\View\revenue_master_report.php:0
+[16-Jan-2023 15:21:14 Asia/Kolkata] PHP Warning:  Undefined array key "aug_rp_plan" in C:\wamp64\www\emsdemo\View\revenue_master_report.php on line 711
+[16-Jan-2023 15:21:14 Asia/Kolkata] PHP Stack trace:
+[16-Jan-2023 15:21:14 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\emsdemo\View\revenue_master_report.php:0
+[16-Jan-2023 15:21:14 Asia/Kolkata] PHP Warning:  Undefined array key "model" in C:\wamp64\www\emsdemo\View\revenue_master_report.php on line 712
+[16-Jan-2023 15:21:14 Asia/Kolkata] PHP Stack trace:
+[16-Jan-2023 15:21:14 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\emsdemo\View\revenue_master_report.php:0
+[16-Jan-2023 15:21:14 Asia/Kolkata] PHP Warning:  Undefined array key "model" in C:\wamp64\www\emsdemo\View\revenue_master_report.php on line 714
+[16-Jan-2023 15:21:14 Asia/Kolkata] PHP Stack trace:
+[16-Jan-2023 15:21:14 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\emsdemo\View\revenue_master_report.php:0
+[16-Jan-2023 15:21:14 Asia/Kolkata] PHP Warning:  Undefined array key "aug_fte_plan" in C:\wamp64\www\emsdemo\View\revenue_master_report.php on line 717
+[16-Jan-2023 15:21:14 Asia/Kolkata] PHP Stack trace:
+[16-Jan-2023 15:21:14 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\emsdemo\View\revenue_master_report.php:0
+[16-Jan-2023 15:21:14 Asia/Kolkata] PHP Warning:  Undefined array key "aug_current_rate" in C:\wamp64\www\emsdemo\View\revenue_master_report.php on line 717
+[16-Jan-2023 15:21:14 Asia/Kolkata] PHP Stack trace:
+[16-Jan-2023 15:21:14 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\emsdemo\View\revenue_master_report.php:0
+[16-Jan-2023 15:21:14 Asia/Kolkata] PHP Warning:  Undefined array key "aug_fte_commit" in C:\wamp64\www\emsdemo\View\revenue_master_report.php on line 720
+[16-Jan-2023 15:21:14 Asia/Kolkata] PHP Stack trace:
+[16-Jan-2023 15:21:14 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\emsdemo\View\revenue_master_report.php:0
+[16-Jan-2023 15:21:14 Asia/Kolkata] PHP Warning:  Undefined array key "aug_rp_commit" in C:\wamp64\www\emsdemo\View\revenue_master_report.php on line 721
+[16-Jan-2023 15:21:14 Asia/Kolkata] PHP Stack trace:
+[16-Jan-2023 15:21:14 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\emsdemo\View\revenue_master_report.php:0
+[16-Jan-2023 15:21:14 Asia/Kolkata] PHP Warning:  Undefined array key "model" in C:\wamp64\www\emsdemo\View\revenue_master_report.php on line 722
+[16-Jan-2023 15:21:14 Asia/Kolkata] PHP Stack trace:
+[16-Jan-2023 15:21:14 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\emsdemo\View\revenue_master_report.php:0
+[16-Jan-2023 15:21:14 Asia/Kolkata] PHP Warning:  Undefined array key "model" in C:\wamp64\www\emsdemo\View\revenue_master_report.php on line 724
+[16-Jan-2023 15:21:14 Asia/Kolkata] PHP Stack trace:
+[16-Jan-2023 15:21:14 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\emsdemo\View\revenue_master_report.php:0
+[16-Jan-2023 15:21:14 Asia/Kolkata] PHP Warning:  Undefined array key "aug_fte_commit" in C:\wamp64\www\emsdemo\View\revenue_master_report.php on line 727
+[16-Jan-2023 15:21:14 Asia/Kolkata] PHP Stack trace:
+[16-Jan-2023 15:21:14 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\emsdemo\View\revenue_master_report.php:0
+[16-Jan-2023 15:21:14 Asia/Kolkata] PHP Warning:  Undefined array key "aug_fte_forcast" in C:\wamp64\www\emsdemo\View\revenue_master_report.php on line 727
+[16-Jan-2023 15:21:14 Asia/Kolkata] PHP Stack trace:
+[16-Jan-2023 15:21:14 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\emsdemo\View\revenue_master_report.php:0
+[16-Jan-2023 15:21:14 Asia/Kolkata] PHP Warning:  Undefined array key "aug_rp_commit" in C:\wamp64\www\emsdemo\View\revenue_master_report.php on line 727
+[16-Jan-2023 15:21:14 Asia/Kolkata] PHP Stack trace:
+[16-Jan-2023 15:21:14 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\emsdemo\View\revenue_master_report.php:0
+[16-Jan-2023 15:21:14 Asia/Kolkata] PHP Warning:  Undefined array key "aug_fte_actuals" in C:\wamp64\www\emsdemo\View\revenue_master_report.php on line 730
+[16-Jan-2023 15:21:14 Asia/Kolkata] PHP Stack trace:
+[16-Jan-2023 15:21:14 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\emsdemo\View\revenue_master_report.php:0
+[16-Jan-2023 15:21:14 Asia/Kolkata] PHP Warning:  Undefined array key "aug_rp_actuals" in C:\wamp64\www\emsdemo\View\revenue_master_report.php on line 731
+[16-Jan-2023 15:21:14 Asia/Kolkata] PHP Stack trace:
+[16-Jan-2023 15:21:14 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\emsdemo\View\revenue_master_report.php:0
+[16-Jan-2023 15:21:14 Asia/Kolkata] PHP Warning:  Undefined array key "model" in C:\wamp64\www\emsdemo\View\revenue_master_report.php on line 732
+[16-Jan-2023 15:21:14 Asia/Kolkata] PHP Stack trace:
+[16-Jan-2023 15:21:14 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\emsdemo\View\revenue_master_report.php:0
+[16-Jan-2023 15:21:14 Asia/Kolkata] PHP Warning:  Undefined array key "model" in C:\wamp64\www\emsdemo\View\revenue_master_report.php on line 734
+[16-Jan-2023 15:21:14 Asia/Kolkata] PHP Stack trace:
+[16-Jan-2023 15:21:14 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\emsdemo\View\revenue_master_report.php:0
+[16-Jan-2023 15:21:14 Asia/Kolkata] PHP Warning:  Undefined array key "aug_fte_actuals" in C:\wamp64\www\emsdemo\View\revenue_master_report.php on line 737
+[16-Jan-2023 15:21:14 Asia/Kolkata] PHP Stack trace:
+[16-Jan-2023 15:21:14 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\emsdemo\View\revenue_master_report.php:0
+[16-Jan-2023 15:21:14 Asia/Kolkata] PHP Warning:  Undefined array key "aug_fte_forcast" in C:\wamp64\www\emsdemo\View\revenue_master_report.php on line 737
+[16-Jan-2023 15:21:14 Asia/Kolkata] PHP Stack trace:
+[16-Jan-2023 15:21:14 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\emsdemo\View\revenue_master_report.php:0
+[16-Jan-2023 15:21:14 Asia/Kolkata] PHP Warning:  Undefined array key "aug_rp_actuals" in C:\wamp64\www\emsdemo\View\revenue_master_report.php on line 737
+[16-Jan-2023 15:21:14 Asia/Kolkata] PHP Stack trace:
+[16-Jan-2023 15:21:14 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\emsdemo\View\revenue_master_report.php:0
+[16-Jan-2023 15:21:14 Asia/Kolkata] PHP Warning:  Undefined array key "sep_current_rate" in C:\wamp64\www\emsdemo\View\revenue_master_report.php on line 745
+[16-Jan-2023 15:21:14 Asia/Kolkata] PHP Stack trace:
+[16-Jan-2023 15:21:14 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\emsdemo\View\revenue_master_report.php:0
+[16-Jan-2023 15:21:14 Asia/Kolkata] PHP Warning:  Undefined array key "sep_fte_forcast" in C:\wamp64\www\emsdemo\View\revenue_master_report.php on line 746
+[16-Jan-2023 15:21:14 Asia/Kolkata] PHP Stack trace:
+[16-Jan-2023 15:21:14 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\emsdemo\View\revenue_master_report.php:0
+[16-Jan-2023 15:21:14 Asia/Kolkata] PHP Warning:  Undefined array key "model" in C:\wamp64\www\emsdemo\View\revenue_master_report.php on line 747
+[16-Jan-2023 15:21:14 Asia/Kolkata] PHP Stack trace:
+[16-Jan-2023 15:21:14 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\emsdemo\View\revenue_master_report.php:0
+[16-Jan-2023 15:21:14 Asia/Kolkata] PHP Warning:  Undefined array key "model" in C:\wamp64\www\emsdemo\View\revenue_master_report.php on line 749
+[16-Jan-2023 15:21:14 Asia/Kolkata] PHP Stack trace:
+[16-Jan-2023 15:21:14 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\emsdemo\View\revenue_master_report.php:0
+[16-Jan-2023 15:21:14 Asia/Kolkata] PHP Warning:  Undefined array key "sep_fte_forcast" in C:\wamp64\www\emsdemo\View\revenue_master_report.php on line 752
+[16-Jan-2023 15:21:14 Asia/Kolkata] PHP Stack trace:
+[16-Jan-2023 15:21:14 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\emsdemo\View\revenue_master_report.php:0
+[16-Jan-2023 15:21:14 Asia/Kolkata] PHP Warning:  Undefined array key "sep_current_rate" in C:\wamp64\www\emsdemo\View\revenue_master_report.php on line 752
+[16-Jan-2023 15:21:14 Asia/Kolkata] PHP Stack trace:
+[16-Jan-2023 15:21:14 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\emsdemo\View\revenue_master_report.php:0
+[16-Jan-2023 15:21:14 Asia/Kolkata] PHP Warning:  Undefined array key "sep_fte_plan" in C:\wamp64\www\emsdemo\View\revenue_master_report.php on line 756
+[16-Jan-2023 15:21:14 Asia/Kolkata] PHP Stack trace:
+[16-Jan-2023 15:21:14 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\emsdemo\View\revenue_master_report.php:0
+[16-Jan-2023 15:21:14 Asia/Kolkata] PHP Warning:  Undefined array key "sep_rp_plan" in C:\wamp64\www\emsdemo\View\revenue_master_report.php on line 757
+[16-Jan-2023 15:21:14 Asia/Kolkata] PHP Stack trace:
+[16-Jan-2023 15:21:14 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\emsdemo\View\revenue_master_report.php:0
+[16-Jan-2023 15:21:14 Asia/Kolkata] PHP Warning:  Undefined array key "model" in C:\wamp64\www\emsdemo\View\revenue_master_report.php on line 758
+[16-Jan-2023 15:21:14 Asia/Kolkata] PHP Stack trace:
+[16-Jan-2023 15:21:14 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\emsdemo\View\revenue_master_report.php:0
+[16-Jan-2023 15:21:14 Asia/Kolkata] PHP Warning:  Undefined array key "model" in C:\wamp64\www\emsdemo\View\revenue_master_report.php on line 760
+[16-Jan-2023 15:21:14 Asia/Kolkata] PHP Stack trace:
+[16-Jan-2023 15:21:14 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\emsdemo\View\revenue_master_report.php:0
+[16-Jan-2023 15:21:14 Asia/Kolkata] PHP Warning:  Undefined array key "sep_fte_plan" in C:\wamp64\www\emsdemo\View\revenue_master_report.php on line 763
+[16-Jan-2023 15:21:14 Asia/Kolkata] PHP Stack trace:
+[16-Jan-2023 15:21:14 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\emsdemo\View\revenue_master_report.php:0
+[16-Jan-2023 15:21:14 Asia/Kolkata] PHP Warning:  Undefined array key "sep_current_rate" in C:\wamp64\www\emsdemo\View\revenue_master_report.php on line 763
+[16-Jan-2023 15:21:14 Asia/Kolkata] PHP Stack trace:
+[16-Jan-2023 15:21:14 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\emsdemo\View\revenue_master_report.php:0
+[16-Jan-2023 15:21:14 Asia/Kolkata] PHP Warning:  Undefined array key "sep_fte_commit" in C:\wamp64\www\emsdemo\View\revenue_master_report.php on line 766
+[16-Jan-2023 15:21:14 Asia/Kolkata] PHP Stack trace:
+[16-Jan-2023 15:21:14 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\emsdemo\View\revenue_master_report.php:0
+[16-Jan-2023 15:21:14 Asia/Kolkata] PHP Warning:  Undefined array key "sep_rp_commit" in C:\wamp64\www\emsdemo\View\revenue_master_report.php on line 767
+[16-Jan-2023 15:21:14 Asia/Kolkata] PHP Stack trace:
+[16-Jan-2023 15:21:14 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\emsdemo\View\revenue_master_report.php:0
+[16-Jan-2023 15:21:14 Asia/Kolkata] PHP Warning:  Undefined array key "model" in C:\wamp64\www\emsdemo\View\revenue_master_report.php on line 768
+[16-Jan-2023 15:21:14 Asia/Kolkata] PHP Stack trace:
+[16-Jan-2023 15:21:14 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\emsdemo\View\revenue_master_report.php:0
+[16-Jan-2023 15:21:14 Asia/Kolkata] PHP Warning:  Undefined array key "model" in C:\wamp64\www\emsdemo\View\revenue_master_report.php on line 770
+[16-Jan-2023 15:21:14 Asia/Kolkata] PHP Stack trace:
+[16-Jan-2023 15:21:14 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\emsdemo\View\revenue_master_report.php:0
+[16-Jan-2023 15:21:14 Asia/Kolkata] PHP Warning:  Undefined array key "sep_fte_commit" in C:\wamp64\www\emsdemo\View\revenue_master_report.php on line 773
+[16-Jan-2023 15:21:14 Asia/Kolkata] PHP Stack trace:
+[16-Jan-2023 15:21:14 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\emsdemo\View\revenue_master_report.php:0
+[16-Jan-2023 15:21:14 Asia/Kolkata] PHP Warning:  Undefined array key "sep_fte_forcast" in C:\wamp64\www\emsdemo\View\revenue_master_report.php on line 773
+[16-Jan-2023 15:21:14 Asia/Kolkata] PHP Stack trace:
+[16-Jan-2023 15:21:14 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\emsdemo\View\revenue_master_report.php:0
+[16-Jan-2023 15:21:14 Asia/Kolkata] PHP Warning:  Undefined array key "sep_rp_commit" in C:\wamp64\www\emsdemo\View\revenue_master_report.php on line 773
+[16-Jan-2023 15:21:14 Asia/Kolkata] PHP Stack trace:
+[16-Jan-2023 15:21:14 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\emsdemo\View\revenue_master_report.php:0
+[16-Jan-2023 15:21:14 Asia/Kolkata] PHP Warning:  Undefined array key "sep_fte_actuals" in C:\wamp64\www\emsdemo\View\revenue_master_report.php on line 776
+[16-Jan-2023 15:21:14 Asia/Kolkata] PHP Stack trace:
+[16-Jan-2023 15:21:14 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\emsdemo\View\revenue_master_report.php:0
+[16-Jan-2023 15:21:14 Asia/Kolkata] PHP Warning:  Undefined array key "sep_rp_actuals" in C:\wamp64\www\emsdemo\View\revenue_master_report.php on line 777
+[16-Jan-2023 15:21:14 Asia/Kolkata] PHP Stack trace:
+[16-Jan-2023 15:21:14 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\emsdemo\View\revenue_master_report.php:0
+[16-Jan-2023 15:21:14 Asia/Kolkata] PHP Warning:  Undefined array key "model" in C:\wamp64\www\emsdemo\View\revenue_master_report.php on line 778
+[16-Jan-2023 15:21:14 Asia/Kolkata] PHP Stack trace:
+[16-Jan-2023 15:21:14 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\emsdemo\View\revenue_master_report.php:0
+[16-Jan-2023 15:21:14 Asia/Kolkata] PHP Warning:  Undefined array key "model" in C:\wamp64\www\emsdemo\View\revenue_master_report.php on line 780
+[16-Jan-2023 15:21:14 Asia/Kolkata] PHP Stack trace:
+[16-Jan-2023 15:21:14 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\emsdemo\View\revenue_master_report.php:0
+[16-Jan-2023 15:21:14 Asia/Kolkata] PHP Warning:  Undefined array key "sep_fte_actuals" in C:\wamp64\www\emsdemo\View\revenue_master_report.php on line 783
+[16-Jan-2023 15:21:14 Asia/Kolkata] PHP Stack trace:
+[16-Jan-2023 15:21:14 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\emsdemo\View\revenue_master_report.php:0
+[16-Jan-2023 15:21:14 Asia/Kolkata] PHP Warning:  Undefined array key "sep_fte_forcast" in C:\wamp64\www\emsdemo\View\revenue_master_report.php on line 783
+[16-Jan-2023 15:21:14 Asia/Kolkata] PHP Stack trace:
+[16-Jan-2023 15:21:14 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\emsdemo\View\revenue_master_report.php:0
+[16-Jan-2023 15:21:14 Asia/Kolkata] PHP Warning:  Undefined array key "sep_rp_actuals" in C:\wamp64\www\emsdemo\View\revenue_master_report.php on line 783
+[16-Jan-2023 15:21:14 Asia/Kolkata] PHP Stack trace:
+[16-Jan-2023 15:21:14 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\emsdemo\View\revenue_master_report.php:0
+[16-Jan-2023 15:21:14 Asia/Kolkata] PHP Warning:  Undefined array key "oct_current_rate" in C:\wamp64\www\emsdemo\View\revenue_master_report.php on line 791
+[16-Jan-2023 15:21:14 Asia/Kolkata] PHP Stack trace:
+[16-Jan-2023 15:21:14 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\emsdemo\View\revenue_master_report.php:0
+[16-Jan-2023 15:21:14 Asia/Kolkata] PHP Warning:  Undefined array key "oct_fte_forcast" in C:\wamp64\www\emsdemo\View\revenue_master_report.php on line 792
+[16-Jan-2023 15:21:14 Asia/Kolkata] PHP Stack trace:
+[16-Jan-2023 15:21:14 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\emsdemo\View\revenue_master_report.php:0
+[16-Jan-2023 15:21:14 Asia/Kolkata] PHP Warning:  Undefined array key "model" in C:\wamp64\www\emsdemo\View\revenue_master_report.php on line 793
+[16-Jan-2023 15:21:14 Asia/Kolkata] PHP Stack trace:
+[16-Jan-2023 15:21:14 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\emsdemo\View\revenue_master_report.php:0
+[16-Jan-2023 15:21:14 Asia/Kolkata] PHP Warning:  Undefined array key "model" in C:\wamp64\www\emsdemo\View\revenue_master_report.php on line 795
+[16-Jan-2023 15:21:14 Asia/Kolkata] PHP Stack trace:
+[16-Jan-2023 15:21:14 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\emsdemo\View\revenue_master_report.php:0
+[16-Jan-2023 15:21:14 Asia/Kolkata] PHP Warning:  Undefined array key "oct_fte_forcast" in C:\wamp64\www\emsdemo\View\revenue_master_report.php on line 798
+[16-Jan-2023 15:21:14 Asia/Kolkata] PHP Stack trace:
+[16-Jan-2023 15:21:14 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\emsdemo\View\revenue_master_report.php:0
+[16-Jan-2023 15:21:14 Asia/Kolkata] PHP Warning:  Undefined array key "oct_current_rate" in C:\wamp64\www\emsdemo\View\revenue_master_report.php on line 798
+[16-Jan-2023 15:21:14 Asia/Kolkata] PHP Stack trace:
+[16-Jan-2023 15:21:14 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\emsdemo\View\revenue_master_report.php:0
+[16-Jan-2023 15:21:14 Asia/Kolkata] PHP Warning:  Undefined array key "oct_fte_plan" in C:\wamp64\www\emsdemo\View\revenue_master_report.php on line 802
+[16-Jan-2023 15:21:14 Asia/Kolkata] PHP Stack trace:
+[16-Jan-2023 15:21:14 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\emsdemo\View\revenue_master_report.php:0
+[16-Jan-2023 15:21:14 Asia/Kolkata] PHP Warning:  Undefined array key "oct_rp_plan" in C:\wamp64\www\emsdemo\View\revenue_master_report.php on line 803
+[16-Jan-2023 15:21:14 Asia/Kolkata] PHP Stack trace:
+[16-Jan-2023 15:21:14 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\emsdemo\View\revenue_master_report.php:0
+[16-Jan-2023 15:21:14 Asia/Kolkata] PHP Warning:  Undefined array key "model" in C:\wamp64\www\emsdemo\View\revenue_master_report.php on line 804
+[16-Jan-2023 15:21:14 Asia/Kolkata] PHP Stack trace:
+[16-Jan-2023 15:21:14 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\emsdemo\View\revenue_master_report.php:0
+[16-Jan-2023 15:21:14 Asia/Kolkata] PHP Warning:  Undefined array key "model" in C:\wamp64\www\emsdemo\View\revenue_master_report.php on line 806
+[16-Jan-2023 15:21:14 Asia/Kolkata] PHP Stack trace:
+[16-Jan-2023 15:21:14 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\emsdemo\View\revenue_master_report.php:0
+[16-Jan-2023 15:21:14 Asia/Kolkata] PHP Warning:  Undefined array key "oct_fte_plan" in C:\wamp64\www\emsdemo\View\revenue_master_report.php on line 809
+[16-Jan-2023 15:21:14 Asia/Kolkata] PHP Stack trace:
+[16-Jan-2023 15:21:14 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\emsdemo\View\revenue_master_report.php:0
+[16-Jan-2023 15:21:14 Asia/Kolkata] PHP Warning:  Undefined array key "oct_current_rate" in C:\wamp64\www\emsdemo\View\revenue_master_report.php on line 809
+[16-Jan-2023 15:21:14 Asia/Kolkata] PHP Stack trace:
+[16-Jan-2023 15:21:14 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\emsdemo\View\revenue_master_report.php:0
+[16-Jan-2023 15:21:14 Asia/Kolkata] PHP Warning:  Undefined array key "oct_fte_commit" in C:\wamp64\www\emsdemo\View\revenue_master_report.php on line 812
+[16-Jan-2023 15:21:14 Asia/Kolkata] PHP Stack trace:
+[16-Jan-2023 15:21:14 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\emsdemo\View\revenue_master_report.php:0
+[16-Jan-2023 15:21:14 Asia/Kolkata] PHP Warning:  Undefined array key "oct_rp_commit" in C:\wamp64\www\emsdemo\View\revenue_master_report.php on line 813
+[16-Jan-2023 15:21:14 Asia/Kolkata] PHP Stack trace:
+[16-Jan-2023 15:21:14 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\emsdemo\View\revenue_master_report.php:0
+[16-Jan-2023 15:21:14 Asia/Kolkata] PHP Warning:  Undefined array key "model" in C:\wamp64\www\emsdemo\View\revenue_master_report.php on line 814
+[16-Jan-2023 15:21:14 Asia/Kolkata] PHP Stack trace:
+[16-Jan-2023 15:21:14 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\emsdemo\View\revenue_master_report.php:0
+[16-Jan-2023 15:21:14 Asia/Kolkata] PHP Warning:  Undefined array key "model" in C:\wamp64\www\emsdemo\View\revenue_master_report.php on line 816
+[16-Jan-2023 15:21:14 Asia/Kolkata] PHP Stack trace:
+[16-Jan-2023 15:21:14 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\emsdemo\View\revenue_master_report.php:0
+[16-Jan-2023 15:21:14 Asia/Kolkata] PHP Warning:  Undefined array key "oct_fte_commit" in C:\wamp64\www\emsdemo\View\revenue_master_report.php on line 819
+[16-Jan-2023 15:21:14 Asia/Kolkata] PHP Stack trace:
+[16-Jan-2023 15:21:14 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\emsdemo\View\revenue_master_report.php:0
+[16-Jan-2023 15:21:14 Asia/Kolkata] PHP Warning:  Undefined array key "oct_fte_forcast" in C:\wamp64\www\emsdemo\View\revenue_master_report.php on line 819
+[16-Jan-2023 15:21:14 Asia/Kolkata] PHP Stack trace:
+[16-Jan-2023 15:21:14 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\emsdemo\View\revenue_master_report.php:0
+[16-Jan-2023 15:21:14 Asia/Kolkata] PHP Warning:  Undefined array key "oct_rp_commit" in C:\wamp64\www\emsdemo\View\revenue_master_report.php on line 819
+[16-Jan-2023 15:21:14 Asia/Kolkata] PHP Stack trace:
+[16-Jan-2023 15:21:14 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\emsdemo\View\revenue_master_report.php:0
+[16-Jan-2023 15:21:14 Asia/Kolkata] PHP Warning:  Undefined array key "oct_fte_actuals" in C:\wamp64\www\emsdemo\View\revenue_master_report.php on line 822
+[16-Jan-2023 15:21:14 Asia/Kolkata] PHP Stack trace:
+[16-Jan-2023 15:21:14 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\emsdemo\View\revenue_master_report.php:0
+[16-Jan-2023 15:21:14 Asia/Kolkata] PHP Warning:  Undefined array key "oct_rp_actuals" in C:\wamp64\www\emsdemo\View\revenue_master_report.php on line 823
+[16-Jan-2023 15:21:14 Asia/Kolkata] PHP Stack trace:
+[16-Jan-2023 15:21:14 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\emsdemo\View\revenue_master_report.php:0
+[16-Jan-2023 15:21:14 Asia/Kolkata] PHP Warning:  Undefined array key "model" in C:\wamp64\www\emsdemo\View\revenue_master_report.php on line 824
+[16-Jan-2023 15:21:14 Asia/Kolkata] PHP Stack trace:
+[16-Jan-2023 15:21:14 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\emsdemo\View\revenue_master_report.php:0
+[16-Jan-2023 15:21:14 Asia/Kolkata] PHP Warning:  Undefined array key "model" in C:\wamp64\www\emsdemo\View\revenue_master_report.php on line 826
+[16-Jan-2023 15:21:14 Asia/Kolkata] PHP Stack trace:
+[16-Jan-2023 15:21:14 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\emsdemo\View\revenue_master_report.php:0
+[16-Jan-2023 15:21:14 Asia/Kolkata] PHP Warning:  Undefined array key "oct_fte_actuals" in C:\wamp64\www\emsdemo\View\revenue_master_report.php on line 829
+[16-Jan-2023 15:21:14 Asia/Kolkata] PHP Stack trace:
+[16-Jan-2023 15:21:14 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\emsdemo\View\revenue_master_report.php:0
+[16-Jan-2023 15:21:14 Asia/Kolkata] PHP Warning:  Undefined array key "oct_fte_forcast" in C:\wamp64\www\emsdemo\View\revenue_master_report.php on line 829
+[16-Jan-2023 15:21:14 Asia/Kolkata] PHP Stack trace:
+[16-Jan-2023 15:21:14 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\emsdemo\View\revenue_master_report.php:0
+[16-Jan-2023 15:21:14 Asia/Kolkata] PHP Warning:  Undefined array key "oct_rp_actuals" in C:\wamp64\www\emsdemo\View\revenue_master_report.php on line 829
+[16-Jan-2023 15:21:14 Asia/Kolkata] PHP Stack trace:
+[16-Jan-2023 15:21:14 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\emsdemo\View\revenue_master_report.php:0
+[16-Jan-2023 15:21:14 Asia/Kolkata] PHP Warning:  Undefined array key "nov_current_rate" in C:\wamp64\www\emsdemo\View\revenue_master_report.php on line 837
+[16-Jan-2023 15:21:14 Asia/Kolkata] PHP Stack trace:
+[16-Jan-2023 15:21:14 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\emsdemo\View\revenue_master_report.php:0
+[16-Jan-2023 15:21:14 Asia/Kolkata] PHP Warning:  Undefined array key "nov_fte_forcast" in C:\wamp64\www\emsdemo\View\revenue_master_report.php on line 838
+[16-Jan-2023 15:21:14 Asia/Kolkata] PHP Stack trace:
+[16-Jan-2023 15:21:14 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\emsdemo\View\revenue_master_report.php:0
+[16-Jan-2023 15:21:14 Asia/Kolkata] PHP Warning:  Undefined array key "model" in C:\wamp64\www\emsdemo\View\revenue_master_report.php on line 839
+[16-Jan-2023 15:21:15 Asia/Kolkata] PHP Stack trace:
+[16-Jan-2023 15:21:15 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\emsdemo\View\revenue_master_report.php:0
+[16-Jan-2023 15:21:15 Asia/Kolkata] PHP Warning:  Undefined array key "model" in C:\wamp64\www\emsdemo\View\revenue_master_report.php on line 841
+[16-Jan-2023 15:21:15 Asia/Kolkata] PHP Stack trace:
+[16-Jan-2023 15:21:15 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\emsdemo\View\revenue_master_report.php:0
+[16-Jan-2023 15:21:15 Asia/Kolkata] PHP Warning:  Undefined array key "nov_fte_forcast" in C:\wamp64\www\emsdemo\View\revenue_master_report.php on line 844
+[16-Jan-2023 15:21:15 Asia/Kolkata] PHP Stack trace:
+[16-Jan-2023 15:21:15 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\emsdemo\View\revenue_master_report.php:0
+[16-Jan-2023 15:21:15 Asia/Kolkata] PHP Warning:  Undefined array key "nov_current_rate" in C:\wamp64\www\emsdemo\View\revenue_master_report.php on line 844
+[16-Jan-2023 15:21:15 Asia/Kolkata] PHP Stack trace:
+[16-Jan-2023 15:21:15 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\emsdemo\View\revenue_master_report.php:0
+[16-Jan-2023 15:21:15 Asia/Kolkata] PHP Warning:  Undefined array key "nov_fte_plan" in C:\wamp64\www\emsdemo\View\revenue_master_report.php on line 848
+[16-Jan-2023 15:21:15 Asia/Kolkata] PHP Stack trace:
+[16-Jan-2023 15:21:15 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\emsdemo\View\revenue_master_report.php:0
+[16-Jan-2023 15:21:15 Asia/Kolkata] PHP Warning:  Undefined array key "nov_rp_plan" in C:\wamp64\www\emsdemo\View\revenue_master_report.php on line 849
+[16-Jan-2023 15:21:15 Asia/Kolkata] PHP Stack trace:
+[16-Jan-2023 15:21:15 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\emsdemo\View\revenue_master_report.php:0
+[16-Jan-2023 15:21:15 Asia/Kolkata] PHP Warning:  Undefined array key "model" in C:\wamp64\www\emsdemo\View\revenue_master_report.php on line 850
+[16-Jan-2023 15:21:15 Asia/Kolkata] PHP Stack trace:
+[16-Jan-2023 15:21:15 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\emsdemo\View\revenue_master_report.php:0
+[16-Jan-2023 15:21:15 Asia/Kolkata] PHP Warning:  Undefined array key "model" in C:\wamp64\www\emsdemo\View\revenue_master_report.php on line 852
+[16-Jan-2023 15:21:15 Asia/Kolkata] PHP Stack trace:
+[16-Jan-2023 15:21:15 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\emsdemo\View\revenue_master_report.php:0
+[16-Jan-2023 15:21:15 Asia/Kolkata] PHP Warning:  Undefined array key "nov_fte_plan" in C:\wamp64\www\emsdemo\View\revenue_master_report.php on line 855
+[16-Jan-2023 15:21:15 Asia/Kolkata] PHP Stack trace:
+[16-Jan-2023 15:21:15 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\emsdemo\View\revenue_master_report.php:0
+[16-Jan-2023 15:21:15 Asia/Kolkata] PHP Warning:  Undefined array key "nov_current_rate" in C:\wamp64\www\emsdemo\View\revenue_master_report.php on line 855
+[16-Jan-2023 15:21:15 Asia/Kolkata] PHP Stack trace:
+[16-Jan-2023 15:21:15 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\emsdemo\View\revenue_master_report.php:0
+[16-Jan-2023 15:21:15 Asia/Kolkata] PHP Warning:  Undefined array key "nov_fte_commit" in C:\wamp64\www\emsdemo\View\revenue_master_report.php on line 858
+[16-Jan-2023 15:21:15 Asia/Kolkata] PHP Stack trace:
+[16-Jan-2023 15:21:15 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\emsdemo\View\revenue_master_report.php:0
+[16-Jan-2023 15:21:15 Asia/Kolkata] PHP Warning:  Undefined array key "nov_rp_commit" in C:\wamp64\www\emsdemo\View\revenue_master_report.php on line 859
+[16-Jan-2023 15:21:15 Asia/Kolkata] PHP Stack trace:
+[16-Jan-2023 15:21:15 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\emsdemo\View\revenue_master_report.php:0
+[16-Jan-2023 15:21:15 Asia/Kolkata] PHP Warning:  Undefined array key "model" in C:\wamp64\www\emsdemo\View\revenue_master_report.php on line 860
+[16-Jan-2023 15:21:15 Asia/Kolkata] PHP Stack trace:
+[16-Jan-2023 15:21:15 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\emsdemo\View\revenue_master_report.php:0
+[16-Jan-2023 15:21:15 Asia/Kolkata] PHP Warning:  Undefined array key "model" in C:\wamp64\www\emsdemo\View\revenue_master_report.php on line 862
+[16-Jan-2023 15:21:15 Asia/Kolkata] PHP Stack trace:
+[16-Jan-2023 15:21:15 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\emsdemo\View\revenue_master_report.php:0
+[16-Jan-2023 15:21:15 Asia/Kolkata] PHP Warning:  Undefined array key "nov_fte_commit" in C:\wamp64\www\emsdemo\View\revenue_master_report.php on line 865
+[16-Jan-2023 15:21:15 Asia/Kolkata] PHP Stack trace:
+[16-Jan-2023 15:21:15 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\emsdemo\View\revenue_master_report.php:0
+[16-Jan-2023 15:21:15 Asia/Kolkata] PHP Warning:  Undefined array key "nov_fte_forcast" in C:\wamp64\www\emsdemo\View\revenue_master_report.php on line 865
+[16-Jan-2023 15:21:15 Asia/Kolkata] PHP Stack trace:
+[16-Jan-2023 15:21:15 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\emsdemo\View\revenue_master_report.php:0
+[16-Jan-2023 15:21:15 Asia/Kolkata] PHP Warning:  Undefined array key "nov_rp_commit" in C:\wamp64\www\emsdemo\View\revenue_master_report.php on line 865
+[16-Jan-2023 15:21:15 Asia/Kolkata] PHP Stack trace:
+[16-Jan-2023 15:21:15 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\emsdemo\View\revenue_master_report.php:0
+[16-Jan-2023 15:21:15 Asia/Kolkata] PHP Warning:  Undefined array key "nov_fte_actuals" in C:\wamp64\www\emsdemo\View\revenue_master_report.php on line 868
+[16-Jan-2023 15:21:15 Asia/Kolkata] PHP Stack trace:
+[16-Jan-2023 15:21:15 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\emsdemo\View\revenue_master_report.php:0
+[16-Jan-2023 15:21:15 Asia/Kolkata] PHP Warning:  Undefined array key "nov_rp_actuals" in C:\wamp64\www\emsdemo\View\revenue_master_report.php on line 869
+[16-Jan-2023 15:21:15 Asia/Kolkata] PHP Stack trace:
+[16-Jan-2023 15:21:15 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\emsdemo\View\revenue_master_report.php:0
+[16-Jan-2023 15:21:15 Asia/Kolkata] PHP Warning:  Undefined array key "model" in C:\wamp64\www\emsdemo\View\revenue_master_report.php on line 870
+[16-Jan-2023 15:21:15 Asia/Kolkata] PHP Stack trace:
+[16-Jan-2023 15:21:15 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\emsdemo\View\revenue_master_report.php:0
+[16-Jan-2023 15:21:15 Asia/Kolkata] PHP Warning:  Undefined array key "model" in C:\wamp64\www\emsdemo\View\revenue_master_report.php on line 872
+[16-Jan-2023 15:21:15 Asia/Kolkata] PHP Stack trace:
+[16-Jan-2023 15:21:15 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\emsdemo\View\revenue_master_report.php:0
+[16-Jan-2023 15:21:15 Asia/Kolkata] PHP Warning:  Undefined array key "nov_fte_actuals" in C:\wamp64\www\emsdemo\View\revenue_master_report.php on line 875
+[16-Jan-2023 15:21:15 Asia/Kolkata] PHP Stack trace:
+[16-Jan-2023 15:21:15 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\emsdemo\View\revenue_master_report.php:0
+[16-Jan-2023 15:21:15 Asia/Kolkata] PHP Warning:  Undefined array key "nov_fte_forcast" in C:\wamp64\www\emsdemo\View\revenue_master_report.php on line 875
+[16-Jan-2023 15:21:15 Asia/Kolkata] PHP Stack trace:
+[16-Jan-2023 15:21:15 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\emsdemo\View\revenue_master_report.php:0
+[16-Jan-2023 15:21:15 Asia/Kolkata] PHP Warning:  Undefined array key "nov_rp_actuals" in C:\wamp64\www\emsdemo\View\revenue_master_report.php on line 875
+[16-Jan-2023 15:21:15 Asia/Kolkata] PHP Stack trace:
+[16-Jan-2023 15:21:15 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\emsdemo\View\revenue_master_report.php:0
+[16-Jan-2023 15:21:15 Asia/Kolkata] PHP Warning:  Undefined array key "dece_current_rate" in C:\wamp64\www\emsdemo\View\revenue_master_report.php on line 883
+[16-Jan-2023 15:21:15 Asia/Kolkata] PHP Stack trace:
+[16-Jan-2023 15:21:15 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\emsdemo\View\revenue_master_report.php:0
+[16-Jan-2023 15:21:15 Asia/Kolkata] PHP Warning:  Undefined array key "dece_fte_forcast" in C:\wamp64\www\emsdemo\View\revenue_master_report.php on line 884
+[16-Jan-2023 15:21:15 Asia/Kolkata] PHP Stack trace:
+[16-Jan-2023 15:21:15 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\emsdemo\View\revenue_master_report.php:0
+[16-Jan-2023 15:21:15 Asia/Kolkata] PHP Warning:  Undefined array key "model" in C:\wamp64\www\emsdemo\View\revenue_master_report.php on line 885
+[16-Jan-2023 15:21:15 Asia/Kolkata] PHP Stack trace:
+[16-Jan-2023 15:21:15 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\emsdemo\View\revenue_master_report.php:0
+[16-Jan-2023 15:21:15 Asia/Kolkata] PHP Warning:  Undefined array key "model" in C:\wamp64\www\emsdemo\View\revenue_master_report.php on line 887
+[16-Jan-2023 15:21:15 Asia/Kolkata] PHP Stack trace:
+[16-Jan-2023 15:21:15 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\emsdemo\View\revenue_master_report.php:0
+[16-Jan-2023 15:21:15 Asia/Kolkata] PHP Warning:  Undefined array key "dece_fte_forcast" in C:\wamp64\www\emsdemo\View\revenue_master_report.php on line 890
+[16-Jan-2023 15:21:15 Asia/Kolkata] PHP Stack trace:
+[16-Jan-2023 15:21:15 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\emsdemo\View\revenue_master_report.php:0
+[16-Jan-2023 15:21:15 Asia/Kolkata] PHP Warning:  Undefined array key "dece_current_rate" in C:\wamp64\www\emsdemo\View\revenue_master_report.php on line 890
+[16-Jan-2023 15:21:15 Asia/Kolkata] PHP Stack trace:
+[16-Jan-2023 15:21:15 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\emsdemo\View\revenue_master_report.php:0
+[16-Jan-2023 15:21:15 Asia/Kolkata] PHP Warning:  Undefined array key "dece_fte_plan" in C:\wamp64\www\emsdemo\View\revenue_master_report.php on line 894
+[16-Jan-2023 15:21:15 Asia/Kolkata] PHP Stack trace:
+[16-Jan-2023 15:21:15 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\emsdemo\View\revenue_master_report.php:0
+[16-Jan-2023 15:21:15 Asia/Kolkata] PHP Warning:  Undefined array key "dece_rp_plan" in C:\wamp64\www\emsdemo\View\revenue_master_report.php on line 895
+[16-Jan-2023 15:21:15 Asia/Kolkata] PHP Stack trace:
+[16-Jan-2023 15:21:15 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\emsdemo\View\revenue_master_report.php:0
+[16-Jan-2023 15:21:15 Asia/Kolkata] PHP Warning:  Undefined array key "model" in C:\wamp64\www\emsdemo\View\revenue_master_report.php on line 896
+[16-Jan-2023 15:21:15 Asia/Kolkata] PHP Stack trace:
+[16-Jan-2023 15:21:15 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\emsdemo\View\revenue_master_report.php:0
+[16-Jan-2023 15:21:15 Asia/Kolkata] PHP Warning:  Undefined array key "model" in C:\wamp64\www\emsdemo\View\revenue_master_report.php on line 898
+[16-Jan-2023 15:21:15 Asia/Kolkata] PHP Stack trace:
+[16-Jan-2023 15:21:15 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\emsdemo\View\revenue_master_report.php:0
+[16-Jan-2023 15:21:15 Asia/Kolkata] PHP Warning:  Undefined array key "dece_fte_plan" in C:\wamp64\www\emsdemo\View\revenue_master_report.php on line 901
+[16-Jan-2023 15:21:15 Asia/Kolkata] PHP Stack trace:
+[16-Jan-2023 15:21:15 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\emsdemo\View\revenue_master_report.php:0
+[16-Jan-2023 15:21:15 Asia/Kolkata] PHP Warning:  Undefined array key "dece_current_rate" in C:\wamp64\www\emsdemo\View\revenue_master_report.php on line 901
+[16-Jan-2023 15:21:15 Asia/Kolkata] PHP Stack trace:
+[16-Jan-2023 15:21:15 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\emsdemo\View\revenue_master_report.php:0
+[16-Jan-2023 15:21:15 Asia/Kolkata] PHP Warning:  Undefined array key "dece_fte_commit" in C:\wamp64\www\emsdemo\View\revenue_master_report.php on line 904
+[16-Jan-2023 15:21:15 Asia/Kolkata] PHP Stack trace:
+[16-Jan-2023 15:21:15 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\emsdemo\View\revenue_master_report.php:0
+[16-Jan-2023 15:21:15 Asia/Kolkata] PHP Warning:  Undefined array key "dece_rp_commit" in C:\wamp64\www\emsdemo\View\revenue_master_report.php on line 905
+[16-Jan-2023 15:21:15 Asia/Kolkata] PHP Stack trace:
+[16-Jan-2023 15:21:15 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\emsdemo\View\revenue_master_report.php:0
+[16-Jan-2023 15:21:15 Asia/Kolkata] PHP Warning:  Undefined array key "model" in C:\wamp64\www\emsdemo\View\revenue_master_report.php on line 906
+[16-Jan-2023 15:21:15 Asia/Kolkata] PHP Stack trace:
+[16-Jan-2023 15:21:15 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\emsdemo\View\revenue_master_report.php:0
+[16-Jan-2023 15:21:15 Asia/Kolkata] PHP Warning:  Undefined array key "model" in C:\wamp64\www\emsdemo\View\revenue_master_report.php on line 908
+[16-Jan-2023 15:21:15 Asia/Kolkata] PHP Stack trace:
+[16-Jan-2023 15:21:15 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\emsdemo\View\revenue_master_report.php:0
+[16-Jan-2023 15:21:15 Asia/Kolkata] PHP Warning:  Undefined array key "dece_fte_commit" in C:\wamp64\www\emsdemo\View\revenue_master_report.php on line 911
+[16-Jan-2023 15:21:15 Asia/Kolkata] PHP Stack trace:
+[16-Jan-2023 15:21:15 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\emsdemo\View\revenue_master_report.php:0
+[16-Jan-2023 15:21:15 Asia/Kolkata] PHP Warning:  Undefined array key "dece_fte_forcast" in C:\wamp64\www\emsdemo\View\revenue_master_report.php on line 911
+[16-Jan-2023 15:21:15 Asia/Kolkata] PHP Stack trace:
+[16-Jan-2023 15:21:15 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\emsdemo\View\revenue_master_report.php:0
+[16-Jan-2023 15:21:15 Asia/Kolkata] PHP Warning:  Undefined array key "dece_rp_commit" in C:\wamp64\www\emsdemo\View\revenue_master_report.php on line 911
+[16-Jan-2023 15:21:15 Asia/Kolkata] PHP Stack trace:
+[16-Jan-2023 15:21:15 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\emsdemo\View\revenue_master_report.php:0
+[16-Jan-2023 15:21:15 Asia/Kolkata] PHP Warning:  Undefined array key "dece_fte_actuals" in C:\wamp64\www\emsdemo\View\revenue_master_report.php on line 914
+[16-Jan-2023 15:21:15 Asia/Kolkata] PHP Stack trace:
+[16-Jan-2023 15:21:15 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\emsdemo\View\revenue_master_report.php:0
+[16-Jan-2023 15:21:15 Asia/Kolkata] PHP Warning:  Undefined array key "dece_rp_actuals" in C:\wamp64\www\emsdemo\View\revenue_master_report.php on line 915
+[16-Jan-2023 15:21:15 Asia/Kolkata] PHP Stack trace:
+[16-Jan-2023 15:21:15 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\emsdemo\View\revenue_master_report.php:0
+[16-Jan-2023 15:21:15 Asia/Kolkata] PHP Warning:  Undefined array key "model" in C:\wamp64\www\emsdemo\View\revenue_master_report.php on line 916
+[16-Jan-2023 15:21:15 Asia/Kolkata] PHP Stack trace:
+[16-Jan-2023 15:21:15 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\emsdemo\View\revenue_master_report.php:0
+[16-Jan-2023 15:21:15 Asia/Kolkata] PHP Warning:  Undefined array key "model" in C:\wamp64\www\emsdemo\View\revenue_master_report.php on line 918
+[16-Jan-2023 15:21:15 Asia/Kolkata] PHP Stack trace:
+[16-Jan-2023 15:21:15 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\emsdemo\View\revenue_master_report.php:0
+[16-Jan-2023 15:21:15 Asia/Kolkata] PHP Warning:  Undefined array key "dece_fte_actuals" in C:\wamp64\www\emsdemo\View\revenue_master_report.php on line 921
+[16-Jan-2023 15:21:15 Asia/Kolkata] PHP Stack trace:
+[16-Jan-2023 15:21:15 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\emsdemo\View\revenue_master_report.php:0
+[16-Jan-2023 15:21:15 Asia/Kolkata] PHP Warning:  Undefined array key "dece_fte_forcast" in C:\wamp64\www\emsdemo\View\revenue_master_report.php on line 921
+[16-Jan-2023 15:21:15 Asia/Kolkata] PHP Stack trace:
+[16-Jan-2023 15:21:15 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\emsdemo\View\revenue_master_report.php:0
+[16-Jan-2023 15:21:15 Asia/Kolkata] PHP Warning:  Undefined array key "dece_rp_actuals" in C:\wamp64\www\emsdemo\View\revenue_master_report.php on line 921
+[16-Jan-2023 15:21:15 Asia/Kolkata] PHP Stack trace:
+[16-Jan-2023 15:21:15 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\emsdemo\View\revenue_master_report.php:0
+[16-Jan-2023 15:21:26 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in C:\wamp64\www\emsdemo\View\index.php on line 346
+[16-Jan-2023 15:21:26 Asia/Kolkata] PHP Stack trace:
+[16-Jan-2023 15:21:26 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\emsdemo\View\index.php:0
+[16-Jan-2023 15:22:37 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in C:\wamp64\www\emsdemo\View\index.php on line 346
+[16-Jan-2023 15:22:37 Asia/Kolkata] PHP Stack trace:
+[16-Jan-2023 15:22:37 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\emsdemo\View\index.php:0
+[16-Jan-2023 15:22:46 Asia/Kolkata] PHP Warning:  Undefined array key "txt_srch_DateFrom" in C:\wamp64\www\emsdemo\View\addRequest.php on line 856
+[16-Jan-2023 15:22:46 Asia/Kolkata] PHP Stack trace:
+[16-Jan-2023 15:22:46 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\emsdemo\View\addRequest.php:0
+[16-Jan-2023 15:22:46 Asia/Kolkata] PHP Warning:  Undefined array key "txt_srch_DateTo" in C:\wamp64\www\emsdemo\View\addRequest.php on line 858
+[16-Jan-2023 15:22:46 Asia/Kolkata] PHP Stack trace:
+[16-Jan-2023 15:22:46 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\emsdemo\View\addRequest.php:0
+[16-Jan-2023 15:22:47 Asia/Kolkata] PHP Warning:  Undefined variable $SiteHead in C:\wamp64\www\emsdemo\View\addRequest.php on line 907
+[16-Jan-2023 15:22:47 Asia/Kolkata] PHP Stack trace:
+[16-Jan-2023 15:22:47 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\emsdemo\View\addRequest.php:0
+[16-Jan-2023 15:22:47 Asia/Kolkata] PHP Warning:  Undefined array key "txt_Request" in C:\wamp64\www\emsdemo\View\addRequest.php on line 911
+[16-Jan-2023 15:22:47 Asia/Kolkata] PHP Stack trace:
+[16-Jan-2023 15:22:47 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\emsdemo\View\addRequest.php:0
+[16-Jan-2023 15:22:47 Asia/Kolkata] PHP Warning:  Undefined variable $SiteHeadName in C:\wamp64\www\emsdemo\View\addRequest.php on line 2209
+[16-Jan-2023 15:22:47 Asia/Kolkata] PHP Stack trace:
+[16-Jan-2023 15:22:47 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\emsdemo\View\addRequest.php:0
+[16-Jan-2023 15:22:47 Asia/Kolkata] PHP Warning:  Undefined variable $SiteHead in C:\wamp64\www\emsdemo\View\addRequest.php on line 2211
+[16-Jan-2023 15:22:47 Asia/Kolkata] PHP Stack trace:
+[16-Jan-2023 15:22:47 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\emsdemo\View\addRequest.php:0
+[16-Jan-2023 15:22:47 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in C:\wamp64\www\emsdemo\View\addRequest.php on line 2250
+[16-Jan-2023 15:22:47 Asia/Kolkata] PHP Stack trace:
+[16-Jan-2023 15:22:47 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\emsdemo\View\addRequest.php:0
+[16-Jan-2023 15:22:47 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in C:\wamp64\www\emsdemo\View\addRequest.php on line 2252
+[16-Jan-2023 15:22:47 Asia/Kolkata] PHP Stack trace:
+[16-Jan-2023 15:22:47 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\emsdemo\View\addRequest.php:0

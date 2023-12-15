@@ -1,0 +1,35 @@
+[04-Oct-2023 10:09:05 Asia/Kolkata] PHP Warning:  Undefined array key "__nda_decl" in D:\wamp64\www\emsdemo\View\index.php on line 132
+[04-Oct-2023 10:09:05 Asia/Kolkata] PHP Stack trace:
+[04-Oct-2023 10:09:05 Asia/Kolkata] PHP   1. {main}() D:\wamp64\www\emsdemo\View\index.php:0
+[04-Oct-2023 10:09:05 Asia/Kolkata] PHP Warning:  Undefined array key "__isms_decl" in D:\wamp64\www\emsdemo\View\index.php on line 137
+[04-Oct-2023 10:09:05 Asia/Kolkata] PHP Stack trace:
+[04-Oct-2023 10:09:05 Asia/Kolkata] PHP   1. {main}() D:\wamp64\www\emsdemo\View\index.php:0
+[04-Oct-2023 10:09:05 Asia/Kolkata] PHP Warning:  Undefined array key "__asset_decl" in D:\wamp64\www\emsdemo\View\index.php on line 141
+[04-Oct-2023 10:09:05 Asia/Kolkata] PHP Stack trace:
+[04-Oct-2023 10:09:05 Asia/Kolkata] PHP   1. {main}() D:\wamp64\www\emsdemo\View\index.php:0
+[04-Oct-2023 10:09:06 Asia/Kolkata] PHP Warning:  Undefined variable $induction_popup_flag in D:\wamp64\www\emsdemo\View\index.php on line 436
+[04-Oct-2023 10:09:06 Asia/Kolkata] PHP Stack trace:
+[04-Oct-2023 10:09:06 Asia/Kolkata] PHP   1. {main}() D:\wamp64\www\emsdemo\View\index.php:0
+[04-Oct-2023 10:09:06 Asia/Kolkata] PHP Warning:  Undefined array key 0 in D:\wamp64\www\emsdemo\View\index.php on line 495
+[04-Oct-2023 10:09:06 Asia/Kolkata] PHP Stack trace:
+[04-Oct-2023 10:09:06 Asia/Kolkata] PHP   1. {main}() D:\wamp64\www\emsdemo\View\index.php:0
+[04-Oct-2023 10:09:06 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in D:\wamp64\www\emsdemo\View\index.php on line 495
+[04-Oct-2023 10:09:06 Asia/Kolkata] PHP Stack trace:
+[04-Oct-2023 10:09:06 Asia/Kolkata] PHP   1. {main}() D:\wamp64\www\emsdemo\View\index.php:0
+[04-Oct-2023 10:09:07 Asia/Kolkata] PHP Warning:  Undefined array key "__AppraisalMonth" in D:\wamp64\www\emsdemo\View\index.php on line 528
+[04-Oct-2023 10:09:07 Asia/Kolkata] PHP Stack trace:
+[04-Oct-2023 10:09:07 Asia/Kolkata] PHP   1. {main}() D:\wamp64\www\emsdemo\View\index.php:0
+[04-Oct-2023 10:09:07 Asia/Kolkata] PHP Deprecated:  stripslashes(): Passing null to parameter #1 ($string) of type string is deprecated in D:\wamp64\www\emsdemo\Config\init.php on line 122
+[04-Oct-2023 10:09:07 Asia/Kolkata] PHP Stack trace:
+[04-Oct-2023 10:09:07 Asia/Kolkata] PHP   1. {main}() D:\wamp64\www\emsdemo\View\index.php:0
+[04-Oct-2023 10:09:07 Asia/Kolkata] PHP   2. clean($data = NULL) D:\wamp64\www\emsdemo\View\index.php:528
+[04-Oct-2023 10:09:07 Asia/Kolkata] PHP   3. stripslashes($string = NULL) D:\wamp64\www\emsdemo\Config\init.php:122
+[04-Oct-2023 10:09:07 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in D:\wamp64\www\emsdemo\View\index.php on line 536
+[04-Oct-2023 10:09:07 Asia/Kolkata] PHP Stack trace:
+[04-Oct-2023 10:09:07 Asia/Kolkata] PHP   1. {main}() D:\wamp64\www\emsdemo\View\index.php:0
+[04-Oct-2023 10:09:09 Asia/Kolkata] PHP Warning:  Undefined variable $induction_popup_flag in D:\wamp64\www\emsdemo\View\index.php on line 1226
+[04-Oct-2023 10:09:09 Asia/Kolkata] PHP Stack trace:
+[04-Oct-2023 10:09:09 Asia/Kolkata] PHP   1. {main}() D:\wamp64\www\emsdemo\View\index.php:0
+[04-Oct-2023 10:09:09 Asia/Kolkata] PHP Warning:  Undefined array key "param" in D:\wamp64\www\emsdemo\View\index.php on line 1240
+[04-Oct-2023 10:09:09 Asia/Kolkata] PHP Stack trace:
+[04-Oct-2023 10:09:09 Asia/Kolkata] PHP   1. {main}() D:\wamp64\www\emsdemo\View\index.php:0

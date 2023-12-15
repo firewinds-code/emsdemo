@@ -1,0 +1,44 @@
+[19-Jan-2023 10:44:26 Asia/Kolkata] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: YES) in C:\wamp64\www\emsdemo\AppData\Class\MysqliDb.php on line 291
+[19-Jan-2023 10:44:26 Asia/Kolkata] PHP Stack trace:
+[19-Jan-2023 10:44:26 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\emsdemo\View\message-popup.php:0
+[19-Jan-2023 10:44:26 Asia/Kolkata] PHP   2. require_once() C:\wamp64\www\emsdemo\View\message-popup.php:3
+[19-Jan-2023 10:44:26 Asia/Kolkata] PHP   3. MysqliDb->dbConnect() C:\wamp64\www\emsdemo\Config\init.php:93
+[19-Jan-2023 10:44:26 Asia/Kolkata] PHP   4. mysqli->__construct($hostname = 'localhost', $username = 'root', $password = 'asg@rd#123', $database = 'ems') C:\wamp64\www\emsdemo\AppData\Class\MysqliDb.php:291
+[19-Jan-2023 10:44:26 Asia/Kolkata] PHP Fatal error:  Uncaught Error: mysqli object is already closed in C:\wamp64\www\emsdemo\AppCode\left_menu.php:767
+Stack trace:
+#0 C:\wamp64\www\emsdemo\AppCode\left_menu.php(767): mysqli->prepare('select type_ fr...')
+#1 C:\wamp64\www\emsdemo\AppCode\nHead.php(291): require_once('C:\\wamp64\\www\\e...')
+#2 C:\wamp64\www\emsdemo\View\message-popup.php(10): require('C:\\wamp64\\www\\e...')
+#3 {main}
+  thrown in C:\wamp64\www\emsdemo\AppCode\left_menu.php on line 767
+[19-Jan-2023 10:44:34 Asia/Kolkata] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: YES) in C:\wamp64\www\emsdemo\AppData\Class\MysqliDb.php on line 291
+[19-Jan-2023 10:44:34 Asia/Kolkata] PHP Stack trace:
+[19-Jan-2023 10:44:34 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\emsdemo\View\message-popup.php:0
+[19-Jan-2023 10:44:34 Asia/Kolkata] PHP   2. require_once() C:\wamp64\www\emsdemo\View\message-popup.php:3
+[19-Jan-2023 10:44:34 Asia/Kolkata] PHP   3. MysqliDb->dbConnect() C:\wamp64\www\emsdemo\Config\init.php:93
+[19-Jan-2023 10:44:34 Asia/Kolkata] PHP   4. mysqli->__construct($hostname = 'localhost', $username = 'root', $password = 'asg@rd#123', $database = 'ems') C:\wamp64\www\emsdemo\AppData\Class\MysqliDb.php:291
+[19-Jan-2023 10:44:34 Asia/Kolkata] PHP Fatal error:  Uncaught Error: mysqli object is already closed in C:\wamp64\www\emsdemo\AppCode\left_menu.php:767
+Stack trace:
+#0 C:\wamp64\www\emsdemo\AppCode\left_menu.php(767): mysqli->prepare('select type_ fr...')
+#1 C:\wamp64\www\emsdemo\AppCode\nHead.php(291): require_once('C:\\wamp64\\www\\e...')
+#2 C:\wamp64\www\emsdemo\View\message-popup.php(10): require('C:\\wamp64\\www\\e...')
+#3 {main}
+  thrown in C:\wamp64\www\emsdemo\AppCode\left_menu.php on line 767
+[19-Jan-2023 10:44:42 Asia/Kolkata] PHP Warning:  Undefined array key "txt_dateFrom" in C:\wamp64\www\emsdemo\View\message-popup.php on line 28
+[19-Jan-2023 10:44:42 Asia/Kolkata] PHP Stack trace:
+[19-Jan-2023 10:44:42 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\emsdemo\View\message-popup.php:0
+[19-Jan-2023 10:44:42 Asia/Kolkata] PHP Warning:  Undefined array key "txt_dateto" in C:\wamp64\www\emsdemo\View\message-popup.php on line 29
+[19-Jan-2023 10:44:42 Asia/Kolkata] PHP Stack trace:
+[19-Jan-2023 10:44:42 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\emsdemo\View\message-popup.php:0
+[19-Jan-2023 10:44:58 Asia/Kolkata] PHP Warning:  Undefined array key "txt_dateFrom" in C:\wamp64\www\emsdemo\View\message-popup.php on line 28
+[19-Jan-2023 10:44:58 Asia/Kolkata] PHP Stack trace:
+[19-Jan-2023 10:44:58 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\emsdemo\View\message-popup.php:0
+[19-Jan-2023 10:44:58 Asia/Kolkata] PHP Warning:  Undefined array key "txt_dateto" in C:\wamp64\www\emsdemo\View\message-popup.php on line 29
+[19-Jan-2023 10:44:58 Asia/Kolkata] PHP Stack trace:
+[19-Jan-2023 10:44:58 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\emsdemo\View\message-popup.php:0
+[19-Jan-2023 10:45:27 Asia/Kolkata] PHP Warning:  Undefined array key "txt_dateFrom" in C:\wamp64\www\emsdemo\View\message-popup.php on line 28
+[19-Jan-2023 10:45:27 Asia/Kolkata] PHP Stack trace:
+[19-Jan-2023 10:45:27 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\emsdemo\View\message-popup.php:0
+[19-Jan-2023 10:45:27 Asia/Kolkata] PHP Warning:  Undefined array key "txt_dateto" in C:\wamp64\www\emsdemo\View\message-popup.php on line 29
+[19-Jan-2023 10:45:27 Asia/Kolkata] PHP Stack trace:
+[19-Jan-2023 10:45:27 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\emsdemo\View\message-popup.php:0

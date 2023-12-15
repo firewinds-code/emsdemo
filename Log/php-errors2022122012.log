@@ -1,0 +1,12 @@
+[20-Dec-2022 12:08:48 Asia/Kolkata] PHP Notice:  Undefined index: __user_logid in /var/www/html/erpm/AppCode/nHead.php on line 2
+[20-Dec-2022 12:08:52 Asia/Kolkata] PHP Warning:  mysqli_stmt::bind_param(): Number of elements in type definition string doesn't match number of bind variables in /var/www/html/erpm/Controller/ConLog.php on line 464
+[20-Dec-2022 12:12:21 Asia/Kolkata] PHP Warning:  mysqli_stmt::bind_param(): Number of elements in type definition string doesn't match number of bind variables in /var/www/html/erpm/Controller/ConLog.php on line 464
+[20-Dec-2022 12:12:50 Asia/Kolkata] PHP Warning:  mysqli_stmt::bind_param(): Number of elements in type definition string doesn't match number of bind variables in /var/www/html/erpm/Controller/ConLog.php on line 464
+[20-Dec-2022 12:12:50 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /var/www/html/erpm/View/index.php on line 346
+[20-Dec-2022 12:12:58 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /var/www/html/erpm/View/index.php on line 346
+[20-Dec-2022 12:14:07 Asia/Kolkata] PHP Notice:  Undefined index: __user_logid in /var/www/html/erpm/AppCode/nHead.php on line 2
+[20-Dec-2022 12:14:10 Asia/Kolkata] PHP Warning:  mysqli_stmt::bind_param(): Number of elements in type definition string doesn't match number of bind variables in /var/www/html/erpm/Controller/ConLog.php on line 464
+[20-Dec-2022 12:14:10 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /var/www/html/erpm/View/index.php on line 346
+[20-Dec-2022 12:17:01 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /var/www/html/erpm/View/index.php on line 346
+[20-Dec-2022 12:28:33 Asia/Kolkata] PHP Notice:  Undefined index: newpassword in /var/www/html/erpm/Services/updPassword.php on line 11
+[20-Dec-2022 12:28:33 Asia/Kolkata] PHP Notice:  Undefined index: newpassword in /var/www/html/erpm/Services/updPassword.php on line 12

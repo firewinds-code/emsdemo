@@ -1,0 +1,51 @@
+[09-Feb-2023 15:36:30 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in C:\wamp64\www\emsdemo\View\index.php on line 356
+[09-Feb-2023 15:36:30 Asia/Kolkata] PHP Stack trace:
+[09-Feb-2023 15:36:30 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\emsdemo\View\index.php:0
+[09-Feb-2023 15:43:10 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in C:\wamp64\www\emsdemo\View\index.php on line 356
+[09-Feb-2023 15:43:10 Asia/Kolkata] PHP Stack trace:
+[09-Feb-2023 15:43:10 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\emsdemo\View\index.php:0
+[09-Feb-2023 15:44:40 Asia/Kolkata] PHP Notice:  Undefined index: req in C:\wamp64\www\emsdemo\View\add_leave.php on line 414
+[09-Feb-2023 15:44:40 Asia/Kolkata] PHP Stack trace:
+[09-Feb-2023 15:44:40 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\emsdemo\View\add_leave.php:0
+[09-Feb-2023 15:44:40 Asia/Kolkata] PHP Notice:  Undefined index: req in C:\wamp64\www\emsdemo\View\add_leave.php on line 418
+[09-Feb-2023 15:44:40 Asia/Kolkata] PHP Stack trace:
+[09-Feb-2023 15:44:40 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\emsdemo\View\add_leave.php:0
+[09-Feb-2023 15:44:40 Asia/Kolkata] PHP Notice:  Undefined variable: leave_Level in C:\wamp64\www\emsdemo\View\add_leave.php on line 906
+[09-Feb-2023 15:44:40 Asia/Kolkata] PHP Stack trace:
+[09-Feb-2023 15:44:40 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\emsdemo\View\add_leave.php:0
+[09-Feb-2023 15:52:37 Asia/Kolkata] PHP Notice:  Undefined index: req in C:\wamp64\www\emsdemo\View\add_leave.php on line 414
+[09-Feb-2023 15:52:37 Asia/Kolkata] PHP Stack trace:
+[09-Feb-2023 15:52:37 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\emsdemo\View\add_leave.php:0
+[09-Feb-2023 15:52:37 Asia/Kolkata] PHP Notice:  Undefined index: req in C:\wamp64\www\emsdemo\View\add_leave.php on line 418
+[09-Feb-2023 15:52:37 Asia/Kolkata] PHP Stack trace:
+[09-Feb-2023 15:52:37 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\emsdemo\View\add_leave.php:0
+[09-Feb-2023 15:52:38 Asia/Kolkata] PHP Notice:  Undefined variable: leave_Level in C:\wamp64\www\emsdemo\View\add_leave.php on line 906
+[09-Feb-2023 15:52:38 Asia/Kolkata] PHP Stack trace:
+[09-Feb-2023 15:52:38 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\emsdemo\View\add_leave.php:0
+[09-Feb-2023 15:55:24 Asia/Kolkata] PHP Notice:  Undefined index: req in C:\wamp64\www\emsdemo\View\add_leave.php on line 417
+[09-Feb-2023 15:55:24 Asia/Kolkata] PHP Stack trace:
+[09-Feb-2023 15:55:24 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\emsdemo\View\add_leave.php:0
+[09-Feb-2023 15:55:24 Asia/Kolkata] PHP Notice:  Undefined index: req in C:\wamp64\www\emsdemo\View\add_leave.php on line 421
+[09-Feb-2023 15:55:24 Asia/Kolkata] PHP Stack trace:
+[09-Feb-2023 15:55:24 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\emsdemo\View\add_leave.php:0
+[09-Feb-2023 15:55:24 Asia/Kolkata] PHP Notice:  Undefined variable: leave_Level in C:\wamp64\www\emsdemo\View\add_leave.php on line 909
+[09-Feb-2023 15:55:24 Asia/Kolkata] PHP Stack trace:
+[09-Feb-2023 15:55:24 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\emsdemo\View\add_leave.php:0
+[09-Feb-2023 15:55:58 Asia/Kolkata] PHP Notice:  Undefined index: req in C:\wamp64\www\emsdemo\View\add_leave.php on line 417
+[09-Feb-2023 15:55:58 Asia/Kolkata] PHP Stack trace:
+[09-Feb-2023 15:55:58 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\emsdemo\View\add_leave.php:0
+[09-Feb-2023 15:55:58 Asia/Kolkata] PHP Notice:  Undefined index: req in C:\wamp64\www\emsdemo\View\add_leave.php on line 421
+[09-Feb-2023 15:55:58 Asia/Kolkata] PHP Stack trace:
+[09-Feb-2023 15:55:58 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\emsdemo\View\add_leave.php:0
+[09-Feb-2023 15:55:58 Asia/Kolkata] PHP Notice:  Undefined variable: leave_Level in C:\wamp64\www\emsdemo\View\add_leave.php on line 909
+[09-Feb-2023 15:55:58 Asia/Kolkata] PHP Stack trace:
+[09-Feb-2023 15:55:58 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\emsdemo\View\add_leave.php:0
+[09-Feb-2023 15:56:45 Asia/Kolkata] PHP Notice:  Undefined index: req in C:\wamp64\www\emsdemo\View\add_leave.php on line 416
+[09-Feb-2023 15:56:45 Asia/Kolkata] PHP Stack trace:
+[09-Feb-2023 15:56:45 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\emsdemo\View\add_leave.php:0
+[09-Feb-2023 15:56:45 Asia/Kolkata] PHP Notice:  Undefined index: req in C:\wamp64\www\emsdemo\View\add_leave.php on line 420
+[09-Feb-2023 15:56:45 Asia/Kolkata] PHP Stack trace:
+[09-Feb-2023 15:56:45 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\emsdemo\View\add_leave.php:0
+[09-Feb-2023 15:56:45 Asia/Kolkata] PHP Notice:  Undefined variable: leave_Level in C:\wamp64\www\emsdemo\View\add_leave.php on line 908
+[09-Feb-2023 15:56:45 Asia/Kolkata] PHP Stack trace:
+[09-Feb-2023 15:56:45 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\emsdemo\View\add_leave.php:0

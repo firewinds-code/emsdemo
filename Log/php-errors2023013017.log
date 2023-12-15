@@ -1,0 +1,3 @@
+[30-Jan-2023 17:00:46 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in C:\wamp64\www\emsdemo\View\index.php on line 356
+[30-Jan-2023 17:00:46 Asia/Kolkata] PHP Stack trace:
+[30-Jan-2023 17:00:46 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\emsdemo\View\index.php:0

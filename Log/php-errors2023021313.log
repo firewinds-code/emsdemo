@@ -1,0 +1,7 @@
+[13-Feb-2023 13:04:55 Asia/Kolkata] PHP Warning:  Undefined array key "__user_logid" in C:\wamp64\www\emsdemo\AppCode\nHead.php on line 2
+[13-Feb-2023 13:04:55 Asia/Kolkata] PHP Stack trace:
+[13-Feb-2023 13:04:55 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\emsdemo\View\index.php:0
+[13-Feb-2023 13:04:55 Asia/Kolkata] PHP   2. require() C:\wamp64\www\emsdemo\View\index.php:14
+[13-Feb-2023 13:05:05 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in C:\wamp64\www\emsdemo\View\index.php on line 356
+[13-Feb-2023 13:05:05 Asia/Kolkata] PHP Stack trace:
+[13-Feb-2023 13:05:05 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\emsdemo\View\index.php:0

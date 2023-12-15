@@ -1,0 +1,31 @@
+[20-Jan-2023 09:42:05 Asia/Kolkata] PHP Warning:  Undefined array key "__user_logid" in C:\wamp64\www\emsdemo\AppCode\nHead.php on line 2
+[20-Jan-2023 09:42:05 Asia/Kolkata] PHP Stack trace:
+[20-Jan-2023 09:42:05 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\emsdemo\View\index.php:0
+[20-Jan-2023 09:42:05 Asia/Kolkata] PHP   2. require() C:\wamp64\www\emsdemo\View\index.php:14
+[20-Jan-2023 09:42:17 Asia/Kolkata] PHP Warning:  Undefined array key "to" in C:\wamp64\www\emsdemo\View\calcRange.php on line 42
+[20-Jan-2023 09:42:17 Asia/Kolkata] PHP Stack trace:
+[20-Jan-2023 09:42:17 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\emsdemo\View\calcRange.php:0
+[20-Jan-2023 09:42:19 Asia/Kolkata] PHP Notice:  Object of class mysqli_result could not be converted to int in C:\wamp64\www\emsdemo\View\calcRange.php on line 412
+[20-Jan-2023 09:42:19 Asia/Kolkata] PHP Stack trace:
+[20-Jan-2023 09:42:19 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\emsdemo\View\calcRange.php:0
+[20-Jan-2023 09:42:19 Asia/Kolkata] PHP   2. BioMetric->__construct($EmployeeID = 'CE01145570', $DateFrom = '2023-01-19', $DateTo = '2023-01-19', $Emd_des = 'Manager', $Emp_status = 6, $emp_dod = NULL, $emp_module = '2014-01-07 00:00:00') C:\wamp64\www\emsdemo\View\calcRange.php:2358
+[20-Jan-2023 09:42:19 Asia/Kolkata] PHP Warning:  Undefined array key "2023-01-19" in C:\wamp64\www\emsdemo\View\calcRange.php on line 583
+[20-Jan-2023 09:42:19 Asia/Kolkata] PHP Stack trace:
+[20-Jan-2023 09:42:20 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\emsdemo\View\calcRange.php:0
+[20-Jan-2023 09:42:20 Asia/Kolkata] PHP   2. BioMetric->__construct($EmployeeID = 'CE01145570', $DateFrom = '2023-01-19', $DateTo = '2023-01-19', $Emd_des = 'Manager', $Emp_status = 6, $emp_dod = NULL, $emp_module = '2014-01-07 00:00:00') C:\wamp64\www\emsdemo\View\calcRange.php:2358
+[20-Jan-2023 09:42:20 Asia/Kolkata] PHP   3. BioMetric->__calculation_for_day($__date = '2023-01-19', $__EmpID = 'CE01145570', $__des = 'Manager', $__status = 6) C:\wamp64\www\emsdemo\View\calcRange.php:558
+[20-Jan-2023 09:42:20 Asia/Kolkata] PHP Warning:  Undefined array key "2023-01-19" in C:\wamp64\www\emsdemo\View\calcRange.php on line 932
+[20-Jan-2023 09:42:20 Asia/Kolkata] PHP Stack trace:
+[20-Jan-2023 09:42:20 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\emsdemo\View\calcRange.php:0
+[20-Jan-2023 09:42:20 Asia/Kolkata] PHP   2. BioMetric->__construct($EmployeeID = 'CE01145570', $DateFrom = '2023-01-19', $DateTo = '2023-01-19', $Emd_des = 'Manager', $Emp_status = 6, $emp_dod = NULL, $emp_module = '2014-01-07 00:00:00') C:\wamp64\www\emsdemo\View\calcRange.php:2358
+[20-Jan-2023 09:42:20 Asia/Kolkata] PHP   3. BioMetric->__calculation_for_day($__date = '2023-01-19', $__EmpID = 'CE01145570', $__des = 'Manager', $__status = 6) C:\wamp64\www\emsdemo\View\calcRange.php:558
+[20-Jan-2023 09:42:20 Asia/Kolkata] PHP Warning:  Undefined array key "2023-01-19" in C:\wamp64\www\emsdemo\View\calcRange.php on line 1225
+[20-Jan-2023 09:42:20 Asia/Kolkata] PHP Stack trace:
+[20-Jan-2023 09:42:20 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\emsdemo\View\calcRange.php:0
+[20-Jan-2023 09:42:20 Asia/Kolkata] PHP   2. BioMetric->__construct($EmployeeID = 'CE01145570', $DateFrom = '2023-01-19', $DateTo = '2023-01-19', $Emd_des = 'Manager', $Emp_status = 6, $emp_dod = NULL, $emp_module = '2014-01-07 00:00:00') C:\wamp64\www\emsdemo\View\calcRange.php:2358
+[20-Jan-2023 09:42:20 Asia/Kolkata] PHP   3. BioMetric->__calculation_for_day($__date = '2023-01-19', $__EmpID = 'CE01145570', $__des = 'Manager', $__status = 6) C:\wamp64\www\emsdemo\View\calcRange.php:558
+[20-Jan-2023 09:42:21 Asia/Kolkata] PHP Warning:  Array to string conversion in C:\wamp64\www\emsdemo\View\calcRange.php on line 1559
+[20-Jan-2023 09:42:21 Asia/Kolkata] PHP Stack trace:
+[20-Jan-2023 09:42:21 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\emsdemo\View\calcRange.php:0
+[20-Jan-2023 09:42:21 Asia/Kolkata] PHP   2. BioMetric->__construct($EmployeeID = 'CE01145570', $DateFrom = '2023-01-19', $DateTo = '2023-01-19', $Emd_des = 'Manager', $Emp_status = 6, $emp_dod = NULL, $emp_module = '2014-01-07 00:00:00') C:\wamp64\www\emsdemo\View\calcRange.php:2358
+[20-Jan-2023 09:42:21 Asia/Kolkata] PHP   3. BioMetric->__calculation_for_day($__date = '2023-01-19', $__EmpID = 'CE01145570', $__des = 'Manager', $__status = 6) C:\wamp64\www\emsdemo\View\calcRange.php:558

@@ -1,0 +1,41 @@
+[14-Jan-2023 16:02:40 Asia/Kolkata] PHP Warning:  mysqli::__construct(): (HY000/2002): Connection timed out in /var/www/html/erpm/AppData/Class/MysqliDb.php on line 291
+[14-Jan-2023 16:06:13 Asia/Kolkata] PHP Warning:  mysqli::__construct(): (HY000/2002): Connection timed out in /var/www/html/erpm/AppData/Class/MysqliDb.php on line 291
+[14-Jan-2023 16:06:18 Asia/Kolkata] PHP Warning:  mysqli::__construct(): (HY000/2002): Connection timed out in /var/www/html/erpm/AppData/Class/MysqliDb.php on line 291
+[14-Jan-2023 16:10:14 Asia/Kolkata] PHP Warning:  mysqli_stmt::bind_param(): Number of elements in type definition string doesn't match number of bind variables in /var/www/html/erpm/Controller/ConLog.php on line 464
+[14-Jan-2023 16:10:14 Asia/Kolkata] PHP Warning:  Use of undefined constant EMS_CenterName - assumed 'EMS_CenterName' (this will throw an Error in a future version of PHP) in /var/www/html/erpm/Controller/ConLog.php on line 470
+[14-Jan-2023 16:10:14 Asia/Kolkata] PHP Warning:  Use of undefined constant EMAIL_HOST - assumed 'EMAIL_HOST' (this will throw an Error in a future version of PHP) in /var/www/html/erpm/Controller/ConLog.php on line 473
+[14-Jan-2023 16:10:14 Asia/Kolkata] PHP Warning:  Use of undefined constant EMAIL_AUTH - assumed 'EMAIL_AUTH' (this will throw an Error in a future version of PHP) in /var/www/html/erpm/Controller/ConLog.php on line 474
+[14-Jan-2023 16:10:14 Asia/Kolkata] PHP Warning:  Use of undefined constant EMAIL_USER - assumed 'EMAIL_USER' (this will throw an Error in a future version of PHP) in /var/www/html/erpm/Controller/ConLog.php on line 475
+[14-Jan-2023 16:10:14 Asia/Kolkata] PHP Warning:  Use of undefined constant EMAIL_PASS - assumed 'EMAIL_PASS' (this will throw an Error in a future version of PHP) in /var/www/html/erpm/Controller/ConLog.php on line 476
+[14-Jan-2023 16:10:14 Asia/Kolkata] PHP Warning:  Use of undefined constant EMAIL_SMTPSecure - assumed 'EMAIL_SMTPSecure' (this will throw an Error in a future version of PHP) in /var/www/html/erpm/Controller/ConLog.php on line 477
+[14-Jan-2023 16:10:14 Asia/Kolkata] PHP Warning:  Use of undefined constant EMAIL_PORT - assumed 'EMAIL_PORT' (this will throw an Error in a future version of PHP) in /var/www/html/erpm/Controller/ConLog.php on line 478
+[14-Jan-2023 16:10:14 Asia/Kolkata] PHP Warning:  Use of undefined constant EMAIL_FROM - assumed 'EMAIL_FROM' (this will throw an Error in a future version of PHP) in /var/www/html/erpm/Controller/ConLog.php on line 479
+[14-Jan-2023 16:10:14 Asia/Kolkata] PHP Warning:  Use of undefined constant EMS_CenterName - assumed 'EMS_CenterName' (this will throw an Error in a future version of PHP) in /var/www/html/erpm/Controller/ConLog.php on line 482
+[14-Jan-2023 16:10:17 Asia/Kolkata] PHP Notice:  Undefined index: txt_dateFrom in /var/www/html/erpm/View/message-popup.php on line 28
+[14-Jan-2023 16:10:17 Asia/Kolkata] PHP Notice:  Undefined index: txt_dateto in /var/www/html/erpm/View/message-popup.php on line 29
+[14-Jan-2023 16:10:38 Asia/Kolkata] PHP Warning:  mysqli::__construct(): (HY000/2002): Connection timed out in /var/www/html/erpm/AppData/Class/MysqliDb.php on line 291
+[14-Jan-2023 16:17:50 Asia/Kolkata] PHP Notice:  Undefined index: cmid in /var/www/html/erpm/Services/getAgentList_Comp.php on line 8
+[14-Jan-2023 16:17:50 Asia/Kolkata] PHP Notice:  Undefined index: type in /var/www/html/erpm/Services/getAgentList_Comp.php on line 17
+[14-Jan-2023 16:18:22 Asia/Kolkata] PHP Notice:  Undefined index: cmid in /var/www/html/erpm/Services/getAgentList_Comp.php on line 8
+[14-Jan-2023 16:18:22 Asia/Kolkata] PHP Notice:  Undefined index: type in /var/www/html/erpm/Services/getAgentList_Comp.php on line 17
+[14-Jan-2023 16:22:05 Asia/Kolkata] PHP Notice:  Undefined index: cmid in /var/www/html/erpm/Services/getAgentList_Comp.php on line 8
+[14-Jan-2023 16:22:05 Asia/Kolkata] PHP Notice:  Undefined index: type in /var/www/html/erpm/Services/getAgentList_Comp.php on line 17
+[14-Jan-2023 16:22:40 Asia/Kolkata] PHP Notice:  Undefined index: cmid in /var/www/html/erpm/Services/getAgentList_Comp.php on line 8
+[14-Jan-2023 16:22:40 Asia/Kolkata] PHP Notice:  Undefined index: type in /var/www/html/erpm/Services/getAgentList_Comp.php on line 17
+[14-Jan-2023 16:29:38 Asia/Kolkata] PHP Notice:  Undefined index: cmid in /var/www/html/erpm/Services/getAgentList_Comp.php on line 8
+[14-Jan-2023 16:29:38 Asia/Kolkata] PHP Notice:  Undefined index: type in /var/www/html/erpm/Services/getAgentList_Comp.php on line 17
+[14-Jan-2023 16:31:30 Asia/Kolkata] PHP Warning:  mysqli_stmt::bind_param(): Number of elements in type definition string doesn't match number of bind variables in /var/www/html/erpm/Controller/ConLog.php on line 464
+[14-Jan-2023 16:31:30 Asia/Kolkata] PHP Warning:  Use of undefined constant EMS_CenterName - assumed 'EMS_CenterName' (this will throw an Error in a future version of PHP) in /var/www/html/erpm/Controller/ConLog.php on line 470
+[14-Jan-2023 16:31:30 Asia/Kolkata] PHP Warning:  Use of undefined constant EMAIL_HOST - assumed 'EMAIL_HOST' (this will throw an Error in a future version of PHP) in /var/www/html/erpm/Controller/ConLog.php on line 473
+[14-Jan-2023 16:31:30 Asia/Kolkata] PHP Warning:  Use of undefined constant EMAIL_AUTH - assumed 'EMAIL_AUTH' (this will throw an Error in a future version of PHP) in /var/www/html/erpm/Controller/ConLog.php on line 474
+[14-Jan-2023 16:31:30 Asia/Kolkata] PHP Warning:  Use of undefined constant EMAIL_USER - assumed 'EMAIL_USER' (this will throw an Error in a future version of PHP) in /var/www/html/erpm/Controller/ConLog.php on line 475
+[14-Jan-2023 16:31:30 Asia/Kolkata] PHP Warning:  Use of undefined constant EMAIL_PASS - assumed 'EMAIL_PASS' (this will throw an Error in a future version of PHP) in /var/www/html/erpm/Controller/ConLog.php on line 476
+[14-Jan-2023 16:31:30 Asia/Kolkata] PHP Warning:  Use of undefined constant EMAIL_SMTPSecure - assumed 'EMAIL_SMTPSecure' (this will throw an Error in a future version of PHP) in /var/www/html/erpm/Controller/ConLog.php on line 477
+[14-Jan-2023 16:31:30 Asia/Kolkata] PHP Warning:  Use of undefined constant EMAIL_PORT - assumed 'EMAIL_PORT' (this will throw an Error in a future version of PHP) in /var/www/html/erpm/Controller/ConLog.php on line 478
+[14-Jan-2023 16:31:30 Asia/Kolkata] PHP Warning:  Use of undefined constant EMAIL_FROM - assumed 'EMAIL_FROM' (this will throw an Error in a future version of PHP) in /var/www/html/erpm/Controller/ConLog.php on line 479
+[14-Jan-2023 16:31:30 Asia/Kolkata] PHP Warning:  Use of undefined constant EMS_CenterName - assumed 'EMS_CenterName' (this will throw an Error in a future version of PHP) in /var/www/html/erpm/Controller/ConLog.php on line 482
+[14-Jan-2023 16:31:33 Asia/Kolkata] PHP Notice:  Undefined index: txt_dateFrom in /var/www/html/erpm/View/message-popup.php on line 28
+[14-Jan-2023 16:31:33 Asia/Kolkata] PHP Notice:  Undefined index: txt_dateto in /var/www/html/erpm/View/message-popup.php on line 29
+[14-Jan-2023 16:32:41 Asia/Kolkata] PHP Notice:  Undefined index: cmid in /var/www/html/erpm/Services/getAgentList_Comp.php on line 8
+[14-Jan-2023 16:32:41 Asia/Kolkata] PHP Notice:  Undefined index: type in /var/www/html/erpm/Services/getAgentList_Comp.php on line 17
+[14-Jan-2023 16:38:55 Asia/Kolkata] PHP Notice:  Undefined index: cmid in /var/www/html/erpm/Services/getAgentList_Comp.php on line 8

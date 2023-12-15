@@ -1,0 +1,44 @@
+[13-Sep-2023 09:16:15 Asia/Kolkata] PHP Warning:  Undefined array key "to" in D:\wamp64\www\emsdemo\View\calcRange.php on line 42
+[13-Sep-2023 09:16:15 Asia/Kolkata] PHP Stack trace:
+[13-Sep-2023 09:16:15 Asia/Kolkata] PHP   1. {main}() D:\wamp64\www\emsdemo\View\calcRange.php:0
+[13-Sep-2023 09:16:17 Asia/Kolkata] PHP Notice:  Object of class mysqli_result could not be converted to int in D:\wamp64\www\emsdemo\View\calcRange.php on line 412
+[13-Sep-2023 09:16:17 Asia/Kolkata] PHP Stack trace:
+[13-Sep-2023 09:16:17 Asia/Kolkata] PHP   1. {main}() D:\wamp64\www\emsdemo\View\calcRange.php:0
+[13-Sep-2023 09:16:17 Asia/Kolkata] PHP   2. BioMetric->__construct($EmployeeID = 'CE03070003', $DateFrom = '2023-09-12', $DateTo = '2023-09-12', $Emd_des = 'General Manager', $Emp_status = 6, $emp_dod = '2004-12-15 00:00:00', $emp_module = '2004-12-15 00:00:00') D:\wamp64\www\emsdemo\View\calcRange.php:2358
+[13-Sep-2023 09:16:17 Asia/Kolkata] PHP Warning:  Undefined array key "2023-09-12" in D:\wamp64\www\emsdemo\View\calcRange.php on line 583
+[13-Sep-2023 09:16:17 Asia/Kolkata] PHP Stack trace:
+[13-Sep-2023 09:16:17 Asia/Kolkata] PHP   1. {main}() D:\wamp64\www\emsdemo\View\calcRange.php:0
+[13-Sep-2023 09:16:17 Asia/Kolkata] PHP   2. BioMetric->__construct($EmployeeID = 'CE03070003', $DateFrom = '2023-09-12', $DateTo = '2023-09-12', $Emd_des = 'General Manager', $Emp_status = 6, $emp_dod = '2004-12-15 00:00:00', $emp_module = '2004-12-15 00:00:00') D:\wamp64\www\emsdemo\View\calcRange.php:2358
+[13-Sep-2023 09:16:17 Asia/Kolkata] PHP   3. BioMetric->__calculation_for_day($__date = '2023-09-12', $__EmpID = 'CE03070003', $__des = 'General Manager', $__status = 6) D:\wamp64\www\emsdemo\View\calcRange.php:558
+[13-Sep-2023 09:16:17 Asia/Kolkata] PHP Warning:  Undefined array key "2023-09-12" in D:\wamp64\www\emsdemo\View\calcRange.php on line 932
+[13-Sep-2023 09:16:17 Asia/Kolkata] PHP Stack trace:
+[13-Sep-2023 09:16:17 Asia/Kolkata] PHP   1. {main}() D:\wamp64\www\emsdemo\View\calcRange.php:0
+[13-Sep-2023 09:16:17 Asia/Kolkata] PHP   2. BioMetric->__construct($EmployeeID = 'CE03070003', $DateFrom = '2023-09-12', $DateTo = '2023-09-12', $Emd_des = 'General Manager', $Emp_status = 6, $emp_dod = '2004-12-15 00:00:00', $emp_module = '2004-12-15 00:00:00') D:\wamp64\www\emsdemo\View\calcRange.php:2358
+[13-Sep-2023 09:16:17 Asia/Kolkata] PHP   3. BioMetric->__calculation_for_day($__date = '2023-09-12', $__EmpID = 'CE03070003', $__des = 'General Manager', $__status = 6) D:\wamp64\www\emsdemo\View\calcRange.php:558
+[13-Sep-2023 09:16:17 Asia/Kolkata] PHP Warning:  Undefined array key "2023-09-12" in D:\wamp64\www\emsdemo\View\calcRange.php on line 1225
+[13-Sep-2023 09:16:17 Asia/Kolkata] PHP Stack trace:
+[13-Sep-2023 09:16:17 Asia/Kolkata] PHP   1. {main}() D:\wamp64\www\emsdemo\View\calcRange.php:0
+[13-Sep-2023 09:16:17 Asia/Kolkata] PHP   2. BioMetric->__construct($EmployeeID = 'CE03070003', $DateFrom = '2023-09-12', $DateTo = '2023-09-12', $Emd_des = 'General Manager', $Emp_status = 6, $emp_dod = '2004-12-15 00:00:00', $emp_module = '2004-12-15 00:00:00') D:\wamp64\www\emsdemo\View\calcRange.php:2358
+[13-Sep-2023 09:16:17 Asia/Kolkata] PHP   3. BioMetric->__calculation_for_day($__date = '2023-09-12', $__EmpID = 'CE03070003', $__des = 'General Manager', $__status = 6) D:\wamp64\www\emsdemo\View\calcRange.php:558
+[13-Sep-2023 09:16:17 Asia/Kolkata] PHP Deprecated:  strtotime(): Passing null to parameter #1 ($datetime) of type string is deprecated in D:\wamp64\www\emsdemo\View\calcRange.php on line 1225
+[13-Sep-2023 09:16:17 Asia/Kolkata] PHP Stack trace:
+[13-Sep-2023 09:16:17 Asia/Kolkata] PHP   1. {main}() D:\wamp64\www\emsdemo\View\calcRange.php:0
+[13-Sep-2023 09:16:17 Asia/Kolkata] PHP   2. BioMetric->__construct($EmployeeID = 'CE03070003', $DateFrom = '2023-09-12', $DateTo = '2023-09-12', $Emd_des = 'General Manager', $Emp_status = 6, $emp_dod = '2004-12-15 00:00:00', $emp_module = '2004-12-15 00:00:00') D:\wamp64\www\emsdemo\View\calcRange.php:2358
+[13-Sep-2023 09:16:17 Asia/Kolkata] PHP   3. BioMetric->__calculation_for_day($__date = '2023-09-12', $__EmpID = 'CE03070003', $__des = 'General Manager', $__status = 6) D:\wamp64\www\emsdemo\View\calcRange.php:558
+[13-Sep-2023 09:16:17 Asia/Kolkata] PHP   4. strtotime($datetime = NULL) D:\wamp64\www\emsdemo\View\calcRange.php:1225
+[13-Sep-2023 09:16:19 Asia/Kolkata] PHP Warning:  Array to string conversion in D:\wamp64\www\emsdemo\View\calcRange.php on line 1559
+[13-Sep-2023 09:16:19 Asia/Kolkata] PHP Stack trace:
+[13-Sep-2023 09:16:19 Asia/Kolkata] PHP   1. {main}() D:\wamp64\www\emsdemo\View\calcRange.php:0
+[13-Sep-2023 09:16:19 Asia/Kolkata] PHP   2. BioMetric->__construct($EmployeeID = 'CE03070003', $DateFrom = '2023-09-12', $DateTo = '2023-09-12', $Emd_des = 'General Manager', $Emp_status = 6, $emp_dod = '2004-12-15 00:00:00', $emp_module = '2004-12-15 00:00:00') D:\wamp64\www\emsdemo\View\calcRange.php:2358
+[13-Sep-2023 09:16:19 Asia/Kolkata] PHP   3. BioMetric->__calculation_for_day($__date = '2023-09-12', $__EmpID = 'CE03070003', $__des = 'General Manager', $__status = 6) D:\wamp64\www\emsdemo\View\calcRange.php:558
+[13-Sep-2023 09:16:26 Asia/Kolkata] PHP Warning:  Undefined array key "txt_dateFrom" in D:\wamp64\www\emsdemo\View\message-popup.php on line 28
+[13-Sep-2023 09:16:26 Asia/Kolkata] PHP Stack trace:
+[13-Sep-2023 09:16:26 Asia/Kolkata] PHP   1. {main}() D:\wamp64\www\emsdemo\View\message-popup.php:0
+[13-Sep-2023 09:16:26 Asia/Kolkata] PHP Warning:  Undefined array key "txt_dateto" in D:\wamp64\www\emsdemo\View\message-popup.php on line 29
+[13-Sep-2023 09:16:26 Asia/Kolkata] PHP Stack trace:
+[13-Sep-2023 09:16:26 Asia/Kolkata] PHP   1. {main}() D:\wamp64\www\emsdemo\View\message-popup.php:0
+[13-Sep-2023 09:17:15 Asia/Kolkata] PHP Fatal error:  Uncaught mysqli_sql_exception: Column 'transfer_date' cannot be null in D:\wamp64\www\emsdemo\View\transfer_emp.php:57
+Stack trace:
+#0 D:\wamp64\www\emsdemo\View\transfer_emp.php(57): mysqli_stmt->execute()
+#1 {main}
+  thrown in D:\wamp64\www\emsdemo\View\transfer_emp.php on line 57

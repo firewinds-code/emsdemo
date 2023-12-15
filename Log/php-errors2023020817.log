@@ -1,0 +1,18 @@
+[08-Feb-2023 17:09:49 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in C:\wamp64\www\emsdemo\View\index.php on line 356
+[08-Feb-2023 17:09:49 Asia/Kolkata] PHP Stack trace:
+[08-Feb-2023 17:09:49 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\emsdemo\View\index.php:0
+[08-Feb-2023 17:11:53 Asia/Kolkata] PHP Notice:  Undefined index: text_trcheck_Batch in C:\wamp64\www\emsdemo\View\th_check_Extend.php on line 256
+[08-Feb-2023 17:11:53 Asia/Kolkata] PHP Stack trace:
+[08-Feb-2023 17:11:53 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\emsdemo\View\th_check_Extend.php:0
+[08-Feb-2023 17:12:12 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in C:\wamp64\www\emsdemo\View\index.php on line 356
+[08-Feb-2023 17:12:12 Asia/Kolkata] PHP Stack trace:
+[08-Feb-2023 17:12:12 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\emsdemo\View\index.php:0
+[08-Feb-2023 17:12:35 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in C:\wamp64\www\emsdemo\View\index.php on line 356
+[08-Feb-2023 17:12:35 Asia/Kolkata] PHP Stack trace:
+[08-Feb-2023 17:12:35 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\emsdemo\View\index.php:0
+[08-Feb-2023 17:30:53 Asia/Kolkata] PHP Notice:  Undefined variable: error in C:\wamp64\www\emsdemo\View\resign_module_oh.php on line 222
+[08-Feb-2023 17:30:53 Asia/Kolkata] PHP Stack trace:
+[08-Feb-2023 17:30:53 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\emsdemo\View\resign_module_oh.php:0
+[08-Feb-2023 17:46:08 Asia/Kolkata] PHP Notice:  Undefined variable: error in C:\wamp64\www\emsdemo\View\resign_module_oh.php on line 222
+[08-Feb-2023 17:46:08 Asia/Kolkata] PHP Stack trace:
+[08-Feb-2023 17:46:08 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\emsdemo\View\resign_module_oh.php:0

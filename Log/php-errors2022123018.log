@@ -1,0 +1,1346 @@
+[30-Dec-2022 18:01:29 Asia/Kolkata] PHP Notice:  Undefined index: __user_logid in /var/www/html/erpm/AppCode/nHead.php on line 2
+[30-Dec-2022 18:01:30 Asia/Kolkata] PHP Warning:  mysqli_stmt::bind_param(): Number of elements in type definition string doesn't match number of bind variables in /var/www/html/erpm/Controller/ConLog.php on line 464
+[30-Dec-2022 18:01:31 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /var/www/html/erpm/View/index.php on line 346
+[30-Dec-2022 18:01:36 Asia/Kolkata] PHP Notice:  Undefined index: capacity in /var/www/html/erpm/View/site_master.php on line 318
+[30-Dec-2022 18:01:36 Asia/Kolkata] PHP Notice:  Undefined index: capacity in /var/www/html/erpm/View/site_master.php on line 325
+[30-Dec-2022 18:01:36 Asia/Kolkata] PHP Notice:  Undefined variable: row in /var/www/html/erpm/View/site_master.php on line 330
+[30-Dec-2022 18:01:36 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /var/www/html/erpm/View/site_master.php on line 330
+[30-Dec-2022 18:01:36 Asia/Kolkata] PHP Notice:  Undefined variable: row in /var/www/html/erpm/View/site_master.php on line 332
+[30-Dec-2022 18:01:36 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /var/www/html/erpm/View/site_master.php on line 332
+[30-Dec-2022 18:01:36 Asia/Kolkata] PHP Notice:  Undefined index: capacity in /var/www/html/erpm/View/site_master.php on line 318
+[30-Dec-2022 18:01:36 Asia/Kolkata] PHP Notice:  Undefined index: capacity in /var/www/html/erpm/View/site_master.php on line 325
+[30-Dec-2022 18:01:36 Asia/Kolkata] PHP Notice:  Undefined variable: row in /var/www/html/erpm/View/site_master.php on line 330
+[30-Dec-2022 18:01:36 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /var/www/html/erpm/View/site_master.php on line 330
+[30-Dec-2022 18:01:36 Asia/Kolkata] PHP Notice:  Undefined variable: row in /var/www/html/erpm/View/site_master.php on line 332
+[30-Dec-2022 18:01:36 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /var/www/html/erpm/View/site_master.php on line 332
+[30-Dec-2022 18:01:36 Asia/Kolkata] PHP Notice:  Undefined index: capacity in /var/www/html/erpm/View/site_master.php on line 318
+[30-Dec-2022 18:01:36 Asia/Kolkata] PHP Notice:  Undefined index: capacity in /var/www/html/erpm/View/site_master.php on line 325
+[30-Dec-2022 18:01:36 Asia/Kolkata] PHP Notice:  Undefined variable: row in /var/www/html/erpm/View/site_master.php on line 330
+[30-Dec-2022 18:01:36 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /var/www/html/erpm/View/site_master.php on line 330
+[30-Dec-2022 18:01:36 Asia/Kolkata] PHP Notice:  Undefined variable: row in /var/www/html/erpm/View/site_master.php on line 332
+[30-Dec-2022 18:01:36 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /var/www/html/erpm/View/site_master.php on line 332
+[30-Dec-2022 18:01:36 Asia/Kolkata] PHP Notice:  Undefined index: capacity in /var/www/html/erpm/View/site_master.php on line 318
+[30-Dec-2022 18:01:36 Asia/Kolkata] PHP Notice:  Undefined index: capacity in /var/www/html/erpm/View/site_master.php on line 325
+[30-Dec-2022 18:01:36 Asia/Kolkata] PHP Notice:  Undefined variable: row in /var/www/html/erpm/View/site_master.php on line 330
+[30-Dec-2022 18:01:36 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /var/www/html/erpm/View/site_master.php on line 330
+[30-Dec-2022 18:01:36 Asia/Kolkata] PHP Notice:  Undefined variable: row in /var/www/html/erpm/View/site_master.php on line 332
+[30-Dec-2022 18:01:36 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /var/www/html/erpm/View/site_master.php on line 332
+[30-Dec-2022 18:01:36 Asia/Kolkata] PHP Notice:  Undefined index: capacity in /var/www/html/erpm/View/site_master.php on line 318
+[30-Dec-2022 18:01:36 Asia/Kolkata] PHP Notice:  Undefined index: capacity in /var/www/html/erpm/View/site_master.php on line 325
+[30-Dec-2022 18:01:36 Asia/Kolkata] PHP Notice:  Undefined variable: row in /var/www/html/erpm/View/site_master.php on line 330
+[30-Dec-2022 18:01:36 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /var/www/html/erpm/View/site_master.php on line 330
+[30-Dec-2022 18:01:36 Asia/Kolkata] PHP Notice:  Undefined variable: row in /var/www/html/erpm/View/site_master.php on line 332
+[30-Dec-2022 18:01:36 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /var/www/html/erpm/View/site_master.php on line 332
+[30-Dec-2022 18:01:36 Asia/Kolkata] PHP Notice:  Undefined index: capacity in /var/www/html/erpm/View/site_master.php on line 318
+[30-Dec-2022 18:01:36 Asia/Kolkata] PHP Notice:  Undefined index: capacity in /var/www/html/erpm/View/site_master.php on line 325
+[30-Dec-2022 18:01:36 Asia/Kolkata] PHP Notice:  Undefined variable: row in /var/www/html/erpm/View/site_master.php on line 330
+[30-Dec-2022 18:01:36 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /var/www/html/erpm/View/site_master.php on line 330
+[30-Dec-2022 18:01:36 Asia/Kolkata] PHP Notice:  Undefined variable: row in /var/www/html/erpm/View/site_master.php on line 332
+[30-Dec-2022 18:01:36 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /var/www/html/erpm/View/site_master.php on line 332
+[30-Dec-2022 18:02:04 Asia/Kolkata] PHP Notice:  Undefined index: capacity in /var/www/html/erpm/View/site_master.php on line 318
+[30-Dec-2022 18:02:04 Asia/Kolkata] PHP Notice:  Undefined index: capacity in /var/www/html/erpm/View/site_master.php on line 325
+[30-Dec-2022 18:02:04 Asia/Kolkata] PHP Notice:  Undefined variable: row in /var/www/html/erpm/View/site_master.php on line 330
+[30-Dec-2022 18:02:04 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /var/www/html/erpm/View/site_master.php on line 330
+[30-Dec-2022 18:02:04 Asia/Kolkata] PHP Notice:  Undefined variable: row in /var/www/html/erpm/View/site_master.php on line 332
+[30-Dec-2022 18:02:04 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /var/www/html/erpm/View/site_master.php on line 332
+[30-Dec-2022 18:02:04 Asia/Kolkata] PHP Notice:  Undefined index: capacity in /var/www/html/erpm/View/site_master.php on line 318
+[30-Dec-2022 18:02:04 Asia/Kolkata] PHP Notice:  Undefined index: capacity in /var/www/html/erpm/View/site_master.php on line 325
+[30-Dec-2022 18:02:04 Asia/Kolkata] PHP Notice:  Undefined variable: row in /var/www/html/erpm/View/site_master.php on line 330
+[30-Dec-2022 18:02:04 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /var/www/html/erpm/View/site_master.php on line 330
+[30-Dec-2022 18:02:04 Asia/Kolkata] PHP Notice:  Undefined variable: row in /var/www/html/erpm/View/site_master.php on line 332
+[30-Dec-2022 18:02:04 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /var/www/html/erpm/View/site_master.php on line 332
+[30-Dec-2022 18:02:04 Asia/Kolkata] PHP Notice:  Undefined index: capacity in /var/www/html/erpm/View/site_master.php on line 318
+[30-Dec-2022 18:02:04 Asia/Kolkata] PHP Notice:  Undefined index: capacity in /var/www/html/erpm/View/site_master.php on line 325
+[30-Dec-2022 18:02:04 Asia/Kolkata] PHP Notice:  Undefined variable: row in /var/www/html/erpm/View/site_master.php on line 330
+[30-Dec-2022 18:02:04 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /var/www/html/erpm/View/site_master.php on line 330
+[30-Dec-2022 18:02:04 Asia/Kolkata] PHP Notice:  Undefined variable: row in /var/www/html/erpm/View/site_master.php on line 332
+[30-Dec-2022 18:02:04 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /var/www/html/erpm/View/site_master.php on line 332
+[30-Dec-2022 18:02:04 Asia/Kolkata] PHP Notice:  Undefined index: capacity in /var/www/html/erpm/View/site_master.php on line 318
+[30-Dec-2022 18:02:04 Asia/Kolkata] PHP Notice:  Undefined index: capacity in /var/www/html/erpm/View/site_master.php on line 325
+[30-Dec-2022 18:02:04 Asia/Kolkata] PHP Notice:  Undefined variable: row in /var/www/html/erpm/View/site_master.php on line 330
+[30-Dec-2022 18:02:04 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /var/www/html/erpm/View/site_master.php on line 330
+[30-Dec-2022 18:02:04 Asia/Kolkata] PHP Notice:  Undefined variable: row in /var/www/html/erpm/View/site_master.php on line 332
+[30-Dec-2022 18:02:04 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /var/www/html/erpm/View/site_master.php on line 332
+[30-Dec-2022 18:02:04 Asia/Kolkata] PHP Notice:  Undefined index: capacity in /var/www/html/erpm/View/site_master.php on line 318
+[30-Dec-2022 18:02:04 Asia/Kolkata] PHP Notice:  Undefined index: capacity in /var/www/html/erpm/View/site_master.php on line 325
+[30-Dec-2022 18:02:04 Asia/Kolkata] PHP Notice:  Undefined variable: row in /var/www/html/erpm/View/site_master.php on line 330
+[30-Dec-2022 18:02:04 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /var/www/html/erpm/View/site_master.php on line 330
+[30-Dec-2022 18:02:04 Asia/Kolkata] PHP Notice:  Undefined variable: row in /var/www/html/erpm/View/site_master.php on line 332
+[30-Dec-2022 18:02:04 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /var/www/html/erpm/View/site_master.php on line 332
+[30-Dec-2022 18:02:04 Asia/Kolkata] PHP Notice:  Undefined index: capacity in /var/www/html/erpm/View/site_master.php on line 318
+[30-Dec-2022 18:02:04 Asia/Kolkata] PHP Notice:  Undefined index: capacity in /var/www/html/erpm/View/site_master.php on line 325
+[30-Dec-2022 18:02:04 Asia/Kolkata] PHP Notice:  Undefined variable: row in /var/www/html/erpm/View/site_master.php on line 330
+[30-Dec-2022 18:02:04 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /var/www/html/erpm/View/site_master.php on line 330
+[30-Dec-2022 18:02:04 Asia/Kolkata] PHP Notice:  Undefined variable: row in /var/www/html/erpm/View/site_master.php on line 332
+[30-Dec-2022 18:02:04 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /var/www/html/erpm/View/site_master.php on line 332
+[30-Dec-2022 18:02:04 Asia/Kolkata] PHP Notice:  Undefined index: capacity in /var/www/html/erpm/View/site_master.php on line 318
+[30-Dec-2022 18:02:04 Asia/Kolkata] PHP Notice:  Undefined index: capacity in /var/www/html/erpm/View/site_master.php on line 325
+[30-Dec-2022 18:02:04 Asia/Kolkata] PHP Notice:  Undefined variable: row in /var/www/html/erpm/View/site_master.php on line 330
+[30-Dec-2022 18:02:04 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /var/www/html/erpm/View/site_master.php on line 330
+[30-Dec-2022 18:02:04 Asia/Kolkata] PHP Notice:  Undefined variable: row in /var/www/html/erpm/View/site_master.php on line 332
+[30-Dec-2022 18:02:04 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /var/www/html/erpm/View/site_master.php on line 332
+[30-Dec-2022 18:03:34 Asia/Kolkata] PHP Notice:  Undefined variable: row in /var/www/html/erpm/View/site_master.php on line 330
+[30-Dec-2022 18:03:34 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /var/www/html/erpm/View/site_master.php on line 330
+[30-Dec-2022 18:03:34 Asia/Kolkata] PHP Notice:  Undefined variable: row in /var/www/html/erpm/View/site_master.php on line 332
+[30-Dec-2022 18:03:34 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /var/www/html/erpm/View/site_master.php on line 332
+[30-Dec-2022 18:03:34 Asia/Kolkata] PHP Notice:  Undefined variable: row in /var/www/html/erpm/View/site_master.php on line 330
+[30-Dec-2022 18:03:34 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /var/www/html/erpm/View/site_master.php on line 330
+[30-Dec-2022 18:03:34 Asia/Kolkata] PHP Notice:  Undefined variable: row in /var/www/html/erpm/View/site_master.php on line 332
+[30-Dec-2022 18:03:34 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /var/www/html/erpm/View/site_master.php on line 332
+[30-Dec-2022 18:03:34 Asia/Kolkata] PHP Notice:  Undefined variable: row in /var/www/html/erpm/View/site_master.php on line 330
+[30-Dec-2022 18:03:34 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /var/www/html/erpm/View/site_master.php on line 330
+[30-Dec-2022 18:03:34 Asia/Kolkata] PHP Notice:  Undefined variable: row in /var/www/html/erpm/View/site_master.php on line 332
+[30-Dec-2022 18:03:34 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /var/www/html/erpm/View/site_master.php on line 332
+[30-Dec-2022 18:03:34 Asia/Kolkata] PHP Notice:  Undefined variable: row in /var/www/html/erpm/View/site_master.php on line 330
+[30-Dec-2022 18:03:34 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /var/www/html/erpm/View/site_master.php on line 330
+[30-Dec-2022 18:03:34 Asia/Kolkata] PHP Notice:  Undefined variable: row in /var/www/html/erpm/View/site_master.php on line 332
+[30-Dec-2022 18:03:34 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /var/www/html/erpm/View/site_master.php on line 332
+[30-Dec-2022 18:03:34 Asia/Kolkata] PHP Notice:  Undefined variable: row in /var/www/html/erpm/View/site_master.php on line 330
+[30-Dec-2022 18:03:34 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /var/www/html/erpm/View/site_master.php on line 330
+[30-Dec-2022 18:03:34 Asia/Kolkata] PHP Notice:  Undefined variable: row in /var/www/html/erpm/View/site_master.php on line 332
+[30-Dec-2022 18:03:34 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /var/www/html/erpm/View/site_master.php on line 332
+[30-Dec-2022 18:03:34 Asia/Kolkata] PHP Notice:  Undefined variable: row in /var/www/html/erpm/View/site_master.php on line 330
+[30-Dec-2022 18:03:34 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /var/www/html/erpm/View/site_master.php on line 330
+[30-Dec-2022 18:03:34 Asia/Kolkata] PHP Notice:  Undefined variable: row in /var/www/html/erpm/View/site_master.php on line 332
+[30-Dec-2022 18:03:34 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /var/www/html/erpm/View/site_master.php on line 332
+[30-Dec-2022 18:03:34 Asia/Kolkata] PHP Notice:  Undefined variable: row in /var/www/html/erpm/View/site_master.php on line 330
+[30-Dec-2022 18:03:34 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /var/www/html/erpm/View/site_master.php on line 330
+[30-Dec-2022 18:03:34 Asia/Kolkata] PHP Notice:  Undefined variable: row in /var/www/html/erpm/View/site_master.php on line 332
+[30-Dec-2022 18:03:34 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /var/www/html/erpm/View/site_master.php on line 332
+[30-Dec-2022 18:03:47 Asia/Kolkata] PHP Warning:  mysqli_stmt::bind_param(): Number of elements in type definition string doesn't match number of bind variables in /var/www/html/erpm/View/site_master.php on line 50
+[30-Dec-2022 18:03:47 Asia/Kolkata] PHP Notice:  Undefined variable: row in /var/www/html/erpm/View/site_master.php on line 330
+[30-Dec-2022 18:03:47 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /var/www/html/erpm/View/site_master.php on line 330
+[30-Dec-2022 18:03:47 Asia/Kolkata] PHP Notice:  Undefined variable: row in /var/www/html/erpm/View/site_master.php on line 332
+[30-Dec-2022 18:03:47 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /var/www/html/erpm/View/site_master.php on line 332
+[30-Dec-2022 18:03:47 Asia/Kolkata] PHP Notice:  Undefined variable: row in /var/www/html/erpm/View/site_master.php on line 330
+[30-Dec-2022 18:03:47 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /var/www/html/erpm/View/site_master.php on line 330
+[30-Dec-2022 18:03:47 Asia/Kolkata] PHP Notice:  Undefined variable: row in /var/www/html/erpm/View/site_master.php on line 332
+[30-Dec-2022 18:03:47 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /var/www/html/erpm/View/site_master.php on line 332
+[30-Dec-2022 18:03:47 Asia/Kolkata] PHP Notice:  Undefined variable: row in /var/www/html/erpm/View/site_master.php on line 330
+[30-Dec-2022 18:03:47 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /var/www/html/erpm/View/site_master.php on line 330
+[30-Dec-2022 18:03:47 Asia/Kolkata] PHP Notice:  Undefined variable: row in /var/www/html/erpm/View/site_master.php on line 332
+[30-Dec-2022 18:03:47 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /var/www/html/erpm/View/site_master.php on line 332
+[30-Dec-2022 18:03:47 Asia/Kolkata] PHP Notice:  Undefined variable: row in /var/www/html/erpm/View/site_master.php on line 330
+[30-Dec-2022 18:03:47 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /var/www/html/erpm/View/site_master.php on line 330
+[30-Dec-2022 18:03:47 Asia/Kolkata] PHP Notice:  Undefined variable: row in /var/www/html/erpm/View/site_master.php on line 332
+[30-Dec-2022 18:03:47 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /var/www/html/erpm/View/site_master.php on line 332
+[30-Dec-2022 18:03:47 Asia/Kolkata] PHP Notice:  Undefined variable: row in /var/www/html/erpm/View/site_master.php on line 330
+[30-Dec-2022 18:03:47 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /var/www/html/erpm/View/site_master.php on line 330
+[30-Dec-2022 18:03:47 Asia/Kolkata] PHP Notice:  Undefined variable: row in /var/www/html/erpm/View/site_master.php on line 332
+[30-Dec-2022 18:03:47 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /var/www/html/erpm/View/site_master.php on line 332
+[30-Dec-2022 18:03:47 Asia/Kolkata] PHP Notice:  Undefined variable: row in /var/www/html/erpm/View/site_master.php on line 330
+[30-Dec-2022 18:03:47 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /var/www/html/erpm/View/site_master.php on line 330
+[30-Dec-2022 18:03:47 Asia/Kolkata] PHP Notice:  Undefined variable: row in /var/www/html/erpm/View/site_master.php on line 332
+[30-Dec-2022 18:03:47 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /var/www/html/erpm/View/site_master.php on line 332
+[30-Dec-2022 18:03:47 Asia/Kolkata] PHP Notice:  Undefined variable: row in /var/www/html/erpm/View/site_master.php on line 330
+[30-Dec-2022 18:03:47 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /var/www/html/erpm/View/site_master.php on line 330
+[30-Dec-2022 18:03:47 Asia/Kolkata] PHP Notice:  Undefined variable: row in /var/www/html/erpm/View/site_master.php on line 332
+[30-Dec-2022 18:03:47 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /var/www/html/erpm/View/site_master.php on line 332
+[30-Dec-2022 18:04:39 Asia/Kolkata] PHP Notice:  Undefined variable: row in /var/www/html/erpm/View/site_master.php on line 330
+[30-Dec-2022 18:04:39 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /var/www/html/erpm/View/site_master.php on line 330
+[30-Dec-2022 18:04:39 Asia/Kolkata] PHP Notice:  Undefined variable: row in /var/www/html/erpm/View/site_master.php on line 332
+[30-Dec-2022 18:04:39 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /var/www/html/erpm/View/site_master.php on line 332
+[30-Dec-2022 18:04:39 Asia/Kolkata] PHP Notice:  Undefined variable: row in /var/www/html/erpm/View/site_master.php on line 330
+[30-Dec-2022 18:04:39 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /var/www/html/erpm/View/site_master.php on line 330
+[30-Dec-2022 18:04:39 Asia/Kolkata] PHP Notice:  Undefined variable: row in /var/www/html/erpm/View/site_master.php on line 332
+[30-Dec-2022 18:04:39 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /var/www/html/erpm/View/site_master.php on line 332
+[30-Dec-2022 18:04:39 Asia/Kolkata] PHP Notice:  Undefined variable: row in /var/www/html/erpm/View/site_master.php on line 330
+[30-Dec-2022 18:04:39 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /var/www/html/erpm/View/site_master.php on line 330
+[30-Dec-2022 18:04:39 Asia/Kolkata] PHP Notice:  Undefined variable: row in /var/www/html/erpm/View/site_master.php on line 332
+[30-Dec-2022 18:04:39 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /var/www/html/erpm/View/site_master.php on line 332
+[30-Dec-2022 18:04:39 Asia/Kolkata] PHP Notice:  Undefined variable: row in /var/www/html/erpm/View/site_master.php on line 330
+[30-Dec-2022 18:04:39 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /var/www/html/erpm/View/site_master.php on line 330
+[30-Dec-2022 18:04:39 Asia/Kolkata] PHP Notice:  Undefined variable: row in /var/www/html/erpm/View/site_master.php on line 332
+[30-Dec-2022 18:04:39 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /var/www/html/erpm/View/site_master.php on line 332
+[30-Dec-2022 18:04:39 Asia/Kolkata] PHP Notice:  Undefined variable: row in /var/www/html/erpm/View/site_master.php on line 330
+[30-Dec-2022 18:04:39 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /var/www/html/erpm/View/site_master.php on line 330
+[30-Dec-2022 18:04:39 Asia/Kolkata] PHP Notice:  Undefined variable: row in /var/www/html/erpm/View/site_master.php on line 332
+[30-Dec-2022 18:04:39 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /var/www/html/erpm/View/site_master.php on line 332
+[30-Dec-2022 18:04:39 Asia/Kolkata] PHP Notice:  Undefined variable: row in /var/www/html/erpm/View/site_master.php on line 330
+[30-Dec-2022 18:04:39 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /var/www/html/erpm/View/site_master.php on line 330
+[30-Dec-2022 18:04:39 Asia/Kolkata] PHP Notice:  Undefined variable: row in /var/www/html/erpm/View/site_master.php on line 332
+[30-Dec-2022 18:04:39 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /var/www/html/erpm/View/site_master.php on line 332
+[30-Dec-2022 18:04:39 Asia/Kolkata] PHP Notice:  Undefined variable: row in /var/www/html/erpm/View/site_master.php on line 330
+[30-Dec-2022 18:04:39 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /var/www/html/erpm/View/site_master.php on line 330
+[30-Dec-2022 18:04:39 Asia/Kolkata] PHP Notice:  Undefined variable: row in /var/www/html/erpm/View/site_master.php on line 332
+[30-Dec-2022 18:04:39 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /var/www/html/erpm/View/site_master.php on line 332
+[30-Dec-2022 18:04:47 Asia/Kolkata] PHP Notice:  Undefined variable: row in /var/www/html/erpm/View/site_master.php on line 330
+[30-Dec-2022 18:04:47 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /var/www/html/erpm/View/site_master.php on line 330
+[30-Dec-2022 18:04:47 Asia/Kolkata] PHP Notice:  Undefined variable: row in /var/www/html/erpm/View/site_master.php on line 332
+[30-Dec-2022 18:04:47 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /var/www/html/erpm/View/site_master.php on line 332
+[30-Dec-2022 18:04:47 Asia/Kolkata] PHP Notice:  Undefined variable: row in /var/www/html/erpm/View/site_master.php on line 330
+[30-Dec-2022 18:04:47 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /var/www/html/erpm/View/site_master.php on line 330
+[30-Dec-2022 18:04:47 Asia/Kolkata] PHP Notice:  Undefined variable: row in /var/www/html/erpm/View/site_master.php on line 332
+[30-Dec-2022 18:04:47 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /var/www/html/erpm/View/site_master.php on line 332
+[30-Dec-2022 18:04:47 Asia/Kolkata] PHP Notice:  Undefined variable: row in /var/www/html/erpm/View/site_master.php on line 330
+[30-Dec-2022 18:04:47 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /var/www/html/erpm/View/site_master.php on line 330
+[30-Dec-2022 18:04:47 Asia/Kolkata] PHP Notice:  Undefined variable: row in /var/www/html/erpm/View/site_master.php on line 332
+[30-Dec-2022 18:04:47 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /var/www/html/erpm/View/site_master.php on line 332
+[30-Dec-2022 18:04:47 Asia/Kolkata] PHP Notice:  Undefined variable: row in /var/www/html/erpm/View/site_master.php on line 330
+[30-Dec-2022 18:04:47 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /var/www/html/erpm/View/site_master.php on line 330
+[30-Dec-2022 18:04:47 Asia/Kolkata] PHP Notice:  Undefined variable: row in /var/www/html/erpm/View/site_master.php on line 332
+[30-Dec-2022 18:04:47 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /var/www/html/erpm/View/site_master.php on line 332
+[30-Dec-2022 18:04:47 Asia/Kolkata] PHP Notice:  Undefined variable: row in /var/www/html/erpm/View/site_master.php on line 330
+[30-Dec-2022 18:04:47 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /var/www/html/erpm/View/site_master.php on line 330
+[30-Dec-2022 18:04:47 Asia/Kolkata] PHP Notice:  Undefined variable: row in /var/www/html/erpm/View/site_master.php on line 332
+[30-Dec-2022 18:04:47 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /var/www/html/erpm/View/site_master.php on line 332
+[30-Dec-2022 18:04:47 Asia/Kolkata] PHP Notice:  Undefined variable: row in /var/www/html/erpm/View/site_master.php on line 330
+[30-Dec-2022 18:04:47 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /var/www/html/erpm/View/site_master.php on line 330
+[30-Dec-2022 18:04:47 Asia/Kolkata] PHP Notice:  Undefined variable: row in /var/www/html/erpm/View/site_master.php on line 332
+[30-Dec-2022 18:04:47 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /var/www/html/erpm/View/site_master.php on line 332
+[30-Dec-2022 18:04:47 Asia/Kolkata] PHP Notice:  Undefined variable: row in /var/www/html/erpm/View/site_master.php on line 330
+[30-Dec-2022 18:04:47 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /var/www/html/erpm/View/site_master.php on line 330
+[30-Dec-2022 18:04:47 Asia/Kolkata] PHP Notice:  Undefined variable: row in /var/www/html/erpm/View/site_master.php on line 332
+[30-Dec-2022 18:04:47 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /var/www/html/erpm/View/site_master.php on line 332
+[30-Dec-2022 18:05:56 Asia/Kolkata] PHP Notice:  Undefined variable: row in /var/www/html/erpm/View/site_master.php on line 330
+[30-Dec-2022 18:05:56 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /var/www/html/erpm/View/site_master.php on line 330
+[30-Dec-2022 18:05:56 Asia/Kolkata] PHP Notice:  Undefined variable: row in /var/www/html/erpm/View/site_master.php on line 332
+[30-Dec-2022 18:05:56 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /var/www/html/erpm/View/site_master.php on line 332
+[30-Dec-2022 18:05:56 Asia/Kolkata] PHP Notice:  Undefined variable: row in /var/www/html/erpm/View/site_master.php on line 330
+[30-Dec-2022 18:05:56 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /var/www/html/erpm/View/site_master.php on line 330
+[30-Dec-2022 18:05:56 Asia/Kolkata] PHP Notice:  Undefined variable: row in /var/www/html/erpm/View/site_master.php on line 332
+[30-Dec-2022 18:05:56 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /var/www/html/erpm/View/site_master.php on line 332
+[30-Dec-2022 18:05:56 Asia/Kolkata] PHP Notice:  Undefined variable: row in /var/www/html/erpm/View/site_master.php on line 330
+[30-Dec-2022 18:05:56 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /var/www/html/erpm/View/site_master.php on line 330
+[30-Dec-2022 18:05:56 Asia/Kolkata] PHP Notice:  Undefined variable: row in /var/www/html/erpm/View/site_master.php on line 332
+[30-Dec-2022 18:05:56 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /var/www/html/erpm/View/site_master.php on line 332
+[30-Dec-2022 18:05:56 Asia/Kolkata] PHP Notice:  Undefined variable: row in /var/www/html/erpm/View/site_master.php on line 330
+[30-Dec-2022 18:05:56 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /var/www/html/erpm/View/site_master.php on line 330
+[30-Dec-2022 18:05:56 Asia/Kolkata] PHP Notice:  Undefined variable: row in /var/www/html/erpm/View/site_master.php on line 332
+[30-Dec-2022 18:05:56 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /var/www/html/erpm/View/site_master.php on line 332
+[30-Dec-2022 18:05:56 Asia/Kolkata] PHP Notice:  Undefined variable: row in /var/www/html/erpm/View/site_master.php on line 330
+[30-Dec-2022 18:05:56 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /var/www/html/erpm/View/site_master.php on line 330
+[30-Dec-2022 18:05:56 Asia/Kolkata] PHP Notice:  Undefined variable: row in /var/www/html/erpm/View/site_master.php on line 332
+[30-Dec-2022 18:05:56 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /var/www/html/erpm/View/site_master.php on line 332
+[30-Dec-2022 18:05:56 Asia/Kolkata] PHP Notice:  Undefined variable: row in /var/www/html/erpm/View/site_master.php on line 330
+[30-Dec-2022 18:05:56 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /var/www/html/erpm/View/site_master.php on line 330
+[30-Dec-2022 18:05:56 Asia/Kolkata] PHP Notice:  Undefined variable: row in /var/www/html/erpm/View/site_master.php on line 332
+[30-Dec-2022 18:05:56 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /var/www/html/erpm/View/site_master.php on line 332
+[30-Dec-2022 18:05:56 Asia/Kolkata] PHP Notice:  Undefined variable: row in /var/www/html/erpm/View/site_master.php on line 330
+[30-Dec-2022 18:05:56 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /var/www/html/erpm/View/site_master.php on line 330
+[30-Dec-2022 18:05:56 Asia/Kolkata] PHP Notice:  Undefined variable: row in /var/www/html/erpm/View/site_master.php on line 332
+[30-Dec-2022 18:05:56 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /var/www/html/erpm/View/site_master.php on line 332
+[30-Dec-2022 18:06:06 Asia/Kolkata] PHP Notice:  Undefined variable: row in /var/www/html/erpm/View/site_master.php on line 330
+[30-Dec-2022 18:06:06 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /var/www/html/erpm/View/site_master.php on line 330
+[30-Dec-2022 18:06:06 Asia/Kolkata] PHP Notice:  Undefined variable: row in /var/www/html/erpm/View/site_master.php on line 332
+[30-Dec-2022 18:06:06 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /var/www/html/erpm/View/site_master.php on line 332
+[30-Dec-2022 18:06:06 Asia/Kolkata] PHP Notice:  Undefined variable: row in /var/www/html/erpm/View/site_master.php on line 330
+[30-Dec-2022 18:06:06 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /var/www/html/erpm/View/site_master.php on line 330
+[30-Dec-2022 18:06:06 Asia/Kolkata] PHP Notice:  Undefined variable: row in /var/www/html/erpm/View/site_master.php on line 332
+[30-Dec-2022 18:06:06 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /var/www/html/erpm/View/site_master.php on line 332
+[30-Dec-2022 18:06:06 Asia/Kolkata] PHP Notice:  Undefined variable: row in /var/www/html/erpm/View/site_master.php on line 330
+[30-Dec-2022 18:06:06 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /var/www/html/erpm/View/site_master.php on line 330
+[30-Dec-2022 18:06:06 Asia/Kolkata] PHP Notice:  Undefined variable: row in /var/www/html/erpm/View/site_master.php on line 332
+[30-Dec-2022 18:06:06 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /var/www/html/erpm/View/site_master.php on line 332
+[30-Dec-2022 18:06:06 Asia/Kolkata] PHP Notice:  Undefined variable: row in /var/www/html/erpm/View/site_master.php on line 330
+[30-Dec-2022 18:06:06 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /var/www/html/erpm/View/site_master.php on line 330
+[30-Dec-2022 18:06:06 Asia/Kolkata] PHP Notice:  Undefined variable: row in /var/www/html/erpm/View/site_master.php on line 332
+[30-Dec-2022 18:06:06 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /var/www/html/erpm/View/site_master.php on line 332
+[30-Dec-2022 18:06:06 Asia/Kolkata] PHP Notice:  Undefined variable: row in /var/www/html/erpm/View/site_master.php on line 330
+[30-Dec-2022 18:06:06 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /var/www/html/erpm/View/site_master.php on line 330
+[30-Dec-2022 18:06:06 Asia/Kolkata] PHP Notice:  Undefined variable: row in /var/www/html/erpm/View/site_master.php on line 332
+[30-Dec-2022 18:06:06 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /var/www/html/erpm/View/site_master.php on line 332
+[30-Dec-2022 18:06:06 Asia/Kolkata] PHP Notice:  Undefined variable: row in /var/www/html/erpm/View/site_master.php on line 330
+[30-Dec-2022 18:06:06 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /var/www/html/erpm/View/site_master.php on line 330
+[30-Dec-2022 18:06:06 Asia/Kolkata] PHP Notice:  Undefined variable: row in /var/www/html/erpm/View/site_master.php on line 332
+[30-Dec-2022 18:06:06 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /var/www/html/erpm/View/site_master.php on line 332
+[30-Dec-2022 18:06:06 Asia/Kolkata] PHP Notice:  Undefined variable: row in /var/www/html/erpm/View/site_master.php on line 330
+[30-Dec-2022 18:06:06 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /var/www/html/erpm/View/site_master.php on line 330
+[30-Dec-2022 18:06:06 Asia/Kolkata] PHP Notice:  Undefined variable: row in /var/www/html/erpm/View/site_master.php on line 332
+[30-Dec-2022 18:06:06 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /var/www/html/erpm/View/site_master.php on line 332
+[30-Dec-2022 18:06:28 Asia/Kolkata] PHP Notice:  Undefined variable: row in /var/www/html/erpm/View/site_master.php on line 330
+[30-Dec-2022 18:06:28 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /var/www/html/erpm/View/site_master.php on line 330
+[30-Dec-2022 18:06:28 Asia/Kolkata] PHP Notice:  Undefined variable: row in /var/www/html/erpm/View/site_master.php on line 332
+[30-Dec-2022 18:06:28 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /var/www/html/erpm/View/site_master.php on line 332
+[30-Dec-2022 18:06:28 Asia/Kolkata] PHP Notice:  Undefined variable: row in /var/www/html/erpm/View/site_master.php on line 330
+[30-Dec-2022 18:06:28 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /var/www/html/erpm/View/site_master.php on line 330
+[30-Dec-2022 18:06:28 Asia/Kolkata] PHP Notice:  Undefined variable: row in /var/www/html/erpm/View/site_master.php on line 332
+[30-Dec-2022 18:06:28 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /var/www/html/erpm/View/site_master.php on line 332
+[30-Dec-2022 18:06:28 Asia/Kolkata] PHP Notice:  Undefined variable: row in /var/www/html/erpm/View/site_master.php on line 330
+[30-Dec-2022 18:06:28 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /var/www/html/erpm/View/site_master.php on line 330
+[30-Dec-2022 18:06:28 Asia/Kolkata] PHP Notice:  Undefined variable: row in /var/www/html/erpm/View/site_master.php on line 332
+[30-Dec-2022 18:06:28 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /var/www/html/erpm/View/site_master.php on line 332
+[30-Dec-2022 18:06:28 Asia/Kolkata] PHP Notice:  Undefined variable: row in /var/www/html/erpm/View/site_master.php on line 330
+[30-Dec-2022 18:06:28 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /var/www/html/erpm/View/site_master.php on line 330
+[30-Dec-2022 18:06:28 Asia/Kolkata] PHP Notice:  Undefined variable: row in /var/www/html/erpm/View/site_master.php on line 332
+[30-Dec-2022 18:06:28 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /var/www/html/erpm/View/site_master.php on line 332
+[30-Dec-2022 18:06:28 Asia/Kolkata] PHP Notice:  Undefined variable: row in /var/www/html/erpm/View/site_master.php on line 330
+[30-Dec-2022 18:06:28 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /var/www/html/erpm/View/site_master.php on line 330
+[30-Dec-2022 18:06:28 Asia/Kolkata] PHP Notice:  Undefined variable: row in /var/www/html/erpm/View/site_master.php on line 332
+[30-Dec-2022 18:06:28 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /var/www/html/erpm/View/site_master.php on line 332
+[30-Dec-2022 18:06:28 Asia/Kolkata] PHP Notice:  Undefined variable: row in /var/www/html/erpm/View/site_master.php on line 330
+[30-Dec-2022 18:06:28 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /var/www/html/erpm/View/site_master.php on line 330
+[30-Dec-2022 18:06:28 Asia/Kolkata] PHP Notice:  Undefined variable: row in /var/www/html/erpm/View/site_master.php on line 332
+[30-Dec-2022 18:06:28 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /var/www/html/erpm/View/site_master.php on line 332
+[30-Dec-2022 18:06:28 Asia/Kolkata] PHP Notice:  Undefined variable: row in /var/www/html/erpm/View/site_master.php on line 330
+[30-Dec-2022 18:06:28 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /var/www/html/erpm/View/site_master.php on line 330
+[30-Dec-2022 18:06:28 Asia/Kolkata] PHP Notice:  Undefined variable: row in /var/www/html/erpm/View/site_master.php on line 332
+[30-Dec-2022 18:06:28 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /var/www/html/erpm/View/site_master.php on line 332
+[30-Dec-2022 18:07:09 Asia/Kolkata] PHP Notice:  Undefined variable: row in /var/www/html/erpm/View/site_master.php on line 330
+[30-Dec-2022 18:07:09 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /var/www/html/erpm/View/site_master.php on line 330
+[30-Dec-2022 18:07:09 Asia/Kolkata] PHP Notice:  Undefined variable: row in /var/www/html/erpm/View/site_master.php on line 332
+[30-Dec-2022 18:07:09 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /var/www/html/erpm/View/site_master.php on line 332
+[30-Dec-2022 18:07:09 Asia/Kolkata] PHP Notice:  Undefined variable: row in /var/www/html/erpm/View/site_master.php on line 330
+[30-Dec-2022 18:07:09 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /var/www/html/erpm/View/site_master.php on line 330
+[30-Dec-2022 18:07:09 Asia/Kolkata] PHP Notice:  Undefined variable: row in /var/www/html/erpm/View/site_master.php on line 332
+[30-Dec-2022 18:07:09 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /var/www/html/erpm/View/site_master.php on line 332
+[30-Dec-2022 18:07:09 Asia/Kolkata] PHP Notice:  Undefined variable: row in /var/www/html/erpm/View/site_master.php on line 330
+[30-Dec-2022 18:07:09 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /var/www/html/erpm/View/site_master.php on line 330
+[30-Dec-2022 18:07:09 Asia/Kolkata] PHP Notice:  Undefined variable: row in /var/www/html/erpm/View/site_master.php on line 332
+[30-Dec-2022 18:07:09 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /var/www/html/erpm/View/site_master.php on line 332
+[30-Dec-2022 18:07:09 Asia/Kolkata] PHP Notice:  Undefined variable: row in /var/www/html/erpm/View/site_master.php on line 330
+[30-Dec-2022 18:07:09 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /var/www/html/erpm/View/site_master.php on line 330
+[30-Dec-2022 18:07:09 Asia/Kolkata] PHP Notice:  Undefined variable: row in /var/www/html/erpm/View/site_master.php on line 332
+[30-Dec-2022 18:07:09 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /var/www/html/erpm/View/site_master.php on line 332
+[30-Dec-2022 18:07:09 Asia/Kolkata] PHP Notice:  Undefined variable: row in /var/www/html/erpm/View/site_master.php on line 330
+[30-Dec-2022 18:07:09 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /var/www/html/erpm/View/site_master.php on line 330
+[30-Dec-2022 18:07:09 Asia/Kolkata] PHP Notice:  Undefined variable: row in /var/www/html/erpm/View/site_master.php on line 332
+[30-Dec-2022 18:07:09 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /var/www/html/erpm/View/site_master.php on line 332
+[30-Dec-2022 18:07:09 Asia/Kolkata] PHP Notice:  Undefined variable: row in /var/www/html/erpm/View/site_master.php on line 330
+[30-Dec-2022 18:07:09 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /var/www/html/erpm/View/site_master.php on line 330
+[30-Dec-2022 18:07:09 Asia/Kolkata] PHP Notice:  Undefined variable: row in /var/www/html/erpm/View/site_master.php on line 332
+[30-Dec-2022 18:07:09 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /var/www/html/erpm/View/site_master.php on line 332
+[30-Dec-2022 18:07:09 Asia/Kolkata] PHP Notice:  Undefined variable: row in /var/www/html/erpm/View/site_master.php on line 330
+[30-Dec-2022 18:07:09 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /var/www/html/erpm/View/site_master.php on line 330
+[30-Dec-2022 18:07:09 Asia/Kolkata] PHP Notice:  Undefined variable: row in /var/www/html/erpm/View/site_master.php on line 332
+[30-Dec-2022 18:07:09 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /var/www/html/erpm/View/site_master.php on line 332
+[30-Dec-2022 18:08:30 Asia/Kolkata] PHP Notice:  Undefined variable: row in /var/www/html/erpm/View/site_master.php on line 328
+[30-Dec-2022 18:08:30 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /var/www/html/erpm/View/site_master.php on line 328
+[30-Dec-2022 18:08:30 Asia/Kolkata] PHP Notice:  Undefined variable: row in /var/www/html/erpm/View/site_master.php on line 330
+[30-Dec-2022 18:08:30 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /var/www/html/erpm/View/site_master.php on line 330
+[30-Dec-2022 18:08:30 Asia/Kolkata] PHP Notice:  Undefined variable: row in /var/www/html/erpm/View/site_master.php on line 328
+[30-Dec-2022 18:08:30 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /var/www/html/erpm/View/site_master.php on line 328
+[30-Dec-2022 18:08:30 Asia/Kolkata] PHP Notice:  Undefined variable: row in /var/www/html/erpm/View/site_master.php on line 330
+[30-Dec-2022 18:08:30 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /var/www/html/erpm/View/site_master.php on line 330
+[30-Dec-2022 18:08:30 Asia/Kolkata] PHP Notice:  Undefined variable: row in /var/www/html/erpm/View/site_master.php on line 328
+[30-Dec-2022 18:08:30 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /var/www/html/erpm/View/site_master.php on line 328
+[30-Dec-2022 18:08:30 Asia/Kolkata] PHP Notice:  Undefined variable: row in /var/www/html/erpm/View/site_master.php on line 330
+[30-Dec-2022 18:08:30 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /var/www/html/erpm/View/site_master.php on line 330
+[30-Dec-2022 18:08:30 Asia/Kolkata] PHP Notice:  Undefined variable: row in /var/www/html/erpm/View/site_master.php on line 328
+[30-Dec-2022 18:08:30 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /var/www/html/erpm/View/site_master.php on line 328
+[30-Dec-2022 18:08:30 Asia/Kolkata] PHP Notice:  Undefined variable: row in /var/www/html/erpm/View/site_master.php on line 330
+[30-Dec-2022 18:08:30 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /var/www/html/erpm/View/site_master.php on line 330
+[30-Dec-2022 18:08:30 Asia/Kolkata] PHP Notice:  Undefined variable: row in /var/www/html/erpm/View/site_master.php on line 328
+[30-Dec-2022 18:08:30 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /var/www/html/erpm/View/site_master.php on line 328
+[30-Dec-2022 18:08:30 Asia/Kolkata] PHP Notice:  Undefined variable: row in /var/www/html/erpm/View/site_master.php on line 330
+[30-Dec-2022 18:08:30 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /var/www/html/erpm/View/site_master.php on line 330
+[30-Dec-2022 18:08:30 Asia/Kolkata] PHP Notice:  Undefined variable: row in /var/www/html/erpm/View/site_master.php on line 328
+[30-Dec-2022 18:08:30 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /var/www/html/erpm/View/site_master.php on line 328
+[30-Dec-2022 18:08:30 Asia/Kolkata] PHP Notice:  Undefined variable: row in /var/www/html/erpm/View/site_master.php on line 330
+[30-Dec-2022 18:08:30 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /var/www/html/erpm/View/site_master.php on line 330
+[30-Dec-2022 18:08:30 Asia/Kolkata] PHP Notice:  Undefined variable: row in /var/www/html/erpm/View/site_master.php on line 328
+[30-Dec-2022 18:08:30 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /var/www/html/erpm/View/site_master.php on line 328
+[30-Dec-2022 18:08:30 Asia/Kolkata] PHP Notice:  Undefined variable: row in /var/www/html/erpm/View/site_master.php on line 330
+[30-Dec-2022 18:08:30 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /var/www/html/erpm/View/site_master.php on line 330
+[30-Dec-2022 18:08:59 Asia/Kolkata] PHP Notice:  Undefined variable: row in /var/www/html/erpm/View/site_master.php on line 328
+[30-Dec-2022 18:08:59 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /var/www/html/erpm/View/site_master.php on line 328
+[30-Dec-2022 18:08:59 Asia/Kolkata] PHP Notice:  Undefined variable: row in /var/www/html/erpm/View/site_master.php on line 330
+[30-Dec-2022 18:08:59 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /var/www/html/erpm/View/site_master.php on line 330
+[30-Dec-2022 18:08:59 Asia/Kolkata] PHP Notice:  Undefined variable: row in /var/www/html/erpm/View/site_master.php on line 328
+[30-Dec-2022 18:08:59 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /var/www/html/erpm/View/site_master.php on line 328
+[30-Dec-2022 18:08:59 Asia/Kolkata] PHP Notice:  Undefined variable: row in /var/www/html/erpm/View/site_master.php on line 330
+[30-Dec-2022 18:08:59 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /var/www/html/erpm/View/site_master.php on line 330
+[30-Dec-2022 18:08:59 Asia/Kolkata] PHP Notice:  Undefined variable: row in /var/www/html/erpm/View/site_master.php on line 328
+[30-Dec-2022 18:08:59 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /var/www/html/erpm/View/site_master.php on line 328
+[30-Dec-2022 18:08:59 Asia/Kolkata] PHP Notice:  Undefined variable: row in /var/www/html/erpm/View/site_master.php on line 330
+[30-Dec-2022 18:08:59 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /var/www/html/erpm/View/site_master.php on line 330
+[30-Dec-2022 18:08:59 Asia/Kolkata] PHP Notice:  Undefined variable: row in /var/www/html/erpm/View/site_master.php on line 328
+[30-Dec-2022 18:08:59 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /var/www/html/erpm/View/site_master.php on line 328
+[30-Dec-2022 18:08:59 Asia/Kolkata] PHP Notice:  Undefined variable: row in /var/www/html/erpm/View/site_master.php on line 330
+[30-Dec-2022 18:08:59 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /var/www/html/erpm/View/site_master.php on line 330
+[30-Dec-2022 18:08:59 Asia/Kolkata] PHP Notice:  Undefined variable: row in /var/www/html/erpm/View/site_master.php on line 328
+[30-Dec-2022 18:08:59 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /var/www/html/erpm/View/site_master.php on line 328
+[30-Dec-2022 18:08:59 Asia/Kolkata] PHP Notice:  Undefined variable: row in /var/www/html/erpm/View/site_master.php on line 330
+[30-Dec-2022 18:08:59 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /var/www/html/erpm/View/site_master.php on line 330
+[30-Dec-2022 18:08:59 Asia/Kolkata] PHP Notice:  Undefined variable: row in /var/www/html/erpm/View/site_master.php on line 328
+[30-Dec-2022 18:08:59 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /var/www/html/erpm/View/site_master.php on line 328
+[30-Dec-2022 18:08:59 Asia/Kolkata] PHP Notice:  Undefined variable: row in /var/www/html/erpm/View/site_master.php on line 330
+[30-Dec-2022 18:08:59 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /var/www/html/erpm/View/site_master.php on line 330
+[30-Dec-2022 18:16:37 Asia/Kolkata] PHP Notice:  Undefined variable: row in /var/www/html/erpm/View/site_master.php on line 337
+[30-Dec-2022 18:16:37 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /var/www/html/erpm/View/site_master.php on line 337
+[30-Dec-2022 18:16:37 Asia/Kolkata] PHP Notice:  Undefined variable: row in /var/www/html/erpm/View/site_master.php on line 339
+[30-Dec-2022 18:16:37 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /var/www/html/erpm/View/site_master.php on line 339
+[30-Dec-2022 18:16:37 Asia/Kolkata] PHP Notice:  Undefined variable: row in /var/www/html/erpm/View/site_master.php on line 337
+[30-Dec-2022 18:16:37 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /var/www/html/erpm/View/site_master.php on line 337
+[30-Dec-2022 18:16:37 Asia/Kolkata] PHP Notice:  Undefined variable: row in /var/www/html/erpm/View/site_master.php on line 339
+[30-Dec-2022 18:16:37 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /var/www/html/erpm/View/site_master.php on line 339
+[30-Dec-2022 18:16:37 Asia/Kolkata] PHP Notice:  Undefined variable: row in /var/www/html/erpm/View/site_master.php on line 337
+[30-Dec-2022 18:16:37 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /var/www/html/erpm/View/site_master.php on line 337
+[30-Dec-2022 18:16:37 Asia/Kolkata] PHP Notice:  Undefined variable: row in /var/www/html/erpm/View/site_master.php on line 339
+[30-Dec-2022 18:16:37 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /var/www/html/erpm/View/site_master.php on line 339
+[30-Dec-2022 18:16:37 Asia/Kolkata] PHP Notice:  Undefined variable: row in /var/www/html/erpm/View/site_master.php on line 337
+[30-Dec-2022 18:16:37 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /var/www/html/erpm/View/site_master.php on line 337
+[30-Dec-2022 18:16:37 Asia/Kolkata] PHP Notice:  Undefined variable: row in /var/www/html/erpm/View/site_master.php on line 339
+[30-Dec-2022 18:16:37 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /var/www/html/erpm/View/site_master.php on line 339
+[30-Dec-2022 18:16:37 Asia/Kolkata] PHP Notice:  Undefined variable: row in /var/www/html/erpm/View/site_master.php on line 337
+[30-Dec-2022 18:16:37 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /var/www/html/erpm/View/site_master.php on line 337
+[30-Dec-2022 18:16:37 Asia/Kolkata] PHP Notice:  Undefined variable: row in /var/www/html/erpm/View/site_master.php on line 339
+[30-Dec-2022 18:16:37 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /var/www/html/erpm/View/site_master.php on line 339
+[30-Dec-2022 18:16:37 Asia/Kolkata] PHP Notice:  Undefined variable: row in /var/www/html/erpm/View/site_master.php on line 337
+[30-Dec-2022 18:16:37 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /var/www/html/erpm/View/site_master.php on line 337
+[30-Dec-2022 18:16:37 Asia/Kolkata] PHP Notice:  Undefined variable: row in /var/www/html/erpm/View/site_master.php on line 339
+[30-Dec-2022 18:16:37 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /var/www/html/erpm/View/site_master.php on line 339
+[30-Dec-2022 18:16:45 Asia/Kolkata] PHP Notice:  Undefined variable: row in /var/www/html/erpm/View/site_master.php on line 337
+[30-Dec-2022 18:16:45 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /var/www/html/erpm/View/site_master.php on line 337
+[30-Dec-2022 18:16:45 Asia/Kolkata] PHP Notice:  Undefined variable: row in /var/www/html/erpm/View/site_master.php on line 339
+[30-Dec-2022 18:16:45 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /var/www/html/erpm/View/site_master.php on line 339
+[30-Dec-2022 18:16:45 Asia/Kolkata] PHP Notice:  Undefined variable: row in /var/www/html/erpm/View/site_master.php on line 337
+[30-Dec-2022 18:16:45 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /var/www/html/erpm/View/site_master.php on line 337
+[30-Dec-2022 18:16:45 Asia/Kolkata] PHP Notice:  Undefined variable: row in /var/www/html/erpm/View/site_master.php on line 339
+[30-Dec-2022 18:16:45 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /var/www/html/erpm/View/site_master.php on line 339
+[30-Dec-2022 18:16:45 Asia/Kolkata] PHP Notice:  Undefined variable: row in /var/www/html/erpm/View/site_master.php on line 337
+[30-Dec-2022 18:16:45 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /var/www/html/erpm/View/site_master.php on line 337
+[30-Dec-2022 18:16:45 Asia/Kolkata] PHP Notice:  Undefined variable: row in /var/www/html/erpm/View/site_master.php on line 339
+[30-Dec-2022 18:16:45 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /var/www/html/erpm/View/site_master.php on line 339
+[30-Dec-2022 18:16:45 Asia/Kolkata] PHP Notice:  Undefined variable: row in /var/www/html/erpm/View/site_master.php on line 337
+[30-Dec-2022 18:16:45 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /var/www/html/erpm/View/site_master.php on line 337
+[30-Dec-2022 18:16:45 Asia/Kolkata] PHP Notice:  Undefined variable: row in /var/www/html/erpm/View/site_master.php on line 339
+[30-Dec-2022 18:16:45 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /var/www/html/erpm/View/site_master.php on line 339
+[30-Dec-2022 18:16:45 Asia/Kolkata] PHP Notice:  Undefined variable: row in /var/www/html/erpm/View/site_master.php on line 337
+[30-Dec-2022 18:16:45 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /var/www/html/erpm/View/site_master.php on line 337
+[30-Dec-2022 18:16:45 Asia/Kolkata] PHP Notice:  Undefined variable: row in /var/www/html/erpm/View/site_master.php on line 339
+[30-Dec-2022 18:16:45 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /var/www/html/erpm/View/site_master.php on line 339
+[30-Dec-2022 18:16:45 Asia/Kolkata] PHP Notice:  Undefined variable: row in /var/www/html/erpm/View/site_master.php on line 337
+[30-Dec-2022 18:16:45 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /var/www/html/erpm/View/site_master.php on line 337
+[30-Dec-2022 18:16:45 Asia/Kolkata] PHP Notice:  Undefined variable: row in /var/www/html/erpm/View/site_master.php on line 339
+[30-Dec-2022 18:16:45 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /var/www/html/erpm/View/site_master.php on line 339
+[30-Dec-2022 18:16:53 Asia/Kolkata] PHP Warning:  mysqli_stmt::bind_param(): Number of elements in type definition string doesn't match number of bind variables in /var/www/html/erpm/View/site_master.php on line 29
+[30-Dec-2022 18:16:53 Asia/Kolkata] PHP Notice:  Undefined variable: row in /var/www/html/erpm/View/site_master.php on line 337
+[30-Dec-2022 18:16:53 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /var/www/html/erpm/View/site_master.php on line 337
+[30-Dec-2022 18:16:53 Asia/Kolkata] PHP Notice:  Undefined variable: row in /var/www/html/erpm/View/site_master.php on line 339
+[30-Dec-2022 18:16:53 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /var/www/html/erpm/View/site_master.php on line 339
+[30-Dec-2022 18:16:53 Asia/Kolkata] PHP Notice:  Undefined variable: row in /var/www/html/erpm/View/site_master.php on line 337
+[30-Dec-2022 18:16:53 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /var/www/html/erpm/View/site_master.php on line 337
+[30-Dec-2022 18:16:53 Asia/Kolkata] PHP Notice:  Undefined variable: row in /var/www/html/erpm/View/site_master.php on line 339
+[30-Dec-2022 18:16:53 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /var/www/html/erpm/View/site_master.php on line 339
+[30-Dec-2022 18:16:53 Asia/Kolkata] PHP Notice:  Undefined variable: row in /var/www/html/erpm/View/site_master.php on line 337
+[30-Dec-2022 18:16:53 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /var/www/html/erpm/View/site_master.php on line 337
+[30-Dec-2022 18:16:53 Asia/Kolkata] PHP Notice:  Undefined variable: row in /var/www/html/erpm/View/site_master.php on line 339
+[30-Dec-2022 18:16:53 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /var/www/html/erpm/View/site_master.php on line 339
+[30-Dec-2022 18:16:53 Asia/Kolkata] PHP Notice:  Undefined variable: row in /var/www/html/erpm/View/site_master.php on line 337
+[30-Dec-2022 18:16:53 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /var/www/html/erpm/View/site_master.php on line 337
+[30-Dec-2022 18:16:53 Asia/Kolkata] PHP Notice:  Undefined variable: row in /var/www/html/erpm/View/site_master.php on line 339
+[30-Dec-2022 18:16:53 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /var/www/html/erpm/View/site_master.php on line 339
+[30-Dec-2022 18:16:53 Asia/Kolkata] PHP Notice:  Undefined variable: row in /var/www/html/erpm/View/site_master.php on line 337
+[30-Dec-2022 18:16:53 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /var/www/html/erpm/View/site_master.php on line 337
+[30-Dec-2022 18:16:53 Asia/Kolkata] PHP Notice:  Undefined variable: row in /var/www/html/erpm/View/site_master.php on line 339
+[30-Dec-2022 18:16:53 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /var/www/html/erpm/View/site_master.php on line 339
+[30-Dec-2022 18:16:53 Asia/Kolkata] PHP Notice:  Undefined variable: row in /var/www/html/erpm/View/site_master.php on line 337
+[30-Dec-2022 18:16:53 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /var/www/html/erpm/View/site_master.php on line 337
+[30-Dec-2022 18:16:53 Asia/Kolkata] PHP Notice:  Undefined variable: row in /var/www/html/erpm/View/site_master.php on line 339
+[30-Dec-2022 18:16:53 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /var/www/html/erpm/View/site_master.php on line 339
+[30-Dec-2022 18:16:53 Asia/Kolkata] PHP Notice:  Undefined variable: row in /var/www/html/erpm/View/site_master.php on line 337
+[30-Dec-2022 18:16:53 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /var/www/html/erpm/View/site_master.php on line 337
+[30-Dec-2022 18:16:53 Asia/Kolkata] PHP Notice:  Undefined variable: row in /var/www/html/erpm/View/site_master.php on line 339
+[30-Dec-2022 18:16:53 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /var/www/html/erpm/View/site_master.php on line 339
+[30-Dec-2022 18:17:29 Asia/Kolkata] PHP Notice:  Undefined variable: row in /var/www/html/erpm/View/site_master.php on line 337
+[30-Dec-2022 18:17:29 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /var/www/html/erpm/View/site_master.php on line 337
+[30-Dec-2022 18:17:29 Asia/Kolkata] PHP Notice:  Undefined variable: row in /var/www/html/erpm/View/site_master.php on line 339
+[30-Dec-2022 18:17:29 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /var/www/html/erpm/View/site_master.php on line 339
+[30-Dec-2022 18:17:29 Asia/Kolkata] PHP Notice:  Undefined variable: row in /var/www/html/erpm/View/site_master.php on line 337
+[30-Dec-2022 18:17:29 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /var/www/html/erpm/View/site_master.php on line 337
+[30-Dec-2022 18:17:29 Asia/Kolkata] PHP Notice:  Undefined variable: row in /var/www/html/erpm/View/site_master.php on line 339
+[30-Dec-2022 18:17:29 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /var/www/html/erpm/View/site_master.php on line 339
+[30-Dec-2022 18:17:29 Asia/Kolkata] PHP Notice:  Undefined variable: row in /var/www/html/erpm/View/site_master.php on line 337
+[30-Dec-2022 18:17:29 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /var/www/html/erpm/View/site_master.php on line 337
+[30-Dec-2022 18:17:29 Asia/Kolkata] PHP Notice:  Undefined variable: row in /var/www/html/erpm/View/site_master.php on line 339
+[30-Dec-2022 18:17:29 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /var/www/html/erpm/View/site_master.php on line 339
+[30-Dec-2022 18:17:29 Asia/Kolkata] PHP Notice:  Undefined variable: row in /var/www/html/erpm/View/site_master.php on line 337
+[30-Dec-2022 18:17:29 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /var/www/html/erpm/View/site_master.php on line 337
+[30-Dec-2022 18:17:29 Asia/Kolkata] PHP Notice:  Undefined variable: row in /var/www/html/erpm/View/site_master.php on line 339
+[30-Dec-2022 18:17:29 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /var/www/html/erpm/View/site_master.php on line 339
+[30-Dec-2022 18:17:29 Asia/Kolkata] PHP Notice:  Undefined variable: row in /var/www/html/erpm/View/site_master.php on line 337
+[30-Dec-2022 18:17:29 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /var/www/html/erpm/View/site_master.php on line 337
+[30-Dec-2022 18:17:29 Asia/Kolkata] PHP Notice:  Undefined variable: row in /var/www/html/erpm/View/site_master.php on line 339
+[30-Dec-2022 18:17:29 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /var/www/html/erpm/View/site_master.php on line 339
+[30-Dec-2022 18:17:29 Asia/Kolkata] PHP Notice:  Undefined variable: row in /var/www/html/erpm/View/site_master.php on line 337
+[30-Dec-2022 18:17:29 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /var/www/html/erpm/View/site_master.php on line 337
+[30-Dec-2022 18:17:29 Asia/Kolkata] PHP Notice:  Undefined variable: row in /var/www/html/erpm/View/site_master.php on line 339
+[30-Dec-2022 18:17:29 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /var/www/html/erpm/View/site_master.php on line 339
+[30-Dec-2022 18:17:37 Asia/Kolkata] PHP Notice:  Undefined variable: row in /var/www/html/erpm/View/site_master.php on line 337
+[30-Dec-2022 18:17:37 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /var/www/html/erpm/View/site_master.php on line 337
+[30-Dec-2022 18:17:37 Asia/Kolkata] PHP Notice:  Undefined variable: row in /var/www/html/erpm/View/site_master.php on line 339
+[30-Dec-2022 18:17:37 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /var/www/html/erpm/View/site_master.php on line 339
+[30-Dec-2022 18:17:37 Asia/Kolkata] PHP Notice:  Undefined variable: row in /var/www/html/erpm/View/site_master.php on line 337
+[30-Dec-2022 18:17:37 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /var/www/html/erpm/View/site_master.php on line 337
+[30-Dec-2022 18:17:37 Asia/Kolkata] PHP Notice:  Undefined variable: row in /var/www/html/erpm/View/site_master.php on line 339
+[30-Dec-2022 18:17:37 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /var/www/html/erpm/View/site_master.php on line 339
+[30-Dec-2022 18:17:37 Asia/Kolkata] PHP Notice:  Undefined variable: row in /var/www/html/erpm/View/site_master.php on line 337
+[30-Dec-2022 18:17:37 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /var/www/html/erpm/View/site_master.php on line 337
+[30-Dec-2022 18:17:37 Asia/Kolkata] PHP Notice:  Undefined variable: row in /var/www/html/erpm/View/site_master.php on line 339
+[30-Dec-2022 18:17:37 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /var/www/html/erpm/View/site_master.php on line 339
+[30-Dec-2022 18:17:37 Asia/Kolkata] PHP Notice:  Undefined variable: row in /var/www/html/erpm/View/site_master.php on line 337
+[30-Dec-2022 18:17:37 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /var/www/html/erpm/View/site_master.php on line 337
+[30-Dec-2022 18:17:37 Asia/Kolkata] PHP Notice:  Undefined variable: row in /var/www/html/erpm/View/site_master.php on line 339
+[30-Dec-2022 18:17:37 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /var/www/html/erpm/View/site_master.php on line 339
+[30-Dec-2022 18:17:37 Asia/Kolkata] PHP Notice:  Undefined variable: row in /var/www/html/erpm/View/site_master.php on line 337
+[30-Dec-2022 18:17:37 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /var/www/html/erpm/View/site_master.php on line 337
+[30-Dec-2022 18:17:37 Asia/Kolkata] PHP Notice:  Undefined variable: row in /var/www/html/erpm/View/site_master.php on line 339
+[30-Dec-2022 18:17:37 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /var/www/html/erpm/View/site_master.php on line 339
+[30-Dec-2022 18:17:37 Asia/Kolkata] PHP Notice:  Undefined variable: row in /var/www/html/erpm/View/site_master.php on line 337
+[30-Dec-2022 18:17:37 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /var/www/html/erpm/View/site_master.php on line 337
+[30-Dec-2022 18:17:37 Asia/Kolkata] PHP Notice:  Undefined variable: row in /var/www/html/erpm/View/site_master.php on line 339
+[30-Dec-2022 18:17:37 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /var/www/html/erpm/View/site_master.php on line 339
+[30-Dec-2022 18:17:37 Asia/Kolkata] PHP Notice:  Undefined variable: row in /var/www/html/erpm/View/site_master.php on line 337
+[30-Dec-2022 18:17:37 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /var/www/html/erpm/View/site_master.php on line 337
+[30-Dec-2022 18:17:37 Asia/Kolkata] PHP Notice:  Undefined variable: row in /var/www/html/erpm/View/site_master.php on line 339
+[30-Dec-2022 18:17:37 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /var/www/html/erpm/View/site_master.php on line 339
+[30-Dec-2022 18:18:14 Asia/Kolkata] PHP Notice:  Undefined variable: row in /var/www/html/erpm/View/site_master.php on line 338
+[30-Dec-2022 18:18:14 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /var/www/html/erpm/View/site_master.php on line 338
+[30-Dec-2022 18:18:14 Asia/Kolkata] PHP Notice:  Undefined variable: row in /var/www/html/erpm/View/site_master.php on line 340
+[30-Dec-2022 18:18:14 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /var/www/html/erpm/View/site_master.php on line 340
+[30-Dec-2022 18:18:14 Asia/Kolkata] PHP Notice:  Undefined variable: row in /var/www/html/erpm/View/site_master.php on line 338
+[30-Dec-2022 18:18:14 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /var/www/html/erpm/View/site_master.php on line 338
+[30-Dec-2022 18:18:14 Asia/Kolkata] PHP Notice:  Undefined variable: row in /var/www/html/erpm/View/site_master.php on line 340
+[30-Dec-2022 18:18:14 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /var/www/html/erpm/View/site_master.php on line 340
+[30-Dec-2022 18:18:14 Asia/Kolkata] PHP Notice:  Undefined variable: row in /var/www/html/erpm/View/site_master.php on line 338
+[30-Dec-2022 18:18:14 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /var/www/html/erpm/View/site_master.php on line 338
+[30-Dec-2022 18:18:14 Asia/Kolkata] PHP Notice:  Undefined variable: row in /var/www/html/erpm/View/site_master.php on line 340
+[30-Dec-2022 18:18:14 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /var/www/html/erpm/View/site_master.php on line 340
+[30-Dec-2022 18:18:14 Asia/Kolkata] PHP Notice:  Undefined variable: row in /var/www/html/erpm/View/site_master.php on line 338
+[30-Dec-2022 18:18:14 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /var/www/html/erpm/View/site_master.php on line 338
+[30-Dec-2022 18:18:14 Asia/Kolkata] PHP Notice:  Undefined variable: row in /var/www/html/erpm/View/site_master.php on line 340
+[30-Dec-2022 18:18:14 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /var/www/html/erpm/View/site_master.php on line 340
+[30-Dec-2022 18:18:14 Asia/Kolkata] PHP Notice:  Undefined variable: row in /var/www/html/erpm/View/site_master.php on line 338
+[30-Dec-2022 18:18:14 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /var/www/html/erpm/View/site_master.php on line 338
+[30-Dec-2022 18:18:14 Asia/Kolkata] PHP Notice:  Undefined variable: row in /var/www/html/erpm/View/site_master.php on line 340
+[30-Dec-2022 18:18:14 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /var/www/html/erpm/View/site_master.php on line 340
+[30-Dec-2022 18:18:14 Asia/Kolkata] PHP Notice:  Undefined variable: row in /var/www/html/erpm/View/site_master.php on line 338
+[30-Dec-2022 18:18:14 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /var/www/html/erpm/View/site_master.php on line 338
+[30-Dec-2022 18:18:14 Asia/Kolkata] PHP Notice:  Undefined variable: row in /var/www/html/erpm/View/site_master.php on line 340
+[30-Dec-2022 18:18:14 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /var/www/html/erpm/View/site_master.php on line 340
+[30-Dec-2022 18:19:11 Asia/Kolkata] PHP Notice:  Undefined variable: row in /var/www/html/erpm/View/site_master.php on line 337
+[30-Dec-2022 18:19:11 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /var/www/html/erpm/View/site_master.php on line 337
+[30-Dec-2022 18:19:11 Asia/Kolkata] PHP Notice:  Undefined variable: row in /var/www/html/erpm/View/site_master.php on line 339
+[30-Dec-2022 18:19:11 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /var/www/html/erpm/View/site_master.php on line 339
+[30-Dec-2022 18:19:11 Asia/Kolkata] PHP Notice:  Undefined variable: row in /var/www/html/erpm/View/site_master.php on line 337
+[30-Dec-2022 18:19:11 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /var/www/html/erpm/View/site_master.php on line 337
+[30-Dec-2022 18:19:11 Asia/Kolkata] PHP Notice:  Undefined variable: row in /var/www/html/erpm/View/site_master.php on line 339
+[30-Dec-2022 18:19:11 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /var/www/html/erpm/View/site_master.php on line 339
+[30-Dec-2022 18:19:11 Asia/Kolkata] PHP Notice:  Undefined variable: row in /var/www/html/erpm/View/site_master.php on line 337
+[30-Dec-2022 18:19:11 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /var/www/html/erpm/View/site_master.php on line 337
+[30-Dec-2022 18:19:11 Asia/Kolkata] PHP Notice:  Undefined variable: row in /var/www/html/erpm/View/site_master.php on line 339
+[30-Dec-2022 18:19:11 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /var/www/html/erpm/View/site_master.php on line 339
+[30-Dec-2022 18:19:11 Asia/Kolkata] PHP Notice:  Undefined variable: row in /var/www/html/erpm/View/site_master.php on line 337
+[30-Dec-2022 18:19:11 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /var/www/html/erpm/View/site_master.php on line 337
+[30-Dec-2022 18:19:11 Asia/Kolkata] PHP Notice:  Undefined variable: row in /var/www/html/erpm/View/site_master.php on line 339
+[30-Dec-2022 18:19:11 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /var/www/html/erpm/View/site_master.php on line 339
+[30-Dec-2022 18:19:11 Asia/Kolkata] PHP Notice:  Undefined variable: row in /var/www/html/erpm/View/site_master.php on line 337
+[30-Dec-2022 18:19:11 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /var/www/html/erpm/View/site_master.php on line 337
+[30-Dec-2022 18:19:11 Asia/Kolkata] PHP Notice:  Undefined variable: row in /var/www/html/erpm/View/site_master.php on line 339
+[30-Dec-2022 18:19:11 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /var/www/html/erpm/View/site_master.php on line 339
+[30-Dec-2022 18:19:11 Asia/Kolkata] PHP Notice:  Undefined variable: row in /var/www/html/erpm/View/site_master.php on line 337
+[30-Dec-2022 18:19:11 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /var/www/html/erpm/View/site_master.php on line 337
+[30-Dec-2022 18:19:11 Asia/Kolkata] PHP Notice:  Undefined variable: row in /var/www/html/erpm/View/site_master.php on line 339
+[30-Dec-2022 18:19:11 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /var/www/html/erpm/View/site_master.php on line 339
+[30-Dec-2022 18:19:11 Asia/Kolkata] PHP Notice:  Undefined variable: row in /var/www/html/erpm/View/site_master.php on line 337
+[30-Dec-2022 18:19:11 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /var/www/html/erpm/View/site_master.php on line 337
+[30-Dec-2022 18:19:11 Asia/Kolkata] PHP Notice:  Undefined variable: row in /var/www/html/erpm/View/site_master.php on line 339
+[30-Dec-2022 18:19:11 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /var/www/html/erpm/View/site_master.php on line 339
+[30-Dec-2022 18:20:06 Asia/Kolkata] PHP Notice:  Undefined variable: row in /var/www/html/erpm/View/site_master.php on line 340
+[30-Dec-2022 18:20:06 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /var/www/html/erpm/View/site_master.php on line 340
+[30-Dec-2022 18:20:06 Asia/Kolkata] PHP Notice:  Undefined variable: row in /var/www/html/erpm/View/site_master.php on line 342
+[30-Dec-2022 18:20:06 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /var/www/html/erpm/View/site_master.php on line 342
+[30-Dec-2022 18:20:06 Asia/Kolkata] PHP Notice:  Undefined variable: row in /var/www/html/erpm/View/site_master.php on line 340
+[30-Dec-2022 18:20:06 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /var/www/html/erpm/View/site_master.php on line 340
+[30-Dec-2022 18:20:06 Asia/Kolkata] PHP Notice:  Undefined variable: row in /var/www/html/erpm/View/site_master.php on line 342
+[30-Dec-2022 18:20:06 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /var/www/html/erpm/View/site_master.php on line 342
+[30-Dec-2022 18:20:06 Asia/Kolkata] PHP Notice:  Undefined variable: row in /var/www/html/erpm/View/site_master.php on line 340
+[30-Dec-2022 18:20:06 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /var/www/html/erpm/View/site_master.php on line 340
+[30-Dec-2022 18:20:06 Asia/Kolkata] PHP Notice:  Undefined variable: row in /var/www/html/erpm/View/site_master.php on line 342
+[30-Dec-2022 18:20:06 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /var/www/html/erpm/View/site_master.php on line 342
+[30-Dec-2022 18:20:06 Asia/Kolkata] PHP Notice:  Undefined variable: row in /var/www/html/erpm/View/site_master.php on line 340
+[30-Dec-2022 18:20:06 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /var/www/html/erpm/View/site_master.php on line 340
+[30-Dec-2022 18:20:06 Asia/Kolkata] PHP Notice:  Undefined variable: row in /var/www/html/erpm/View/site_master.php on line 342
+[30-Dec-2022 18:20:06 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /var/www/html/erpm/View/site_master.php on line 342
+[30-Dec-2022 18:20:06 Asia/Kolkata] PHP Notice:  Undefined variable: row in /var/www/html/erpm/View/site_master.php on line 340
+[30-Dec-2022 18:20:06 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /var/www/html/erpm/View/site_master.php on line 340
+[30-Dec-2022 18:20:06 Asia/Kolkata] PHP Notice:  Undefined variable: row in /var/www/html/erpm/View/site_master.php on line 342
+[30-Dec-2022 18:20:06 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /var/www/html/erpm/View/site_master.php on line 342
+[30-Dec-2022 18:20:06 Asia/Kolkata] PHP Notice:  Undefined variable: row in /var/www/html/erpm/View/site_master.php on line 340
+[30-Dec-2022 18:20:06 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /var/www/html/erpm/View/site_master.php on line 340
+[30-Dec-2022 18:20:06 Asia/Kolkata] PHP Notice:  Undefined variable: row in /var/www/html/erpm/View/site_master.php on line 342
+[30-Dec-2022 18:20:06 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /var/www/html/erpm/View/site_master.php on line 342
+[30-Dec-2022 18:20:13 Asia/Kolkata] PHP Notice:  Undefined variable: row in /var/www/html/erpm/View/site_master.php on line 340
+[30-Dec-2022 18:20:13 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /var/www/html/erpm/View/site_master.php on line 340
+[30-Dec-2022 18:20:13 Asia/Kolkata] PHP Notice:  Undefined variable: row in /var/www/html/erpm/View/site_master.php on line 342
+[30-Dec-2022 18:20:13 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /var/www/html/erpm/View/site_master.php on line 342
+[30-Dec-2022 18:20:13 Asia/Kolkata] PHP Notice:  Undefined variable: row in /var/www/html/erpm/View/site_master.php on line 340
+[30-Dec-2022 18:20:13 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /var/www/html/erpm/View/site_master.php on line 340
+[30-Dec-2022 18:20:13 Asia/Kolkata] PHP Notice:  Undefined variable: row in /var/www/html/erpm/View/site_master.php on line 342
+[30-Dec-2022 18:20:13 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /var/www/html/erpm/View/site_master.php on line 342
+[30-Dec-2022 18:20:13 Asia/Kolkata] PHP Notice:  Undefined variable: row in /var/www/html/erpm/View/site_master.php on line 340
+[30-Dec-2022 18:20:13 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /var/www/html/erpm/View/site_master.php on line 340
+[30-Dec-2022 18:20:13 Asia/Kolkata] PHP Notice:  Undefined variable: row in /var/www/html/erpm/View/site_master.php on line 342
+[30-Dec-2022 18:20:13 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /var/www/html/erpm/View/site_master.php on line 342
+[30-Dec-2022 18:20:13 Asia/Kolkata] PHP Notice:  Undefined variable: row in /var/www/html/erpm/View/site_master.php on line 340
+[30-Dec-2022 18:20:13 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /var/www/html/erpm/View/site_master.php on line 340
+[30-Dec-2022 18:20:13 Asia/Kolkata] PHP Notice:  Undefined variable: row in /var/www/html/erpm/View/site_master.php on line 342
+[30-Dec-2022 18:20:13 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /var/www/html/erpm/View/site_master.php on line 342
+[30-Dec-2022 18:20:13 Asia/Kolkata] PHP Notice:  Undefined variable: row in /var/www/html/erpm/View/site_master.php on line 340
+[30-Dec-2022 18:20:13 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /var/www/html/erpm/View/site_master.php on line 340
+[30-Dec-2022 18:20:13 Asia/Kolkata] PHP Notice:  Undefined variable: row in /var/www/html/erpm/View/site_master.php on line 342
+[30-Dec-2022 18:20:13 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /var/www/html/erpm/View/site_master.php on line 342
+[30-Dec-2022 18:20:13 Asia/Kolkata] PHP Notice:  Undefined variable: row in /var/www/html/erpm/View/site_master.php on line 340
+[30-Dec-2022 18:20:13 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /var/www/html/erpm/View/site_master.php on line 340
+[30-Dec-2022 18:20:13 Asia/Kolkata] PHP Notice:  Undefined variable: row in /var/www/html/erpm/View/site_master.php on line 342
+[30-Dec-2022 18:20:13 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /var/www/html/erpm/View/site_master.php on line 342
+[30-Dec-2022 18:20:13 Asia/Kolkata] PHP Notice:  Undefined variable: row in /var/www/html/erpm/View/site_master.php on line 340
+[30-Dec-2022 18:20:13 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /var/www/html/erpm/View/site_master.php on line 340
+[30-Dec-2022 18:20:13 Asia/Kolkata] PHP Notice:  Undefined variable: row in /var/www/html/erpm/View/site_master.php on line 342
+[30-Dec-2022 18:20:13 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /var/www/html/erpm/View/site_master.php on line 342
+[30-Dec-2022 18:22:18 Asia/Kolkata] PHP Notice:  Undefined variable: row in /var/www/html/erpm/View/site_master.php on line 340
+[30-Dec-2022 18:22:18 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /var/www/html/erpm/View/site_master.php on line 340
+[30-Dec-2022 18:22:18 Asia/Kolkata] PHP Notice:  Undefined variable: row in /var/www/html/erpm/View/site_master.php on line 342
+[30-Dec-2022 18:22:18 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /var/www/html/erpm/View/site_master.php on line 342
+[30-Dec-2022 18:22:18 Asia/Kolkata] PHP Notice:  Undefined variable: row in /var/www/html/erpm/View/site_master.php on line 340
+[30-Dec-2022 18:22:18 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /var/www/html/erpm/View/site_master.php on line 340
+[30-Dec-2022 18:22:18 Asia/Kolkata] PHP Notice:  Undefined variable: row in /var/www/html/erpm/View/site_master.php on line 342
+[30-Dec-2022 18:22:18 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /var/www/html/erpm/View/site_master.php on line 342
+[30-Dec-2022 18:22:18 Asia/Kolkata] PHP Notice:  Undefined variable: row in /var/www/html/erpm/View/site_master.php on line 340
+[30-Dec-2022 18:22:18 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /var/www/html/erpm/View/site_master.php on line 340
+[30-Dec-2022 18:22:18 Asia/Kolkata] PHP Notice:  Undefined variable: row in /var/www/html/erpm/View/site_master.php on line 342
+[30-Dec-2022 18:22:18 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /var/www/html/erpm/View/site_master.php on line 342
+[30-Dec-2022 18:22:18 Asia/Kolkata] PHP Notice:  Undefined variable: row in /var/www/html/erpm/View/site_master.php on line 340
+[30-Dec-2022 18:22:18 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /var/www/html/erpm/View/site_master.php on line 340
+[30-Dec-2022 18:22:18 Asia/Kolkata] PHP Notice:  Undefined variable: row in /var/www/html/erpm/View/site_master.php on line 342
+[30-Dec-2022 18:22:18 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /var/www/html/erpm/View/site_master.php on line 342
+[30-Dec-2022 18:22:18 Asia/Kolkata] PHP Notice:  Undefined variable: row in /var/www/html/erpm/View/site_master.php on line 340
+[30-Dec-2022 18:22:18 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /var/www/html/erpm/View/site_master.php on line 340
+[30-Dec-2022 18:22:18 Asia/Kolkata] PHP Notice:  Undefined variable: row in /var/www/html/erpm/View/site_master.php on line 342
+[30-Dec-2022 18:22:18 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /var/www/html/erpm/View/site_master.php on line 342
+[30-Dec-2022 18:22:18 Asia/Kolkata] PHP Notice:  Undefined variable: row in /var/www/html/erpm/View/site_master.php on line 340
+[30-Dec-2022 18:22:18 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /var/www/html/erpm/View/site_master.php on line 340
+[30-Dec-2022 18:22:18 Asia/Kolkata] PHP Notice:  Undefined variable: row in /var/www/html/erpm/View/site_master.php on line 342
+[30-Dec-2022 18:22:18 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /var/www/html/erpm/View/site_master.php on line 342
+[30-Dec-2022 18:22:18 Asia/Kolkata] PHP Notice:  Undefined variable: row in /var/www/html/erpm/View/site_master.php on line 340
+[30-Dec-2022 18:22:18 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /var/www/html/erpm/View/site_master.php on line 340
+[30-Dec-2022 18:22:18 Asia/Kolkata] PHP Notice:  Undefined variable: row in /var/www/html/erpm/View/site_master.php on line 342
+[30-Dec-2022 18:22:18 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /var/www/html/erpm/View/site_master.php on line 342
+[30-Dec-2022 18:22:25 Asia/Kolkata] PHP Notice:  Undefined variable: row in /var/www/html/erpm/View/site_master.php on line 340
+[30-Dec-2022 18:22:25 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /var/www/html/erpm/View/site_master.php on line 340
+[30-Dec-2022 18:22:25 Asia/Kolkata] PHP Notice:  Undefined variable: row in /var/www/html/erpm/View/site_master.php on line 342
+[30-Dec-2022 18:22:25 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /var/www/html/erpm/View/site_master.php on line 342
+[30-Dec-2022 18:22:25 Asia/Kolkata] PHP Notice:  Undefined variable: row in /var/www/html/erpm/View/site_master.php on line 340
+[30-Dec-2022 18:22:25 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /var/www/html/erpm/View/site_master.php on line 340
+[30-Dec-2022 18:22:25 Asia/Kolkata] PHP Notice:  Undefined variable: row in /var/www/html/erpm/View/site_master.php on line 342
+[30-Dec-2022 18:22:25 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /var/www/html/erpm/View/site_master.php on line 342
+[30-Dec-2022 18:22:25 Asia/Kolkata] PHP Notice:  Undefined variable: row in /var/www/html/erpm/View/site_master.php on line 340
+[30-Dec-2022 18:22:25 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /var/www/html/erpm/View/site_master.php on line 340
+[30-Dec-2022 18:22:25 Asia/Kolkata] PHP Notice:  Undefined variable: row in /var/www/html/erpm/View/site_master.php on line 342
+[30-Dec-2022 18:22:25 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /var/www/html/erpm/View/site_master.php on line 342
+[30-Dec-2022 18:22:25 Asia/Kolkata] PHP Notice:  Undefined variable: row in /var/www/html/erpm/View/site_master.php on line 340
+[30-Dec-2022 18:22:25 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /var/www/html/erpm/View/site_master.php on line 340
+[30-Dec-2022 18:22:25 Asia/Kolkata] PHP Notice:  Undefined variable: row in /var/www/html/erpm/View/site_master.php on line 342
+[30-Dec-2022 18:22:25 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /var/www/html/erpm/View/site_master.php on line 342
+[30-Dec-2022 18:22:25 Asia/Kolkata] PHP Notice:  Undefined variable: row in /var/www/html/erpm/View/site_master.php on line 340
+[30-Dec-2022 18:22:25 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /var/www/html/erpm/View/site_master.php on line 340
+[30-Dec-2022 18:22:25 Asia/Kolkata] PHP Notice:  Undefined variable: row in /var/www/html/erpm/View/site_master.php on line 342
+[30-Dec-2022 18:22:25 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /var/www/html/erpm/View/site_master.php on line 342
+[30-Dec-2022 18:22:25 Asia/Kolkata] PHP Notice:  Undefined variable: row in /var/www/html/erpm/View/site_master.php on line 340
+[30-Dec-2022 18:22:25 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /var/www/html/erpm/View/site_master.php on line 340
+[30-Dec-2022 18:22:25 Asia/Kolkata] PHP Notice:  Undefined variable: row in /var/www/html/erpm/View/site_master.php on line 342
+[30-Dec-2022 18:22:25 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /var/www/html/erpm/View/site_master.php on line 342
+[30-Dec-2022 18:22:25 Asia/Kolkata] PHP Notice:  Undefined variable: row in /var/www/html/erpm/View/site_master.php on line 340
+[30-Dec-2022 18:22:25 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /var/www/html/erpm/View/site_master.php on line 340
+[30-Dec-2022 18:22:25 Asia/Kolkata] PHP Notice:  Undefined variable: row in /var/www/html/erpm/View/site_master.php on line 342
+[30-Dec-2022 18:22:25 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /var/www/html/erpm/View/site_master.php on line 342
+[30-Dec-2022 18:22:25 Asia/Kolkata] PHP Notice:  Undefined variable: row in /var/www/html/erpm/View/site_master.php on line 340
+[30-Dec-2022 18:22:25 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /var/www/html/erpm/View/site_master.php on line 340
+[30-Dec-2022 18:22:25 Asia/Kolkata] PHP Notice:  Undefined variable: row in /var/www/html/erpm/View/site_master.php on line 342
+[30-Dec-2022 18:22:25 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /var/www/html/erpm/View/site_master.php on line 342
+[30-Dec-2022 18:24:06 Asia/Kolkata] PHP Notice:  Undefined variable: row in /var/www/html/erpm/View/site_master.php on line 341
+[30-Dec-2022 18:24:06 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /var/www/html/erpm/View/site_master.php on line 341
+[30-Dec-2022 18:24:06 Asia/Kolkata] PHP Notice:  Undefined variable: row in /var/www/html/erpm/View/site_master.php on line 343
+[30-Dec-2022 18:24:06 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /var/www/html/erpm/View/site_master.php on line 343
+[30-Dec-2022 18:24:06 Asia/Kolkata] PHP Notice:  Undefined variable: row in /var/www/html/erpm/View/site_master.php on line 341
+[30-Dec-2022 18:24:06 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /var/www/html/erpm/View/site_master.php on line 341
+[30-Dec-2022 18:24:06 Asia/Kolkata] PHP Notice:  Undefined variable: row in /var/www/html/erpm/View/site_master.php on line 343
+[30-Dec-2022 18:24:06 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /var/www/html/erpm/View/site_master.php on line 343
+[30-Dec-2022 18:24:06 Asia/Kolkata] PHP Notice:  Undefined variable: row in /var/www/html/erpm/View/site_master.php on line 341
+[30-Dec-2022 18:24:06 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /var/www/html/erpm/View/site_master.php on line 341
+[30-Dec-2022 18:24:06 Asia/Kolkata] PHP Notice:  Undefined variable: row in /var/www/html/erpm/View/site_master.php on line 343
+[30-Dec-2022 18:24:06 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /var/www/html/erpm/View/site_master.php on line 343
+[30-Dec-2022 18:24:06 Asia/Kolkata] PHP Notice:  Undefined variable: row in /var/www/html/erpm/View/site_master.php on line 341
+[30-Dec-2022 18:24:06 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /var/www/html/erpm/View/site_master.php on line 341
+[30-Dec-2022 18:24:06 Asia/Kolkata] PHP Notice:  Undefined variable: row in /var/www/html/erpm/View/site_master.php on line 343
+[30-Dec-2022 18:24:06 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /var/www/html/erpm/View/site_master.php on line 343
+[30-Dec-2022 18:24:06 Asia/Kolkata] PHP Notice:  Undefined variable: row in /var/www/html/erpm/View/site_master.php on line 341
+[30-Dec-2022 18:24:06 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /var/www/html/erpm/View/site_master.php on line 341
+[30-Dec-2022 18:24:06 Asia/Kolkata] PHP Notice:  Undefined variable: row in /var/www/html/erpm/View/site_master.php on line 343
+[30-Dec-2022 18:24:06 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /var/www/html/erpm/View/site_master.php on line 343
+[30-Dec-2022 18:24:06 Asia/Kolkata] PHP Notice:  Undefined variable: row in /var/www/html/erpm/View/site_master.php on line 341
+[30-Dec-2022 18:24:06 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /var/www/html/erpm/View/site_master.php on line 341
+[30-Dec-2022 18:24:06 Asia/Kolkata] PHP Notice:  Undefined variable: row in /var/www/html/erpm/View/site_master.php on line 343
+[30-Dec-2022 18:24:06 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /var/www/html/erpm/View/site_master.php on line 343
+[30-Dec-2022 18:24:06 Asia/Kolkata] PHP Notice:  Undefined variable: row in /var/www/html/erpm/View/site_master.php on line 341
+[30-Dec-2022 18:24:06 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /var/www/html/erpm/View/site_master.php on line 341
+[30-Dec-2022 18:24:06 Asia/Kolkata] PHP Notice:  Undefined variable: row in /var/www/html/erpm/View/site_master.php on line 343
+[30-Dec-2022 18:24:06 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /var/www/html/erpm/View/site_master.php on line 343
+[30-Dec-2022 18:24:06 Asia/Kolkata] PHP Notice:  Undefined variable: row in /var/www/html/erpm/View/site_master.php on line 341
+[30-Dec-2022 18:24:06 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /var/www/html/erpm/View/site_master.php on line 341
+[30-Dec-2022 18:24:06 Asia/Kolkata] PHP Notice:  Undefined variable: row in /var/www/html/erpm/View/site_master.php on line 343
+[30-Dec-2022 18:24:06 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /var/www/html/erpm/View/site_master.php on line 343
+[30-Dec-2022 18:25:22 Asia/Kolkata] PHP Notice:  Undefined variable: row in /var/www/html/erpm/View/site_master.php on line 341
+[30-Dec-2022 18:25:22 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /var/www/html/erpm/View/site_master.php on line 341
+[30-Dec-2022 18:25:22 Asia/Kolkata] PHP Notice:  Undefined variable: row in /var/www/html/erpm/View/site_master.php on line 343
+[30-Dec-2022 18:25:22 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /var/www/html/erpm/View/site_master.php on line 343
+[30-Dec-2022 18:25:22 Asia/Kolkata] PHP Notice:  Undefined variable: row in /var/www/html/erpm/View/site_master.php on line 341
+[30-Dec-2022 18:25:22 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /var/www/html/erpm/View/site_master.php on line 341
+[30-Dec-2022 18:25:22 Asia/Kolkata] PHP Notice:  Undefined variable: row in /var/www/html/erpm/View/site_master.php on line 343
+[30-Dec-2022 18:25:22 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /var/www/html/erpm/View/site_master.php on line 343
+[30-Dec-2022 18:25:22 Asia/Kolkata] PHP Notice:  Undefined variable: row in /var/www/html/erpm/View/site_master.php on line 341
+[30-Dec-2022 18:25:22 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /var/www/html/erpm/View/site_master.php on line 341
+[30-Dec-2022 18:25:22 Asia/Kolkata] PHP Notice:  Undefined variable: row in /var/www/html/erpm/View/site_master.php on line 343
+[30-Dec-2022 18:25:22 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /var/www/html/erpm/View/site_master.php on line 343
+[30-Dec-2022 18:25:22 Asia/Kolkata] PHP Notice:  Undefined variable: row in /var/www/html/erpm/View/site_master.php on line 341
+[30-Dec-2022 18:25:22 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /var/www/html/erpm/View/site_master.php on line 341
+[30-Dec-2022 18:25:22 Asia/Kolkata] PHP Notice:  Undefined variable: row in /var/www/html/erpm/View/site_master.php on line 343
+[30-Dec-2022 18:25:22 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /var/www/html/erpm/View/site_master.php on line 343
+[30-Dec-2022 18:25:22 Asia/Kolkata] PHP Notice:  Undefined variable: row in /var/www/html/erpm/View/site_master.php on line 341
+[30-Dec-2022 18:25:22 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /var/www/html/erpm/View/site_master.php on line 341
+[30-Dec-2022 18:25:22 Asia/Kolkata] PHP Notice:  Undefined variable: row in /var/www/html/erpm/View/site_master.php on line 343
+[30-Dec-2022 18:25:22 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /var/www/html/erpm/View/site_master.php on line 343
+[30-Dec-2022 18:25:22 Asia/Kolkata] PHP Notice:  Undefined variable: row in /var/www/html/erpm/View/site_master.php on line 341
+[30-Dec-2022 18:25:22 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /var/www/html/erpm/View/site_master.php on line 341
+[30-Dec-2022 18:25:22 Asia/Kolkata] PHP Notice:  Undefined variable: row in /var/www/html/erpm/View/site_master.php on line 343
+[30-Dec-2022 18:25:22 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /var/www/html/erpm/View/site_master.php on line 343
+[30-Dec-2022 18:25:22 Asia/Kolkata] PHP Notice:  Undefined variable: row in /var/www/html/erpm/View/site_master.php on line 341
+[30-Dec-2022 18:25:22 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /var/www/html/erpm/View/site_master.php on line 341
+[30-Dec-2022 18:25:22 Asia/Kolkata] PHP Notice:  Undefined variable: row in /var/www/html/erpm/View/site_master.php on line 343
+[30-Dec-2022 18:25:22 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /var/www/html/erpm/View/site_master.php on line 343
+[30-Dec-2022 18:25:22 Asia/Kolkata] PHP Notice:  Undefined variable: row in /var/www/html/erpm/View/site_master.php on line 341
+[30-Dec-2022 18:25:22 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /var/www/html/erpm/View/site_master.php on line 341
+[30-Dec-2022 18:25:22 Asia/Kolkata] PHP Notice:  Undefined variable: row in /var/www/html/erpm/View/site_master.php on line 343
+[30-Dec-2022 18:25:22 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /var/www/html/erpm/View/site_master.php on line 343
+[30-Dec-2022 18:26:01 Asia/Kolkata] PHP Notice:  Undefined variable: row in /var/www/html/erpm/View/site_master.php on line 343
+[30-Dec-2022 18:26:01 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /var/www/html/erpm/View/site_master.php on line 343
+[30-Dec-2022 18:26:01 Asia/Kolkata] PHP Notice:  Undefined variable: row in /var/www/html/erpm/View/site_master.php on line 345
+[30-Dec-2022 18:26:01 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /var/www/html/erpm/View/site_master.php on line 345
+[30-Dec-2022 18:26:01 Asia/Kolkata] PHP Notice:  Undefined variable: row in /var/www/html/erpm/View/site_master.php on line 343
+[30-Dec-2022 18:26:01 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /var/www/html/erpm/View/site_master.php on line 343
+[30-Dec-2022 18:26:01 Asia/Kolkata] PHP Notice:  Undefined variable: row in /var/www/html/erpm/View/site_master.php on line 345
+[30-Dec-2022 18:26:01 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /var/www/html/erpm/View/site_master.php on line 345
+[30-Dec-2022 18:26:01 Asia/Kolkata] PHP Notice:  Undefined variable: row in /var/www/html/erpm/View/site_master.php on line 343
+[30-Dec-2022 18:26:01 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /var/www/html/erpm/View/site_master.php on line 343
+[30-Dec-2022 18:26:01 Asia/Kolkata] PHP Notice:  Undefined variable: row in /var/www/html/erpm/View/site_master.php on line 345
+[30-Dec-2022 18:26:01 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /var/www/html/erpm/View/site_master.php on line 345
+[30-Dec-2022 18:26:01 Asia/Kolkata] PHP Notice:  Undefined variable: row in /var/www/html/erpm/View/site_master.php on line 343
+[30-Dec-2022 18:26:01 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /var/www/html/erpm/View/site_master.php on line 343
+[30-Dec-2022 18:26:01 Asia/Kolkata] PHP Notice:  Undefined variable: row in /var/www/html/erpm/View/site_master.php on line 345
+[30-Dec-2022 18:26:01 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /var/www/html/erpm/View/site_master.php on line 345
+[30-Dec-2022 18:26:01 Asia/Kolkata] PHP Notice:  Undefined variable: row in /var/www/html/erpm/View/site_master.php on line 343
+[30-Dec-2022 18:26:01 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /var/www/html/erpm/View/site_master.php on line 343
+[30-Dec-2022 18:26:01 Asia/Kolkata] PHP Notice:  Undefined variable: row in /var/www/html/erpm/View/site_master.php on line 345
+[30-Dec-2022 18:26:01 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /var/www/html/erpm/View/site_master.php on line 345
+[30-Dec-2022 18:26:01 Asia/Kolkata] PHP Notice:  Undefined variable: row in /var/www/html/erpm/View/site_master.php on line 343
+[30-Dec-2022 18:26:01 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /var/www/html/erpm/View/site_master.php on line 343
+[30-Dec-2022 18:26:01 Asia/Kolkata] PHP Notice:  Undefined variable: row in /var/www/html/erpm/View/site_master.php on line 345
+[30-Dec-2022 18:26:01 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /var/www/html/erpm/View/site_master.php on line 345
+[30-Dec-2022 18:26:01 Asia/Kolkata] PHP Notice:  Undefined variable: row in /var/www/html/erpm/View/site_master.php on line 343
+[30-Dec-2022 18:26:01 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /var/www/html/erpm/View/site_master.php on line 343
+[30-Dec-2022 18:26:01 Asia/Kolkata] PHP Notice:  Undefined variable: row in /var/www/html/erpm/View/site_master.php on line 345
+[30-Dec-2022 18:26:01 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /var/www/html/erpm/View/site_master.php on line 345
+[30-Dec-2022 18:26:01 Asia/Kolkata] PHP Notice:  Undefined variable: row in /var/www/html/erpm/View/site_master.php on line 343
+[30-Dec-2022 18:26:01 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /var/www/html/erpm/View/site_master.php on line 343
+[30-Dec-2022 18:26:01 Asia/Kolkata] PHP Notice:  Undefined variable: row in /var/www/html/erpm/View/site_master.php on line 345
+[30-Dec-2022 18:26:01 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /var/www/html/erpm/View/site_master.php on line 345
+[30-Dec-2022 18:26:06 Asia/Kolkata] PHP Notice:  Undefined variable: row in /var/www/html/erpm/View/site_master.php on line 343
+[30-Dec-2022 18:26:06 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /var/www/html/erpm/View/site_master.php on line 343
+[30-Dec-2022 18:26:06 Asia/Kolkata] PHP Notice:  Undefined variable: row in /var/www/html/erpm/View/site_master.php on line 345
+[30-Dec-2022 18:26:06 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /var/www/html/erpm/View/site_master.php on line 345
+[30-Dec-2022 18:26:06 Asia/Kolkata] PHP Notice:  Undefined variable: row in /var/www/html/erpm/View/site_master.php on line 343
+[30-Dec-2022 18:26:06 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /var/www/html/erpm/View/site_master.php on line 343
+[30-Dec-2022 18:26:06 Asia/Kolkata] PHP Notice:  Undefined variable: row in /var/www/html/erpm/View/site_master.php on line 345
+[30-Dec-2022 18:26:06 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /var/www/html/erpm/View/site_master.php on line 345
+[30-Dec-2022 18:26:06 Asia/Kolkata] PHP Notice:  Undefined variable: row in /var/www/html/erpm/View/site_master.php on line 343
+[30-Dec-2022 18:26:06 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /var/www/html/erpm/View/site_master.php on line 343
+[30-Dec-2022 18:26:06 Asia/Kolkata] PHP Notice:  Undefined variable: row in /var/www/html/erpm/View/site_master.php on line 345
+[30-Dec-2022 18:26:06 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /var/www/html/erpm/View/site_master.php on line 345
+[30-Dec-2022 18:26:06 Asia/Kolkata] PHP Notice:  Undefined variable: row in /var/www/html/erpm/View/site_master.php on line 343
+[30-Dec-2022 18:26:06 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /var/www/html/erpm/View/site_master.php on line 343
+[30-Dec-2022 18:26:06 Asia/Kolkata] PHP Notice:  Undefined variable: row in /var/www/html/erpm/View/site_master.php on line 345
+[30-Dec-2022 18:26:06 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /var/www/html/erpm/View/site_master.php on line 345
+[30-Dec-2022 18:26:06 Asia/Kolkata] PHP Notice:  Undefined variable: row in /var/www/html/erpm/View/site_master.php on line 343
+[30-Dec-2022 18:26:06 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /var/www/html/erpm/View/site_master.php on line 343
+[30-Dec-2022 18:26:06 Asia/Kolkata] PHP Notice:  Undefined variable: row in /var/www/html/erpm/View/site_master.php on line 345
+[30-Dec-2022 18:26:06 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /var/www/html/erpm/View/site_master.php on line 345
+[30-Dec-2022 18:26:06 Asia/Kolkata] PHP Notice:  Undefined variable: row in /var/www/html/erpm/View/site_master.php on line 343
+[30-Dec-2022 18:26:06 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /var/www/html/erpm/View/site_master.php on line 343
+[30-Dec-2022 18:26:06 Asia/Kolkata] PHP Notice:  Undefined variable: row in /var/www/html/erpm/View/site_master.php on line 345
+[30-Dec-2022 18:26:06 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /var/www/html/erpm/View/site_master.php on line 345
+[30-Dec-2022 18:26:06 Asia/Kolkata] PHP Notice:  Undefined variable: row in /var/www/html/erpm/View/site_master.php on line 343
+[30-Dec-2022 18:26:06 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /var/www/html/erpm/View/site_master.php on line 343
+[30-Dec-2022 18:26:06 Asia/Kolkata] PHP Notice:  Undefined variable: row in /var/www/html/erpm/View/site_master.php on line 345
+[30-Dec-2022 18:26:06 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /var/www/html/erpm/View/site_master.php on line 345
+[30-Dec-2022 18:26:06 Asia/Kolkata] PHP Notice:  Undefined variable: row in /var/www/html/erpm/View/site_master.php on line 343
+[30-Dec-2022 18:26:06 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /var/www/html/erpm/View/site_master.php on line 343
+[30-Dec-2022 18:26:06 Asia/Kolkata] PHP Notice:  Undefined variable: row in /var/www/html/erpm/View/site_master.php on line 345
+[30-Dec-2022 18:26:06 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /var/www/html/erpm/View/site_master.php on line 345
+[30-Dec-2022 18:26:06 Asia/Kolkata] PHP Notice:  Undefined variable: row in /var/www/html/erpm/View/site_master.php on line 343
+[30-Dec-2022 18:26:06 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /var/www/html/erpm/View/site_master.php on line 343
+[30-Dec-2022 18:26:06 Asia/Kolkata] PHP Notice:  Undefined variable: row in /var/www/html/erpm/View/site_master.php on line 345
+[30-Dec-2022 18:26:06 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /var/www/html/erpm/View/site_master.php on line 345
+[30-Dec-2022 18:26:25 Asia/Kolkata] PHP Notice:  Undefined variable: row in /var/www/html/erpm/View/site_master.php on line 343
+[30-Dec-2022 18:26:25 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /var/www/html/erpm/View/site_master.php on line 343
+[30-Dec-2022 18:26:25 Asia/Kolkata] PHP Notice:  Undefined variable: row in /var/www/html/erpm/View/site_master.php on line 345
+[30-Dec-2022 18:26:25 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /var/www/html/erpm/View/site_master.php on line 345
+[30-Dec-2022 18:26:25 Asia/Kolkata] PHP Notice:  Undefined variable: row in /var/www/html/erpm/View/site_master.php on line 343
+[30-Dec-2022 18:26:25 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /var/www/html/erpm/View/site_master.php on line 343
+[30-Dec-2022 18:26:25 Asia/Kolkata] PHP Notice:  Undefined variable: row in /var/www/html/erpm/View/site_master.php on line 345
+[30-Dec-2022 18:26:25 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /var/www/html/erpm/View/site_master.php on line 345
+[30-Dec-2022 18:26:25 Asia/Kolkata] PHP Notice:  Undefined variable: row in /var/www/html/erpm/View/site_master.php on line 343
+[30-Dec-2022 18:26:25 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /var/www/html/erpm/View/site_master.php on line 343
+[30-Dec-2022 18:26:25 Asia/Kolkata] PHP Notice:  Undefined variable: row in /var/www/html/erpm/View/site_master.php on line 345
+[30-Dec-2022 18:26:25 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /var/www/html/erpm/View/site_master.php on line 345
+[30-Dec-2022 18:26:25 Asia/Kolkata] PHP Notice:  Undefined variable: row in /var/www/html/erpm/View/site_master.php on line 343
+[30-Dec-2022 18:26:25 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /var/www/html/erpm/View/site_master.php on line 343
+[30-Dec-2022 18:26:25 Asia/Kolkata] PHP Notice:  Undefined variable: row in /var/www/html/erpm/View/site_master.php on line 345
+[30-Dec-2022 18:26:25 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /var/www/html/erpm/View/site_master.php on line 345
+[30-Dec-2022 18:26:25 Asia/Kolkata] PHP Notice:  Undefined variable: row in /var/www/html/erpm/View/site_master.php on line 343
+[30-Dec-2022 18:26:25 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /var/www/html/erpm/View/site_master.php on line 343
+[30-Dec-2022 18:26:25 Asia/Kolkata] PHP Notice:  Undefined variable: row in /var/www/html/erpm/View/site_master.php on line 345
+[30-Dec-2022 18:26:25 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /var/www/html/erpm/View/site_master.php on line 345
+[30-Dec-2022 18:26:25 Asia/Kolkata] PHP Notice:  Undefined variable: row in /var/www/html/erpm/View/site_master.php on line 343
+[30-Dec-2022 18:26:25 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /var/www/html/erpm/View/site_master.php on line 343
+[30-Dec-2022 18:26:25 Asia/Kolkata] PHP Notice:  Undefined variable: row in /var/www/html/erpm/View/site_master.php on line 345
+[30-Dec-2022 18:26:25 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /var/www/html/erpm/View/site_master.php on line 345
+[30-Dec-2022 18:26:25 Asia/Kolkata] PHP Notice:  Undefined variable: row in /var/www/html/erpm/View/site_master.php on line 343
+[30-Dec-2022 18:26:25 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /var/www/html/erpm/View/site_master.php on line 343
+[30-Dec-2022 18:26:25 Asia/Kolkata] PHP Notice:  Undefined variable: row in /var/www/html/erpm/View/site_master.php on line 345
+[30-Dec-2022 18:26:25 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /var/www/html/erpm/View/site_master.php on line 345
+[30-Dec-2022 18:26:25 Asia/Kolkata] PHP Notice:  Undefined variable: row in /var/www/html/erpm/View/site_master.php on line 343
+[30-Dec-2022 18:26:25 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /var/www/html/erpm/View/site_master.php on line 343
+[30-Dec-2022 18:26:25 Asia/Kolkata] PHP Notice:  Undefined variable: row in /var/www/html/erpm/View/site_master.php on line 345
+[30-Dec-2022 18:26:25 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /var/www/html/erpm/View/site_master.php on line 345
+[30-Dec-2022 18:26:25 Asia/Kolkata] PHP Notice:  Undefined variable: row in /var/www/html/erpm/View/site_master.php on line 343
+[30-Dec-2022 18:26:25 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /var/www/html/erpm/View/site_master.php on line 343
+[30-Dec-2022 18:26:25 Asia/Kolkata] PHP Notice:  Undefined variable: row in /var/www/html/erpm/View/site_master.php on line 345
+[30-Dec-2022 18:26:25 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /var/www/html/erpm/View/site_master.php on line 345
+[30-Dec-2022 18:30:13 Asia/Kolkata] PHP Notice:  Undefined variable: row in /var/www/html/erpm/View/site_master.php on line 354
+[30-Dec-2022 18:30:13 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /var/www/html/erpm/View/site_master.php on line 354
+[30-Dec-2022 18:30:13 Asia/Kolkata] PHP Notice:  Undefined variable: row in /var/www/html/erpm/View/site_master.php on line 356
+[30-Dec-2022 18:30:13 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /var/www/html/erpm/View/site_master.php on line 356
+[30-Dec-2022 18:30:13 Asia/Kolkata] PHP Notice:  Undefined variable: row in /var/www/html/erpm/View/site_master.php on line 354
+[30-Dec-2022 18:30:13 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /var/www/html/erpm/View/site_master.php on line 354
+[30-Dec-2022 18:30:13 Asia/Kolkata] PHP Notice:  Undefined variable: row in /var/www/html/erpm/View/site_master.php on line 356
+[30-Dec-2022 18:30:13 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /var/www/html/erpm/View/site_master.php on line 356
+[30-Dec-2022 18:30:13 Asia/Kolkata] PHP Notice:  Undefined variable: row in /var/www/html/erpm/View/site_master.php on line 354
+[30-Dec-2022 18:30:13 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /var/www/html/erpm/View/site_master.php on line 354
+[30-Dec-2022 18:30:13 Asia/Kolkata] PHP Notice:  Undefined variable: row in /var/www/html/erpm/View/site_master.php on line 356
+[30-Dec-2022 18:30:13 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /var/www/html/erpm/View/site_master.php on line 356
+[30-Dec-2022 18:30:13 Asia/Kolkata] PHP Notice:  Undefined variable: row in /var/www/html/erpm/View/site_master.php on line 354
+[30-Dec-2022 18:30:13 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /var/www/html/erpm/View/site_master.php on line 354
+[30-Dec-2022 18:30:13 Asia/Kolkata] PHP Notice:  Undefined variable: row in /var/www/html/erpm/View/site_master.php on line 356
+[30-Dec-2022 18:30:13 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /var/www/html/erpm/View/site_master.php on line 356
+[30-Dec-2022 18:30:13 Asia/Kolkata] PHP Notice:  Undefined variable: row in /var/www/html/erpm/View/site_master.php on line 354
+[30-Dec-2022 18:30:13 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /var/www/html/erpm/View/site_master.php on line 354
+[30-Dec-2022 18:30:13 Asia/Kolkata] PHP Notice:  Undefined variable: row in /var/www/html/erpm/View/site_master.php on line 356
+[30-Dec-2022 18:30:13 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /var/www/html/erpm/View/site_master.php on line 356
+[30-Dec-2022 18:30:13 Asia/Kolkata] PHP Notice:  Undefined variable: row in /var/www/html/erpm/View/site_master.php on line 354
+[30-Dec-2022 18:30:13 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /var/www/html/erpm/View/site_master.php on line 354
+[30-Dec-2022 18:30:13 Asia/Kolkata] PHP Notice:  Undefined variable: row in /var/www/html/erpm/View/site_master.php on line 356
+[30-Dec-2022 18:30:13 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /var/www/html/erpm/View/site_master.php on line 356
+[30-Dec-2022 18:30:13 Asia/Kolkata] PHP Notice:  Undefined variable: row in /var/www/html/erpm/View/site_master.php on line 354
+[30-Dec-2022 18:30:13 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /var/www/html/erpm/View/site_master.php on line 354
+[30-Dec-2022 18:30:13 Asia/Kolkata] PHP Notice:  Undefined variable: row in /var/www/html/erpm/View/site_master.php on line 356
+[30-Dec-2022 18:30:13 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /var/www/html/erpm/View/site_master.php on line 356
+[30-Dec-2022 18:30:13 Asia/Kolkata] PHP Notice:  Undefined variable: row in /var/www/html/erpm/View/site_master.php on line 354
+[30-Dec-2022 18:30:13 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /var/www/html/erpm/View/site_master.php on line 354
+[30-Dec-2022 18:30:13 Asia/Kolkata] PHP Notice:  Undefined variable: row in /var/www/html/erpm/View/site_master.php on line 356
+[30-Dec-2022 18:30:13 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /var/www/html/erpm/View/site_master.php on line 356
+[30-Dec-2022 18:30:13 Asia/Kolkata] PHP Notice:  Undefined variable: row in /var/www/html/erpm/View/site_master.php on line 354
+[30-Dec-2022 18:30:13 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /var/www/html/erpm/View/site_master.php on line 354
+[30-Dec-2022 18:30:13 Asia/Kolkata] PHP Notice:  Undefined variable: row in /var/www/html/erpm/View/site_master.php on line 356
+[30-Dec-2022 18:30:13 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /var/www/html/erpm/View/site_master.php on line 356
+[30-Dec-2022 18:30:18 Asia/Kolkata] PHP Notice:  Undefined variable: row in /var/www/html/erpm/View/site_master.php on line 354
+[30-Dec-2022 18:30:18 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /var/www/html/erpm/View/site_master.php on line 354
+[30-Dec-2022 18:30:18 Asia/Kolkata] PHP Notice:  Undefined variable: row in /var/www/html/erpm/View/site_master.php on line 356
+[30-Dec-2022 18:30:18 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /var/www/html/erpm/View/site_master.php on line 356
+[30-Dec-2022 18:30:18 Asia/Kolkata] PHP Notice:  Undefined variable: row in /var/www/html/erpm/View/site_master.php on line 354
+[30-Dec-2022 18:30:18 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /var/www/html/erpm/View/site_master.php on line 354
+[30-Dec-2022 18:30:18 Asia/Kolkata] PHP Notice:  Undefined variable: row in /var/www/html/erpm/View/site_master.php on line 356
+[30-Dec-2022 18:30:18 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /var/www/html/erpm/View/site_master.php on line 356
+[30-Dec-2022 18:30:18 Asia/Kolkata] PHP Notice:  Undefined variable: row in /var/www/html/erpm/View/site_master.php on line 354
+[30-Dec-2022 18:30:18 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /var/www/html/erpm/View/site_master.php on line 354
+[30-Dec-2022 18:30:18 Asia/Kolkata] PHP Notice:  Undefined variable: row in /var/www/html/erpm/View/site_master.php on line 356
+[30-Dec-2022 18:30:18 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /var/www/html/erpm/View/site_master.php on line 356
+[30-Dec-2022 18:30:18 Asia/Kolkata] PHP Notice:  Undefined variable: row in /var/www/html/erpm/View/site_master.php on line 354
+[30-Dec-2022 18:30:18 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /var/www/html/erpm/View/site_master.php on line 354
+[30-Dec-2022 18:30:18 Asia/Kolkata] PHP Notice:  Undefined variable: row in /var/www/html/erpm/View/site_master.php on line 356
+[30-Dec-2022 18:30:18 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /var/www/html/erpm/View/site_master.php on line 356
+[30-Dec-2022 18:30:18 Asia/Kolkata] PHP Notice:  Undefined variable: row in /var/www/html/erpm/View/site_master.php on line 354
+[30-Dec-2022 18:30:18 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /var/www/html/erpm/View/site_master.php on line 354
+[30-Dec-2022 18:30:18 Asia/Kolkata] PHP Notice:  Undefined variable: row in /var/www/html/erpm/View/site_master.php on line 356
+[30-Dec-2022 18:30:18 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /var/www/html/erpm/View/site_master.php on line 356
+[30-Dec-2022 18:30:18 Asia/Kolkata] PHP Notice:  Undefined variable: row in /var/www/html/erpm/View/site_master.php on line 354
+[30-Dec-2022 18:30:18 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /var/www/html/erpm/View/site_master.php on line 354
+[30-Dec-2022 18:30:18 Asia/Kolkata] PHP Notice:  Undefined variable: row in /var/www/html/erpm/View/site_master.php on line 356
+[30-Dec-2022 18:30:18 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /var/www/html/erpm/View/site_master.php on line 356
+[30-Dec-2022 18:30:18 Asia/Kolkata] PHP Notice:  Undefined variable: row in /var/www/html/erpm/View/site_master.php on line 354
+[30-Dec-2022 18:30:18 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /var/www/html/erpm/View/site_master.php on line 354
+[30-Dec-2022 18:30:18 Asia/Kolkata] PHP Notice:  Undefined variable: row in /var/www/html/erpm/View/site_master.php on line 356
+[30-Dec-2022 18:30:18 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /var/www/html/erpm/View/site_master.php on line 356
+[30-Dec-2022 18:30:18 Asia/Kolkata] PHP Notice:  Undefined variable: row in /var/www/html/erpm/View/site_master.php on line 354
+[30-Dec-2022 18:30:18 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /var/www/html/erpm/View/site_master.php on line 354
+[30-Dec-2022 18:30:18 Asia/Kolkata] PHP Notice:  Undefined variable: row in /var/www/html/erpm/View/site_master.php on line 356
+[30-Dec-2022 18:30:18 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /var/www/html/erpm/View/site_master.php on line 356
+[30-Dec-2022 18:30:22 Asia/Kolkata] PHP Notice:  Undefined variable: row in /var/www/html/erpm/View/site_master.php on line 354
+[30-Dec-2022 18:30:22 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /var/www/html/erpm/View/site_master.php on line 354
+[30-Dec-2022 18:30:22 Asia/Kolkata] PHP Notice:  Undefined variable: row in /var/www/html/erpm/View/site_master.php on line 356
+[30-Dec-2022 18:30:22 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /var/www/html/erpm/View/site_master.php on line 356
+[30-Dec-2022 18:30:22 Asia/Kolkata] PHP Notice:  Undefined variable: row in /var/www/html/erpm/View/site_master.php on line 354
+[30-Dec-2022 18:30:22 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /var/www/html/erpm/View/site_master.php on line 354
+[30-Dec-2022 18:30:22 Asia/Kolkata] PHP Notice:  Undefined variable: row in /var/www/html/erpm/View/site_master.php on line 356
+[30-Dec-2022 18:30:22 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /var/www/html/erpm/View/site_master.php on line 356
+[30-Dec-2022 18:30:22 Asia/Kolkata] PHP Notice:  Undefined variable: row in /var/www/html/erpm/View/site_master.php on line 354
+[30-Dec-2022 18:30:22 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /var/www/html/erpm/View/site_master.php on line 354
+[30-Dec-2022 18:30:22 Asia/Kolkata] PHP Notice:  Undefined variable: row in /var/www/html/erpm/View/site_master.php on line 356
+[30-Dec-2022 18:30:22 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /var/www/html/erpm/View/site_master.php on line 356
+[30-Dec-2022 18:30:22 Asia/Kolkata] PHP Notice:  Undefined variable: row in /var/www/html/erpm/View/site_master.php on line 354
+[30-Dec-2022 18:30:22 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /var/www/html/erpm/View/site_master.php on line 354
+[30-Dec-2022 18:30:22 Asia/Kolkata] PHP Notice:  Undefined variable: row in /var/www/html/erpm/View/site_master.php on line 356
+[30-Dec-2022 18:30:22 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /var/www/html/erpm/View/site_master.php on line 356
+[30-Dec-2022 18:30:22 Asia/Kolkata] PHP Notice:  Undefined variable: row in /var/www/html/erpm/View/site_master.php on line 354
+[30-Dec-2022 18:30:22 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /var/www/html/erpm/View/site_master.php on line 354
+[30-Dec-2022 18:30:22 Asia/Kolkata] PHP Notice:  Undefined variable: row in /var/www/html/erpm/View/site_master.php on line 356
+[30-Dec-2022 18:30:22 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /var/www/html/erpm/View/site_master.php on line 356
+[30-Dec-2022 18:30:22 Asia/Kolkata] PHP Notice:  Undefined variable: row in /var/www/html/erpm/View/site_master.php on line 354
+[30-Dec-2022 18:30:22 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /var/www/html/erpm/View/site_master.php on line 354
+[30-Dec-2022 18:30:22 Asia/Kolkata] PHP Notice:  Undefined variable: row in /var/www/html/erpm/View/site_master.php on line 356
+[30-Dec-2022 18:30:22 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /var/www/html/erpm/View/site_master.php on line 356
+[30-Dec-2022 18:30:22 Asia/Kolkata] PHP Notice:  Undefined variable: row in /var/www/html/erpm/View/site_master.php on line 354
+[30-Dec-2022 18:30:22 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /var/www/html/erpm/View/site_master.php on line 354
+[30-Dec-2022 18:30:22 Asia/Kolkata] PHP Notice:  Undefined variable: row in /var/www/html/erpm/View/site_master.php on line 356
+[30-Dec-2022 18:30:22 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /var/www/html/erpm/View/site_master.php on line 356
+[30-Dec-2022 18:30:25 Asia/Kolkata] PHP Notice:  Undefined variable: row in /var/www/html/erpm/View/site_master.php on line 354
+[30-Dec-2022 18:30:25 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /var/www/html/erpm/View/site_master.php on line 354
+[30-Dec-2022 18:30:25 Asia/Kolkata] PHP Notice:  Undefined variable: row in /var/www/html/erpm/View/site_master.php on line 356
+[30-Dec-2022 18:30:25 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /var/www/html/erpm/View/site_master.php on line 356
+[30-Dec-2022 18:30:25 Asia/Kolkata] PHP Notice:  Undefined variable: row in /var/www/html/erpm/View/site_master.php on line 354
+[30-Dec-2022 18:30:25 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /var/www/html/erpm/View/site_master.php on line 354
+[30-Dec-2022 18:30:25 Asia/Kolkata] PHP Notice:  Undefined variable: row in /var/www/html/erpm/View/site_master.php on line 356
+[30-Dec-2022 18:30:25 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /var/www/html/erpm/View/site_master.php on line 356
+[30-Dec-2022 18:30:25 Asia/Kolkata] PHP Notice:  Undefined variable: row in /var/www/html/erpm/View/site_master.php on line 354
+[30-Dec-2022 18:30:25 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /var/www/html/erpm/View/site_master.php on line 354
+[30-Dec-2022 18:30:25 Asia/Kolkata] PHP Notice:  Undefined variable: row in /var/www/html/erpm/View/site_master.php on line 356
+[30-Dec-2022 18:30:25 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /var/www/html/erpm/View/site_master.php on line 356
+[30-Dec-2022 18:30:25 Asia/Kolkata] PHP Notice:  Undefined variable: row in /var/www/html/erpm/View/site_master.php on line 354
+[30-Dec-2022 18:30:25 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /var/www/html/erpm/View/site_master.php on line 354
+[30-Dec-2022 18:30:25 Asia/Kolkata] PHP Notice:  Undefined variable: row in /var/www/html/erpm/View/site_master.php on line 356
+[30-Dec-2022 18:30:25 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /var/www/html/erpm/View/site_master.php on line 356
+[30-Dec-2022 18:30:25 Asia/Kolkata] PHP Notice:  Undefined variable: row in /var/www/html/erpm/View/site_master.php on line 354
+[30-Dec-2022 18:30:25 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /var/www/html/erpm/View/site_master.php on line 354
+[30-Dec-2022 18:30:25 Asia/Kolkata] PHP Notice:  Undefined variable: row in /var/www/html/erpm/View/site_master.php on line 356
+[30-Dec-2022 18:30:25 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /var/www/html/erpm/View/site_master.php on line 356
+[30-Dec-2022 18:30:25 Asia/Kolkata] PHP Notice:  Undefined variable: row in /var/www/html/erpm/View/site_master.php on line 354
+[30-Dec-2022 18:30:25 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /var/www/html/erpm/View/site_master.php on line 354
+[30-Dec-2022 18:30:25 Asia/Kolkata] PHP Notice:  Undefined variable: row in /var/www/html/erpm/View/site_master.php on line 356
+[30-Dec-2022 18:30:25 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /var/www/html/erpm/View/site_master.php on line 356
+[30-Dec-2022 18:30:32 Asia/Kolkata] PHP Notice:  Undefined variable: row in /var/www/html/erpm/View/site_master.php on line 354
+[30-Dec-2022 18:30:32 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /var/www/html/erpm/View/site_master.php on line 354
+[30-Dec-2022 18:30:32 Asia/Kolkata] PHP Notice:  Undefined variable: row in /var/www/html/erpm/View/site_master.php on line 356
+[30-Dec-2022 18:30:32 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /var/www/html/erpm/View/site_master.php on line 356
+[30-Dec-2022 18:30:32 Asia/Kolkata] PHP Notice:  Undefined variable: row in /var/www/html/erpm/View/site_master.php on line 354
+[30-Dec-2022 18:30:32 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /var/www/html/erpm/View/site_master.php on line 354
+[30-Dec-2022 18:30:32 Asia/Kolkata] PHP Notice:  Undefined variable: row in /var/www/html/erpm/View/site_master.php on line 356
+[30-Dec-2022 18:30:32 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /var/www/html/erpm/View/site_master.php on line 356
+[30-Dec-2022 18:30:32 Asia/Kolkata] PHP Notice:  Undefined variable: row in /var/www/html/erpm/View/site_master.php on line 354
+[30-Dec-2022 18:30:32 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /var/www/html/erpm/View/site_master.php on line 354
+[30-Dec-2022 18:30:32 Asia/Kolkata] PHP Notice:  Undefined variable: row in /var/www/html/erpm/View/site_master.php on line 356
+[30-Dec-2022 18:30:32 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /var/www/html/erpm/View/site_master.php on line 356
+[30-Dec-2022 18:30:32 Asia/Kolkata] PHP Notice:  Undefined variable: row in /var/www/html/erpm/View/site_master.php on line 354
+[30-Dec-2022 18:30:32 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /var/www/html/erpm/View/site_master.php on line 354
+[30-Dec-2022 18:30:32 Asia/Kolkata] PHP Notice:  Undefined variable: row in /var/www/html/erpm/View/site_master.php on line 356
+[30-Dec-2022 18:30:32 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /var/www/html/erpm/View/site_master.php on line 356
+[30-Dec-2022 18:30:32 Asia/Kolkata] PHP Notice:  Undefined variable: row in /var/www/html/erpm/View/site_master.php on line 354
+[30-Dec-2022 18:30:32 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /var/www/html/erpm/View/site_master.php on line 354
+[30-Dec-2022 18:30:32 Asia/Kolkata] PHP Notice:  Undefined variable: row in /var/www/html/erpm/View/site_master.php on line 356
+[30-Dec-2022 18:30:32 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /var/www/html/erpm/View/site_master.php on line 356
+[30-Dec-2022 18:30:32 Asia/Kolkata] PHP Notice:  Undefined variable: row in /var/www/html/erpm/View/site_master.php on line 354
+[30-Dec-2022 18:30:32 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /var/www/html/erpm/View/site_master.php on line 354
+[30-Dec-2022 18:30:32 Asia/Kolkata] PHP Notice:  Undefined variable: row in /var/www/html/erpm/View/site_master.php on line 356
+[30-Dec-2022 18:30:32 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /var/www/html/erpm/View/site_master.php on line 356
+[30-Dec-2022 18:30:32 Asia/Kolkata] PHP Notice:  Undefined variable: row in /var/www/html/erpm/View/site_master.php on line 354
+[30-Dec-2022 18:30:32 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /var/www/html/erpm/View/site_master.php on line 354
+[30-Dec-2022 18:30:32 Asia/Kolkata] PHP Notice:  Undefined variable: row in /var/www/html/erpm/View/site_master.php on line 356
+[30-Dec-2022 18:30:32 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /var/www/html/erpm/View/site_master.php on line 356
+[30-Dec-2022 18:31:04 Asia/Kolkata] PHP Notice:  Undefined variable: row in /var/www/html/erpm/View/site_master.php on line 354
+[30-Dec-2022 18:31:04 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /var/www/html/erpm/View/site_master.php on line 354
+[30-Dec-2022 18:31:04 Asia/Kolkata] PHP Notice:  Undefined variable: row in /var/www/html/erpm/View/site_master.php on line 356
+[30-Dec-2022 18:31:04 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /var/www/html/erpm/View/site_master.php on line 356
+[30-Dec-2022 18:31:04 Asia/Kolkata] PHP Notice:  Undefined variable: row in /var/www/html/erpm/View/site_master.php on line 354
+[30-Dec-2022 18:31:04 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /var/www/html/erpm/View/site_master.php on line 354
+[30-Dec-2022 18:31:04 Asia/Kolkata] PHP Notice:  Undefined variable: row in /var/www/html/erpm/View/site_master.php on line 356
+[30-Dec-2022 18:31:04 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /var/www/html/erpm/View/site_master.php on line 356
+[30-Dec-2022 18:31:04 Asia/Kolkata] PHP Notice:  Undefined variable: row in /var/www/html/erpm/View/site_master.php on line 354
+[30-Dec-2022 18:31:04 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /var/www/html/erpm/View/site_master.php on line 354
+[30-Dec-2022 18:31:04 Asia/Kolkata] PHP Notice:  Undefined variable: row in /var/www/html/erpm/View/site_master.php on line 356
+[30-Dec-2022 18:31:04 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /var/www/html/erpm/View/site_master.php on line 356
+[30-Dec-2022 18:31:04 Asia/Kolkata] PHP Notice:  Undefined variable: row in /var/www/html/erpm/View/site_master.php on line 354
+[30-Dec-2022 18:31:04 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /var/www/html/erpm/View/site_master.php on line 354
+[30-Dec-2022 18:31:04 Asia/Kolkata] PHP Notice:  Undefined variable: row in /var/www/html/erpm/View/site_master.php on line 356
+[30-Dec-2022 18:31:04 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /var/www/html/erpm/View/site_master.php on line 356
+[30-Dec-2022 18:31:04 Asia/Kolkata] PHP Notice:  Undefined variable: row in /var/www/html/erpm/View/site_master.php on line 354
+[30-Dec-2022 18:31:04 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /var/www/html/erpm/View/site_master.php on line 354
+[30-Dec-2022 18:31:04 Asia/Kolkata] PHP Notice:  Undefined variable: row in /var/www/html/erpm/View/site_master.php on line 356
+[30-Dec-2022 18:31:04 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /var/www/html/erpm/View/site_master.php on line 356
+[30-Dec-2022 18:31:04 Asia/Kolkata] PHP Notice:  Undefined variable: row in /var/www/html/erpm/View/site_master.php on line 354
+[30-Dec-2022 18:31:04 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /var/www/html/erpm/View/site_master.php on line 354
+[30-Dec-2022 18:31:04 Asia/Kolkata] PHP Notice:  Undefined variable: row in /var/www/html/erpm/View/site_master.php on line 356
+[30-Dec-2022 18:31:04 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /var/www/html/erpm/View/site_master.php on line 356
+[30-Dec-2022 18:31:04 Asia/Kolkata] PHP Notice:  Undefined variable: row in /var/www/html/erpm/View/site_master.php on line 354
+[30-Dec-2022 18:31:04 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /var/www/html/erpm/View/site_master.php on line 354
+[30-Dec-2022 18:31:04 Asia/Kolkata] PHP Notice:  Undefined variable: row in /var/www/html/erpm/View/site_master.php on line 356
+[30-Dec-2022 18:31:04 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /var/www/html/erpm/View/site_master.php on line 356
+[30-Dec-2022 18:40:45 Asia/Kolkata] PHP Notice:  Undefined index: __user_logid in /var/www/html/erpm/AppCode/nHead.php on line 2
+[30-Dec-2022 18:40:47 Asia/Kolkata] PHP Warning:  mysqli_stmt::bind_param(): Number of elements in type definition string doesn't match number of bind variables in /var/www/html/erpm/Controller/ConLog.php on line 464
+[30-Dec-2022 18:40:47 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /var/www/html/erpm/View/index.php on line 346
+[30-Dec-2022 18:40:51 Asia/Kolkata] PHP Notice:  Undefined variable: row in /var/www/html/erpm/View/site_master.php on line 375
+[30-Dec-2022 18:40:51 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /var/www/html/erpm/View/site_master.php on line 375
+[30-Dec-2022 18:40:51 Asia/Kolkata] PHP Notice:  Undefined variable: row in /var/www/html/erpm/View/site_master.php on line 377
+[30-Dec-2022 18:40:51 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /var/www/html/erpm/View/site_master.php on line 377
+[30-Dec-2022 18:40:51 Asia/Kolkata] PHP Notice:  Undefined variable: row in /var/www/html/erpm/View/site_master.php on line 375
+[30-Dec-2022 18:40:51 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /var/www/html/erpm/View/site_master.php on line 375
+[30-Dec-2022 18:40:51 Asia/Kolkata] PHP Notice:  Undefined variable: row in /var/www/html/erpm/View/site_master.php on line 377
+[30-Dec-2022 18:40:51 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /var/www/html/erpm/View/site_master.php on line 377
+[30-Dec-2022 18:40:51 Asia/Kolkata] PHP Notice:  Undefined variable: row in /var/www/html/erpm/View/site_master.php on line 375
+[30-Dec-2022 18:40:51 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /var/www/html/erpm/View/site_master.php on line 375
+[30-Dec-2022 18:40:51 Asia/Kolkata] PHP Notice:  Undefined variable: row in /var/www/html/erpm/View/site_master.php on line 377
+[30-Dec-2022 18:40:51 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /var/www/html/erpm/View/site_master.php on line 377
+[30-Dec-2022 18:40:51 Asia/Kolkata] PHP Notice:  Undefined variable: row in /var/www/html/erpm/View/site_master.php on line 375
+[30-Dec-2022 18:40:51 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /var/www/html/erpm/View/site_master.php on line 375
+[30-Dec-2022 18:40:51 Asia/Kolkata] PHP Notice:  Undefined variable: row in /var/www/html/erpm/View/site_master.php on line 377
+[30-Dec-2022 18:40:51 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /var/www/html/erpm/View/site_master.php on line 377
+[30-Dec-2022 18:40:51 Asia/Kolkata] PHP Notice:  Undefined variable: row in /var/www/html/erpm/View/site_master.php on line 375
+[30-Dec-2022 18:40:51 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /var/www/html/erpm/View/site_master.php on line 375
+[30-Dec-2022 18:40:51 Asia/Kolkata] PHP Notice:  Undefined variable: row in /var/www/html/erpm/View/site_master.php on line 377
+[30-Dec-2022 18:40:51 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /var/www/html/erpm/View/site_master.php on line 377
+[30-Dec-2022 18:40:51 Asia/Kolkata] PHP Notice:  Undefined variable: row in /var/www/html/erpm/View/site_master.php on line 375
+[30-Dec-2022 18:40:51 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /var/www/html/erpm/View/site_master.php on line 375
+[30-Dec-2022 18:40:51 Asia/Kolkata] PHP Notice:  Undefined variable: row in /var/www/html/erpm/View/site_master.php on line 377
+[30-Dec-2022 18:40:51 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /var/www/html/erpm/View/site_master.php on line 377
+[30-Dec-2022 18:40:51 Asia/Kolkata] PHP Notice:  Undefined variable: row in /var/www/html/erpm/View/site_master.php on line 375
+[30-Dec-2022 18:40:51 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /var/www/html/erpm/View/site_master.php on line 375
+[30-Dec-2022 18:40:51 Asia/Kolkata] PHP Notice:  Undefined variable: row in /var/www/html/erpm/View/site_master.php on line 377
+[30-Dec-2022 18:40:51 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /var/www/html/erpm/View/site_master.php on line 377
+[30-Dec-2022 18:41:00 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Call to a member function bind_param() on bool in /var/www/html/erpm/View/site_master.php:115
+Stack trace:
+#0 {main}
+  thrown in /var/www/html/erpm/View/site_master.php on line 115
+[30-Dec-2022 18:42:05 Asia/Kolkata] PHP Notice:  Undefined variable: row in /var/www/html/erpm/View/site_master.php on line 375
+[30-Dec-2022 18:42:05 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /var/www/html/erpm/View/site_master.php on line 375
+[30-Dec-2022 18:42:05 Asia/Kolkata] PHP Notice:  Undefined variable: row in /var/www/html/erpm/View/site_master.php on line 377
+[30-Dec-2022 18:42:05 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /var/www/html/erpm/View/site_master.php on line 377
+[30-Dec-2022 18:42:05 Asia/Kolkata] PHP Notice:  Undefined variable: row in /var/www/html/erpm/View/site_master.php on line 375
+[30-Dec-2022 18:42:05 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /var/www/html/erpm/View/site_master.php on line 375
+[30-Dec-2022 18:42:05 Asia/Kolkata] PHP Notice:  Undefined variable: row in /var/www/html/erpm/View/site_master.php on line 377
+[30-Dec-2022 18:42:05 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /var/www/html/erpm/View/site_master.php on line 377
+[30-Dec-2022 18:42:05 Asia/Kolkata] PHP Notice:  Undefined variable: row in /var/www/html/erpm/View/site_master.php on line 375
+[30-Dec-2022 18:42:05 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /var/www/html/erpm/View/site_master.php on line 375
+[30-Dec-2022 18:42:05 Asia/Kolkata] PHP Notice:  Undefined variable: row in /var/www/html/erpm/View/site_master.php on line 377
+[30-Dec-2022 18:42:05 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /var/www/html/erpm/View/site_master.php on line 377
+[30-Dec-2022 18:42:05 Asia/Kolkata] PHP Notice:  Undefined variable: row in /var/www/html/erpm/View/site_master.php on line 375
+[30-Dec-2022 18:42:05 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /var/www/html/erpm/View/site_master.php on line 375
+[30-Dec-2022 18:42:05 Asia/Kolkata] PHP Notice:  Undefined variable: row in /var/www/html/erpm/View/site_master.php on line 377
+[30-Dec-2022 18:42:05 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /var/www/html/erpm/View/site_master.php on line 377
+[30-Dec-2022 18:42:05 Asia/Kolkata] PHP Notice:  Undefined variable: row in /var/www/html/erpm/View/site_master.php on line 375
+[30-Dec-2022 18:42:05 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /var/www/html/erpm/View/site_master.php on line 375
+[30-Dec-2022 18:42:05 Asia/Kolkata] PHP Notice:  Undefined variable: row in /var/www/html/erpm/View/site_master.php on line 377
+[30-Dec-2022 18:42:05 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /var/www/html/erpm/View/site_master.php on line 377
+[30-Dec-2022 18:42:05 Asia/Kolkata] PHP Notice:  Undefined variable: row in /var/www/html/erpm/View/site_master.php on line 375
+[30-Dec-2022 18:42:05 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /var/www/html/erpm/View/site_master.php on line 375
+[30-Dec-2022 18:42:05 Asia/Kolkata] PHP Notice:  Undefined variable: row in /var/www/html/erpm/View/site_master.php on line 377
+[30-Dec-2022 18:42:05 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /var/www/html/erpm/View/site_master.php on line 377
+[30-Dec-2022 18:42:05 Asia/Kolkata] PHP Notice:  Undefined variable: row in /var/www/html/erpm/View/site_master.php on line 375
+[30-Dec-2022 18:42:05 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /var/www/html/erpm/View/site_master.php on line 375
+[30-Dec-2022 18:42:05 Asia/Kolkata] PHP Notice:  Undefined variable: row in /var/www/html/erpm/View/site_master.php on line 377
+[30-Dec-2022 18:42:05 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /var/www/html/erpm/View/site_master.php on line 377
+[30-Dec-2022 18:42:11 Asia/Kolkata] PHP Notice:  Undefined variable: row in /var/www/html/erpm/View/site_master.php on line 375
+[30-Dec-2022 18:42:11 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /var/www/html/erpm/View/site_master.php on line 375
+[30-Dec-2022 18:42:11 Asia/Kolkata] PHP Notice:  Undefined variable: row in /var/www/html/erpm/View/site_master.php on line 377
+[30-Dec-2022 18:42:11 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /var/www/html/erpm/View/site_master.php on line 377
+[30-Dec-2022 18:42:11 Asia/Kolkata] PHP Notice:  Undefined variable: row in /var/www/html/erpm/View/site_master.php on line 375
+[30-Dec-2022 18:42:11 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /var/www/html/erpm/View/site_master.php on line 375
+[30-Dec-2022 18:42:11 Asia/Kolkata] PHP Notice:  Undefined variable: row in /var/www/html/erpm/View/site_master.php on line 377
+[30-Dec-2022 18:42:11 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /var/www/html/erpm/View/site_master.php on line 377
+[30-Dec-2022 18:42:11 Asia/Kolkata] PHP Notice:  Undefined variable: row in /var/www/html/erpm/View/site_master.php on line 375
+[30-Dec-2022 18:42:11 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /var/www/html/erpm/View/site_master.php on line 375
+[30-Dec-2022 18:42:11 Asia/Kolkata] PHP Notice:  Undefined variable: row in /var/www/html/erpm/View/site_master.php on line 377
+[30-Dec-2022 18:42:11 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /var/www/html/erpm/View/site_master.php on line 377
+[30-Dec-2022 18:42:11 Asia/Kolkata] PHP Notice:  Undefined variable: row in /var/www/html/erpm/View/site_master.php on line 375
+[30-Dec-2022 18:42:11 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /var/www/html/erpm/View/site_master.php on line 375
+[30-Dec-2022 18:42:11 Asia/Kolkata] PHP Notice:  Undefined variable: row in /var/www/html/erpm/View/site_master.php on line 377
+[30-Dec-2022 18:42:11 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /var/www/html/erpm/View/site_master.php on line 377
+[30-Dec-2022 18:42:11 Asia/Kolkata] PHP Notice:  Undefined variable: row in /var/www/html/erpm/View/site_master.php on line 375
+[30-Dec-2022 18:42:11 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /var/www/html/erpm/View/site_master.php on line 375
+[30-Dec-2022 18:42:11 Asia/Kolkata] PHP Notice:  Undefined variable: row in /var/www/html/erpm/View/site_master.php on line 377
+[30-Dec-2022 18:42:11 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /var/www/html/erpm/View/site_master.php on line 377
+[30-Dec-2022 18:42:11 Asia/Kolkata] PHP Notice:  Undefined variable: row in /var/www/html/erpm/View/site_master.php on line 375
+[30-Dec-2022 18:42:11 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /var/www/html/erpm/View/site_master.php on line 375
+[30-Dec-2022 18:42:11 Asia/Kolkata] PHP Notice:  Undefined variable: row in /var/www/html/erpm/View/site_master.php on line 377
+[30-Dec-2022 18:42:11 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /var/www/html/erpm/View/site_master.php on line 377
+[30-Dec-2022 18:42:11 Asia/Kolkata] PHP Notice:  Undefined variable: row in /var/www/html/erpm/View/site_master.php on line 375
+[30-Dec-2022 18:42:11 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /var/www/html/erpm/View/site_master.php on line 375
+[30-Dec-2022 18:42:11 Asia/Kolkata] PHP Notice:  Undefined variable: row in /var/www/html/erpm/View/site_master.php on line 377
+[30-Dec-2022 18:42:11 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /var/www/html/erpm/View/site_master.php on line 377
+[30-Dec-2022 18:42:18 Asia/Kolkata] PHP Notice:  Undefined variable: row in /var/www/html/erpm/View/site_master.php on line 375
+[30-Dec-2022 18:42:18 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /var/www/html/erpm/View/site_master.php on line 375
+[30-Dec-2022 18:42:18 Asia/Kolkata] PHP Notice:  Undefined variable: row in /var/www/html/erpm/View/site_master.php on line 377
+[30-Dec-2022 18:42:18 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /var/www/html/erpm/View/site_master.php on line 377
+[30-Dec-2022 18:42:18 Asia/Kolkata] PHP Notice:  Undefined variable: row in /var/www/html/erpm/View/site_master.php on line 375
+[30-Dec-2022 18:42:18 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /var/www/html/erpm/View/site_master.php on line 375
+[30-Dec-2022 18:42:18 Asia/Kolkata] PHP Notice:  Undefined variable: row in /var/www/html/erpm/View/site_master.php on line 377
+[30-Dec-2022 18:42:18 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /var/www/html/erpm/View/site_master.php on line 377
+[30-Dec-2022 18:42:18 Asia/Kolkata] PHP Notice:  Undefined variable: row in /var/www/html/erpm/View/site_master.php on line 375
+[30-Dec-2022 18:42:18 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /var/www/html/erpm/View/site_master.php on line 375
+[30-Dec-2022 18:42:18 Asia/Kolkata] PHP Notice:  Undefined variable: row in /var/www/html/erpm/View/site_master.php on line 377
+[30-Dec-2022 18:42:18 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /var/www/html/erpm/View/site_master.php on line 377
+[30-Dec-2022 18:42:18 Asia/Kolkata] PHP Notice:  Undefined variable: row in /var/www/html/erpm/View/site_master.php on line 375
+[30-Dec-2022 18:42:18 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /var/www/html/erpm/View/site_master.php on line 375
+[30-Dec-2022 18:42:18 Asia/Kolkata] PHP Notice:  Undefined variable: row in /var/www/html/erpm/View/site_master.php on line 377
+[30-Dec-2022 18:42:18 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /var/www/html/erpm/View/site_master.php on line 377
+[30-Dec-2022 18:42:18 Asia/Kolkata] PHP Notice:  Undefined variable: row in /var/www/html/erpm/View/site_master.php on line 375
+[30-Dec-2022 18:42:18 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /var/www/html/erpm/View/site_master.php on line 375
+[30-Dec-2022 18:42:18 Asia/Kolkata] PHP Notice:  Undefined variable: row in /var/www/html/erpm/View/site_master.php on line 377
+[30-Dec-2022 18:42:18 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /var/www/html/erpm/View/site_master.php on line 377
+[30-Dec-2022 18:42:18 Asia/Kolkata] PHP Notice:  Undefined variable: row in /var/www/html/erpm/View/site_master.php on line 375
+[30-Dec-2022 18:42:18 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /var/www/html/erpm/View/site_master.php on line 375
+[30-Dec-2022 18:42:18 Asia/Kolkata] PHP Notice:  Undefined variable: row in /var/www/html/erpm/View/site_master.php on line 377
+[30-Dec-2022 18:42:18 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /var/www/html/erpm/View/site_master.php on line 377
+[30-Dec-2022 18:42:18 Asia/Kolkata] PHP Notice:  Undefined variable: row in /var/www/html/erpm/View/site_master.php on line 375
+[30-Dec-2022 18:42:18 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /var/www/html/erpm/View/site_master.php on line 375
+[30-Dec-2022 18:42:18 Asia/Kolkata] PHP Notice:  Undefined variable: row in /var/www/html/erpm/View/site_master.php on line 377
+[30-Dec-2022 18:42:18 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /var/www/html/erpm/View/site_master.php on line 377
+[30-Dec-2022 18:43:02 Asia/Kolkata] PHP Notice:  Undefined variable: row in /var/www/html/erpm/View/site_master.php on line 375
+[30-Dec-2022 18:43:02 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /var/www/html/erpm/View/site_master.php on line 375
+[30-Dec-2022 18:43:02 Asia/Kolkata] PHP Notice:  Undefined variable: row in /var/www/html/erpm/View/site_master.php on line 377
+[30-Dec-2022 18:43:02 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /var/www/html/erpm/View/site_master.php on line 377
+[30-Dec-2022 18:43:02 Asia/Kolkata] PHP Notice:  Undefined variable: row in /var/www/html/erpm/View/site_master.php on line 375
+[30-Dec-2022 18:43:02 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /var/www/html/erpm/View/site_master.php on line 375
+[30-Dec-2022 18:43:02 Asia/Kolkata] PHP Notice:  Undefined variable: row in /var/www/html/erpm/View/site_master.php on line 377
+[30-Dec-2022 18:43:02 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /var/www/html/erpm/View/site_master.php on line 377
+[30-Dec-2022 18:43:02 Asia/Kolkata] PHP Notice:  Undefined variable: row in /var/www/html/erpm/View/site_master.php on line 375
+[30-Dec-2022 18:43:02 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /var/www/html/erpm/View/site_master.php on line 375
+[30-Dec-2022 18:43:02 Asia/Kolkata] PHP Notice:  Undefined variable: row in /var/www/html/erpm/View/site_master.php on line 377
+[30-Dec-2022 18:43:02 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /var/www/html/erpm/View/site_master.php on line 377
+[30-Dec-2022 18:43:02 Asia/Kolkata] PHP Notice:  Undefined variable: row in /var/www/html/erpm/View/site_master.php on line 375
+[30-Dec-2022 18:43:02 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /var/www/html/erpm/View/site_master.php on line 375
+[30-Dec-2022 18:43:02 Asia/Kolkata] PHP Notice:  Undefined variable: row in /var/www/html/erpm/View/site_master.php on line 377
+[30-Dec-2022 18:43:02 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /var/www/html/erpm/View/site_master.php on line 377
+[30-Dec-2022 18:43:02 Asia/Kolkata] PHP Notice:  Undefined variable: row in /var/www/html/erpm/View/site_master.php on line 375
+[30-Dec-2022 18:43:02 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /var/www/html/erpm/View/site_master.php on line 375
+[30-Dec-2022 18:43:02 Asia/Kolkata] PHP Notice:  Undefined variable: row in /var/www/html/erpm/View/site_master.php on line 377
+[30-Dec-2022 18:43:02 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /var/www/html/erpm/View/site_master.php on line 377
+[30-Dec-2022 18:43:02 Asia/Kolkata] PHP Notice:  Undefined variable: row in /var/www/html/erpm/View/site_master.php on line 375
+[30-Dec-2022 18:43:02 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /var/www/html/erpm/View/site_master.php on line 375
+[30-Dec-2022 18:43:02 Asia/Kolkata] PHP Notice:  Undefined variable: row in /var/www/html/erpm/View/site_master.php on line 377
+[30-Dec-2022 18:43:02 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /var/www/html/erpm/View/site_master.php on line 377
+[30-Dec-2022 18:43:02 Asia/Kolkata] PHP Notice:  Undefined variable: row in /var/www/html/erpm/View/site_master.php on line 375
+[30-Dec-2022 18:43:02 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /var/www/html/erpm/View/site_master.php on line 375
+[30-Dec-2022 18:43:02 Asia/Kolkata] PHP Notice:  Undefined variable: row in /var/www/html/erpm/View/site_master.php on line 377
+[30-Dec-2022 18:43:02 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /var/www/html/erpm/View/site_master.php on line 377
+[30-Dec-2022 18:44:12 Asia/Kolkata] PHP Notice:  Undefined variable: row in /var/www/html/erpm/View/site_master.php on line 375
+[30-Dec-2022 18:44:12 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /var/www/html/erpm/View/site_master.php on line 375
+[30-Dec-2022 18:44:12 Asia/Kolkata] PHP Notice:  Undefined variable: row in /var/www/html/erpm/View/site_master.php on line 377
+[30-Dec-2022 18:44:12 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /var/www/html/erpm/View/site_master.php on line 377
+[30-Dec-2022 18:44:12 Asia/Kolkata] PHP Notice:  Undefined variable: row in /var/www/html/erpm/View/site_master.php on line 375
+[30-Dec-2022 18:44:12 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /var/www/html/erpm/View/site_master.php on line 375
+[30-Dec-2022 18:44:12 Asia/Kolkata] PHP Notice:  Undefined variable: row in /var/www/html/erpm/View/site_master.php on line 377
+[30-Dec-2022 18:44:12 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /var/www/html/erpm/View/site_master.php on line 377
+[30-Dec-2022 18:44:12 Asia/Kolkata] PHP Notice:  Undefined variable: row in /var/www/html/erpm/View/site_master.php on line 375
+[30-Dec-2022 18:44:12 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /var/www/html/erpm/View/site_master.php on line 375
+[30-Dec-2022 18:44:12 Asia/Kolkata] PHP Notice:  Undefined variable: row in /var/www/html/erpm/View/site_master.php on line 377
+[30-Dec-2022 18:44:12 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /var/www/html/erpm/View/site_master.php on line 377
+[30-Dec-2022 18:44:12 Asia/Kolkata] PHP Notice:  Undefined variable: row in /var/www/html/erpm/View/site_master.php on line 375
+[30-Dec-2022 18:44:12 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /var/www/html/erpm/View/site_master.php on line 375
+[30-Dec-2022 18:44:12 Asia/Kolkata] PHP Notice:  Undefined variable: row in /var/www/html/erpm/View/site_master.php on line 377
+[30-Dec-2022 18:44:12 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /var/www/html/erpm/View/site_master.php on line 377
+[30-Dec-2022 18:44:12 Asia/Kolkata] PHP Notice:  Undefined variable: row in /var/www/html/erpm/View/site_master.php on line 375
+[30-Dec-2022 18:44:12 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /var/www/html/erpm/View/site_master.php on line 375
+[30-Dec-2022 18:44:12 Asia/Kolkata] PHP Notice:  Undefined variable: row in /var/www/html/erpm/View/site_master.php on line 377
+[30-Dec-2022 18:44:12 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /var/www/html/erpm/View/site_master.php on line 377
+[30-Dec-2022 18:44:12 Asia/Kolkata] PHP Notice:  Undefined variable: row in /var/www/html/erpm/View/site_master.php on line 375
+[30-Dec-2022 18:44:12 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /var/www/html/erpm/View/site_master.php on line 375
+[30-Dec-2022 18:44:12 Asia/Kolkata] PHP Notice:  Undefined variable: row in /var/www/html/erpm/View/site_master.php on line 377
+[30-Dec-2022 18:44:12 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /var/www/html/erpm/View/site_master.php on line 377
+[30-Dec-2022 18:44:12 Asia/Kolkata] PHP Notice:  Undefined variable: row in /var/www/html/erpm/View/site_master.php on line 375
+[30-Dec-2022 18:44:12 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /var/www/html/erpm/View/site_master.php on line 375
+[30-Dec-2022 18:44:12 Asia/Kolkata] PHP Notice:  Undefined variable: row in /var/www/html/erpm/View/site_master.php on line 377
+[30-Dec-2022 18:44:12 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /var/www/html/erpm/View/site_master.php on line 377
+[30-Dec-2022 18:49:53 Asia/Kolkata] PHP Notice:  Undefined variable: row in /var/www/html/erpm/View/site_master.php on line 393
+[30-Dec-2022 18:49:53 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /var/www/html/erpm/View/site_master.php on line 393
+[30-Dec-2022 18:49:53 Asia/Kolkata] PHP Notice:  Undefined variable: row in /var/www/html/erpm/View/site_master.php on line 395
+[30-Dec-2022 18:49:53 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /var/www/html/erpm/View/site_master.php on line 395
+[30-Dec-2022 18:49:53 Asia/Kolkata] PHP Notice:  Undefined variable: row in /var/www/html/erpm/View/site_master.php on line 393
+[30-Dec-2022 18:49:53 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /var/www/html/erpm/View/site_master.php on line 393
+[30-Dec-2022 18:49:53 Asia/Kolkata] PHP Notice:  Undefined variable: row in /var/www/html/erpm/View/site_master.php on line 395
+[30-Dec-2022 18:49:53 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /var/www/html/erpm/View/site_master.php on line 395
+[30-Dec-2022 18:49:53 Asia/Kolkata] PHP Notice:  Undefined variable: row in /var/www/html/erpm/View/site_master.php on line 393
+[30-Dec-2022 18:49:53 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /var/www/html/erpm/View/site_master.php on line 393
+[30-Dec-2022 18:49:53 Asia/Kolkata] PHP Notice:  Undefined variable: row in /var/www/html/erpm/View/site_master.php on line 395
+[30-Dec-2022 18:49:53 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /var/www/html/erpm/View/site_master.php on line 395
+[30-Dec-2022 18:49:53 Asia/Kolkata] PHP Notice:  Undefined variable: row in /var/www/html/erpm/View/site_master.php on line 393
+[30-Dec-2022 18:49:53 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /var/www/html/erpm/View/site_master.php on line 393
+[30-Dec-2022 18:49:53 Asia/Kolkata] PHP Notice:  Undefined variable: row in /var/www/html/erpm/View/site_master.php on line 395
+[30-Dec-2022 18:49:53 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /var/www/html/erpm/View/site_master.php on line 395
+[30-Dec-2022 18:49:53 Asia/Kolkata] PHP Notice:  Undefined variable: row in /var/www/html/erpm/View/site_master.php on line 393
+[30-Dec-2022 18:49:53 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /var/www/html/erpm/View/site_master.php on line 393
+[30-Dec-2022 18:49:53 Asia/Kolkata] PHP Notice:  Undefined variable: row in /var/www/html/erpm/View/site_master.php on line 395
+[30-Dec-2022 18:49:53 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /var/www/html/erpm/View/site_master.php on line 395
+[30-Dec-2022 18:49:53 Asia/Kolkata] PHP Notice:  Undefined variable: row in /var/www/html/erpm/View/site_master.php on line 393
+[30-Dec-2022 18:49:53 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /var/www/html/erpm/View/site_master.php on line 393
+[30-Dec-2022 18:49:53 Asia/Kolkata] PHP Notice:  Undefined variable: row in /var/www/html/erpm/View/site_master.php on line 395
+[30-Dec-2022 18:49:53 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /var/www/html/erpm/View/site_master.php on line 395
+[30-Dec-2022 18:49:53 Asia/Kolkata] PHP Notice:  Undefined variable: row in /var/www/html/erpm/View/site_master.php on line 393
+[30-Dec-2022 18:49:53 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /var/www/html/erpm/View/site_master.php on line 393
+[30-Dec-2022 18:49:53 Asia/Kolkata] PHP Notice:  Undefined variable: row in /var/www/html/erpm/View/site_master.php on line 395
+[30-Dec-2022 18:49:53 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /var/www/html/erpm/View/site_master.php on line 395
+[30-Dec-2022 18:50:04 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Call to a member function bind_param() on bool in /var/www/html/erpm/View/site_master.php:177
+Stack trace:
+#0 {main}
+  thrown in /var/www/html/erpm/View/site_master.php on line 177
+[30-Dec-2022 18:51:37 Asia/Kolkata] PHP Notice:  Undefined variable: row in /var/www/html/erpm/View/site_master.php on line 393
+[30-Dec-2022 18:51:37 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /var/www/html/erpm/View/site_master.php on line 393
+[30-Dec-2022 18:51:37 Asia/Kolkata] PHP Notice:  Undefined variable: row in /var/www/html/erpm/View/site_master.php on line 395
+[30-Dec-2022 18:51:37 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /var/www/html/erpm/View/site_master.php on line 395
+[30-Dec-2022 18:51:37 Asia/Kolkata] PHP Notice:  Undefined variable: row in /var/www/html/erpm/View/site_master.php on line 393
+[30-Dec-2022 18:51:37 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /var/www/html/erpm/View/site_master.php on line 393
+[30-Dec-2022 18:51:37 Asia/Kolkata] PHP Notice:  Undefined variable: row in /var/www/html/erpm/View/site_master.php on line 395
+[30-Dec-2022 18:51:37 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /var/www/html/erpm/View/site_master.php on line 395
+[30-Dec-2022 18:51:37 Asia/Kolkata] PHP Notice:  Undefined variable: row in /var/www/html/erpm/View/site_master.php on line 393
+[30-Dec-2022 18:51:37 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /var/www/html/erpm/View/site_master.php on line 393
+[30-Dec-2022 18:51:37 Asia/Kolkata] PHP Notice:  Undefined variable: row in /var/www/html/erpm/View/site_master.php on line 395
+[30-Dec-2022 18:51:37 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /var/www/html/erpm/View/site_master.php on line 395
+[30-Dec-2022 18:51:37 Asia/Kolkata] PHP Notice:  Undefined variable: row in /var/www/html/erpm/View/site_master.php on line 393
+[30-Dec-2022 18:51:37 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /var/www/html/erpm/View/site_master.php on line 393
+[30-Dec-2022 18:51:37 Asia/Kolkata] PHP Notice:  Undefined variable: row in /var/www/html/erpm/View/site_master.php on line 395
+[30-Dec-2022 18:51:37 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /var/www/html/erpm/View/site_master.php on line 395
+[30-Dec-2022 18:51:37 Asia/Kolkata] PHP Notice:  Undefined variable: row in /var/www/html/erpm/View/site_master.php on line 393
+[30-Dec-2022 18:51:37 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /var/www/html/erpm/View/site_master.php on line 393
+[30-Dec-2022 18:51:37 Asia/Kolkata] PHP Notice:  Undefined variable: row in /var/www/html/erpm/View/site_master.php on line 395
+[30-Dec-2022 18:51:37 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /var/www/html/erpm/View/site_master.php on line 395
+[30-Dec-2022 18:51:37 Asia/Kolkata] PHP Notice:  Undefined variable: row in /var/www/html/erpm/View/site_master.php on line 393
+[30-Dec-2022 18:51:37 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /var/www/html/erpm/View/site_master.php on line 393
+[30-Dec-2022 18:51:37 Asia/Kolkata] PHP Notice:  Undefined variable: row in /var/www/html/erpm/View/site_master.php on line 395
+[30-Dec-2022 18:51:37 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /var/www/html/erpm/View/site_master.php on line 395
+[30-Dec-2022 18:51:37 Asia/Kolkata] PHP Notice:  Undefined variable: row in /var/www/html/erpm/View/site_master.php on line 393
+[30-Dec-2022 18:51:37 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /var/www/html/erpm/View/site_master.php on line 393
+[30-Dec-2022 18:51:37 Asia/Kolkata] PHP Notice:  Undefined variable: row in /var/www/html/erpm/View/site_master.php on line 395
+[30-Dec-2022 18:51:37 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /var/www/html/erpm/View/site_master.php on line 395
+[30-Dec-2022 18:53:58 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Call to a member function bind_param() on bool in /var/www/html/erpm/View/site_master.php:198
+Stack trace:
+#0 {main}
+  thrown in /var/www/html/erpm/View/site_master.php on line 198
+[30-Dec-2022 18:54:52 Asia/Kolkata] PHP Notice:  Undefined variable: row in /var/www/html/erpm/View/site_master.php on line 393
+[30-Dec-2022 18:54:52 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /var/www/html/erpm/View/site_master.php on line 393
+[30-Dec-2022 18:54:52 Asia/Kolkata] PHP Notice:  Undefined variable: row in /var/www/html/erpm/View/site_master.php on line 395
+[30-Dec-2022 18:54:52 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /var/www/html/erpm/View/site_master.php on line 395
+[30-Dec-2022 18:54:52 Asia/Kolkata] PHP Notice:  Undefined variable: row in /var/www/html/erpm/View/site_master.php on line 393
+[30-Dec-2022 18:54:52 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /var/www/html/erpm/View/site_master.php on line 393
+[30-Dec-2022 18:54:52 Asia/Kolkata] PHP Notice:  Undefined variable: row in /var/www/html/erpm/View/site_master.php on line 395
+[30-Dec-2022 18:54:52 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /var/www/html/erpm/View/site_master.php on line 395
+[30-Dec-2022 18:54:52 Asia/Kolkata] PHP Notice:  Undefined variable: row in /var/www/html/erpm/View/site_master.php on line 393
+[30-Dec-2022 18:54:52 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /var/www/html/erpm/View/site_master.php on line 393
+[30-Dec-2022 18:54:52 Asia/Kolkata] PHP Notice:  Undefined variable: row in /var/www/html/erpm/View/site_master.php on line 395
+[30-Dec-2022 18:54:52 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /var/www/html/erpm/View/site_master.php on line 395
+[30-Dec-2022 18:54:52 Asia/Kolkata] PHP Notice:  Undefined variable: row in /var/www/html/erpm/View/site_master.php on line 393
+[30-Dec-2022 18:54:52 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /var/www/html/erpm/View/site_master.php on line 393
+[30-Dec-2022 18:54:52 Asia/Kolkata] PHP Notice:  Undefined variable: row in /var/www/html/erpm/View/site_master.php on line 395
+[30-Dec-2022 18:54:52 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /var/www/html/erpm/View/site_master.php on line 395
+[30-Dec-2022 18:54:52 Asia/Kolkata] PHP Notice:  Undefined variable: row in /var/www/html/erpm/View/site_master.php on line 393
+[30-Dec-2022 18:54:52 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /var/www/html/erpm/View/site_master.php on line 393
+[30-Dec-2022 18:54:52 Asia/Kolkata] PHP Notice:  Undefined variable: row in /var/www/html/erpm/View/site_master.php on line 395
+[30-Dec-2022 18:54:52 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /var/www/html/erpm/View/site_master.php on line 395
+[30-Dec-2022 18:54:52 Asia/Kolkata] PHP Notice:  Undefined variable: row in /var/www/html/erpm/View/site_master.php on line 393
+[30-Dec-2022 18:54:52 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /var/www/html/erpm/View/site_master.php on line 393
+[30-Dec-2022 18:54:52 Asia/Kolkata] PHP Notice:  Undefined variable: row in /var/www/html/erpm/View/site_master.php on line 395
+[30-Dec-2022 18:54:52 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /var/www/html/erpm/View/site_master.php on line 395
+[30-Dec-2022 18:54:52 Asia/Kolkata] PHP Notice:  Undefined variable: row in /var/www/html/erpm/View/site_master.php on line 393
+[30-Dec-2022 18:54:52 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /var/www/html/erpm/View/site_master.php on line 393
+[30-Dec-2022 18:54:52 Asia/Kolkata] PHP Notice:  Undefined variable: row in /var/www/html/erpm/View/site_master.php on line 395
+[30-Dec-2022 18:54:52 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /var/www/html/erpm/View/site_master.php on line 395
+[30-Dec-2022 18:55:01 Asia/Kolkata] PHP Notice:  Undefined variable: row in /var/www/html/erpm/View/site_master.php on line 393
+[30-Dec-2022 18:55:01 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /var/www/html/erpm/View/site_master.php on line 393
+[30-Dec-2022 18:55:01 Asia/Kolkata] PHP Notice:  Undefined variable: row in /var/www/html/erpm/View/site_master.php on line 395
+[30-Dec-2022 18:55:01 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /var/www/html/erpm/View/site_master.php on line 395
+[30-Dec-2022 18:55:01 Asia/Kolkata] PHP Notice:  Undefined variable: row in /var/www/html/erpm/View/site_master.php on line 393
+[30-Dec-2022 18:55:01 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /var/www/html/erpm/View/site_master.php on line 393
+[30-Dec-2022 18:55:01 Asia/Kolkata] PHP Notice:  Undefined variable: row in /var/www/html/erpm/View/site_master.php on line 395
+[30-Dec-2022 18:55:01 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /var/www/html/erpm/View/site_master.php on line 395
+[30-Dec-2022 18:55:01 Asia/Kolkata] PHP Notice:  Undefined variable: row in /var/www/html/erpm/View/site_master.php on line 393
+[30-Dec-2022 18:55:01 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /var/www/html/erpm/View/site_master.php on line 393
+[30-Dec-2022 18:55:01 Asia/Kolkata] PHP Notice:  Undefined variable: row in /var/www/html/erpm/View/site_master.php on line 395
+[30-Dec-2022 18:55:01 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /var/www/html/erpm/View/site_master.php on line 395
+[30-Dec-2022 18:55:01 Asia/Kolkata] PHP Notice:  Undefined variable: row in /var/www/html/erpm/View/site_master.php on line 393
+[30-Dec-2022 18:55:01 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /var/www/html/erpm/View/site_master.php on line 393
+[30-Dec-2022 18:55:01 Asia/Kolkata] PHP Notice:  Undefined variable: row in /var/www/html/erpm/View/site_master.php on line 395
+[30-Dec-2022 18:55:01 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /var/www/html/erpm/View/site_master.php on line 395
+[30-Dec-2022 18:55:01 Asia/Kolkata] PHP Notice:  Undefined variable: row in /var/www/html/erpm/View/site_master.php on line 393
+[30-Dec-2022 18:55:01 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /var/www/html/erpm/View/site_master.php on line 393
+[30-Dec-2022 18:55:01 Asia/Kolkata] PHP Notice:  Undefined variable: row in /var/www/html/erpm/View/site_master.php on line 395
+[30-Dec-2022 18:55:01 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /var/www/html/erpm/View/site_master.php on line 395
+[30-Dec-2022 18:55:01 Asia/Kolkata] PHP Notice:  Undefined variable: row in /var/www/html/erpm/View/site_master.php on line 393
+[30-Dec-2022 18:55:01 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /var/www/html/erpm/View/site_master.php on line 393
+[30-Dec-2022 18:55:01 Asia/Kolkata] PHP Notice:  Undefined variable: row in /var/www/html/erpm/View/site_master.php on line 395
+[30-Dec-2022 18:55:01 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /var/www/html/erpm/View/site_master.php on line 395
+[30-Dec-2022 18:55:01 Asia/Kolkata] PHP Notice:  Undefined variable: row in /var/www/html/erpm/View/site_master.php on line 393
+[30-Dec-2022 18:55:01 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /var/www/html/erpm/View/site_master.php on line 393
+[30-Dec-2022 18:55:01 Asia/Kolkata] PHP Notice:  Undefined variable: row in /var/www/html/erpm/View/site_master.php on line 395
+[30-Dec-2022 18:55:01 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /var/www/html/erpm/View/site_master.php on line 395
+[30-Dec-2022 18:55:26 Asia/Kolkata] PHP Notice:  Undefined variable: row in /var/www/html/erpm/View/site_master.php on line 393
+[30-Dec-2022 18:55:26 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /var/www/html/erpm/View/site_master.php on line 393
+[30-Dec-2022 18:55:26 Asia/Kolkata] PHP Notice:  Undefined variable: row in /var/www/html/erpm/View/site_master.php on line 395
+[30-Dec-2022 18:55:26 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /var/www/html/erpm/View/site_master.php on line 395
+[30-Dec-2022 18:55:26 Asia/Kolkata] PHP Notice:  Undefined variable: row in /var/www/html/erpm/View/site_master.php on line 393
+[30-Dec-2022 18:55:26 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /var/www/html/erpm/View/site_master.php on line 393
+[30-Dec-2022 18:55:26 Asia/Kolkata] PHP Notice:  Undefined variable: row in /var/www/html/erpm/View/site_master.php on line 395
+[30-Dec-2022 18:55:26 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /var/www/html/erpm/View/site_master.php on line 395
+[30-Dec-2022 18:55:26 Asia/Kolkata] PHP Notice:  Undefined variable: row in /var/www/html/erpm/View/site_master.php on line 393
+[30-Dec-2022 18:55:26 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /var/www/html/erpm/View/site_master.php on line 393
+[30-Dec-2022 18:55:26 Asia/Kolkata] PHP Notice:  Undefined variable: row in /var/www/html/erpm/View/site_master.php on line 395
+[30-Dec-2022 18:55:26 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /var/www/html/erpm/View/site_master.php on line 395
+[30-Dec-2022 18:55:26 Asia/Kolkata] PHP Notice:  Undefined variable: row in /var/www/html/erpm/View/site_master.php on line 393
+[30-Dec-2022 18:55:26 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /var/www/html/erpm/View/site_master.php on line 393
+[30-Dec-2022 18:55:26 Asia/Kolkata] PHP Notice:  Undefined variable: row in /var/www/html/erpm/View/site_master.php on line 395
+[30-Dec-2022 18:55:26 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /var/www/html/erpm/View/site_master.php on line 395
+[30-Dec-2022 18:55:26 Asia/Kolkata] PHP Notice:  Undefined variable: row in /var/www/html/erpm/View/site_master.php on line 393
+[30-Dec-2022 18:55:26 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /var/www/html/erpm/View/site_master.php on line 393
+[30-Dec-2022 18:55:26 Asia/Kolkata] PHP Notice:  Undefined variable: row in /var/www/html/erpm/View/site_master.php on line 395
+[30-Dec-2022 18:55:26 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /var/www/html/erpm/View/site_master.php on line 395
+[30-Dec-2022 18:55:26 Asia/Kolkata] PHP Notice:  Undefined variable: row in /var/www/html/erpm/View/site_master.php on line 393
+[30-Dec-2022 18:55:26 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /var/www/html/erpm/View/site_master.php on line 393
+[30-Dec-2022 18:55:26 Asia/Kolkata] PHP Notice:  Undefined variable: row in /var/www/html/erpm/View/site_master.php on line 395
+[30-Dec-2022 18:55:26 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /var/www/html/erpm/View/site_master.php on line 395
+[30-Dec-2022 18:55:26 Asia/Kolkata] PHP Notice:  Undefined variable: row in /var/www/html/erpm/View/site_master.php on line 393
+[30-Dec-2022 18:55:26 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /var/www/html/erpm/View/site_master.php on line 393
+[30-Dec-2022 18:55:26 Asia/Kolkata] PHP Notice:  Undefined variable: row in /var/www/html/erpm/View/site_master.php on line 395
+[30-Dec-2022 18:55:26 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /var/www/html/erpm/View/site_master.php on line 395
+[30-Dec-2022 18:57:56 Asia/Kolkata] PHP Notice:  Undefined variable: row in /var/www/html/erpm/View/site_master.php on line 393
+[30-Dec-2022 18:57:56 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /var/www/html/erpm/View/site_master.php on line 393
+[30-Dec-2022 18:57:56 Asia/Kolkata] PHP Notice:  Undefined variable: row in /var/www/html/erpm/View/site_master.php on line 395
+[30-Dec-2022 18:57:56 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /var/www/html/erpm/View/site_master.php on line 395
+[30-Dec-2022 18:57:56 Asia/Kolkata] PHP Notice:  Undefined variable: row in /var/www/html/erpm/View/site_master.php on line 393
+[30-Dec-2022 18:57:56 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /var/www/html/erpm/View/site_master.php on line 393
+[30-Dec-2022 18:57:56 Asia/Kolkata] PHP Notice:  Undefined variable: row in /var/www/html/erpm/View/site_master.php on line 395
+[30-Dec-2022 18:57:56 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /var/www/html/erpm/View/site_master.php on line 395
+[30-Dec-2022 18:57:56 Asia/Kolkata] PHP Notice:  Undefined variable: row in /var/www/html/erpm/View/site_master.php on line 393
+[30-Dec-2022 18:57:56 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /var/www/html/erpm/View/site_master.php on line 393
+[30-Dec-2022 18:57:56 Asia/Kolkata] PHP Notice:  Undefined variable: row in /var/www/html/erpm/View/site_master.php on line 395
+[30-Dec-2022 18:57:56 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /var/www/html/erpm/View/site_master.php on line 395
+[30-Dec-2022 18:57:56 Asia/Kolkata] PHP Notice:  Undefined variable: row in /var/www/html/erpm/View/site_master.php on line 393
+[30-Dec-2022 18:57:56 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /var/www/html/erpm/View/site_master.php on line 393
+[30-Dec-2022 18:57:56 Asia/Kolkata] PHP Notice:  Undefined variable: row in /var/www/html/erpm/View/site_master.php on line 395
+[30-Dec-2022 18:57:56 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /var/www/html/erpm/View/site_master.php on line 395
+[30-Dec-2022 18:57:56 Asia/Kolkata] PHP Notice:  Undefined variable: row in /var/www/html/erpm/View/site_master.php on line 393
+[30-Dec-2022 18:57:56 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /var/www/html/erpm/View/site_master.php on line 393
+[30-Dec-2022 18:57:56 Asia/Kolkata] PHP Notice:  Undefined variable: row in /var/www/html/erpm/View/site_master.php on line 395
+[30-Dec-2022 18:57:56 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /var/www/html/erpm/View/site_master.php on line 395
+[30-Dec-2022 18:57:56 Asia/Kolkata] PHP Notice:  Undefined variable: row in /var/www/html/erpm/View/site_master.php on line 393
+[30-Dec-2022 18:57:56 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /var/www/html/erpm/View/site_master.php on line 393
+[30-Dec-2022 18:57:56 Asia/Kolkata] PHP Notice:  Undefined variable: row in /var/www/html/erpm/View/site_master.php on line 395
+[30-Dec-2022 18:57:56 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /var/www/html/erpm/View/site_master.php on line 395
+[30-Dec-2022 18:57:56 Asia/Kolkata] PHP Notice:  Undefined variable: row in /var/www/html/erpm/View/site_master.php on line 393
+[30-Dec-2022 18:57:56 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /var/www/html/erpm/View/site_master.php on line 393
+[30-Dec-2022 18:57:56 Asia/Kolkata] PHP Notice:  Undefined variable: row in /var/www/html/erpm/View/site_master.php on line 395
+[30-Dec-2022 18:57:56 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /var/www/html/erpm/View/site_master.php on line 395

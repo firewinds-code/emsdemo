@@ -1,0 +1,63 @@
+[03-Jan-2023 18:01:10 Asia/Kolkata] PHP Notice:  Undefined index: txt_dateFrom in /var/www/html/erpm/View/message-popup.php on line 27
+[03-Jan-2023 18:01:10 Asia/Kolkata] PHP Notice:  Undefined index: txt_dateto in /var/www/html/erpm/View/message-popup.php on line 34
+[03-Jan-2023 18:01:36 Asia/Kolkata] PHP Warning:  mysqli_stmt::bind_param(): Number of elements in type definition string doesn't match number of bind variables in /var/www/html/erpm/Controller/ConLog.php on line 464
+[03-Jan-2023 18:01:36 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /var/www/html/erpm/View/index.php on line 346
+[03-Jan-2023 18:02:33 Asia/Kolkata] PHP Notice:  Undefined index: __user_logid in /var/www/html/erpm/AppCode/nHead.php on line 2
+[03-Jan-2023 18:02:40 Asia/Kolkata] PHP Warning:  mysqli_stmt::bind_param(): Number of elements in type definition string doesn't match number of bind variables in /var/www/html/erpm/Controller/ConLog.php on line 464
+[03-Jan-2023 18:02:58 Asia/Kolkata] PHP Warning:  A non-numeric value encountered in /var/www/html/erpm/View/site_master.php on line 148
+[03-Jan-2023 18:13:21 Asia/Kolkata] PHP Notice:  Undefined index: __user_logid in /var/www/html/erpm/AppCode/nHead.php on line 2
+[03-Jan-2023 18:13:23 Asia/Kolkata] PHP Warning:  mysqli_stmt::bind_param(): Number of elements in type definition string doesn't match number of bind variables in /var/www/html/erpm/Controller/ConLog.php on line 464
+[03-Jan-2023 18:13:24 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /var/www/html/erpm/View/index.php on line 346
+[03-Jan-2023 18:34:24 Asia/Kolkata] PHP Notice:  Undefined index: __user_logid in /var/www/html/erpm/AppCode/nHead.php on line 2
+[03-Jan-2023 18:34:26 Asia/Kolkata] PHP Warning:  mysqli_stmt::bind_param(): Number of elements in type definition string doesn't match number of bind variables in /var/www/html/erpm/Controller/ConLog.php on line 464
+[03-Jan-2023 18:34:27 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /var/www/html/erpm/View/index.php on line 346
+[03-Jan-2023 18:34:47 Asia/Kolkata] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /var/www/html/erpm/TCPDF/tcpdf.php on line 16899
+[03-Jan-2023 18:34:47 Asia/Kolkata] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /var/www/html/erpm/TCPDF/tcpdf.php on line 16899
+[03-Jan-2023 18:34:47 Asia/Kolkata] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /var/www/html/erpm/TCPDF/tcpdf.php on line 16902
+[03-Jan-2023 18:34:47 Asia/Kolkata] PHP Warning:  "continue" targeting switch is equivalent to "break". Did you mean to use "continue 2"? in /var/www/html/erpm/TCPDF/tcpdf.php on line 17784
+[03-Jan-2023 18:34:47 Asia/Kolkata] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /var/www/html/erpm/TCPDF/include/tcpdf_images.php on line 318
+[03-Jan-2023 18:35:06 Asia/Kolkata] PHP Notice:  Undefined variable: gender in /var/www/html/erpm/View/salary_certificate.php on line 32
+[03-Jan-2023 18:35:06 Asia/Kolkata] PHP Notice:  Undefined variable: gender1 in /var/www/html/erpm/View/salary_certificate.php on line 33
+[03-Jan-2023 18:35:06 Asia/Kolkata] PHP Notice:  Undefined variable: function in /var/www/html/erpm/View/salary_certificate.php on line 34
+[03-Jan-2023 18:35:06 Asia/Kolkata] PHP Notice:  Undefined variable: page1 in /var/www/html/erpm/View/salary_certificate.php on line 127
+[03-Jan-2023 18:35:06 Asia/Kolkata] PHP Warning:  chr() expects parameter 1 to be int, string given in /var/www/html/erpm/TCPDF/include/tcpdf_fonts.php on line 1671
+[03-Jan-2023 18:35:06 Asia/Kolkata] PHP Deprecated:  The each() function is deprecated. This message will be suppressed on further calls in /var/www/html/erpm/TCPDF/tcpdf.php on line 16548
+[03-Jan-2023 18:41:43 Asia/Kolkata] PHP Notice:  Undefined index: txt_dateFrom in /var/www/html/erpm/View/message-popup.php on line 27
+[03-Jan-2023 18:41:43 Asia/Kolkata] PHP Notice:  Undefined index: txt_dateto in /var/www/html/erpm/View/message-popup.php on line 34
+[03-Jan-2023 18:43:15 Asia/Kolkata] PHP Notice:  Undefined index: __user_logid in /var/www/html/erpm/AppCode/nHead.php on line 2
+[03-Jan-2023 18:43:17 Asia/Kolkata] PHP Warning:  mysqli_stmt::bind_param(): Number of elements in type definition string doesn't match number of bind variables in /var/www/html/erpm/Controller/ConLog.php on line 464
+[03-Jan-2023 18:43:19 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /var/www/html/erpm/View/index.php on line 346
+[03-Jan-2023 18:45:48 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /var/www/html/erpm/View/index.php on line 346
+[03-Jan-2023 18:45:55 Asia/Kolkata] PHP Notice:  Undefined index: __user_logid in /var/www/html/erpm/AppCode/nHead.php on line 2
+[03-Jan-2023 18:45:56 Asia/Kolkata] PHP Notice:  Undefined index: txt_dateFrom in /var/www/html/erpm/View/message-popup.php on line 27
+[03-Jan-2023 18:45:56 Asia/Kolkata] PHP Notice:  Undefined index: txt_dateto in /var/www/html/erpm/View/message-popup.php on line 34
+[03-Jan-2023 18:46:51 Asia/Kolkata] PHP Notice:  Undefined index: txt_dateFrom in /var/www/html/erpm/View/message-popup.php on line 27
+[03-Jan-2023 18:46:51 Asia/Kolkata] PHP Notice:  Undefined index: txt_dateto in /var/www/html/erpm/View/message-popup.php on line 34
+[03-Jan-2023 18:50:05 Asia/Kolkata] PHP Notice:  Undefined index: txt_dateFrom in /var/www/html/erpm/View/message-popup.php on line 27
+[03-Jan-2023 18:50:05 Asia/Kolkata] PHP Notice:  Undefined index: txt_dateto in /var/www/html/erpm/View/message-popup.php on line 34
+[03-Jan-2023 18:50:38 Asia/Kolkata] PHP Notice:  Undefined index: txt_dateFrom in /var/www/html/erpm/View/message-popup.php on line 27
+[03-Jan-2023 18:50:38 Asia/Kolkata] PHP Notice:  Undefined index: txt_dateto in /var/www/html/erpm/View/message-popup.php on line 34
+[03-Jan-2023 18:50:40 Asia/Kolkata] PHP Notice:  Undefined index: txt_dateFrom in /var/www/html/erpm/View/message-popup.php on line 27
+[03-Jan-2023 18:50:40 Asia/Kolkata] PHP Notice:  Undefined index: txt_dateto in /var/www/html/erpm/View/message-popup.php on line 34
+[03-Jan-2023 18:51:11 Asia/Kolkata] PHP Notice:  Undefined index: txt_dateFrom in /var/www/html/erpm/View/message-popup.php on line 27
+[03-Jan-2023 18:51:11 Asia/Kolkata] PHP Notice:  Undefined index: txt_dateto in /var/www/html/erpm/View/message-popup.php on line 34
+[03-Jan-2023 18:51:52 Asia/Kolkata] PHP Notice:  Undefined index: txt_dateFrom in /var/www/html/erpm/View/message-popup.php on line 27
+[03-Jan-2023 18:51:52 Asia/Kolkata] PHP Notice:  Undefined index: txt_dateto in /var/www/html/erpm/View/message-popup.php on line 34
+[03-Jan-2023 18:51:59 Asia/Kolkata] PHP Notice:  Undefined index: __user_logid in /var/www/html/erpm/AppCode/nHead.php on line 2
+[03-Jan-2023 18:52:43 Asia/Kolkata] PHP Notice:  Undefined index: __user_logid in /var/www/html/erpm/AppCode/nHead.php on line 2
+[03-Jan-2023 18:52:46 Asia/Kolkata] PHP Notice:  Undefined index: __user_logid in /var/www/html/erpm/AppCode/nHead.php on line 2
+[03-Jan-2023 18:52:52 Asia/Kolkata] PHP Notice:  Undefined index: txt_dateFrom in /var/www/html/erpm/View/message-popup.php on line 27
+[03-Jan-2023 18:52:52 Asia/Kolkata] PHP Notice:  Undefined index: txt_dateto in /var/www/html/erpm/View/message-popup.php on line 34
+[03-Jan-2023 18:57:16 Asia/Kolkata] PHP Notice:  Undefined index: __user_logid in /var/www/html/erpm/AppCode/nHead.php on line 2
+[03-Jan-2023 18:58:15 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /var/www/html/erpm/View/index.php on line 346
+[03-Jan-2023 18:58:51 Asia/Kolkata] PHP Warning:  mysqli_stmt::bind_param(): Number of elements in type definition string doesn't match number of bind variables in /var/www/html/erpm/Controller/ConLog.php on line 464
+[03-Jan-2023 18:58:51 Asia/Kolkata] PHP Warning:  Use of undefined constant EMS_CenterName - assumed 'EMS_CenterName' (this will throw an Error in a future version of PHP) in /var/www/html/erpm/Controller/ConLog.php on line 470
+[03-Jan-2023 18:58:51 Asia/Kolkata] PHP Warning:  Use of undefined constant EMAIL_HOST - assumed 'EMAIL_HOST' (this will throw an Error in a future version of PHP) in /var/www/html/erpm/Controller/ConLog.php on line 473
+[03-Jan-2023 18:58:51 Asia/Kolkata] PHP Warning:  Use of undefined constant EMAIL_AUTH - assumed 'EMAIL_AUTH' (this will throw an Error in a future version of PHP) in /var/www/html/erpm/Controller/ConLog.php on line 474
+[03-Jan-2023 18:58:51 Asia/Kolkata] PHP Warning:  Use of undefined constant EMAIL_USER - assumed 'EMAIL_USER' (this will throw an Error in a future version of PHP) in /var/www/html/erpm/Controller/ConLog.php on line 475
+[03-Jan-2023 18:58:51 Asia/Kolkata] PHP Warning:  Use of undefined constant EMAIL_PASS - assumed 'EMAIL_PASS' (this will throw an Error in a future version of PHP) in /var/www/html/erpm/Controller/ConLog.php on line 476
+[03-Jan-2023 18:58:51 Asia/Kolkata] PHP Warning:  Use of undefined constant EMAIL_SMTPSecure - assumed 'EMAIL_SMTPSecure' (this will throw an Error in a future version of PHP) in /var/www/html/erpm/Controller/ConLog.php on line 477
+[03-Jan-2023 18:58:51 Asia/Kolkata] PHP Warning:  Use of undefined constant EMAIL_PORT - assumed 'EMAIL_PORT' (this will throw an Error in a future version of PHP) in /var/www/html/erpm/Controller/ConLog.php on line 478
+[03-Jan-2023 18:58:51 Asia/Kolkata] PHP Warning:  Use of undefined constant EMAIL_FROM - assumed 'EMAIL_FROM' (this will throw an Error in a future version of PHP) in /var/www/html/erpm/Controller/ConLog.php on line 479
+[03-Jan-2023 18:58:51 Asia/Kolkata] PHP Warning:  Use of undefined constant EMS_CenterName - assumed 'EMS_CenterName' (this will throw an Error in a future version of PHP) in /var/www/html/erpm/Controller/ConLog.php on line 482
+[03-Jan-2023 18:58:53 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /var/www/html/erpm/View/index.php on line 346

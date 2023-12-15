@@ -1,0 +1,19 @@
+[26-Dec-2022 09:13:58 Asia/Kolkata] PHP Notice:  Undefined index: __user_logid in /var/www/html/erpm/AppCode/nHead.php on line 2
+[26-Dec-2022 09:14:02 Asia/Kolkata] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /var/www/html/erpm/AppData/lib/PHPMailer-master/PHPMailerAutoload.php on line 45
+[26-Dec-2022 09:14:02 Asia/Kolkata] PHP Warning:  mysqli_stmt::bind_param(): Number of elements in type definition string doesn't match number of bind variables in /var/www/html/erpm/Controller/ConLog.php on line 464
+[26-Dec-2022 09:14:02 Asia/Kolkata] PHP Warning:  Use of undefined constant EMS_CenterName - assumed 'EMS_CenterName' (this will throw an Error in a future version of PHP) in /var/www/html/erpm/Controller/ConLog.php on line 470
+[26-Dec-2022 09:14:02 Asia/Kolkata] PHP Warning:  Use of undefined constant EMAIL_HOST - assumed 'EMAIL_HOST' (this will throw an Error in a future version of PHP) in /var/www/html/erpm/Controller/ConLog.php on line 473
+[26-Dec-2022 09:14:02 Asia/Kolkata] PHP Warning:  Use of undefined constant EMAIL_AUTH - assumed 'EMAIL_AUTH' (this will throw an Error in a future version of PHP) in /var/www/html/erpm/Controller/ConLog.php on line 474
+[26-Dec-2022 09:14:02 Asia/Kolkata] PHP Warning:  Use of undefined constant EMAIL_USER - assumed 'EMAIL_USER' (this will throw an Error in a future version of PHP) in /var/www/html/erpm/Controller/ConLog.php on line 475
+[26-Dec-2022 09:14:02 Asia/Kolkata] PHP Warning:  Use of undefined constant EMAIL_PASS - assumed 'EMAIL_PASS' (this will throw an Error in a future version of PHP) in /var/www/html/erpm/Controller/ConLog.php on line 476
+[26-Dec-2022 09:14:02 Asia/Kolkata] PHP Warning:  Use of undefined constant EMAIL_SMTPSecure - assumed 'EMAIL_SMTPSecure' (this will throw an Error in a future version of PHP) in /var/www/html/erpm/Controller/ConLog.php on line 477
+[26-Dec-2022 09:14:02 Asia/Kolkata] PHP Warning:  Use of undefined constant EMAIL_PORT - assumed 'EMAIL_PORT' (this will throw an Error in a future version of PHP) in /var/www/html/erpm/Controller/ConLog.php on line 478
+[26-Dec-2022 09:14:02 Asia/Kolkata] PHP Warning:  Use of undefined constant EMAIL_FROM - assumed 'EMAIL_FROM' (this will throw an Error in a future version of PHP) in /var/www/html/erpm/Controller/ConLog.php on line 479
+[26-Dec-2022 09:14:02 Asia/Kolkata] PHP Warning:  Use of undefined constant EMS_CenterName - assumed 'EMS_CenterName' (this will throw an Error in a future version of PHP) in /var/www/html/erpm/Controller/ConLog.php on line 482
+[26-Dec-2022 09:14:04 Asia/Kolkata] PHP Notice:  Undefined index: to in /var/www/html/erpm/View/calcRange.php on line 42
+[26-Dec-2022 09:14:05 Asia/Kolkata] PHP Notice:  Object of class mysqli_result could not be converted to int in /var/www/html/erpm/View/calcRange.php on line 412
+[26-Dec-2022 09:14:05 Asia/Kolkata] PHP Notice:  Undefined index: 2022-12-25 in /var/www/html/erpm/View/calcRange.php on line 583
+[26-Dec-2022 09:14:05 Asia/Kolkata] PHP Notice:  Undefined index: 2022-12-25 in /var/www/html/erpm/View/calcRange.php on line 932
+[26-Dec-2022 09:14:05 Asia/Kolkata] PHP Notice:  Undefined index: 2022-12-25 in /var/www/html/erpm/View/calcRange.php on line 1225
+[26-Dec-2022 09:14:05 Asia/Kolkata] PHP Notice:  Array to string conversion in /var/www/html/erpm/View/calcRange.php on line 1559
+[26-Dec-2022 09:14:20 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /var/www/html/erpm/View/index.php on line 346

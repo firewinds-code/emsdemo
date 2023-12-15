@@ -1,0 +1,27 @@
+[08-Feb-2023 16:06:33 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in C:\wamp64\www\emsdemo\View\index.php on line 356
+[08-Feb-2023 16:06:33 Asia/Kolkata] PHP Stack trace:
+[08-Feb-2023 16:06:33 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\emsdemo\View\index.php:0
+[08-Feb-2023 16:07:06 Asia/Kolkata] PHP Notice:  Undefined index: text_trcheck_Batch in C:\wamp64\www\emsdemo\View\th_check_Extend.php on line 256
+[08-Feb-2023 16:07:06 Asia/Kolkata] PHP Stack trace:
+[08-Feb-2023 16:07:06 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\emsdemo\View\th_check_Extend.php:0
+[08-Feb-2023 16:07:08 Asia/Kolkata] PHP Notice:  Undefined index: text_trcheck_Batch in C:\wamp64\www\emsdemo\View\th_check_Extend.php on line 473
+[08-Feb-2023 16:07:08 Asia/Kolkata] PHP Stack trace:
+[08-Feb-2023 16:07:08 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\emsdemo\View\th_check_Extend.php:0
+[08-Feb-2023 16:07:58 Asia/Kolkata] PHP Notice:  Undefined index: text_trcheck_Batch in C:\wamp64\www\emsdemo\View\th_check_Extend.php on line 256
+[08-Feb-2023 16:07:58 Asia/Kolkata] PHP Stack trace:
+[08-Feb-2023 16:07:58 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\emsdemo\View\th_check_Extend.php:0
+[08-Feb-2023 16:08:00 Asia/Kolkata] PHP Notice:  Undefined index: text_trcheck_Batch in C:\wamp64\www\emsdemo\View\th_check_Extend.php on line 473
+[08-Feb-2023 16:08:00 Asia/Kolkata] PHP Stack trace:
+[08-Feb-2023 16:08:00 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\emsdemo\View\th_check_Extend.php:0
+[08-Feb-2023 16:08:11 Asia/Kolkata] PHP Notice:  Undefined index: text_trcheck_Batch in C:\wamp64\www\emsdemo\View\th_check_Extend.php on line 256
+[08-Feb-2023 16:08:11 Asia/Kolkata] PHP Stack trace:
+[08-Feb-2023 16:08:11 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\emsdemo\View\th_check_Extend.php:0
+[08-Feb-2023 16:08:14 Asia/Kolkata] PHP Notice:  Undefined index: text_trcheck_Batch in C:\wamp64\www\emsdemo\View\th_check_Extend.php on line 473
+[08-Feb-2023 16:08:14 Asia/Kolkata] PHP Stack trace:
+[08-Feb-2023 16:08:14 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\emsdemo\View\th_check_Extend.php:0
+[08-Feb-2023 16:08:22 Asia/Kolkata] PHP Notice:  Undefined index: text_trcheck_Batch in C:\wamp64\www\emsdemo\View\th_check_Extend.php on line 256
+[08-Feb-2023 16:08:22 Asia/Kolkata] PHP Stack trace:
+[08-Feb-2023 16:08:22 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\emsdemo\View\th_check_Extend.php:0
+[08-Feb-2023 16:08:23 Asia/Kolkata] PHP Notice:  Undefined index: text_trcheck_Batch in C:\wamp64\www\emsdemo\View\th_check_Extend.php on line 473
+[08-Feb-2023 16:08:23 Asia/Kolkata] PHP Stack trace:
+[08-Feb-2023 16:08:23 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\emsdemo\View\th_check_Extend.php:0

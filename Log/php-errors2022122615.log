@@ -1,0 +1,42 @@
+[26-Dec-2022 15:00:00 Asia/Kolkata] PHP Notice:  Undefined index: __user_logid in /var/www/html/erpm/AppCode/nHead.php on line 2
+[26-Dec-2022 15:00:03 Asia/Kolkata] PHP Warning:  mysqli_stmt::bind_param(): Number of elements in type definition string doesn't match number of bind variables in /var/www/html/erpm/Controller/ConLog.php on line 464
+[26-Dec-2022 15:00:03 Asia/Kolkata] PHP Warning:  Use of undefined constant EMS_CenterName - assumed 'EMS_CenterName' (this will throw an Error in a future version of PHP) in /var/www/html/erpm/Controller/ConLog.php on line 470
+[26-Dec-2022 15:00:03 Asia/Kolkata] PHP Warning:  Use of undefined constant EMAIL_HOST - assumed 'EMAIL_HOST' (this will throw an Error in a future version of PHP) in /var/www/html/erpm/Controller/ConLog.php on line 473
+[26-Dec-2022 15:00:03 Asia/Kolkata] PHP Warning:  Use of undefined constant EMAIL_AUTH - assumed 'EMAIL_AUTH' (this will throw an Error in a future version of PHP) in /var/www/html/erpm/Controller/ConLog.php on line 474
+[26-Dec-2022 15:00:03 Asia/Kolkata] PHP Warning:  Use of undefined constant EMAIL_USER - assumed 'EMAIL_USER' (this will throw an Error in a future version of PHP) in /var/www/html/erpm/Controller/ConLog.php on line 475
+[26-Dec-2022 15:00:03 Asia/Kolkata] PHP Warning:  Use of undefined constant EMAIL_PASS - assumed 'EMAIL_PASS' (this will throw an Error in a future version of PHP) in /var/www/html/erpm/Controller/ConLog.php on line 476
+[26-Dec-2022 15:00:03 Asia/Kolkata] PHP Warning:  Use of undefined constant EMAIL_SMTPSecure - assumed 'EMAIL_SMTPSecure' (this will throw an Error in a future version of PHP) in /var/www/html/erpm/Controller/ConLog.php on line 477
+[26-Dec-2022 15:00:03 Asia/Kolkata] PHP Warning:  Use of undefined constant EMAIL_PORT - assumed 'EMAIL_PORT' (this will throw an Error in a future version of PHP) in /var/www/html/erpm/Controller/ConLog.php on line 478
+[26-Dec-2022 15:00:03 Asia/Kolkata] PHP Warning:  Use of undefined constant EMAIL_FROM - assumed 'EMAIL_FROM' (this will throw an Error in a future version of PHP) in /var/www/html/erpm/Controller/ConLog.php on line 479
+[26-Dec-2022 15:00:03 Asia/Kolkata] PHP Warning:  Use of undefined constant EMS_CenterName - assumed 'EMS_CenterName' (this will throw an Error in a future version of PHP) in /var/www/html/erpm/Controller/ConLog.php on line 482
+[26-Dec-2022 15:00:05 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /var/www/html/erpm/View/index.php on line 346
+[26-Dec-2022 15:00:18 Asia/Kolkata] PHP Notice:  Undefined index: txt_dateFrom in /var/www/html/erpm/View/bgv_docsend.php on line 32
+[26-Dec-2022 15:00:18 Asia/Kolkata] PHP Notice:  Undefined variable: htmlresp in /var/www/html/erpm/View/bgv_docsend.php on line 621
+[26-Dec-2022 15:00:25 Asia/Kolkata] PHP Notice:  Undefined variable: htmlresp in /var/www/html/erpm/View/bgv_docsend.php on line 621
+[26-Dec-2022 15:00:30 Asia/Kolkata] PHP Notice:  Undefined variable: edu in /var/www/html/erpm/View/bgv_docsend.php on line 274
+[26-Dec-2022 15:00:30 Asia/Kolkata] PHP Notice:  Undefined variable: Emp in /var/www/html/erpm/View/bgv_docsend.php on line 308
+[26-Dec-2022 15:00:30 Asia/Kolkata] PHP Warning:  mkdir(): File exists in /var/www/html/erpm/View/bgv_docsend.php on line 354
+[26-Dec-2022 15:00:30 Asia/Kolkata] PHP Warning:  file_get_contents(https://ems.cogentlab.com/erpm/Docs/AdharCard/INT052022334477_AadharCard_Front.pdf): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /var/www/html/erpm/View/bgv_docsend.php on line 358
+[26-Dec-2022 15:00:30 Asia/Kolkata] PHP Notice:  Undefined variable: htmlresp in /var/www/html/erpm/View/bgv_docsend.php on line 621
+[26-Dec-2022 15:27:55 Asia/Kolkata] PHP Notice:  Undefined index: __user_logid in /var/www/html/erpm/AppCode/nHead.php on line 2
+[26-Dec-2022 15:27:58 Asia/Kolkata] PHP Warning:  mysqli_stmt::bind_param(): Number of elements in type definition string doesn't match number of bind variables in /var/www/html/erpm/Controller/ConLog.php on line 464
+[26-Dec-2022 15:27:58 Asia/Kolkata] PHP Warning:  Use of undefined constant EMS_CenterName - assumed 'EMS_CenterName' (this will throw an Error in a future version of PHP) in /var/www/html/erpm/Controller/ConLog.php on line 470
+[26-Dec-2022 15:27:58 Asia/Kolkata] PHP Warning:  Use of undefined constant EMAIL_HOST - assumed 'EMAIL_HOST' (this will throw an Error in a future version of PHP) in /var/www/html/erpm/Controller/ConLog.php on line 473
+[26-Dec-2022 15:27:58 Asia/Kolkata] PHP Warning:  Use of undefined constant EMAIL_AUTH - assumed 'EMAIL_AUTH' (this will throw an Error in a future version of PHP) in /var/www/html/erpm/Controller/ConLog.php on line 474
+[26-Dec-2022 15:27:58 Asia/Kolkata] PHP Warning:  Use of undefined constant EMAIL_USER - assumed 'EMAIL_USER' (this will throw an Error in a future version of PHP) in /var/www/html/erpm/Controller/ConLog.php on line 475
+[26-Dec-2022 15:27:58 Asia/Kolkata] PHP Warning:  Use of undefined constant EMAIL_PASS - assumed 'EMAIL_PASS' (this will throw an Error in a future version of PHP) in /var/www/html/erpm/Controller/ConLog.php on line 476
+[26-Dec-2022 15:27:58 Asia/Kolkata] PHP Warning:  Use of undefined constant EMAIL_SMTPSecure - assumed 'EMAIL_SMTPSecure' (this will throw an Error in a future version of PHP) in /var/www/html/erpm/Controller/ConLog.php on line 477
+[26-Dec-2022 15:27:58 Asia/Kolkata] PHP Warning:  Use of undefined constant EMAIL_PORT - assumed 'EMAIL_PORT' (this will throw an Error in a future version of PHP) in /var/www/html/erpm/Controller/ConLog.php on line 478
+[26-Dec-2022 15:27:58 Asia/Kolkata] PHP Warning:  Use of undefined constant EMAIL_FROM - assumed 'EMAIL_FROM' (this will throw an Error in a future version of PHP) in /var/www/html/erpm/Controller/ConLog.php on line 479
+[26-Dec-2022 15:27:58 Asia/Kolkata] PHP Warning:  Use of undefined constant EMS_CenterName - assumed 'EMS_CenterName' (this will throw an Error in a future version of PHP) in /var/www/html/erpm/Controller/ConLog.php on line 482
+[26-Dec-2022 15:28:00 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /var/www/html/erpm/View/index.php on line 346
+[26-Dec-2022 15:28:12 Asia/Kolkata] PHP Notice:  Undefined index: txt_dateFrom in /var/www/html/erpm/View/bgv_docsend.php on line 32
+[26-Dec-2022 15:28:12 Asia/Kolkata] PHP Notice:  Undefined variable: htmlresp in /var/www/html/erpm/View/bgv_docsend.php on line 645
+[26-Dec-2022 15:28:20 Asia/Kolkata] PHP Notice:  Undefined variable: htmlresp in /var/www/html/erpm/View/bgv_docsend.php on line 645
+[26-Dec-2022 15:29:33 Asia/Kolkata] PHP Notice:  Undefined variable: edu in /var/www/html/erpm/View/bgv_docsend.php on line 274
+[26-Dec-2022 15:29:33 Asia/Kolkata] PHP Notice:  Undefined variable: Emp in /var/www/html/erpm/View/bgv_docsend.php on line 308
+[26-Dec-2022 15:29:33 Asia/Kolkata] PHP Warning:  mkdir(): File exists in /var/www/html/erpm/View/bgv_docsend.php on line 354
+[26-Dec-2022 15:29:33 Asia/Kolkata] PHP Warning:  file_get_contents(https://ems.cogentlab.com/erpm/Docs/AdharCard/INT052022334477_AadharCard_Front.pdf): failed to open stream: HTTP request failed! HTTP/1.1 404 Not Found
+ in /var/www/html/erpm/View/bgv_docsend.php on line 358
+[26-Dec-2022 15:29:33 Asia/Kolkata] PHP Notice:  Undefined variable: htmlresp in /var/www/html/erpm/View/bgv_docsend.php on line 645

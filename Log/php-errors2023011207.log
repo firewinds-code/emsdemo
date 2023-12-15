@@ -1,0 +1,3 @@
+[12-Jan-2023 07:57:38 Asia/Kolkata] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /var/www/html/erpm/AppData/lib/PHPMailer-master/PHPMailerAutoload.php on line 45
+[12-Jan-2023 07:57:49 Asia/Kolkata] PHP Notice:  Undefined index: __user_logid in /var/www/html/erpm/AppCode/nHead.php on line 2
+[12-Jan-2023 07:58:46 Asia/Kolkata] PHP Notice:  Undefined index: __user_logid in /var/www/html/erpm/AppCode/nHead.php on line 2

@@ -1,0 +1,90 @@
+[08-Feb-2023 14:29:25 Asia/Kolkata] PHP Warning:  Undefined array key "emp_status" in C:\wamp64\www\emsdemo\View\rpt_DownTime_new.php on line 143
+[08-Feb-2023 14:29:25 Asia/Kolkata] PHP Stack trace:
+[08-Feb-2023 14:29:25 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\emsdemo\View\rpt_DownTime_new.php:0
+[08-Feb-2023 14:29:25 Asia/Kolkata] PHP Warning:  Undefined array key "emp_status" in C:\wamp64\www\emsdemo\View\rpt_DownTime_new.php on line 147
+[08-Feb-2023 14:29:25 Asia/Kolkata] PHP Stack trace:
+[08-Feb-2023 14:29:26 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\emsdemo\View\rpt_DownTime_new.php:0
+[08-Feb-2023 14:29:33 Asia/Kolkata] PHP Warning:  Undefined array key "clientName" in C:\wamp64\www\emsdemo\View\rpt_Atnd_new.php on line 219
+[08-Feb-2023 14:29:33 Asia/Kolkata] PHP Stack trace:
+[08-Feb-2023 14:29:33 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\emsdemo\View\rpt_Atnd_new.php:0
+[08-Feb-2023 14:29:33 Asia/Kolkata] PHP Warning:  Undefined array key "txt_dateMonth" in C:\wamp64\www\emsdemo\View\rpt_Atnd_new.php on line 225
+[08-Feb-2023 14:29:33 Asia/Kolkata] PHP Stack trace:
+[08-Feb-2023 14:29:33 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\emsdemo\View\rpt_Atnd_new.php:0
+[08-Feb-2023 14:29:33 Asia/Kolkata] PHP Warning:  Undefined variable $monthCount in C:\wamp64\www\emsdemo\View\rpt_Atnd_new.php on line 230
+[08-Feb-2023 14:29:33 Asia/Kolkata] PHP Stack trace:
+[08-Feb-2023 14:29:33 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\emsdemo\View\rpt_Atnd_new.php:0
+[08-Feb-2023 14:29:33 Asia/Kolkata] PHP Warning:  Undefined variable $monthCount in C:\wamp64\www\emsdemo\View\rpt_Atnd_new.php on line 232
+[08-Feb-2023 14:29:33 Asia/Kolkata] PHP Stack trace:
+[08-Feb-2023 14:29:33 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\emsdemo\View\rpt_Atnd_new.php:0
+[08-Feb-2023 14:45:03 Asia/Kolkata] PHP Warning:  Undefined array key "clientName" in C:\wamp64\www\emsdemo\View\rpt_Atnd_new.php on line 219
+[08-Feb-2023 14:45:03 Asia/Kolkata] PHP Stack trace:
+[08-Feb-2023 14:45:03 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\emsdemo\View\rpt_Atnd_new.php:0
+[08-Feb-2023 14:45:03 Asia/Kolkata] PHP Warning:  Undefined array key "txt_dateMonth" in C:\wamp64\www\emsdemo\View\rpt_Atnd_new.php on line 225
+[08-Feb-2023 14:45:03 Asia/Kolkata] PHP Stack trace:
+[08-Feb-2023 14:45:03 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\emsdemo\View\rpt_Atnd_new.php:0
+[08-Feb-2023 14:45:03 Asia/Kolkata] PHP Warning:  Undefined variable $monthCount in C:\wamp64\www\emsdemo\View\rpt_Atnd_new.php on line 230
+[08-Feb-2023 14:45:03 Asia/Kolkata] PHP Stack trace:
+[08-Feb-2023 14:45:03 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\emsdemo\View\rpt_Atnd_new.php:0
+[08-Feb-2023 14:45:03 Asia/Kolkata] PHP Warning:  Undefined variable $monthCount in C:\wamp64\www\emsdemo\View\rpt_Atnd_new.php on line 232
+[08-Feb-2023 14:45:03 Asia/Kolkata] PHP Stack trace:
+[08-Feb-2023 14:45:03 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\emsdemo\View\rpt_Atnd_new.php:0
+[08-Feb-2023 14:47:38 Asia/Kolkata] PHP Warning:  Undefined array key "clientName" in C:\wamp64\www\emsdemo\View\rpt_Atnd_new.php on line 219
+[08-Feb-2023 14:47:38 Asia/Kolkata] PHP Stack trace:
+[08-Feb-2023 14:47:38 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\emsdemo\View\rpt_Atnd_new.php:0
+[08-Feb-2023 14:47:38 Asia/Kolkata] PHP Warning:  Undefined array key "txt_dateMonth" in C:\wamp64\www\emsdemo\View\rpt_Atnd_new.php on line 225
+[08-Feb-2023 14:47:38 Asia/Kolkata] PHP Stack trace:
+[08-Feb-2023 14:47:38 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\emsdemo\View\rpt_Atnd_new.php:0
+[08-Feb-2023 14:47:38 Asia/Kolkata] PHP Warning:  Undefined variable $monthCount in C:\wamp64\www\emsdemo\View\rpt_Atnd_new.php on line 230
+[08-Feb-2023 14:47:38 Asia/Kolkata] PHP Stack trace:
+[08-Feb-2023 14:47:38 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\emsdemo\View\rpt_Atnd_new.php:0
+[08-Feb-2023 14:47:38 Asia/Kolkata] PHP Warning:  Undefined variable $monthCount in C:\wamp64\www\emsdemo\View\rpt_Atnd_new.php on line 232
+[08-Feb-2023 14:47:38 Asia/Kolkata] PHP Stack trace:
+[08-Feb-2023 14:47:38 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\emsdemo\View\rpt_Atnd_new.php:0
+[08-Feb-2023 14:48:27 Asia/Kolkata] PHP Warning:  Undefined array key "clientName" in C:\wamp64\www\emsdemo\View\rpt_Atnd_new.php on line 219
+[08-Feb-2023 14:48:27 Asia/Kolkata] PHP Stack trace:
+[08-Feb-2023 14:48:27 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\emsdemo\View\rpt_Atnd_new.php:0
+[08-Feb-2023 14:48:27 Asia/Kolkata] PHP Warning:  Undefined array key "txt_dateMonth" in C:\wamp64\www\emsdemo\View\rpt_Atnd_new.php on line 225
+[08-Feb-2023 14:48:27 Asia/Kolkata] PHP Stack trace:
+[08-Feb-2023 14:48:27 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\emsdemo\View\rpt_Atnd_new.php:0
+[08-Feb-2023 14:48:27 Asia/Kolkata] PHP Warning:  Undefined variable $monthCount in C:\wamp64\www\emsdemo\View\rpt_Atnd_new.php on line 230
+[08-Feb-2023 14:48:27 Asia/Kolkata] PHP Stack trace:
+[08-Feb-2023 14:48:27 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\emsdemo\View\rpt_Atnd_new.php:0
+[08-Feb-2023 14:48:27 Asia/Kolkata] PHP Warning:  Undefined variable $monthCount in C:\wamp64\www\emsdemo\View\rpt_Atnd_new.php on line 232
+[08-Feb-2023 14:48:27 Asia/Kolkata] PHP Stack trace:
+[08-Feb-2023 14:48:27 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\emsdemo\View\rpt_Atnd_new.php:0
+[08-Feb-2023 14:50:55 Asia/Kolkata] PHP Notice:  Undefined index: clientName in C:\wamp64\www\emsdemo\View\rpt_Atnd_new.php on line 219
+[08-Feb-2023 14:50:55 Asia/Kolkata] PHP Stack trace:
+[08-Feb-2023 14:50:55 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\emsdemo\View\rpt_Atnd_new.php:0
+[08-Feb-2023 14:50:55 Asia/Kolkata] PHP Notice:  Undefined index: txt_dateMonth in C:\wamp64\www\emsdemo\View\rpt_Atnd_new.php on line 225
+[08-Feb-2023 14:50:55 Asia/Kolkata] PHP Stack trace:
+[08-Feb-2023 14:50:55 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\emsdemo\View\rpt_Atnd_new.php:0
+[08-Feb-2023 14:50:55 Asia/Kolkata] PHP Notice:  Undefined variable: monthCount in C:\wamp64\www\emsdemo\View\rpt_Atnd_new.php on line 230
+[08-Feb-2023 14:50:55 Asia/Kolkata] PHP Stack trace:
+[08-Feb-2023 14:50:55 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\emsdemo\View\rpt_Atnd_new.php:0
+[08-Feb-2023 14:50:55 Asia/Kolkata] PHP Notice:  Undefined variable: monthCount in C:\wamp64\www\emsdemo\View\rpt_Atnd_new.php on line 232
+[08-Feb-2023 14:50:55 Asia/Kolkata] PHP Stack trace:
+[08-Feb-2023 14:50:55 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\emsdemo\View\rpt_Atnd_new.php:0
+[08-Feb-2023 14:51:56 Asia/Kolkata] PHP Notice:  Undefined index: clientName in C:\wamp64\www\emsdemo\View\rpt_Atnd_new.php on line 219
+[08-Feb-2023 14:51:56 Asia/Kolkata] PHP Stack trace:
+[08-Feb-2023 14:51:56 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\emsdemo\View\rpt_Atnd_new.php:0
+[08-Feb-2023 14:51:56 Asia/Kolkata] PHP Notice:  Undefined index: txt_dateMonth in C:\wamp64\www\emsdemo\View\rpt_Atnd_new.php on line 225
+[08-Feb-2023 14:51:56 Asia/Kolkata] PHP Stack trace:
+[08-Feb-2023 14:51:56 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\emsdemo\View\rpt_Atnd_new.php:0
+[08-Feb-2023 14:51:56 Asia/Kolkata] PHP Notice:  Undefined variable: monthCount in C:\wamp64\www\emsdemo\View\rpt_Atnd_new.php on line 230
+[08-Feb-2023 14:51:56 Asia/Kolkata] PHP Stack trace:
+[08-Feb-2023 14:51:56 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\emsdemo\View\rpt_Atnd_new.php:0
+[08-Feb-2023 14:51:56 Asia/Kolkata] PHP Notice:  Undefined variable: monthCount in C:\wamp64\www\emsdemo\View\rpt_Atnd_new.php on line 232
+[08-Feb-2023 14:51:56 Asia/Kolkata] PHP Stack trace:
+[08-Feb-2023 14:51:56 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\emsdemo\View\rpt_Atnd_new.php:0
+[08-Feb-2023 14:52:26 Asia/Kolkata] PHP Notice:  Undefined index: clientName in C:\wamp64\www\emsdemo\View\rpt_Atnd_new.php on line 219
+[08-Feb-2023 14:52:26 Asia/Kolkata] PHP Stack trace:
+[08-Feb-2023 14:52:26 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\emsdemo\View\rpt_Atnd_new.php:0
+[08-Feb-2023 14:52:26 Asia/Kolkata] PHP Notice:  Undefined index: txt_dateMonth in C:\wamp64\www\emsdemo\View\rpt_Atnd_new.php on line 225
+[08-Feb-2023 14:52:26 Asia/Kolkata] PHP Stack trace:
+[08-Feb-2023 14:52:26 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\emsdemo\View\rpt_Atnd_new.php:0
+[08-Feb-2023 14:52:26 Asia/Kolkata] PHP Notice:  Undefined variable: monthCount in C:\wamp64\www\emsdemo\View\rpt_Atnd_new.php on line 230
+[08-Feb-2023 14:52:26 Asia/Kolkata] PHP Stack trace:
+[08-Feb-2023 14:52:26 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\emsdemo\View\rpt_Atnd_new.php:0
+[08-Feb-2023 14:52:26 Asia/Kolkata] PHP Notice:  Undefined variable: monthCount in C:\wamp64\www\emsdemo\View\rpt_Atnd_new.php on line 232
+[08-Feb-2023 14:52:26 Asia/Kolkata] PHP Stack trace:
+[08-Feb-2023 14:52:26 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\emsdemo\View\rpt_Atnd_new.php:0

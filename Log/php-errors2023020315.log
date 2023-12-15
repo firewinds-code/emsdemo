@@ -1,0 +1,316 @@
+[03-Feb-2023 15:04:52 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in C:\wamp64\www\emsdemo\View\index.php on line 356
+[03-Feb-2023 15:04:52 Asia/Kolkata] PHP Stack trace:
+[03-Feb-2023 15:04:52 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\emsdemo\View\index.php:0
+[03-Feb-2023 15:20:56 Asia/Kolkata] PHP Warning:  Undefined array key "txt_dateFrom" in C:\wamp64\www\emsdemo\View\message-popup.php on line 28
+[03-Feb-2023 15:20:56 Asia/Kolkata] PHP Stack trace:
+[03-Feb-2023 15:20:56 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\emsdemo\View\message-popup.php:0
+[03-Feb-2023 15:20:56 Asia/Kolkata] PHP Warning:  Undefined array key "txt_dateto" in C:\wamp64\www\emsdemo\View\message-popup.php on line 29
+[03-Feb-2023 15:20:56 Asia/Kolkata] PHP Stack trace:
+[03-Feb-2023 15:20:56 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\emsdemo\View\message-popup.php:0
+[03-Feb-2023 15:23:02 Asia/Kolkata] PHP Warning:  Undefined array key "txt_dateFrom" in C:\wamp64\www\emsdemo\View\message-popup.php on line 28
+[03-Feb-2023 15:23:02 Asia/Kolkata] PHP Stack trace:
+[03-Feb-2023 15:23:02 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\emsdemo\View\message-popup.php:0
+[03-Feb-2023 15:23:03 Asia/Kolkata] PHP Warning:  Undefined array key "txt_dateto" in C:\wamp64\www\emsdemo\View\message-popup.php on line 29
+[03-Feb-2023 15:23:03 Asia/Kolkata] PHP Stack trace:
+[03-Feb-2023 15:23:03 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\emsdemo\View\message-popup.php:0
+[03-Feb-2023 15:25:41 Asia/Kolkata] PHP Warning:  Undefined array key "txt_dateFrom" in C:\wamp64\www\emsdemo\View\message-popup.php on line 28
+[03-Feb-2023 15:25:41 Asia/Kolkata] PHP Stack trace:
+[03-Feb-2023 15:25:41 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\emsdemo\View\message-popup.php:0
+[03-Feb-2023 15:25:41 Asia/Kolkata] PHP Warning:  Undefined array key "txt_dateto" in C:\wamp64\www\emsdemo\View\message-popup.php on line 29
+[03-Feb-2023 15:25:41 Asia/Kolkata] PHP Stack trace:
+[03-Feb-2023 15:25:41 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\emsdemo\View\message-popup.php:0
+[03-Feb-2023 15:26:24 Asia/Kolkata] PHP Warning:  Undefined array key "txt_dateFrom" in C:\wamp64\www\emsdemo\View\message-popup.php on line 28
+[03-Feb-2023 15:26:24 Asia/Kolkata] PHP Stack trace:
+[03-Feb-2023 15:26:24 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\emsdemo\View\message-popup.php:0
+[03-Feb-2023 15:26:24 Asia/Kolkata] PHP Warning:  Undefined array key "txt_dateto" in C:\wamp64\www\emsdemo\View\message-popup.php on line 29
+[03-Feb-2023 15:26:24 Asia/Kolkata] PHP Stack trace:
+[03-Feb-2023 15:26:24 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\emsdemo\View\message-popup.php:0
+[03-Feb-2023 15:26:58 Asia/Kolkata] PHP Warning:  Undefined array key "txt_dateFrom" in C:\wamp64\www\emsdemo\View\message-popup.php on line 28
+[03-Feb-2023 15:26:58 Asia/Kolkata] PHP Stack trace:
+[03-Feb-2023 15:26:58 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\emsdemo\View\message-popup.php:0
+[03-Feb-2023 15:26:59 Asia/Kolkata] PHP Warning:  Undefined array key "txt_dateto" in C:\wamp64\www\emsdemo\View\message-popup.php on line 29
+[03-Feb-2023 15:26:59 Asia/Kolkata] PHP Stack trace:
+[03-Feb-2023 15:26:59 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\emsdemo\View\message-popup.php:0
+[03-Feb-2023 15:28:23 Asia/Kolkata] PHP Warning:  Undefined array key "txt_dateFrom" in C:\wamp64\www\emsdemo\View\message-popup.php on line 28
+[03-Feb-2023 15:28:23 Asia/Kolkata] PHP Stack trace:
+[03-Feb-2023 15:28:23 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\emsdemo\View\message-popup.php:0
+[03-Feb-2023 15:28:24 Asia/Kolkata] PHP Warning:  Undefined array key "txt_dateto" in C:\wamp64\www\emsdemo\View\message-popup.php on line 29
+[03-Feb-2023 15:28:24 Asia/Kolkata] PHP Stack trace:
+[03-Feb-2023 15:28:24 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\emsdemo\View\message-popup.php:0
+[03-Feb-2023 15:29:30 Asia/Kolkata] PHP Warning:  Undefined array key "txt_dateFrom" in C:\wamp64\www\emsdemo\View\message-popup.php on line 28
+[03-Feb-2023 15:29:30 Asia/Kolkata] PHP Stack trace:
+[03-Feb-2023 15:29:30 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\emsdemo\View\message-popup.php:0
+[03-Feb-2023 15:29:30 Asia/Kolkata] PHP Warning:  Undefined array key "txt_dateto" in C:\wamp64\www\emsdemo\View\message-popup.php on line 29
+[03-Feb-2023 15:29:30 Asia/Kolkata] PHP Stack trace:
+[03-Feb-2023 15:29:30 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\emsdemo\View\message-popup.php:0
+[03-Feb-2023 15:29:44 Asia/Kolkata] PHP Warning:  Undefined array key "__location" in C:\wamp64\www\emsdemo\AppCode\left_menu.php on line 43
+[03-Feb-2023 15:29:44 Asia/Kolkata] PHP Stack trace:
+[03-Feb-2023 15:29:44 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\emsdemo\View\message-popup.php:0
+[03-Feb-2023 15:29:44 Asia/Kolkata] PHP   2. require() C:\wamp64\www\emsdemo\View\message-popup.php:10
+[03-Feb-2023 15:29:44 Asia/Kolkata] PHP   3. require_once() C:\wamp64\www\emsdemo\AppCode\nHead.php:307
+[03-Feb-2023 15:29:44 Asia/Kolkata] PHP Warning:  Undefined array key "__user_logid" in C:\wamp64\www\emsdemo\AppCode\left_menu.php on line 44
+[03-Feb-2023 15:29:44 Asia/Kolkata] PHP Stack trace:
+[03-Feb-2023 15:29:44 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\emsdemo\View\message-popup.php:0
+[03-Feb-2023 15:29:44 Asia/Kolkata] PHP   2. require() C:\wamp64\www\emsdemo\View\message-popup.php:10
+[03-Feb-2023 15:29:44 Asia/Kolkata] PHP   3. require_once() C:\wamp64\www\emsdemo\AppCode\nHead.php:307
+[03-Feb-2023 15:29:44 Asia/Kolkata] PHP Warning:  Undefined array key "__user_Name" in C:\wamp64\www\emsdemo\AppCode\left_menu.php on line 45
+[03-Feb-2023 15:29:44 Asia/Kolkata] PHP Stack trace:
+[03-Feb-2023 15:29:44 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\emsdemo\View\message-popup.php:0
+[03-Feb-2023 15:29:44 Asia/Kolkata] PHP   2. require() C:\wamp64\www\emsdemo\View\message-popup.php:10
+[03-Feb-2023 15:29:44 Asia/Kolkata] PHP   3. require_once() C:\wamp64\www\emsdemo\AppCode\nHead.php:307
+[03-Feb-2023 15:29:44 Asia/Kolkata] PHP Warning:  Undefined array key "__user_profile" in C:\wamp64\www\emsdemo\AppCode\left_menu.php on line 46
+[03-Feb-2023 15:29:44 Asia/Kolkata] PHP Stack trace:
+[03-Feb-2023 15:29:44 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\emsdemo\View\message-popup.php:0
+[03-Feb-2023 15:29:44 Asia/Kolkata] PHP   2. require() C:\wamp64\www\emsdemo\View\message-popup.php:10
+[03-Feb-2023 15:29:44 Asia/Kolkata] PHP   3. require_once() C:\wamp64\www\emsdemo\AppCode\nHead.php:307
+[03-Feb-2023 15:29:44 Asia/Kolkata] PHP Warning:  Undefined array key "__user_type" in C:\wamp64\www\emsdemo\AppCode\left_menu.php on line 47
+[03-Feb-2023 15:29:44 Asia/Kolkata] PHP Stack trace:
+[03-Feb-2023 15:29:44 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\emsdemo\View\message-popup.php:0
+[03-Feb-2023 15:29:44 Asia/Kolkata] PHP   2. require() C:\wamp64\www\emsdemo\View\message-popup.php:10
+[03-Feb-2023 15:29:44 Asia/Kolkata] PHP   3. require_once() C:\wamp64\www\emsdemo\AppCode\nHead.php:307
+[03-Feb-2023 15:29:44 Asia/Kolkata] PHP Warning:  Undefined array key "__user_Desg" in C:\wamp64\www\emsdemo\AppCode\left_menu.php on line 48
+[03-Feb-2023 15:29:44 Asia/Kolkata] PHP Stack trace:
+[03-Feb-2023 15:29:44 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\emsdemo\View\message-popup.php:0
+[03-Feb-2023 15:29:44 Asia/Kolkata] PHP   2. require() C:\wamp64\www\emsdemo\View\message-popup.php:10
+[03-Feb-2023 15:29:44 Asia/Kolkata] PHP   3. require_once() C:\wamp64\www\emsdemo\AppCode\nHead.php:307
+[03-Feb-2023 15:29:44 Asia/Kolkata] PHP Warning:  Undefined array key "__ut_temp_check" in C:\wamp64\www\emsdemo\AppCode\left_menu.php on line 49
+[03-Feb-2023 15:29:44 Asia/Kolkata] PHP Stack trace:
+[03-Feb-2023 15:29:44 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\emsdemo\View\message-popup.php:0
+[03-Feb-2023 15:29:44 Asia/Kolkata] PHP   2. require() C:\wamp64\www\emsdemo\View\message-popup.php:10
+[03-Feb-2023 15:29:44 Asia/Kolkata] PHP   3. require_once() C:\wamp64\www\emsdemo\AppCode\nHead.php:307
+[03-Feb-2023 15:29:44 Asia/Kolkata] PHP Warning:  Undefined array key "__user_Dept" in C:\wamp64\www\emsdemo\AppCode\left_menu.php on line 50
+[03-Feb-2023 15:29:44 Asia/Kolkata] PHP Stack trace:
+[03-Feb-2023 15:29:44 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\emsdemo\View\message-popup.php:0
+[03-Feb-2023 15:29:44 Asia/Kolkata] PHP   2. require() C:\wamp64\www\emsdemo\View\message-popup.php:10
+[03-Feb-2023 15:29:44 Asia/Kolkata] PHP   3. require_once() C:\wamp64\www\emsdemo\AppCode\nHead.php:307
+[03-Feb-2023 15:29:44 Asia/Kolkata] PHP Warning:  Undefined array key "__user_process" in C:\wamp64\www\emsdemo\AppCode\left_menu.php on line 51
+[03-Feb-2023 15:29:44 Asia/Kolkata] PHP Stack trace:
+[03-Feb-2023 15:29:44 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\emsdemo\View\message-popup.php:0
+[03-Feb-2023 15:29:44 Asia/Kolkata] PHP   2. require() C:\wamp64\www\emsdemo\View\message-popup.php:10
+[03-Feb-2023 15:29:44 Asia/Kolkata] PHP   3. require_once() C:\wamp64\www\emsdemo\AppCode\nHead.php:307
+[03-Feb-2023 15:29:44 Asia/Kolkata] PHP Warning:  Undefined array key "__cm_id" in C:\wamp64\www\emsdemo\AppCode\left_menu.php on line 52
+[03-Feb-2023 15:29:44 Asia/Kolkata] PHP Stack trace:
+[03-Feb-2023 15:29:44 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\emsdemo\View\message-popup.php:0
+[03-Feb-2023 15:29:44 Asia/Kolkata] PHP   2. require() C:\wamp64\www\emsdemo\View\message-popup.php:10
+[03-Feb-2023 15:29:44 Asia/Kolkata] PHP   3. require_once() C:\wamp64\www\emsdemo\AppCode\nHead.php:307
+[03-Feb-2023 15:29:44 Asia/Kolkata] PHP Warning:  Undefined array key "__status_th" in C:\wamp64\www\emsdemo\AppCode\left_menu.php on line 53
+[03-Feb-2023 15:29:44 Asia/Kolkata] PHP Stack trace:
+[03-Feb-2023 15:29:44 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\emsdemo\View\message-popup.php:0
+[03-Feb-2023 15:29:44 Asia/Kolkata] PHP   2. require() C:\wamp64\www\emsdemo\View\message-popup.php:10
+[03-Feb-2023 15:29:44 Asia/Kolkata] PHP   3. require_once() C:\wamp64\www\emsdemo\AppCode\nHead.php:307
+[03-Feb-2023 15:29:44 Asia/Kolkata] PHP Warning:  Undefined array key "__status_oh" in C:\wamp64\www\emsdemo\AppCode\left_menu.php on line 54
+[03-Feb-2023 15:29:44 Asia/Kolkata] PHP Stack trace:
+[03-Feb-2023 15:29:44 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\emsdemo\View\message-popup.php:0
+[03-Feb-2023 15:29:44 Asia/Kolkata] PHP   2. require() C:\wamp64\www\emsdemo\View\message-popup.php:10
+[03-Feb-2023 15:29:44 Asia/Kolkata] PHP   3. require_once() C:\wamp64\www\emsdemo\AppCode\nHead.php:307
+[03-Feb-2023 15:29:44 Asia/Kolkata] PHP Warning:  Undefined array key "__status_qh" in C:\wamp64\www\emsdemo\AppCode\left_menu.php on line 55
+[03-Feb-2023 15:29:44 Asia/Kolkata] PHP Stack trace:
+[03-Feb-2023 15:29:44 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\emsdemo\View\message-popup.php:0
+[03-Feb-2023 15:29:44 Asia/Kolkata] PHP   2. require() C:\wamp64\www\emsdemo\View\message-popup.php:10
+[03-Feb-2023 15:29:44 Asia/Kolkata] PHP   3. require_once() C:\wamp64\www\emsdemo\AppCode\nHead.php:307
+[03-Feb-2023 15:29:44 Asia/Kolkata] PHP Warning:  Undefined array key "__status_ah" in C:\wamp64\www\emsdemo\AppCode\left_menu.php on line 56
+[03-Feb-2023 15:29:44 Asia/Kolkata] PHP Stack trace:
+[03-Feb-2023 15:29:44 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\emsdemo\View\message-popup.php:0
+[03-Feb-2023 15:29:44 Asia/Kolkata] PHP   2. require() C:\wamp64\www\emsdemo\View\message-popup.php:10
+[03-Feb-2023 15:29:44 Asia/Kolkata] PHP   3. require_once() C:\wamp64\www\emsdemo\AppCode\nHead.php:307
+[03-Feb-2023 15:29:44 Asia/Kolkata] PHP Warning:  Undefined array key "__status_vh" in C:\wamp64\www\emsdemo\AppCode\left_menu.php on line 57
+[03-Feb-2023 15:29:44 Asia/Kolkata] PHP Stack trace:
+[03-Feb-2023 15:29:44 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\emsdemo\View\message-popup.php:0
+[03-Feb-2023 15:29:44 Asia/Kolkata] PHP   2. require() C:\wamp64\www\emsdemo\View\message-popup.php:10
+[03-Feb-2023 15:29:44 Asia/Kolkata] PHP   3. require_once() C:\wamp64\www\emsdemo\AppCode\nHead.php:307
+[03-Feb-2023 15:29:44 Asia/Kolkata] PHP Warning:  Undefined array key "__status_rt" in C:\wamp64\www\emsdemo\AppCode\left_menu.php on line 58
+[03-Feb-2023 15:29:44 Asia/Kolkata] PHP Stack trace:
+[03-Feb-2023 15:29:44 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\emsdemo\View\message-popup.php:0
+[03-Feb-2023 15:29:44 Asia/Kolkata] PHP   2. require() C:\wamp64\www\emsdemo\View\message-popup.php:10
+[03-Feb-2023 15:29:44 Asia/Kolkata] PHP   3. require_once() C:\wamp64\www\emsdemo\AppCode\nHead.php:307
+[03-Feb-2023 15:29:44 Asia/Kolkata] PHP Warning:  Undefined array key "__user_status" in C:\wamp64\www\emsdemo\AppCode\left_menu.php on line 59
+[03-Feb-2023 15:29:44 Asia/Kolkata] PHP Stack trace:
+[03-Feb-2023 15:29:44 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\emsdemo\View\message-popup.php:0
+[03-Feb-2023 15:29:44 Asia/Kolkata] PHP   2. require() C:\wamp64\www\emsdemo\View\message-popup.php:10
+[03-Feb-2023 15:29:44 Asia/Kolkata] PHP   3. require_once() C:\wamp64\www\emsdemo\AppCode\nHead.php:307
+[03-Feb-2023 15:29:44 Asia/Kolkata] PHP Warning:  Undefined array key "__status_er" in C:\wamp64\www\emsdemo\AppCode\left_menu.php on line 60
+[03-Feb-2023 15:29:44 Asia/Kolkata] PHP Stack trace:
+[03-Feb-2023 15:29:44 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\emsdemo\View\message-popup.php:0
+[03-Feb-2023 15:29:44 Asia/Kolkata] PHP   2. require() C:\wamp64\www\emsdemo\View\message-popup.php:10
+[03-Feb-2023 15:29:44 Asia/Kolkata] PHP   3. require_once() C:\wamp64\www\emsdemo\AppCode\nHead.php:307
+[03-Feb-2023 15:29:44 Asia/Kolkata] PHP Warning:  Undefined array key "__gender" in C:\wamp64\www\emsdemo\AppCode\left_menu.php on line 61
+[03-Feb-2023 15:29:44 Asia/Kolkata] PHP Stack trace:
+[03-Feb-2023 15:29:44 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\emsdemo\View\message-popup.php:0
+[03-Feb-2023 15:29:44 Asia/Kolkata] PHP   2. require() C:\wamp64\www\emsdemo\View\message-popup.php:10
+[03-Feb-2023 15:29:44 Asia/Kolkata] PHP   3. require_once() C:\wamp64\www\emsdemo\AppCode\nHead.php:307
+[03-Feb-2023 15:29:44 Asia/Kolkata] PHP Warning:  Undefined array key "__status_tr" in C:\wamp64\www\emsdemo\AppCode\left_menu.php on line 62
+[03-Feb-2023 15:29:44 Asia/Kolkata] PHP Stack trace:
+[03-Feb-2023 15:29:44 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\emsdemo\View\message-popup.php:0
+[03-Feb-2023 15:29:44 Asia/Kolkata] PHP   2. require() C:\wamp64\www\emsdemo\View\message-popup.php:10
+[03-Feb-2023 15:29:44 Asia/Kolkata] PHP   3. require_once() C:\wamp64\www\emsdemo\AppCode\nHead.php:307
+[03-Feb-2023 15:29:44 Asia/Kolkata] PHP Warning:  Undefined array key "__status_qa" in C:\wamp64\www\emsdemo\AppCode\left_menu.php on line 63
+[03-Feb-2023 15:29:44 Asia/Kolkata] PHP Stack trace:
+[03-Feb-2023 15:29:44 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\emsdemo\View\message-popup.php:0
+[03-Feb-2023 15:29:44 Asia/Kolkata] PHP   2. require() C:\wamp64\www\emsdemo\View\message-popup.php:10
+[03-Feb-2023 15:29:44 Asia/Kolkata] PHP   3. require_once() C:\wamp64\www\emsdemo\AppCode\nHead.php:307
+[03-Feb-2023 15:29:44 Asia/Kolkata] PHP Warning:  Undefined array key "__user_client_ID" in C:\wamp64\www\emsdemo\AppCode\left_menu.php on line 64
+[03-Feb-2023 15:29:44 Asia/Kolkata] PHP Stack trace:
+[03-Feb-2023 15:29:44 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\emsdemo\View\message-popup.php:0
+[03-Feb-2023 15:29:44 Asia/Kolkata] PHP   2. require() C:\wamp64\www\emsdemo\View\message-popup.php:10
+[03-Feb-2023 15:29:44 Asia/Kolkata] PHP   3. require_once() C:\wamp64\www\emsdemo\AppCode\nHead.php:307
+[03-Feb-2023 15:30:11 Asia/Kolkata] PHP Warning:  Undefined array key "txt_dateFrom" in C:\wamp64\www\emsdemo\View\message-popup.php on line 28
+[03-Feb-2023 15:30:11 Asia/Kolkata] PHP Stack trace:
+[03-Feb-2023 15:30:11 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\emsdemo\View\message-popup.php:0
+[03-Feb-2023 15:30:11 Asia/Kolkata] PHP Warning:  Undefined array key "txt_dateto" in C:\wamp64\www\emsdemo\View\message-popup.php on line 29
+[03-Feb-2023 15:30:11 Asia/Kolkata] PHP Stack trace:
+[03-Feb-2023 15:30:11 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\emsdemo\View\message-popup.php:0
+[03-Feb-2023 15:30:43 Asia/Kolkata] PHP Warning:  Undefined array key "txt_dateFrom" in C:\wamp64\www\emsdemo\View\message-popup.php on line 28
+[03-Feb-2023 15:30:43 Asia/Kolkata] PHP Stack trace:
+[03-Feb-2023 15:30:43 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\emsdemo\View\message-popup.php:0
+[03-Feb-2023 15:30:44 Asia/Kolkata] PHP Warning:  Undefined array key "txt_dateto" in C:\wamp64\www\emsdemo\View\message-popup.php on line 29
+[03-Feb-2023 15:30:44 Asia/Kolkata] PHP Stack trace:
+[03-Feb-2023 15:30:44 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\emsdemo\View\message-popup.php:0
+[03-Feb-2023 15:32:07 Asia/Kolkata] PHP Warning:  Undefined array key "txt_dateFrom" in C:\wamp64\www\emsdemo\View\message-popup.php on line 28
+[03-Feb-2023 15:32:07 Asia/Kolkata] PHP Stack trace:
+[03-Feb-2023 15:32:07 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\emsdemo\View\message-popup.php:0
+[03-Feb-2023 15:32:07 Asia/Kolkata] PHP Warning:  Undefined array key "txt_dateto" in C:\wamp64\www\emsdemo\View\message-popup.php on line 29
+[03-Feb-2023 15:32:07 Asia/Kolkata] PHP Stack trace:
+[03-Feb-2023 15:32:07 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\emsdemo\View\message-popup.php:0
+[03-Feb-2023 15:32:48 Asia/Kolkata] PHP Warning:  Undefined array key "txt_dateFrom" in C:\wamp64\www\emsdemo\View\message-popup.php on line 28
+[03-Feb-2023 15:32:48 Asia/Kolkata] PHP Stack trace:
+[03-Feb-2023 15:32:48 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\emsdemo\View\message-popup.php:0
+[03-Feb-2023 15:32:48 Asia/Kolkata] PHP Warning:  Undefined array key "txt_dateto" in C:\wamp64\www\emsdemo\View\message-popup.php on line 29
+[03-Feb-2023 15:32:48 Asia/Kolkata] PHP Stack trace:
+[03-Feb-2023 15:32:48 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\emsdemo\View\message-popup.php:0
+[03-Feb-2023 15:33:01 Asia/Kolkata] PHP Warning:  Undefined array key "txt_dateFrom" in C:\wamp64\www\emsdemo\View\message-popup.php on line 28
+[03-Feb-2023 15:33:01 Asia/Kolkata] PHP Stack trace:
+[03-Feb-2023 15:33:01 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\emsdemo\View\message-popup.php:0
+[03-Feb-2023 15:33:01 Asia/Kolkata] PHP Warning:  Undefined array key "txt_dateto" in C:\wamp64\www\emsdemo\View\message-popup.php on line 29
+[03-Feb-2023 15:33:01 Asia/Kolkata] PHP Stack trace:
+[03-Feb-2023 15:33:01 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\emsdemo\View\message-popup.php:0
+[03-Feb-2023 15:33:16 Asia/Kolkata] PHP Warning:  Undefined array key "__location" in C:\wamp64\www\emsdemo\AppCode\left_menu.php on line 43
+[03-Feb-2023 15:33:16 Asia/Kolkata] PHP Stack trace:
+[03-Feb-2023 15:33:16 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\emsdemo\View\employee_serach.php:0
+[03-Feb-2023 15:33:16 Asia/Kolkata] PHP   2. require() C:\wamp64\www\emsdemo\View\employee_serach.php:9
+[03-Feb-2023 15:33:16 Asia/Kolkata] PHP   3. require_once() C:\wamp64\www\emsdemo\AppCode\nHead.php:307
+[03-Feb-2023 15:33:16 Asia/Kolkata] PHP Warning:  Undefined array key "__user_logid" in C:\wamp64\www\emsdemo\AppCode\left_menu.php on line 44
+[03-Feb-2023 15:33:16 Asia/Kolkata] PHP Stack trace:
+[03-Feb-2023 15:33:16 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\emsdemo\View\employee_serach.php:0
+[03-Feb-2023 15:33:16 Asia/Kolkata] PHP   2. require() C:\wamp64\www\emsdemo\View\employee_serach.php:9
+[03-Feb-2023 15:33:16 Asia/Kolkata] PHP   3. require_once() C:\wamp64\www\emsdemo\AppCode\nHead.php:307
+[03-Feb-2023 15:33:16 Asia/Kolkata] PHP Warning:  Undefined array key "__user_Name" in C:\wamp64\www\emsdemo\AppCode\left_menu.php on line 45
+[03-Feb-2023 15:33:16 Asia/Kolkata] PHP Stack trace:
+[03-Feb-2023 15:33:16 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\emsdemo\View\employee_serach.php:0
+[03-Feb-2023 15:33:16 Asia/Kolkata] PHP   2. require() C:\wamp64\www\emsdemo\View\employee_serach.php:9
+[03-Feb-2023 15:33:16 Asia/Kolkata] PHP   3. require_once() C:\wamp64\www\emsdemo\AppCode\nHead.php:307
+[03-Feb-2023 15:33:16 Asia/Kolkata] PHP Warning:  Undefined array key "__user_profile" in C:\wamp64\www\emsdemo\AppCode\left_menu.php on line 46
+[03-Feb-2023 15:33:16 Asia/Kolkata] PHP Stack trace:
+[03-Feb-2023 15:33:16 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\emsdemo\View\employee_serach.php:0
+[03-Feb-2023 15:33:16 Asia/Kolkata] PHP   2. require() C:\wamp64\www\emsdemo\View\employee_serach.php:9
+[03-Feb-2023 15:33:16 Asia/Kolkata] PHP   3. require_once() C:\wamp64\www\emsdemo\AppCode\nHead.php:307
+[03-Feb-2023 15:33:16 Asia/Kolkata] PHP Warning:  Undefined array key "__user_type" in C:\wamp64\www\emsdemo\AppCode\left_menu.php on line 47
+[03-Feb-2023 15:33:16 Asia/Kolkata] PHP Stack trace:
+[03-Feb-2023 15:33:16 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\emsdemo\View\employee_serach.php:0
+[03-Feb-2023 15:33:16 Asia/Kolkata] PHP   2. require() C:\wamp64\www\emsdemo\View\employee_serach.php:9
+[03-Feb-2023 15:33:16 Asia/Kolkata] PHP   3. require_once() C:\wamp64\www\emsdemo\AppCode\nHead.php:307
+[03-Feb-2023 15:33:16 Asia/Kolkata] PHP Warning:  Undefined array key "__user_Desg" in C:\wamp64\www\emsdemo\AppCode\left_menu.php on line 48
+[03-Feb-2023 15:33:16 Asia/Kolkata] PHP Stack trace:
+[03-Feb-2023 15:33:16 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\emsdemo\View\employee_serach.php:0
+[03-Feb-2023 15:33:16 Asia/Kolkata] PHP   2. require() C:\wamp64\www\emsdemo\View\employee_serach.php:9
+[03-Feb-2023 15:33:16 Asia/Kolkata] PHP   3. require_once() C:\wamp64\www\emsdemo\AppCode\nHead.php:307
+[03-Feb-2023 15:33:16 Asia/Kolkata] PHP Warning:  Undefined array key "__ut_temp_check" in C:\wamp64\www\emsdemo\AppCode\left_menu.php on line 49
+[03-Feb-2023 15:33:16 Asia/Kolkata] PHP Stack trace:
+[03-Feb-2023 15:33:16 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\emsdemo\View\employee_serach.php:0
+[03-Feb-2023 15:33:16 Asia/Kolkata] PHP   2. require() C:\wamp64\www\emsdemo\View\employee_serach.php:9
+[03-Feb-2023 15:33:16 Asia/Kolkata] PHP   3. require_once() C:\wamp64\www\emsdemo\AppCode\nHead.php:307
+[03-Feb-2023 15:33:16 Asia/Kolkata] PHP Warning:  Undefined array key "__user_Dept" in C:\wamp64\www\emsdemo\AppCode\left_menu.php on line 50
+[03-Feb-2023 15:33:16 Asia/Kolkata] PHP Stack trace:
+[03-Feb-2023 15:33:16 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\emsdemo\View\employee_serach.php:0
+[03-Feb-2023 15:33:16 Asia/Kolkata] PHP   2. require() C:\wamp64\www\emsdemo\View\employee_serach.php:9
+[03-Feb-2023 15:33:16 Asia/Kolkata] PHP   3. require_once() C:\wamp64\www\emsdemo\AppCode\nHead.php:307
+[03-Feb-2023 15:33:16 Asia/Kolkata] PHP Warning:  Undefined array key "__user_process" in C:\wamp64\www\emsdemo\AppCode\left_menu.php on line 51
+[03-Feb-2023 15:33:16 Asia/Kolkata] PHP Stack trace:
+[03-Feb-2023 15:33:16 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\emsdemo\View\employee_serach.php:0
+[03-Feb-2023 15:33:16 Asia/Kolkata] PHP   2. require() C:\wamp64\www\emsdemo\View\employee_serach.php:9
+[03-Feb-2023 15:33:16 Asia/Kolkata] PHP   3. require_once() C:\wamp64\www\emsdemo\AppCode\nHead.php:307
+[03-Feb-2023 15:33:16 Asia/Kolkata] PHP Warning:  Undefined array key "__cm_id" in C:\wamp64\www\emsdemo\AppCode\left_menu.php on line 52
+[03-Feb-2023 15:33:16 Asia/Kolkata] PHP Stack trace:
+[03-Feb-2023 15:33:16 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\emsdemo\View\employee_serach.php:0
+[03-Feb-2023 15:33:16 Asia/Kolkata] PHP   2. require() C:\wamp64\www\emsdemo\View\employee_serach.php:9
+[03-Feb-2023 15:33:16 Asia/Kolkata] PHP   3. require_once() C:\wamp64\www\emsdemo\AppCode\nHead.php:307
+[03-Feb-2023 15:33:16 Asia/Kolkata] PHP Warning:  Undefined array key "__status_th" in C:\wamp64\www\emsdemo\AppCode\left_menu.php on line 53
+[03-Feb-2023 15:33:16 Asia/Kolkata] PHP Stack trace:
+[03-Feb-2023 15:33:16 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\emsdemo\View\employee_serach.php:0
+[03-Feb-2023 15:33:16 Asia/Kolkata] PHP   2. require() C:\wamp64\www\emsdemo\View\employee_serach.php:9
+[03-Feb-2023 15:33:16 Asia/Kolkata] PHP   3. require_once() C:\wamp64\www\emsdemo\AppCode\nHead.php:307
+[03-Feb-2023 15:33:16 Asia/Kolkata] PHP Warning:  Undefined array key "__status_oh" in C:\wamp64\www\emsdemo\AppCode\left_menu.php on line 54
+[03-Feb-2023 15:33:16 Asia/Kolkata] PHP Stack trace:
+[03-Feb-2023 15:33:16 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\emsdemo\View\employee_serach.php:0
+[03-Feb-2023 15:33:16 Asia/Kolkata] PHP   2. require() C:\wamp64\www\emsdemo\View\employee_serach.php:9
+[03-Feb-2023 15:33:16 Asia/Kolkata] PHP   3. require_once() C:\wamp64\www\emsdemo\AppCode\nHead.php:307
+[03-Feb-2023 15:33:16 Asia/Kolkata] PHP Warning:  Undefined array key "__status_qh" in C:\wamp64\www\emsdemo\AppCode\left_menu.php on line 55
+[03-Feb-2023 15:33:16 Asia/Kolkata] PHP Stack trace:
+[03-Feb-2023 15:33:16 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\emsdemo\View\employee_serach.php:0
+[03-Feb-2023 15:33:16 Asia/Kolkata] PHP   2. require() C:\wamp64\www\emsdemo\View\employee_serach.php:9
+[03-Feb-2023 15:33:16 Asia/Kolkata] PHP   3. require_once() C:\wamp64\www\emsdemo\AppCode\nHead.php:307
+[03-Feb-2023 15:33:16 Asia/Kolkata] PHP Warning:  Undefined array key "__status_ah" in C:\wamp64\www\emsdemo\AppCode\left_menu.php on line 56
+[03-Feb-2023 15:33:16 Asia/Kolkata] PHP Stack trace:
+[03-Feb-2023 15:33:16 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\emsdemo\View\employee_serach.php:0
+[03-Feb-2023 15:33:16 Asia/Kolkata] PHP   2. require() C:\wamp64\www\emsdemo\View\employee_serach.php:9
+[03-Feb-2023 15:33:16 Asia/Kolkata] PHP   3. require_once() C:\wamp64\www\emsdemo\AppCode\nHead.php:307
+[03-Feb-2023 15:33:16 Asia/Kolkata] PHP Warning:  Undefined array key "__status_vh" in C:\wamp64\www\emsdemo\AppCode\left_menu.php on line 57
+[03-Feb-2023 15:33:16 Asia/Kolkata] PHP Stack trace:
+[03-Feb-2023 15:33:16 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\emsdemo\View\employee_serach.php:0
+[03-Feb-2023 15:33:16 Asia/Kolkata] PHP   2. require() C:\wamp64\www\emsdemo\View\employee_serach.php:9
+[03-Feb-2023 15:33:16 Asia/Kolkata] PHP   3. require_once() C:\wamp64\www\emsdemo\AppCode\nHead.php:307
+[03-Feb-2023 15:33:16 Asia/Kolkata] PHP Warning:  Undefined array key "__status_rt" in C:\wamp64\www\emsdemo\AppCode\left_menu.php on line 58
+[03-Feb-2023 15:33:16 Asia/Kolkata] PHP Stack trace:
+[03-Feb-2023 15:33:16 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\emsdemo\View\employee_serach.php:0
+[03-Feb-2023 15:33:16 Asia/Kolkata] PHP   2. require() C:\wamp64\www\emsdemo\View\employee_serach.php:9
+[03-Feb-2023 15:33:16 Asia/Kolkata] PHP   3. require_once() C:\wamp64\www\emsdemo\AppCode\nHead.php:307
+[03-Feb-2023 15:33:16 Asia/Kolkata] PHP Warning:  Undefined array key "__user_status" in C:\wamp64\www\emsdemo\AppCode\left_menu.php on line 59
+[03-Feb-2023 15:33:16 Asia/Kolkata] PHP Stack trace:
+[03-Feb-2023 15:33:16 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\emsdemo\View\employee_serach.php:0
+[03-Feb-2023 15:33:16 Asia/Kolkata] PHP   2. require() C:\wamp64\www\emsdemo\View\employee_serach.php:9
+[03-Feb-2023 15:33:16 Asia/Kolkata] PHP   3. require_once() C:\wamp64\www\emsdemo\AppCode\nHead.php:307
+[03-Feb-2023 15:33:16 Asia/Kolkata] PHP Warning:  Undefined array key "__status_er" in C:\wamp64\www\emsdemo\AppCode\left_menu.php on line 60
+[03-Feb-2023 15:33:16 Asia/Kolkata] PHP Stack trace:
+[03-Feb-2023 15:33:16 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\emsdemo\View\employee_serach.php:0
+[03-Feb-2023 15:33:16 Asia/Kolkata] PHP   2. require() C:\wamp64\www\emsdemo\View\employee_serach.php:9
+[03-Feb-2023 15:33:16 Asia/Kolkata] PHP   3. require_once() C:\wamp64\www\emsdemo\AppCode\nHead.php:307
+[03-Feb-2023 15:33:16 Asia/Kolkata] PHP Warning:  Undefined array key "__gender" in C:\wamp64\www\emsdemo\AppCode\left_menu.php on line 61
+[03-Feb-2023 15:33:16 Asia/Kolkata] PHP Stack trace:
+[03-Feb-2023 15:33:16 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\emsdemo\View\employee_serach.php:0
+[03-Feb-2023 15:33:16 Asia/Kolkata] PHP   2. require() C:\wamp64\www\emsdemo\View\employee_serach.php:9
+[03-Feb-2023 15:33:16 Asia/Kolkata] PHP   3. require_once() C:\wamp64\www\emsdemo\AppCode\nHead.php:307
+[03-Feb-2023 15:33:16 Asia/Kolkata] PHP Warning:  Undefined array key "__status_tr" in C:\wamp64\www\emsdemo\AppCode\left_menu.php on line 62
+[03-Feb-2023 15:33:16 Asia/Kolkata] PHP Stack trace:
+[03-Feb-2023 15:33:16 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\emsdemo\View\employee_serach.php:0
+[03-Feb-2023 15:33:16 Asia/Kolkata] PHP   2. require() C:\wamp64\www\emsdemo\View\employee_serach.php:9
+[03-Feb-2023 15:33:16 Asia/Kolkata] PHP   3. require_once() C:\wamp64\www\emsdemo\AppCode\nHead.php:307
+[03-Feb-2023 15:33:16 Asia/Kolkata] PHP Warning:  Undefined array key "__status_qa" in C:\wamp64\www\emsdemo\AppCode\left_menu.php on line 63
+[03-Feb-2023 15:33:16 Asia/Kolkata] PHP Stack trace:
+[03-Feb-2023 15:33:16 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\emsdemo\View\employee_serach.php:0
+[03-Feb-2023 15:33:16 Asia/Kolkata] PHP   2. require() C:\wamp64\www\emsdemo\View\employee_serach.php:9
+[03-Feb-2023 15:33:16 Asia/Kolkata] PHP   3. require_once() C:\wamp64\www\emsdemo\AppCode\nHead.php:307
+[03-Feb-2023 15:33:16 Asia/Kolkata] PHP Warning:  Undefined array key "__user_client_ID" in C:\wamp64\www\emsdemo\AppCode\left_menu.php on line 64
+[03-Feb-2023 15:33:16 Asia/Kolkata] PHP Stack trace:
+[03-Feb-2023 15:33:16 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\emsdemo\View\employee_serach.php:0
+[03-Feb-2023 15:33:16 Asia/Kolkata] PHP   2. require() C:\wamp64\www\emsdemo\View\employee_serach.php:9
+[03-Feb-2023 15:33:16 Asia/Kolkata] PHP   3. require_once() C:\wamp64\www\emsdemo\AppCode\nHead.php:307
+[03-Feb-2023 15:34:09 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in C:\wamp64\www\emsdemo\View\index.php on line 356
+[03-Feb-2023 15:34:09 Asia/Kolkata] PHP Stack trace:
+[03-Feb-2023 15:34:09 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\emsdemo\View\index.php:0
+[03-Feb-2023 15:34:41 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in C:\wamp64\www\emsdemo\View\index.php on line 356
+[03-Feb-2023 15:34:41 Asia/Kolkata] PHP Stack trace:
+[03-Feb-2023 15:34:41 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\emsdemo\View\index.php:0
+[03-Feb-2023 15:36:41 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in C:\wamp64\www\emsdemo\View\index.php on line 356
+[03-Feb-2023 15:36:41 Asia/Kolkata] PHP Stack trace:
+[03-Feb-2023 15:36:41 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\emsdemo\View\index.php:0
+[03-Feb-2023 15:42:33 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in C:\wamp64\www\emsdemo\View\index.php on line 356
+[03-Feb-2023 15:42:33 Asia/Kolkata] PHP Stack trace:
+[03-Feb-2023 15:42:33 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\emsdemo\View\index.php:0
+[03-Feb-2023 15:43:31 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in C:\wamp64\www\emsdemo\View\index.php on line 356
+[03-Feb-2023 15:43:31 Asia/Kolkata] PHP Stack trace:
+[03-Feb-2023 15:43:31 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\emsdemo\View\index.php:0
+[03-Feb-2023 15:45:08 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in C:\wamp64\www\emsdemo\View\index.php on line 356
+[03-Feb-2023 15:45:08 Asia/Kolkata] PHP Stack trace:
+[03-Feb-2023 15:45:08 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\emsdemo\View\index.php:0
+[03-Feb-2023 15:45:36 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in C:\wamp64\www\emsdemo\View\index.php on line 356
+[03-Feb-2023 15:45:36 Asia/Kolkata] PHP Stack trace:
+[03-Feb-2023 15:45:36 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\emsdemo\View\index.php:0

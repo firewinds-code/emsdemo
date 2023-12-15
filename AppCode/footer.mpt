@@ -1,0 +1,1097 @@
+<?php
+require_once(__dir__ . '/../Config/init.php');
+$myDB = new MysqliDb();
+$conn = $myDB->dbConnect();
+?>
+
+<div class="center-align">
+	<div class="footer">Cogent EMS<br>
+		&copy; <?php echo date('Y') . '  -  ' . date('Y', strtotime("next year")); ?> <a href="http://www.cogenteservices.com" target="_blank">Cogent ES</a> All rights reserved.</div>
+</div>
+
+<div id="MessageDiv" class="hidden">
+	<img src="<?php echo STYLE . 'images/Oxygen480-actions-dialog-close.png'; ?>" class="img-circle-close" style="height: 30px;" />
+	<div id="MessageDiv_info">
+
+	</div>
+
+</div>
+<style>
+	#rmenu {
+		z-index: 1000;
+		position: fixed;
+		/*background-color: rgba(192, 192, 192, 0.41);*/
+		border: 1px solid #CDCDCD;
+		padding: 6px;
+		display: block;
+		margin: 0;
+		list-style-type: none;
+		list-style: none;
+		width: 200px;
+		border-radius: 2px;
+
+	}
+
+	#rmenu ul {
+		width: 100%;
+		height: 100%;
+		position: relative;
+		background: transparent;
+		/*border: 1px solid gray;*/
+
+	}
+
+	#rmenu ul li {
+		width: 100%;
+		height: 30px;
+		position: relative;
+		/*background: linear-gradient(#ECECEC,white);*/
+		background-color: white;
+		/*border-bottom: 1px solid #BDBABA;*/
+
+	}
+
+	#rmenu ul li:last-child {
+		border: 0px;
+	}
+
+	#rmenu ul li p {
+		display: inline-block;
+		height: 100%;
+		width: 100%;
+		padding-left: 6px;
+		margin-top: 0px !important;
+		padding-top: 0px;
+		color: #09797F;
+		text-shadow: 0px 0px 0px black, 1px 1px 1px #E0E0E0;
+		cursor: pointer;
+		font-size: 12px !important;
+		line-height: 30px;
+	}
+
+	#rmenu ul li:hover {
+		background: rgba(5, 184, 255, 0.58);
+	}
+
+	#rmenu ul li:hover p {
+		color: black;
+	}
+
+	#rmenu ul li i {
+		color: #07515E;
+	}
+
+	#rmenu ul li:hover i {
+		color: #FFFFFF;
+		text-shadow: 1px 1px 1px #585757;
+	}
+
+	#rmenu ul li p.disabled_p {
+		cursor: not-allowed;
+		color: gray;
+		pointer-events: none;
+	}
+
+	#rmenu ul li p.disabled_p i {
+		cursor: not-allowed;
+		color: gray;
+	}
+
+	.modal {
+		width: 75%
+	}
+</style>
+<?php
+if (isset($qfarray)) {
+} else {
+	$qfarray = array();
+}
+
+$cm_id = $userID = $userName = $myclipsession = $Action_Grid = $myclipdatat = "";
+
+$cm_id = clean($_SESSION["__cm_id"]);
+$userID = clean($_SESSION['__user_logid']);
+$userName = clean($_SESSION['__user_Name']);
+
+
+
+if (isset($cm_id) and (count($qfarray) > 0 && $cm_id == "88")  || $cm_id != "88") {
+?>
+
+	<div class="fadeIn animated hidden" id="rmenu">
+		<ul>
+
+			<li><a href="<?php echo URL . 'View/index.php'; ?>">
+					<p data-class="#"><i class="fa fa-home"></i> Home</p>
+				</a></li>
+			<?php
+			if ($cm_id == '27' || $cm_id == '58' || $cm_id == '83' || $cm_id == '45' || $cm_id == '46' || $cm_id == '126' || $cm_id == '90') { ?>
+
+				<li><a href="<?php echo URL . 'View/atnd1'; ?>">
+						<p data-class="#"><i class="fa fa-calendar"></i> Biometric </p>
+					</a></li>
+
+			<?php } else { ?>
+				<li><a href="<?php echo URL . 'View/atnd'; ?>">
+						<p data-class="#"><i class="fa fa-calendar"></i> Biometric </p>
+					</a></li>
+			<?php
+			} ?>
+
+			<li><a href="<?php echo URL . 'View/addleave'; ?>">
+					<p data-class="#"><i class="fa fa-plus"></i> Add Leave</p>
+				</a> </li>
+
+			<!-- <li><a  href="<?php echo URL . 'View/addReq'; ?>"><p data-class="#"><i class="fa fa-street-view"></i> Raise Request </p></a></li> -->
+
+
+
+			<?php
+			// $rst = $myDB->query('select type_ from roster_temp where EmployeeID = "' . $userID . '" and DateOn =cast(now() as date) order by id desc limit 1');
+			$rstQry = 'select type_ from roster_temp where EmployeeID = ? and DateOn =cast(now() as date) order by id desc limit 1';
+			$stmt = $conn->prepare($rstQry);
+			$stmt->bind_param("s", $userID);
+			$stmt->execute();
+			$rst = $stmt->get_result();
+			$rstRow = $rst->fetch_row();
+			$exp1 = $exp2 = 0;
+			if ($rst->num_rows > 0 && $rst) {
+				// if (intval($rst[0]['type_']) != 0) {
+				if (intval($rstRow[0]['type_']) != 0) {
+					if ($rstRow[0] == '4') {
+						$exp1 = 1;
+						$exp2 = 0;
+			?>
+
+						<li><a href="<?php echo URL . 'View/addReq1'; ?>">
+								<p data-class="#"><i class="fa fa-street-view"></i> Exception Request [Split] </p>
+							</a></li>
+						<!--<li><a class="drawer-dropdown-menu-item" href="<?php echo URL . 'View/addReq1'; ?>">Exception Request [Split]</a></li>-->
+					<?php
+					} else {
+						$exp2 = 1;
+						$exp1 = 0;
+					?>
+
+						<li><a href="<?php echo URL . 'View/addReq'; ?>">
+								<p data-class="#"><i class="fa fa-street-view"></i> Exception Request </p>
+							</a></li>
+
+					<?php
+					}
+				} else {
+					$exp2 = 1;
+					$exp1 = 0;
+					?>
+
+					<li><a href="<?php echo URL . 'View/addReq'; ?>">
+							<p data-class="#"><i class="fa fa-street-view"></i> Exception Request </p>
+						</a></li>
+				<?php
+				}
+			} else {
+				$exp2 = 1;
+				$exp1 = 0;
+				?>
+
+				<li><a href="<?php echo URL . 'View/addReq'; ?>">
+						<p data-class="#"><i class="fa fa-street-view"></i> Exception Request </p>
+					</a></li>
+				<?php
+			}
+			// $rst1 = 'select count(*) as count from whole_details_peremp where ReportTo = "' . $userID . '" or account_head = "' . $userID . '"';
+			$rstQry1 = 'select count(*) as count from whole_details_peremp where ReportTo = ? or account_head = ?';
+			$stmt1 = $conn->prepare($rstQry1);
+			$stmt1->bind_param("ss", $userID, $userID);
+			$stmt1->execute();
+			$rst1 = $stmt1->get_result();
+			$rstRow1 = $rst1->fetch_row();
+
+			$count_rst = $rstRow1[0]; //['count'];
+			if ($count_rst > 0) {
+				if ($exp1 == 1) {
+				?>
+
+					<li><a href="<?php echo URL . 'View/addReq'; ?>">
+							<p data-class="#"><i class="fa fa-street-view"></i> Exception Request </p>
+						</a></li>
+
+				<?php
+				} elseif ($exp2 == 1) {
+				?>
+					<li><a href="<?php echo URL . 'View/addReq1'; ?>">
+							<p data-class="#"><i class="fa fa-street-view"></i> Exception Request [Split]</p>
+						</a></li>
+
+
+			<?php
+				}
+			}
+			?>
+
+
+
+			<!-- <li><a  href="<?php echo URL . 'View/ChPer'; ?>"><p data-class="#"><i class="fa fa-street-view"></i> Performance </p></a></li> -->
+
+			<!--<li><p data-class="#" id="cm_copy"><i class="fa fa-copy"></i> Copy </p></li>
+	            <li><p data-class="#" id="cm_cut"><i class="fa fa-cut"></i> Cut </p></li>
+	            <li><p id="cm_paste" data-class="#"><i class="fa fa-paste"></i> Paste</p></li>-->
+			<li><a href="<?php echo URL . 'View/LogOut.php'; ?>">
+					<p id="cm_paste" data-class="#"><i class="fa fa-sign-out"></i> Logout</p>
+				</a></li>
+
+		</ul>
+
+
+		<input type="hidden" id="__myclipdatat" name="__myclipdatat" value="<?php echo (isset($_POST['__myclipdatat'])) ? $_POST['__myclipdatat'] : ''; ?>" />
+		<input type="hidden" id="__Action_Grid" name="__Action_Grid" value="<?php echo (isset($_POST['__Action_Grid'])) ? $_POST['__Action_Grid'] : ''; ?>" />
+	</div>
+<?php  } ?>
+<script type="text/javascript">
+	$(".card").css("box-shadow", "none");
+
+
+	var current_focus = '';
+	$(document).ready(function() {
+		var __tempvar_paste = '';
+		<?php
+
+		if (isset($_SESSION['__myclipsession']) && !isset($_POST['__myclipdatat'])) {
+		?>
+			$('#__myclipdatat').val(<?php echo '"' . $_SESSION['__myclipsession'] . '"'; ?>);
+		<?php
+		}
+		?>
+
+		if ($('#__myclipdatat').val() == '') {
+			$('#cm_paste').addClass('disabled_p');
+		}
+
+		//$('.drawer').drawer({iscroll: {mouseWheel: true,preventDefault: false},showOverlay: true});
+		$('#msg_div').hide();
+		$('#msgpanel').show("drop", {
+			direction: "top"
+		}, "slow");
+		$('#msgpanel').hide();
+		$('#msg_div > div.msg-hdr').html('');
+		$('.tmp_div').delay(5000).fadeOut(400);
+		$('.msg-close1').click(function() {
+			$('.tmp_div').empty().remove();
+		});
+		$('#msg_div > div.msg-div').html('');
+		$(".toplink").click(function() {
+			$("#blackOver").css('display', 'block');
+			$("#blackOver").css('visibility', 'visible');
+			$("#light").css('display', 'block');
+			$("#light").css('visibility', 'visible');
+
+		});
+		$("#CloseLight").click(function() {
+			$("#blackOver").css('display', 'none');
+			$("#blackOver").css('visibility', 'hidden');
+			$("#light").css('display', 'none');
+			$("#light").css('visibility', 'hidden');
+
+
+		});
+		var mouseX;
+		var mouseY;
+		$(window).mousemove(function(e) {
+
+			mouseX = e.pageX
+			mouseY = e.pageY - $(window).scrollTop();
+
+
+
+		});
+
+		function disableF5(e) {
+			if ((e.which || e.keyCode) == 116) e.preventDefault();
+		};
+		$(document).on("keydown", disableF5);
+		$(document).on("contextmenu", function(e) {
+
+			current_focus = document.activeElement;
+
+			docwidth = $(window).width();
+			docheight = $("#right-side").height();
+			var left = mouseX;
+
+			if ((docwidth - mouseX) < 200) {
+				left = docwidth - (200);
+			}
+			var top = mouseY;
+			if ((docheight - mouseY) < 300) {
+				top = docheight - (300);
+			}
+
+
+			$('#rmenu').css({
+				'top': top,
+				'left': left
+			})
+			$('#rmenu').removeClass('fadeOut');
+			$("#rmenu").removeClass("hidden").delay(1000).queue(function(next) {
+				$(this).addClass("hidden");
+				next();
+			});
+			return false;
+		});
+		$('#rmenu').mouseleave(function() {
+			//$(this).addClass('hidden');
+			$("#rmenu").addClass("fadeOut").delay(1000).queue(function(next) {
+				$(this).addClass("hidden");
+				next();
+			});
+		});
+		$('#rmenu').mouseover(function() {
+			$('#rmenu').removeClass('fadeOut');
+			$("#rmenu").removeClass("hidden").clearQueue();
+			$("#rmenu").stop();
+
+		});
+		$('#cm_copy').mousedown(function(event) {
+			$text = copySelection();
+			$('#__myclipdatat').val($text);
+			$('.disabled_p').removeClass('disabled_p');
+			event.preventDefault();
+			$("#rmenu").addClass('hidden');
+			$.ajax({
+				url: <?php echo '"' . URL . '"'; ?> + "Controller/allow_paste.php?val=" + $('#__myclipdatat').val()
+			}).done(function(data) {
+				if (console && console.log) {
+					console.log("Copied data: ", data);
+				}
+			});
+		});
+		$('#cm_cut').mousedown(function(event) {
+			$text = cutSelection();
+			$('#__myclipdatat').val($text);
+			$('.disabled_p').removeClass('disabled_p');
+			event.preventDefault();
+			$("#rmenu").addClass('hidden');
+			$.ajax({
+				url: <?php echo '"' . URL . '"'; ?> + "Controller/allow_paste.php?val=" + $('#__myclipdatat').val()
+			}).done(function(data) {
+				if (console && console.log) {
+					console.log("Copied data: ", data);
+				}
+			});
+		});
+		$('#cm_paste').mousedown(function(event) {
+			if ($(current_focus).is("input") || $(current_focus).is("textarea")) {
+				$(current_focus).val($('#__myclipdatat').val());
+			}
+			$("#rmenu").addClass('hidden');
+			event.preventDefault();
+		});
+
+		$('.drawer-dropdown').each(function() {
+
+			if ($(this).children('.drawer-dropdown-menu').children('li').length <= 0) {
+				$(this).remove();
+			}
+
+		});
+	});
+
+	function copySelection() {
+		var selText = "";
+		if (window.getSelection) { // all browsers, except IE before version 9
+			if (document.activeElement &&
+				(document.activeElement.tagName.toLowerCase() == "textarea" ||
+					document.activeElement.tagName.toLowerCase() == "input")) {
+				var text = document.activeElement.value;
+				selText = text.substring(document.activeElement.selectionStart,
+					document.activeElement.selectionEnd);
+			} else {
+				var selRange = window.getSelection();
+				selText = selRange.toString();
+			}
+		} else {
+			if (document.selection.createRange) { // Internet Explorer
+				var range = document.selection.createRange();
+				selText = range.text;
+			}
+		}
+		document.execCommand('copy');
+		return selText;
+	}
+
+	function cutSelection() {
+		var selText = "";
+		if (window.getSelection) { // all browsers, except IE before version 9
+			if (document.activeElement &&
+				(document.activeElement.tagName.toLowerCase() == "textarea" ||
+					document.activeElement.tagName.toLowerCase() == "input")) {
+				var text = document.activeElement.value;
+				selText = text.substring(document.activeElement.selectionStart,
+					document.activeElement.selectionEnd);
+			} else {
+				var selRange = window.getSelection();
+				selText = selRange.toString();
+			}
+		} else {
+			if (document.selection.createRange) { // Internet Explorer
+				var range = document.selection.createRange();
+				selText = range.text;
+			}
+		}
+		document.execCommand('cut');
+		return selText;
+	}
+	$(function() {
+
+		$("input,textarea").on("blur", function() {
+			$('#__Action_Grid').val($('#__Action_Grid').val() + 'Input Field :' + $(this).attr("name") + " Changed |  ");
+		});
+		$("select").on("change", function() {
+			$('#__Action_Grid').val($('#__Action_Grid').val() + 'DropDown Field :' + $(this).attr("name") + " Changed |  ");
+		});
+		$(":button,:submit").on("click", function() {
+			$('#__Action_Grid').val($('#__Action_Grid').val() + 'Button Action :' + $(this).attr("id") + " Click |  ");
+		});
+		$(".dt-button").on("click", function() {
+			$('#__Action_Grid').val($('#__Action_Grid').val() + 'Link / Button  Action :' + $(this).attr("id") + " Click |  ");
+		});
+		$("input:text").keypress(function(event) {
+
+			if (event.keyCode == 13) {
+				event.preventDefault();
+				return false;
+			}
+		});
+
+	});
+</script>
+
+</div>
+</section>
+</div>
+<?php
+
+require(ROOT_PATH . 'Controller/log_create.php');
+$Action = new PHPLog_Action($userID, $_SERVER['PHP_SELF'], (isset($_POST['__Action_Grid']) ? $_POST['__Action_Grid'] : ' Open Page '));
+$sender_ID = $userID;
+$classvarr = "'.byID'";
+$searchBy = '';
+$msg = '';
+if (isset($_POST['message_text'])) {
+	$sendor_name = $userName;
+	$recipient_name = clean(trim($_POST['recipient_name']));
+	$value = explode(",", $recipient_name);
+	$message_text = clean(trim($_POST['message_text']));
+	if ($recipient_name != "" && $message_text != "") {
+		$myDB = new MysqliDb();
+		foreach ($value as $key => $val) {
+			$sql = "call Add_Chat_message('" . $message_text . "','" . $val . "','" . $sender_ID . "','" . $sendor_name . "')";
+			$resultBy = $myDB->query($sql);
+			$error = $myDB->getLastError();
+		}
+	}
+}
+?>
+
+<script>
+	$(document).ready(function() {
+		$('#myModal_msg').modal();
+
+		$("input[name$='msgtype']").click(function() {
+			var test = $(this).val();
+			if (test == 'single') {
+				$(".single").show();
+				$(".multiple").hide();
+				$(".messagespl").show();
+				$("#committed_msg").show();
+			}
+			if (test == 'multiple') {
+				$(".single").hide();
+				$("#committed_msg").hide();
+				$(".multiple").show();
+				$(".messagespl").show();
+			}
+		});
+
+
+
+
+
+
+		/*  Filter Data start */
+
+		$('#sendmsgidbulk').on('click', function() {
+			//$('#myModal_msg').modal();
+			if ($('#message_text').val().trim() == "") {
+				$('#erroemsg').html('');
+				$('#erroemsg2').html('Please enter Message');
+				$('#message_text').focus();
+				return false;
+			}
+			var loginid = "<?php echo $userID; ?>"
+			var loginname = "<?php echo $userName; ?>"
+			var locationdata = $('#location').val().trim();
+			var client_namedata = $('#client_name').val().trim();
+			var processdata = $('#process').val().trim();
+			var subprocessdata = $('#subprocess').val().trim();
+			var designationdata = $('#designation').val().trim();
+			var messagedata = $('#message_text').val().trim();
+
+
+			$.ajax({
+				url: <?php echo '"' . URL . '"'; ?> + "Controller/getFilterData.php?location=" + locationdata + "&client=" + client_namedata + "&process=" + processdata + "&subprocess=" + subprocessdata + "&designation=" + designationdata + "&message=" + messagedata + "&logid=" + loginid + "&logname=" + loginname + "&action=bulkmsg"
+			}).done(function(data) { // data what is sent back by the php page
+				//(data);
+				$('#committed_bulk').html(data);
+				$('#message_text').val('');
+				$('#location').val('all');
+				$('#client_name').val('all');
+				$('#process').val('all');
+				$('#subprocess').val('all');
+				$('#designation').val('all');
+
+			});
+
+		});
+
+		/*  Filter Data start */
+
+		$('#sendmsgid').on('click', function() {
+			//alert('eeeeeeeeeeeeeeeee');
+			var empiddata = $('#search_empid').val().trim();
+			var msg = $('#message_text').val().trim();
+			$('#recipient-name').val(empiddata);
+			$('#erroemsg').html('');
+			$('#erroemsg2').html('');
+			if ($('#search_empid').val().trim() == "") {
+				$('#erroemsg').html('Please enter Employee Id');
+				$('#search_empid').focus();
+				return false;
+			}
+			if ($('#message_text').val().trim() == "") {
+				$('#erroemsg').html('');
+				$('#erroemsg2').html('Please enter Message');
+				$('#message_text').focus();
+				return false;
+			}
+
+			var loginid = "<?php echo $userID; ?>"
+			var loginname = "<?php echo $userName; ?>"
+
+			$.ajax({
+				url: <?php echo '"' . URL . '"'; ?> + "Controller/sendmsg.php?logid=" + loginid + "&logname=" + loginname + "&action=sendmsg" + "&empid=" + empiddata + "&message=" + msg
+			}).done(function(data) { // data what is sent back by the php page
+				//(data);
+				$('#committed_msg').html(data);
+				$('#search_empid').val('');
+				$('#message_text').val('');
+			});
+
+			//$('#messsageForm').submit();
+		});
+
+
+	});
+
+
+	//if the menu is visible
+	var elem = document.querySelector('.collapsible');
+	var instance = M.Collapsible.init(elem, "accordion");
+	$(".dropdown-trigger").dropdown();
+
+
+	// Dropdown
+
+	$(".dropdown-trigger").dropdown();
+
+	// ToolTip Widget UI change for override
+
+	$.widget.bridge('uitooltip', $.ui.tooltip);
+
+	// ToolTip 
+
+	$('.tooltipped').tooltip();
+
+	// ToolTip Override
+
+	$(function() {
+
+		$('.tooltipped').each(function() {
+			$(this).attr('title', $(this).attr('data-tooltip'));
+			var instance = M.Tooltip.getInstance(this);
+
+			instance.destroy();
+
+			var className_as_tp = 'bottom';
+			if ($(this).attr('data-position') != 'bottom') {
+				className_as_tp = $(this).attr('data-position');
+			}
+
+
+
+
+
+			switch (className_as_tp) {
+				case 'top':
+
+					$(this).uitooltip({
+						tooltipClass: 'material_custom_tooltip ' + className_as_tp,
+						position: {
+							my: 'center bottom',
+							at: 'center top-5'
+						},
+						show: null,
+						open: function(event, ui) {
+
+							ui.tooltip.animate({
+								top: ui.tooltip.position().top - 10
+							}, 150);
+						}
+					});
+					break;
+				case 'bottom':
+
+					$(this).uitooltip({
+						tooltipClass: 'material_custom_tooltip ' + className_as_tp,
+						position: {
+							my: 'center top',
+							at: 'center bottom+5'
+						},
+						show: null,
+						open: function(event, ui) {
+
+							ui.tooltip.animate({
+								top: ui.tooltip.position().top + 10
+							}, 150);
+						}
+					});
+					break;
+				case 'left':
+
+					$(this).uitooltip({
+						tooltipClass: 'material_custom_tooltip ' + className_as_tp,
+						position: {
+							my: 'right center',
+							at: 'left-5 center'
+						},
+						show: null,
+						open: function(event, ui) {
+
+							ui.tooltip.animate({
+								left: ui.tooltip.position().left - 10
+							}, 150);
+						}
+
+					});
+					break;
+				case 'right':
+
+					$(this).uitooltip({
+						tooltipClass: 'material_custom_tooltip ' + className_as_tp,
+						position: {
+							my: 'left center',
+							at: 'right+5 center'
+						},
+						open: function(event, ui) {
+
+							ui.tooltip.animate({
+								left: ui.tooltip.position().left + 10
+							}, 150);
+						}
+
+					});
+					break;
+			}
+
+		});
+
+	});
+
+	$(document).ready(function() {
+		$('.collapsible').collapsible();
+		$(document).on("click", "#side-menu-hamburger", function() {
+			$("#menu-container").toggle();
+			$("#left-menu").toggleClass("menu-visible");
+			$("#right-side").toggleClass("menu-visible");
+			var logoImage = <?php echo '"' . STYLE . '/images/cogent-logo.png' . '";'; ?>;
+			var tinylogoImage = <?php echo '"' . STYLE . '/img/cgt_small_logo.png' . '";'; ?>;
+			if ($(this).find("i.material-icons").text() == 'menu') {
+				$(this).find("i.material-icons").text('close');
+				$("#ohrm-small-logo div").css({
+					"background-image": "url('" + logoImage + "')",
+					"background-position": "20 5;",
+					"background-size": "120px 40px",
+					"width": "",
+					"left": "",
+					"position": "",
+				});
+				//$("#div_main").css("margin-top","");
+				setTimeout(function() {
+					$(".sorting_desc,.sorting_asc").trigger("click").trigger("click");
+				}, 300);
+			} else {
+				$(this).find("i.material-icons").text('menu');
+				$("#ohrm-small-logo div").css({
+					"background-image": "url('" + tinylogoImage + "')",
+					"background-position": "2 5",
+					"background-size": "40px 40px",
+					"width": "100px",
+					"left": "12px",
+					"position": "fixed",
+				});
+				//$("#div_main").css("margin-top","75px");
+				setTimeout(function() {
+					$(".sorting_desc,.sorting_asc").trigger("click").trigger("click");
+				}, 300);
+			}
+		});
+
+	});
+	$(function() {
+		$('.img-divclose').click(function() {
+			$('.popup_div').removeClass('zoomInDown').addClass('zoomOutUp');
+		});
+
+		$(document).keydown(function(e) {
+			// ESCAPE key pressed
+			if (e.keyCode == 27) {
+				$('.popup_div').removeClass('zoomInDown').addClass('zoomOutUp');
+			}
+		});
+		$(document).on("click", "#shortcut-menu-trigger",
+			function() {
+				if ($("#shortcut_menu").css('display') == 'none') {
+					$("#shortcut_menu").css({
+						"white-space": "nowrap",
+						"position": "absolute",
+						"top": "0px",
+						"left": "200px",
+						"opacity": "1",
+						"display": "block"
+					});
+				} else {
+					$("#shortcut_menu").css({
+						"white-space": "",
+						"position": "",
+						"top": "",
+						"left": "",
+						"opacity": "",
+						"display": ""
+					});
+				}
+
+			}
+		);
+		$('body').click(function(evt) {
+			if (evt.target.id == "shortcut_menu")
+				return;
+			//For descendants of menu_content being clicked, remove this check if you do not want to put constraint on descendants.
+			if ($(evt.target).closest('#shortcut_menu').length)
+				return;
+
+			//Do processing of click event here for every element except with id menu_content
+			$("#shortcut_menu").css({
+				"white-space": "",
+				"position": "",
+				"top": "",
+				"left": "",
+				"opacity": "",
+				"display": ""
+			});
+		});
+		$('select').formSelect();
+		$('#indexForm').submit(function() {
+
+			$("#preloader").show();
+		});
+
+
+	});
+	$(document).on("click blur focus change", ".has-error", function() {
+		$(".has-error").each(function() {
+			if ($(this).hasClass("has-error")) {
+				$(this).removeClass("has-error");
+				$(this).next("span.help-block").remove();
+				if ($(this).is('select')) {
+					$(this).parent('.select-wrapper').find("span.help-block").remove();
+				}
+				if ($(this).hasClass('select-dropdown')) {
+					$(this).parent('.select-wrapper').find("span.help-block").remove();
+				}
+			}
+		});
+	});
+	$(document).on("click blur focus change", '.input-field input:not([type="checkbox"]),.input-field textarea', function() {
+
+		$(".schema-form-section input,.schema-form-section textarea").each(function(index, element) {
+
+			if ($(element).val().length > 0) {
+				$(this).siblings('label, i').addClass('active');
+			} else {
+				if ($(this).attr("id") != $(':focus').attr("id"))
+					$(this).siblings('label, i').removeClass('active');
+			}
+
+		});
+	});
+	$('select').formSelect();
+	toastr.options.timeOut = 10000;
+	$(document).on("change click", "select", function() {
+
+		$("select").find('option:eq(0)').each(function() {
+			if ($(this).text().toUpperCase().indexOf('-SELECT-') >= 0 && ($(this).val().toUpperCase() == "" || $(this).val().toUpperCase() == "NA")) {
+				var lbl_text = $(this).closest("div.select-wrapper").next("label.active").text();
+				var PreSuffix = 'Select ';
+				if (lbl_text.toUpperCase().indexOf('SELECT') >= 0) {
+					PreSuffix = '';
+				}
+				if (lbl_text != '' && lbl_text != undefined) {
+					lbl_text = lbl_text;
+				}
+				var finalOption = toTitleCase(PreSuffix + lbl_text);
+				$(this).text(finalOption);
+			}
+		});
+		$("select").formSelect();
+
+	});
+	$(document).ajaxComplete(function() {
+		$("select").find('option:eq(0)').each(function() {
+			if ($(this).text().toUpperCase().indexOf('-SELECT-') >= 0 && ($(this).val().toUpperCase() == "" || $(this).val().toUpperCase() == "NA")) {
+				var lbl_text = $(this).closest("div.select-wrapper").next("label.active").text();
+				var PreSuffix = 'Select ';
+				if (lbl_text.toUpperCase().indexOf('SELECT') >= 0) {
+					PreSuffix = '';
+				}
+				if (lbl_text != '' && lbl_text != undefined) {
+					lbl_text = lbl_text;
+				}
+				var finalOption = toTitleCase(PreSuffix + lbl_text);
+				$(this).text(finalOption);
+			}
+		});
+		$("select").formSelect();
+		$(".schema-form-section input,.schema-form-section textarea").each(function(index, element) {
+
+			if ($(element).val().length > 0) {
+				$(this).siblings('label, i').addClass('active');
+			} else {
+				if ($(this).attr("id") != $(':focus').attr("id"))
+					$(this).siblings('label, i').removeClass('active');
+			}
+
+		});
+
+
+	});
+</script>
+<script type="text/javascript">
+	$(document).ready(function() {
+		$('#myModal_msg').modal();
+		$('#location').change(function() {
+			var location = $(this).val();
+
+			$("#process").append('<option Selected="True" Value="all">-All Process-</option>');
+			$("#subprocess").append('<option Selected="True" Value="all">-All SubProcess-</option>');
+			if (location) {
+				$.ajax({
+					type: "GET",
+					url: <?php echo '"' . URL . '"'; ?> + "Controller/getFilterData.php?location_id=" + location,
+					success: function(res) {
+						if (res) {
+							$("#client_name").empty();
+
+
+							$("#client_name").append(res);
+
+
+						} else {
+							$("#client_name").empty();
+						}
+					}
+				});
+			} else {
+				$("#client_name").empty();
+				$("#process").empty();
+				$("#subprocess").empty();
+			}
+		});
+		$('#client_name').on('change', function() {
+			var client_id = $(this).val();
+			var loc_id = $('#location').val();
+			if (client_id) {
+				$.ajax({
+					type: "GET",
+					url: <?php echo '"' . URL . '"'; ?> + "Controller/getFilterData.php?clientid=" + client_id + "&location=" + loc_id,
+					success: function(res) {
+						if (res) {
+							$("#process").empty();
+
+
+							$("#process").append(res);
+
+
+						} else {
+							$("#process").empty();
+						}
+					}
+				});
+			} else {
+
+				$("#process").empty();
+				$("#subprocess").empty();
+			}
+
+		});
+		$('#process').on('change', function() {
+			var pro = $(this).val();
+			var process = pro.replace(/_/g, ' ');
+			var loction_id = $('#location').val();
+			var client_names = $('#client_name').val();
+
+			if (process) {
+				$.ajax({
+					type: "GET",
+					url: <?php echo '"' . URL . '"'; ?> + "Controller/getFilterData.php?processid=" + process + "&loc=" + loction_id + "&client_id=" + client_names,
+					success: function(res) {
+						if (res) {
+							$("#subprocess").empty();
+
+							$("#subprocess").append(res);
+
+
+						} else {
+							$("#subprocess").empty();
+						}
+					}
+				});
+			} else {
+				$("#subprocess").empty();
+			}
+
+		});
+	});
+</script>
+
+</form>
+<?php if ($userID == 'CE03070003' || $userID == 'CE031929841' || $userID == 'CE10091236') { ?>
+	<a data-toggle="modal" href="#myModal_msg" id="target_button" class="btn modal-trigger" style="position: fixed;right: -73px;top: 50%;text-align: left;padding-left: 10px;height: 50px;line-height: 50px;"><i class="material-icons" style="font-size: 27px;">chevron_left</i></a>
+
+	<div id="myModal_msg" class="modal" role="dialog">
+		<div class="" id="myModal_msg_data">
+
+
+			<div class="modal-content row" style="height: calc(100% - 40px);padding: 0px;overflow: hidden;">
+				<h4 class="orange darken-3">Message</h4>
+				<div class="col s12 m12" style="padding-top:0px;max-height: 800px;height: 400px;overflow-y: auto;overflow-x: hidden;">
+
+					<div class="input-field col s10 m10 l10">
+						<input type='radio' name='msgtype' value="single" id='singlemsg'>
+						<label for="singlemsg">SINGLE MESSAGE</label>
+						<input type='radio' name='msgtype' value="multiple" id='multiplemsg'>
+						<label for="multiplemsg">MULTIPLE MESSAGE</label>
+					</div>
+
+					<div class="input-field col s10 m10 l10 single" style="display:none;">
+
+						<input type='text' name='search_empid' id='search_empid'>
+						<label for="search_empid">Recipients</label>
+						<span class="text-danger  red-text" id='erroemsg'></span>
+					</div>
+					<!--<div class="input-field col s2 m2 l2 single" style="display:none;">
+					<button type='button' class="btn waves-effect waves-light" name='seerch' id='searchEmp'>Search</button>
+				</div>-->
+					<div id="committed_with" class="col s12 m12 l12 ">
+
+					</div>
+					<div style="display:none;" class="multiple">
+						<form method="post" name="messsageForm" id="messsageForm" action="<?php echo ($_SERVER['REQUEST_URI']); ?>">
+							<div class="input-field col s3 m3 l3">
+								<select id="location" name="location">
+									<option Selected="True" Value="all">-All Location-</option>
+									<?php
+									$sqlConnect = "select id,location from location_master order by id asc";
+									$myDB = new MysqliDb();
+									$result = $myDB->query($sqlConnect);
+									foreach ($result as $key => $value) {
+										echo '<option value="' . $value['id'] . '">' . $value['location'] . '</option>';
+									}
+									?>
+								</select>
+							</div>
+							<div class="input-field col s3 m3 l3">
+								<select id="client_name" name="client_name">
+									<option Selected="True" Value="all">-All Client-</option>
+
+								</select>
+							</div>
+							<div class="input-field col s3 m3 l3">
+								<select id="process" name="process">
+									<option Selected="True" Value="all">-All Process-</option>
+
+								</select>
+							</div>
+							<div class="input-field col s3 m3 l3">
+								<select id="subprocess" name="subprocess">
+									<option Selected="True" Value="all">All SubProcess</option>
+
+								</select>
+							</div>
+							<div class="input-field col s3 m3 l3">
+								<select id="designation" name="designation">
+									<option Selected="True" Value="all">All Designation</option>
+									<?php
+									$sqlConnect4 = "select ID,Designation from designation_master order by ID asc";
+									$myDB = new MysqliDb();
+									$result4 = $myDB->query($sqlConnect4);
+									foreach ($result4 as $key => $value4) {
+										echo '<option value="' . $value4['ID'] . '">' . $value4['Designation'] . '</option>';
+									}
+									?>
+								</select>
+							</div>
+
+							<div id="committed_bulk" class="col s12 m12 l12" style="color: red;">
+
+							</div>
+					</div>
+					<div style="display:none;" class="messagespl">
+						<div class="input-field col s10 m10 l10">
+
+							<textarea class="form-control materialize-textarea" id="message_text" name="message_text"></textarea> <label for="search_empid">Message</label>
+							<span class='text-danger red-text' id='erroemsg2'></span>
+							<input type='hidden' id="recipient-name" name="recipient_name">
+						</div>
+						<div class="input-field col s2 m2 right-align" id="singlemsg">
+							<button type="submit" class="btn waves-effect waves-light single" id='sendmsgid' name='sendmessage'>Send</button>
+						</div>
+						<div id="committed_msg" class="col s12 m12 l12"> </div>
+
+						<div class="input-field col s2 m2 l2 right-align" id="bulkmsg">
+							<button type="submit" class="btn waves-effect waves-light multiple" id='sendmsgidbulk' name='sendmessagebulk'>Send Bulk</button>
+						</div>
+					</div>
+					</form>
+
+					<!--<div id="schm_div_msg" class="col s12 m12 l12 no-padding">
+			   		<p class="no-padding"><b>Message History</b></p>
+					<div id='bodydata' class="col s12 m12 l12">
+						
+					</div>
+				</div>-->
+				</div>
+			</div>
+			<div class="modal-footer">
+				<a href="#!" class="btn modal-close waves-effect waves-light close-btn">Close</a>
+			</div>
+		</div>
+	</div>
+
+<?php }
+
+$myDB->__destruct();
+
+
+?>
+</body>
+
+</html>

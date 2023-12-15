@@ -1,0 +1,7 @@
+[03-Jan-2023 19:01:10 Asia/Kolkata] PHP Notice:  Undefined index: txt_dateFrom in /var/www/html/erpm/View/message-popup.php on line 27
+[03-Jan-2023 19:01:10 Asia/Kolkata] PHP Notice:  Undefined index: txt_dateto in /var/www/html/erpm/View/message-popup.php on line 34
+[03-Jan-2023 19:01:27 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /var/www/html/erpm/View/message-popup.php on line 192
+[03-Jan-2023 19:02:00 Asia/Kolkata] PHP Notice:  Undefined index: __user_logid in /var/www/html/erpm/AppCode/nHead.php on line 2
+[03-Jan-2023 19:03:47 Asia/Kolkata] PHP Notice:  Undefined index: __user_logid in /var/www/html/erpm/AppCode/nHead.php on line 2
+[03-Jan-2023 19:03:54 Asia/Kolkata] PHP Warning:  mysqli_stmt::bind_param(): Number of elements in type definition string doesn't match number of bind variables in /var/www/html/erpm/Controller/ConLog.php on line 464
+[03-Jan-2023 19:03:55 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /var/www/html/erpm/View/index.php on line 346

@@ -1,0 +1,42 @@
+[27-Jan-2023 09:50:31 Asia/Kolkata] PHP Warning:  Undefined array key "__user_logid" in C:\wamp64\www\emsdemo\AppCode\nHead.php on line 2
+[27-Jan-2023 09:50:31 Asia/Kolkata] PHP Stack trace:
+[27-Jan-2023 09:50:31 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\emsdemo\View\index.php:0
+[27-Jan-2023 09:50:31 Asia/Kolkata] PHP   2. require() C:\wamp64\www\emsdemo\View\index.php:14
+[27-Jan-2023 09:54:37 Asia/Kolkata] PHP Fatal error:  Uncaught ArgumentCountError: The number of elements in the type definition string must match the number of bind variables in C:\wamp64\www\emsdemo\Controller\ConLog.php:464
+Stack trace:
+#0 C:\wamp64\www\emsdemo\Controller\ConLog.php(464): mysqli_stmt->bind_param('sis', 'CE01145570', '::1', '1', 'c4c009a646b3a74...')
+#1 {main}
+  thrown in C:\wamp64\www\emsdemo\Controller\ConLog.php on line 464
+[27-Jan-2023 09:55:10 Asia/Kolkata] PHP Warning:  Undefined array key "to" in C:\wamp64\www\emsdemo\View\calcRange.php on line 42
+[27-Jan-2023 09:55:10 Asia/Kolkata] PHP Stack trace:
+[27-Jan-2023 09:55:10 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\emsdemo\View\calcRange.php:0
+[27-Jan-2023 09:55:13 Asia/Kolkata] PHP Notice:  Object of class mysqli_result could not be converted to int in C:\wamp64\www\emsdemo\View\calcRange.php on line 412
+[27-Jan-2023 09:55:13 Asia/Kolkata] PHP Stack trace:
+[27-Jan-2023 09:55:13 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\emsdemo\View\calcRange.php:0
+[27-Jan-2023 09:55:13 Asia/Kolkata] PHP   2. BioMetric->__construct($EmployeeID = 'CE01145570', $DateFrom = '2023-01-26', $DateTo = '2023-01-26', $Emd_des = 'Manager', $Emp_status = 6, $emp_dod = NULL, $emp_module = '2014-01-07 00:00:00') C:\wamp64\www\emsdemo\View\calcRange.php:2358
+[27-Jan-2023 09:55:13 Asia/Kolkata] PHP Warning:  Undefined array key "2023-01-26" in C:\wamp64\www\emsdemo\View\calcRange.php on line 583
+[27-Jan-2023 09:55:13 Asia/Kolkata] PHP Stack trace:
+[27-Jan-2023 09:55:13 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\emsdemo\View\calcRange.php:0
+[27-Jan-2023 09:55:13 Asia/Kolkata] PHP   2. BioMetric->__construct($EmployeeID = 'CE01145570', $DateFrom = '2023-01-26', $DateTo = '2023-01-26', $Emd_des = 'Manager', $Emp_status = 6, $emp_dod = NULL, $emp_module = '2014-01-07 00:00:00') C:\wamp64\www\emsdemo\View\calcRange.php:2358
+[27-Jan-2023 09:55:13 Asia/Kolkata] PHP   3. BioMetric->__calculation_for_day($__date = '2023-01-26', $__EmpID = 'CE01145570', $__des = 'Manager', $__status = 6) C:\wamp64\www\emsdemo\View\calcRange.php:558
+[27-Jan-2023 09:55:13 Asia/Kolkata] PHP Warning:  Undefined array key "2023-01-26" in C:\wamp64\www\emsdemo\View\calcRange.php on line 932
+[27-Jan-2023 09:55:13 Asia/Kolkata] PHP Stack trace:
+[27-Jan-2023 09:55:13 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\emsdemo\View\calcRange.php:0
+[27-Jan-2023 09:55:13 Asia/Kolkata] PHP   2. BioMetric->__construct($EmployeeID = 'CE01145570', $DateFrom = '2023-01-26', $DateTo = '2023-01-26', $Emd_des = 'Manager', $Emp_status = 6, $emp_dod = NULL, $emp_module = '2014-01-07 00:00:00') C:\wamp64\www\emsdemo\View\calcRange.php:2358
+[27-Jan-2023 09:55:13 Asia/Kolkata] PHP   3. BioMetric->__calculation_for_day($__date = '2023-01-26', $__EmpID = 'CE01145570', $__des = 'Manager', $__status = 6) C:\wamp64\www\emsdemo\View\calcRange.php:558
+[27-Jan-2023 09:55:13 Asia/Kolkata] PHP Warning:  Undefined array key "2023-01-26" in C:\wamp64\www\emsdemo\View\calcRange.php on line 1225
+[27-Jan-2023 09:55:13 Asia/Kolkata] PHP Stack trace:
+[27-Jan-2023 09:55:13 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\emsdemo\View\calcRange.php:0
+[27-Jan-2023 09:55:13 Asia/Kolkata] PHP   2. BioMetric->__construct($EmployeeID = 'CE01145570', $DateFrom = '2023-01-26', $DateTo = '2023-01-26', $Emd_des = 'Manager', $Emp_status = 6, $emp_dod = NULL, $emp_module = '2014-01-07 00:00:00') C:\wamp64\www\emsdemo\View\calcRange.php:2358
+[27-Jan-2023 09:55:13 Asia/Kolkata] PHP   3. BioMetric->__calculation_for_day($__date = '2023-01-26', $__EmpID = 'CE01145570', $__des = 'Manager', $__status = 6) C:\wamp64\www\emsdemo\View\calcRange.php:558
+[27-Jan-2023 09:55:14 Asia/Kolkata] PHP Warning:  Array to string conversion in C:\wamp64\www\emsdemo\View\calcRange.php on line 1559
+[27-Jan-2023 09:55:14 Asia/Kolkata] PHP Stack trace:
+[27-Jan-2023 09:55:14 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\emsdemo\View\calcRange.php:0
+[27-Jan-2023 09:55:14 Asia/Kolkata] PHP   2. BioMetric->__construct($EmployeeID = 'CE01145570', $DateFrom = '2023-01-26', $DateTo = '2023-01-26', $Emd_des = 'Manager', $Emp_status = 6, $emp_dod = NULL, $emp_module = '2014-01-07 00:00:00') C:\wamp64\www\emsdemo\View\calcRange.php:2358
+[27-Jan-2023 09:55:14 Asia/Kolkata] PHP   3. BioMetric->__calculation_for_day($__date = '2023-01-26', $__EmpID = 'CE01145570', $__des = 'Manager', $__status = 6) C:\wamp64\www\emsdemo\View\calcRange.php:558
+[27-Jan-2023 09:57:22 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in C:\wamp64\www\emsdemo\View\index.php on line 355
+[27-Jan-2023 09:57:22 Asia/Kolkata] PHP Stack trace:
+[27-Jan-2023 09:57:22 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\emsdemo\View\index.php:0
+[27-Jan-2023 09:57:43 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in C:\wamp64\www\emsdemo\View\index.php on line 355
+[27-Jan-2023 09:57:43 Asia/Kolkata] PHP Stack trace:
+[27-Jan-2023 09:57:43 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\emsdemo\View\index.php:0

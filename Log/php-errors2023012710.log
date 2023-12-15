@@ -1,0 +1,52 @@
+[27-Jan-2023 10:24:57 Asia/Kolkata] PHP Warning:  Undefined array key "__user_logid" in C:\wamp64\www\emsdemo\AppCode\nHead.php on line 2
+[27-Jan-2023 10:24:57 Asia/Kolkata] PHP Stack trace:
+[27-Jan-2023 10:24:57 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\emsdemo\View\index.php:0
+[27-Jan-2023 10:24:57 Asia/Kolkata] PHP   2. require() C:\wamp64\www\emsdemo\View\index.php:14
+[27-Jan-2023 10:25:01 Asia/Kolkata] PHP Fatal error:  Uncaught ArgumentCountError: The number of elements in the type definition string must match the number of bind variables in C:\wamp64\www\emsdemo\Controller\ConLog.php:464
+Stack trace:
+#0 C:\wamp64\www\emsdemo\Controller\ConLog.php(464): mysqli_stmt->bind_param('sis', 'CE01145570', '::1', '1', '9a431e65fab6c5b...')
+#1 {main}
+  thrown in C:\wamp64\www\emsdemo\Controller\ConLog.php on line 464
+[27-Jan-2023 10:25:40 Asia/Kolkata] PHP Fatal error:  Uncaught ArgumentCountError: The number of elements in the type definition string must match the number of bind variables in C:\wamp64\www\emsdemo\Controller\ConLog.php:464
+Stack trace:
+#0 C:\wamp64\www\emsdemo\Controller\ConLog.php(464): mysqli_stmt->bind_param('sis', 'CE01145570', '::1', '1', '64daff72c7d3451...')
+#1 {main}
+  thrown in C:\wamp64\www\emsdemo\Controller\ConLog.php on line 464
+[27-Jan-2023 10:25:48 Asia/Kolkata] PHP Fatal error:  Uncaught ArgumentCountError: The number of elements in the type definition string must match the number of bind variables in C:\wamp64\www\emsdemo\Controller\ConLog.php:464
+Stack trace:
+#0 C:\wamp64\www\emsdemo\Controller\ConLog.php(464): mysqli_stmt->bind_param('sis', 'CE01145570', '::1', '1', 'f470604a20cd1ab...')
+#1 {main}
+  thrown in C:\wamp64\www\emsdemo\Controller\ConLog.php on line 464
+[27-Jan-2023 10:26:02 Asia/Kolkata] PHP Fatal error:  Uncaught ArgumentCountError: The number of elements in the type definition string must match the number of bind variables in C:\wamp64\www\emsdemo\Controller\ConLog.php:464
+Stack trace:
+#0 C:\wamp64\www\emsdemo\Controller\ConLog.php(464): mysqli_stmt->bind_param('sis', 'CE01145570', '::1', '1', '2f6230a477c828d...')
+#1 {main}
+  thrown in C:\wamp64\www\emsdemo\Controller\ConLog.php on line 464
+[27-Jan-2023 10:26:06 Asia/Kolkata] PHP Fatal error:  Uncaught ArgumentCountError: The number of elements in the type definition string must match the number of bind variables in C:\wamp64\www\emsdemo\Controller\ConLog.php:464
+Stack trace:
+#0 C:\wamp64\www\emsdemo\Controller\ConLog.php(464): mysqli_stmt->bind_param('sis', 'CE01145570', '::1', '1', '8f0644f13130658...')
+#1 {main}
+  thrown in C:\wamp64\www\emsdemo\Controller\ConLog.php on line 464
+[27-Jan-2023 10:28:30 Asia/Kolkata] PHP Fatal error:  Uncaught ArgumentCountError: The number of elements in the type definition string must match the number of bind variables in C:\wamp64\www\emsdemo\Controller\ConLog.php:464
+Stack trace:
+#0 C:\wamp64\www\emsdemo\Controller\ConLog.php(464): mysqli_stmt->bind_param('sis', 'CE01145570', '::1', '1', 'e87868ce5f699aa...')
+#1 {main}
+  thrown in C:\wamp64\www\emsdemo\Controller\ConLog.php on line 464
+[27-Jan-2023 10:31:19 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in C:\wamp64\www\emsdemo\View\index.php on line 355
+[27-Jan-2023 10:31:19 Asia/Kolkata] PHP Stack trace:
+[27-Jan-2023 10:31:19 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\emsdemo\View\index.php:0
+[27-Jan-2023 10:31:44 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in C:\wamp64\www\emsdemo\View\index.php on line 355
+[27-Jan-2023 10:31:44 Asia/Kolkata] PHP Stack trace:
+[27-Jan-2023 10:31:44 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\emsdemo\View\index.php:0
+[27-Jan-2023 10:42:24 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in C:\wamp64\www\emsdemo\View\index.php on line 355
+[27-Jan-2023 10:42:24 Asia/Kolkata] PHP Stack trace:
+[27-Jan-2023 10:42:24 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\emsdemo\View\index.php:0
+[27-Jan-2023 10:43:37 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in C:\wamp64\www\emsdemo\View\index.php on line 355
+[27-Jan-2023 10:43:37 Asia/Kolkata] PHP Stack trace:
+[27-Jan-2023 10:43:37 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\emsdemo\View\index.php:0
+[27-Jan-2023 10:43:48 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in C:\wamp64\www\emsdemo\Controller\ConLog.php on line 74
+[27-Jan-2023 10:43:48 Asia/Kolkata] PHP Stack trace:
+[27-Jan-2023 10:43:48 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\emsdemo\Controller\ConLog.php:0
+[27-Jan-2023 10:44:05 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in C:\wamp64\www\emsdemo\Controller\ConLog.php on line 74
+[27-Jan-2023 10:44:05 Asia/Kolkata] PHP Stack trace:
+[27-Jan-2023 10:44:05 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\emsdemo\Controller\ConLog.php:0

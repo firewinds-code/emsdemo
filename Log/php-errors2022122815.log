@@ -1,0 +1,130 @@
+[28-Dec-2022 15:06:38 Asia/Kolkata] PHP Notice:  Undefined index: __user_logid in /var/www/html/erpm/AppCode/nHead.php on line 2
+[28-Dec-2022 15:06:40 Asia/Kolkata] PHP Warning:  mysqli_stmt::bind_param(): Number of elements in type definition string doesn't match number of bind variables in /var/www/html/erpm/Controller/ConLog.php on line 464
+[28-Dec-2022 15:06:40 Asia/Kolkata] PHP Warning:  Use of undefined constant EMS_CenterName - assumed 'EMS_CenterName' (this will throw an Error in a future version of PHP) in /var/www/html/erpm/Controller/ConLog.php on line 470
+[28-Dec-2022 15:06:40 Asia/Kolkata] PHP Warning:  Use of undefined constant EMAIL_HOST - assumed 'EMAIL_HOST' (this will throw an Error in a future version of PHP) in /var/www/html/erpm/Controller/ConLog.php on line 473
+[28-Dec-2022 15:06:40 Asia/Kolkata] PHP Warning:  Use of undefined constant EMAIL_AUTH - assumed 'EMAIL_AUTH' (this will throw an Error in a future version of PHP) in /var/www/html/erpm/Controller/ConLog.php on line 474
+[28-Dec-2022 15:06:40 Asia/Kolkata] PHP Warning:  Use of undefined constant EMAIL_USER - assumed 'EMAIL_USER' (this will throw an Error in a future version of PHP) in /var/www/html/erpm/Controller/ConLog.php on line 475
+[28-Dec-2022 15:06:40 Asia/Kolkata] PHP Warning:  Use of undefined constant EMAIL_PASS - assumed 'EMAIL_PASS' (this will throw an Error in a future version of PHP) in /var/www/html/erpm/Controller/ConLog.php on line 476
+[28-Dec-2022 15:06:40 Asia/Kolkata] PHP Warning:  Use of undefined constant EMAIL_SMTPSecure - assumed 'EMAIL_SMTPSecure' (this will throw an Error in a future version of PHP) in /var/www/html/erpm/Controller/ConLog.php on line 477
+[28-Dec-2022 15:06:40 Asia/Kolkata] PHP Warning:  Use of undefined constant EMAIL_PORT - assumed 'EMAIL_PORT' (this will throw an Error in a future version of PHP) in /var/www/html/erpm/Controller/ConLog.php on line 478
+[28-Dec-2022 15:06:40 Asia/Kolkata] PHP Warning:  Use of undefined constant EMAIL_FROM - assumed 'EMAIL_FROM' (this will throw an Error in a future version of PHP) in /var/www/html/erpm/Controller/ConLog.php on line 479
+[28-Dec-2022 15:06:40 Asia/Kolkata] PHP Warning:  Use of undefined constant EMS_CenterName - assumed 'EMS_CenterName' (this will throw an Error in a future version of PHP) in /var/www/html/erpm/Controller/ConLog.php on line 482
+[28-Dec-2022 15:06:41 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /var/www/html/erpm/View/index.php on line 346
+[28-Dec-2022 15:06:54 Asia/Kolkata] PHP Notice:  Undefined index: ID in /var/www/html/erpm/Controller/get_LastPramotion.php on line 7
+[28-Dec-2022 15:10:10 Asia/Kolkata] PHP Notice:  Undefined index: __user_logid in /var/www/html/erpm/AppCode/nHead.php on line 2
+[28-Dec-2022 15:10:12 Asia/Kolkata] PHP Warning:  mysqli_stmt::bind_param(): Number of elements in type definition string doesn't match number of bind variables in /var/www/html/erpm/Controller/ConLog.php on line 464
+[28-Dec-2022 15:10:13 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /var/www/html/erpm/View/index.php on line 346
+[28-Dec-2022 15:16:20 Asia/Kolkata] PHP Notice:  Undefined index: __user_logid in /var/www/html/erpm/AppCode/nHead.php on line 2
+[28-Dec-2022 15:16:22 Asia/Kolkata] PHP Warning:  mysqli_stmt::bind_param(): Number of elements in type definition string doesn't match number of bind variables in /var/www/html/erpm/Controller/ConLog.php on line 464
+[28-Dec-2022 15:16:22 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /var/www/html/erpm/View/index.php on line 346
+[28-Dec-2022 15:19:19 Asia/Kolkata] PHP Notice:  Undefined variable: resultfood in /var/www/html/erpm/View/site_master.php on line 178
+[28-Dec-2022 15:19:19 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /var/www/html/erpm/View/site_master.php on line 178
+[28-Dec-2022 15:19:19 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /var/www/html/erpm/View/site_master.php on line 178
+[28-Dec-2022 15:19:19 Asia/Kolkata] PHP Notice:  Undefined variable: resultfood in /var/www/html/erpm/View/site_master.php on line 178
+[28-Dec-2022 15:19:19 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /var/www/html/erpm/View/site_master.php on line 178
+[28-Dec-2022 15:19:19 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /var/www/html/erpm/View/site_master.php on line 178
+[28-Dec-2022 15:21:45 Asia/Kolkata] PHP Notice:  Undefined index: __user_logid in /var/www/html/erpm/AppCode/nHead.php on line 2
+[28-Dec-2022 15:21:47 Asia/Kolkata] PHP Warning:  mysqli_stmt::bind_param(): Number of elements in type definition string doesn't match number of bind variables in /var/www/html/erpm/Controller/ConLog.php on line 464
+[28-Dec-2022 15:21:48 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /var/www/html/erpm/View/index.php on line 346
+[28-Dec-2022 15:26:56 Asia/Kolkata] PHP Notice:  Undefined index: __user_logid in /var/www/html/erpm/AppCode/nHead.php on line 2
+[28-Dec-2022 15:26:58 Asia/Kolkata] PHP Warning:  mysqli_stmt::bind_param(): Number of elements in type definition string doesn't match number of bind variables in /var/www/html/erpm/Controller/ConLog.php on line 464
+[28-Dec-2022 15:26:58 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /var/www/html/erpm/View/index.php on line 346
+[28-Dec-2022 15:28:23 Asia/Kolkata] PHP Notice:  Undefined variable: resultfood in /var/www/html/erpm/View/site_master.php on line 179
+[28-Dec-2022 15:28:23 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /var/www/html/erpm/View/site_master.php on line 179
+[28-Dec-2022 15:28:23 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /var/www/html/erpm/View/site_master.php on line 179
+[28-Dec-2022 15:28:23 Asia/Kolkata] PHP Notice:  Undefined variable: resultfood in /var/www/html/erpm/View/site_master.php on line 179
+[28-Dec-2022 15:28:23 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /var/www/html/erpm/View/site_master.php on line 179
+[28-Dec-2022 15:28:23 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /var/www/html/erpm/View/site_master.php on line 179
+[28-Dec-2022 15:29:05 Asia/Kolkata] PHP Notice:  Undefined variable: resultfood in /var/www/html/erpm/View/site_master.php on line 179
+[28-Dec-2022 15:29:05 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /var/www/html/erpm/View/site_master.php on line 179
+[28-Dec-2022 15:29:05 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /var/www/html/erpm/View/site_master.php on line 179
+[28-Dec-2022 15:29:05 Asia/Kolkata] PHP Notice:  Undefined variable: resultfood in /var/www/html/erpm/View/site_master.php on line 179
+[28-Dec-2022 15:29:05 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /var/www/html/erpm/View/site_master.php on line 179
+[28-Dec-2022 15:29:05 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /var/www/html/erpm/View/site_master.php on line 179
+[28-Dec-2022 15:30:27 Asia/Kolkata] PHP Notice:  Undefined index: __user_logid in /var/www/html/erpm/AppCode/nHead.php on line 2
+[28-Dec-2022 15:30:29 Asia/Kolkata] PHP Warning:  mysqli_stmt::bind_param(): Number of elements in type definition string doesn't match number of bind variables in /var/www/html/erpm/Controller/ConLog.php on line 464
+[28-Dec-2022 15:30:29 Asia/Kolkata] PHP Warning:  Use of undefined constant EMS_CenterName - assumed 'EMS_CenterName' (this will throw an Error in a future version of PHP) in /var/www/html/erpm/Controller/ConLog.php on line 470
+[28-Dec-2022 15:30:29 Asia/Kolkata] PHP Warning:  Use of undefined constant EMAIL_HOST - assumed 'EMAIL_HOST' (this will throw an Error in a future version of PHP) in /var/www/html/erpm/Controller/ConLog.php on line 473
+[28-Dec-2022 15:30:29 Asia/Kolkata] PHP Warning:  Use of undefined constant EMAIL_AUTH - assumed 'EMAIL_AUTH' (this will throw an Error in a future version of PHP) in /var/www/html/erpm/Controller/ConLog.php on line 474
+[28-Dec-2022 15:30:29 Asia/Kolkata] PHP Warning:  Use of undefined constant EMAIL_USER - assumed 'EMAIL_USER' (this will throw an Error in a future version of PHP) in /var/www/html/erpm/Controller/ConLog.php on line 475
+[28-Dec-2022 15:30:29 Asia/Kolkata] PHP Warning:  Use of undefined constant EMAIL_PASS - assumed 'EMAIL_PASS' (this will throw an Error in a future version of PHP) in /var/www/html/erpm/Controller/ConLog.php on line 476
+[28-Dec-2022 15:30:29 Asia/Kolkata] PHP Warning:  Use of undefined constant EMAIL_SMTPSecure - assumed 'EMAIL_SMTPSecure' (this will throw an Error in a future version of PHP) in /var/www/html/erpm/Controller/ConLog.php on line 477
+[28-Dec-2022 15:30:29 Asia/Kolkata] PHP Warning:  Use of undefined constant EMAIL_PORT - assumed 'EMAIL_PORT' (this will throw an Error in a future version of PHP) in /var/www/html/erpm/Controller/ConLog.php on line 478
+[28-Dec-2022 15:30:29 Asia/Kolkata] PHP Warning:  Use of undefined constant EMAIL_FROM - assumed 'EMAIL_FROM' (this will throw an Error in a future version of PHP) in /var/www/html/erpm/Controller/ConLog.php on line 479
+[28-Dec-2022 15:30:29 Asia/Kolkata] PHP Warning:  Use of undefined constant EMS_CenterName - assumed 'EMS_CenterName' (this will throw an Error in a future version of PHP) in /var/www/html/erpm/Controller/ConLog.php on line 482
+[28-Dec-2022 15:30:31 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /var/www/html/erpm/View/index.php on line 346
+[28-Dec-2022 15:31:02 Asia/Kolkata] PHP Notice:  Undefined index: travel_date in /var/www/html/erpm/View/expenses.php on line 59
+[28-Dec-2022 15:31:02 Asia/Kolkata] PHP Notice:  Undefined index: placeFrom in /var/www/html/erpm/View/expenses.php on line 60
+[28-Dec-2022 15:31:02 Asia/Kolkata] PHP Notice:  Undefined index: placeTO in /var/www/html/erpm/View/expenses.php on line 61
+[28-Dec-2022 15:31:02 Asia/Kolkata] PHP Notice:  Undefined index: modeOftravel in /var/www/html/erpm/View/expenses.php on line 62
+[28-Dec-2022 15:31:02 Asia/Kolkata] PHP Notice:  Undefined index: receipt_no in /var/www/html/erpm/View/expenses.php on line 65
+[28-Dec-2022 15:31:02 Asia/Kolkata] PHP Notice:  Undefined index: remarks in /var/www/html/erpm/View/expenses.php on line 67
+[28-Dec-2022 15:31:02 Asia/Kolkata] PHP Notice:  Undefined index: returnDate in /var/www/html/erpm/View/expenses.php on line 73
+[28-Dec-2022 15:31:02 Asia/Kolkata] PHP Notice:  Undefined index: car_km in /var/www/html/erpm/View/expenses.php on line 74
+[28-Dec-2022 15:31:06 Asia/Kolkata] PHP Notice:  Undefined index: travel_date in /var/www/html/erpm/View/expenses.php on line 59
+[28-Dec-2022 15:31:06 Asia/Kolkata] PHP Notice:  Undefined index: placeFrom in /var/www/html/erpm/View/expenses.php on line 60
+[28-Dec-2022 15:31:06 Asia/Kolkata] PHP Notice:  Undefined index: placeTO in /var/www/html/erpm/View/expenses.php on line 61
+[28-Dec-2022 15:31:06 Asia/Kolkata] PHP Notice:  Undefined index: modeOftravel in /var/www/html/erpm/View/expenses.php on line 62
+[28-Dec-2022 15:31:06 Asia/Kolkata] PHP Notice:  Undefined index: receipt_no in /var/www/html/erpm/View/expenses.php on line 65
+[28-Dec-2022 15:31:06 Asia/Kolkata] PHP Notice:  Undefined index: remarks in /var/www/html/erpm/View/expenses.php on line 67
+[28-Dec-2022 15:31:06 Asia/Kolkata] PHP Notice:  Undefined index: returnDate in /var/www/html/erpm/View/expenses.php on line 73
+[28-Dec-2022 15:31:06 Asia/Kolkata] PHP Notice:  Undefined index: car_km in /var/www/html/erpm/View/expenses.php on line 74
+[28-Dec-2022 15:41:55 Asia/Kolkata] PHP Notice:  Undefined index: __user_logid in /var/www/html/erpm/AppCode/nHead.php on line 2
+[28-Dec-2022 15:41:57 Asia/Kolkata] PHP Warning:  mysqli_stmt::bind_param(): Number of elements in type definition string doesn't match number of bind variables in /var/www/html/erpm/Controller/ConLog.php on line 464
+[28-Dec-2022 15:41:57 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /var/www/html/erpm/View/index.php on line 346
+[28-Dec-2022 15:46:02 Asia/Kolkata] PHP Notice:  Undefined index: __user_logid in /var/www/html/erpm/AppCode/nHead.php on line 2
+[28-Dec-2022 15:46:04 Asia/Kolkata] PHP Warning:  mysqli_stmt::bind_param(): Number of elements in type definition string doesn't match number of bind variables in /var/www/html/erpm/Controller/ConLog.php on line 464
+[28-Dec-2022 15:46:04 Asia/Kolkata] PHP Warning:  Use of undefined constant EMS_CenterName - assumed 'EMS_CenterName' (this will throw an Error in a future version of PHP) in /var/www/html/erpm/Controller/ConLog.php on line 470
+[28-Dec-2022 15:46:04 Asia/Kolkata] PHP Warning:  Use of undefined constant EMAIL_HOST - assumed 'EMAIL_HOST' (this will throw an Error in a future version of PHP) in /var/www/html/erpm/Controller/ConLog.php on line 473
+[28-Dec-2022 15:46:04 Asia/Kolkata] PHP Warning:  Use of undefined constant EMAIL_AUTH - assumed 'EMAIL_AUTH' (this will throw an Error in a future version of PHP) in /var/www/html/erpm/Controller/ConLog.php on line 474
+[28-Dec-2022 15:46:04 Asia/Kolkata] PHP Warning:  Use of undefined constant EMAIL_USER - assumed 'EMAIL_USER' (this will throw an Error in a future version of PHP) in /var/www/html/erpm/Controller/ConLog.php on line 475
+[28-Dec-2022 15:46:04 Asia/Kolkata] PHP Warning:  Use of undefined constant EMAIL_PASS - assumed 'EMAIL_PASS' (this will throw an Error in a future version of PHP) in /var/www/html/erpm/Controller/ConLog.php on line 476
+[28-Dec-2022 15:46:04 Asia/Kolkata] PHP Warning:  Use of undefined constant EMAIL_SMTPSecure - assumed 'EMAIL_SMTPSecure' (this will throw an Error in a future version of PHP) in /var/www/html/erpm/Controller/ConLog.php on line 477
+[28-Dec-2022 15:46:04 Asia/Kolkata] PHP Warning:  Use of undefined constant EMAIL_PORT - assumed 'EMAIL_PORT' (this will throw an Error in a future version of PHP) in /var/www/html/erpm/Controller/ConLog.php on line 478
+[28-Dec-2022 15:46:04 Asia/Kolkata] PHP Warning:  Use of undefined constant EMAIL_FROM - assumed 'EMAIL_FROM' (this will throw an Error in a future version of PHP) in /var/www/html/erpm/Controller/ConLog.php on line 479
+[28-Dec-2022 15:46:04 Asia/Kolkata] PHP Warning:  Use of undefined constant EMS_CenterName - assumed 'EMS_CenterName' (this will throw an Error in a future version of PHP) in /var/www/html/erpm/Controller/ConLog.php on line 482
+[28-Dec-2022 15:46:06 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /var/www/html/erpm/View/index.php on line 346
+[28-Dec-2022 15:46:14 Asia/Kolkata] PHP Notice:  Undefined index: travel_date in /var/www/html/erpm/View/expenses.php on line 59
+[28-Dec-2022 15:46:14 Asia/Kolkata] PHP Notice:  Undefined index: placeFrom in /var/www/html/erpm/View/expenses.php on line 60
+[28-Dec-2022 15:46:14 Asia/Kolkata] PHP Notice:  Undefined index: placeTO in /var/www/html/erpm/View/expenses.php on line 61
+[28-Dec-2022 15:46:14 Asia/Kolkata] PHP Notice:  Undefined index: modeOftravel in /var/www/html/erpm/View/expenses.php on line 62
+[28-Dec-2022 15:46:14 Asia/Kolkata] PHP Notice:  Undefined index: receipt_no in /var/www/html/erpm/View/expenses.php on line 65
+[28-Dec-2022 15:46:14 Asia/Kolkata] PHP Notice:  Undefined index: remarks in /var/www/html/erpm/View/expenses.php on line 67
+[28-Dec-2022 15:46:14 Asia/Kolkata] PHP Notice:  Undefined index: returnDate in /var/www/html/erpm/View/expenses.php on line 73
+[28-Dec-2022 15:46:14 Asia/Kolkata] PHP Notice:  Undefined index: car_km in /var/www/html/erpm/View/expenses.php on line 74
+[28-Dec-2022 15:46:18 Asia/Kolkata] PHP Notice:  Undefined index: travel_date in /var/www/html/erpm/View/expenses.php on line 59
+[28-Dec-2022 15:46:18 Asia/Kolkata] PHP Notice:  Undefined index: placeFrom in /var/www/html/erpm/View/expenses.php on line 60
+[28-Dec-2022 15:46:18 Asia/Kolkata] PHP Notice:  Undefined index: placeTO in /var/www/html/erpm/View/expenses.php on line 61
+[28-Dec-2022 15:46:18 Asia/Kolkata] PHP Notice:  Undefined index: modeOftravel in /var/www/html/erpm/View/expenses.php on line 62
+[28-Dec-2022 15:46:18 Asia/Kolkata] PHP Notice:  Undefined index: receipt_no in /var/www/html/erpm/View/expenses.php on line 65
+[28-Dec-2022 15:46:18 Asia/Kolkata] PHP Notice:  Undefined index: remarks in /var/www/html/erpm/View/expenses.php on line 67
+[28-Dec-2022 15:46:18 Asia/Kolkata] PHP Notice:  Undefined index: returnDate in /var/www/html/erpm/View/expenses.php on line 73
+[28-Dec-2022 15:46:18 Asia/Kolkata] PHP Notice:  Undefined index: car_km in /var/www/html/erpm/View/expenses.php on line 74
+[28-Dec-2022 15:47:27 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Call to a member function bind_param() on bool in /var/www/html/erpm/View/AllRequestDoc.php:66
+Stack trace:
+#0 {main}
+  thrown in /var/www/html/erpm/View/AllRequestDoc.php on line 66
+[28-Dec-2022 15:47:31 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Call to a member function bind_param() on bool in /var/www/html/erpm/View/AllRequestDoc.php:66
+Stack trace:
+#0 {main}
+  thrown in /var/www/html/erpm/View/AllRequestDoc.php on line 66
+[28-Dec-2022 15:47:44 Asia/Kolkata] PHP Notice:  Undefined index: revoke in /var/www/html/erpm/View/alert_module.php on line 13
+[28-Dec-2022 15:51:46 Asia/Kolkata] PHP Notice:  Undefined index: __user_logid in /var/www/html/erpm/AppCode/nHead.php on line 2
+[28-Dec-2022 15:51:49 Asia/Kolkata] PHP Warning:  mysqli_stmt::bind_param(): Number of elements in type definition string doesn't match number of bind variables in /var/www/html/erpm/Controller/ConLog.php on line 464
+[28-Dec-2022 15:51:49 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /var/www/html/erpm/View/index.php on line 346
+[28-Dec-2022 15:54:20 Asia/Kolkata] PHP Notice:  Undefined index: __user_logid in /var/www/html/erpm/AppCode/nHead.php on line 2
+[28-Dec-2022 15:54:23 Asia/Kolkata] PHP Warning:  mysqli_stmt::bind_param(): Number of elements in type definition string doesn't match number of bind variables in /var/www/html/erpm/Controller/ConLog.php on line 464
+[28-Dec-2022 15:54:23 Asia/Kolkata] PHP Warning:  Use of undefined constant EMS_CenterName - assumed 'EMS_CenterName' (this will throw an Error in a future version of PHP) in /var/www/html/erpm/Controller/ConLog.php on line 470
+[28-Dec-2022 15:54:23 Asia/Kolkata] PHP Warning:  Use of undefined constant EMAIL_HOST - assumed 'EMAIL_HOST' (this will throw an Error in a future version of PHP) in /var/www/html/erpm/Controller/ConLog.php on line 473
+[28-Dec-2022 15:54:23 Asia/Kolkata] PHP Warning:  Use of undefined constant EMAIL_AUTH - assumed 'EMAIL_AUTH' (this will throw an Error in a future version of PHP) in /var/www/html/erpm/Controller/ConLog.php on line 474
+[28-Dec-2022 15:54:23 Asia/Kolkata] PHP Warning:  Use of undefined constant EMAIL_USER - assumed 'EMAIL_USER' (this will throw an Error in a future version of PHP) in /var/www/html/erpm/Controller/ConLog.php on line 475
+[28-Dec-2022 15:54:23 Asia/Kolkata] PHP Warning:  Use of undefined constant EMAIL_PASS - assumed 'EMAIL_PASS' (this will throw an Error in a future version of PHP) in /var/www/html/erpm/Controller/ConLog.php on line 476
+[28-Dec-2022 15:54:23 Asia/Kolkata] PHP Warning:  Use of undefined constant EMAIL_SMTPSecure - assumed 'EMAIL_SMTPSecure' (this will throw an Error in a future version of PHP) in /var/www/html/erpm/Controller/ConLog.php on line 477
+[28-Dec-2022 15:54:23 Asia/Kolkata] PHP Warning:  Use of undefined constant EMAIL_PORT - assumed 'EMAIL_PORT' (this will throw an Error in a future version of PHP) in /var/www/html/erpm/Controller/ConLog.php on line 478
+[28-Dec-2022 15:54:23 Asia/Kolkata] PHP Warning:  Use of undefined constant EMAIL_FROM - assumed 'EMAIL_FROM' (this will throw an Error in a future version of PHP) in /var/www/html/erpm/Controller/ConLog.php on line 479
+[28-Dec-2022 15:54:23 Asia/Kolkata] PHP Warning:  Use of undefined constant EMS_CenterName - assumed 'EMS_CenterName' (this will throw an Error in a future version of PHP) in /var/www/html/erpm/Controller/ConLog.php on line 482
+[28-Dec-2022 15:54:24 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /var/www/html/erpm/View/index.php on line 346
+[28-Dec-2022 15:58:17 Asia/Kolkata] PHP Notice:  Undefined index: __user_logid in /var/www/html/erpm/AppCode/nHead.php on line 2
+[28-Dec-2022 15:58:22 Asia/Kolkata] PHP Warning:  mysqli_stmt::bind_param(): Number of elements in type definition string doesn't match number of bind variables in /var/www/html/erpm/Controller/ConLog.php on line 464
+[28-Dec-2022 15:58:23 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /var/www/html/erpm/View/index.php on line 346
+[28-Dec-2022 15:58:33 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /var/www/html/erpm/View/index.php on line 346

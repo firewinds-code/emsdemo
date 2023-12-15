@@ -1,0 +1,40 @@
+[24-Feb-2023 12:34:05 Asia/Kolkata] PHP Warning:  Undefined array key "to" in C:\wamp64\www\emsdemo\View\calcRange.php on line 42
+[24-Feb-2023 12:34:05 Asia/Kolkata] PHP Stack trace:
+[24-Feb-2023 12:34:05 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\emsdemo\View\calcRange.php:0
+[24-Feb-2023 12:34:07 Asia/Kolkata] PHP Notice:  Object of class mysqli_result could not be converted to int in C:\wamp64\www\emsdemo\View\calcRange.php on line 412
+[24-Feb-2023 12:34:07 Asia/Kolkata] PHP Stack trace:
+[24-Feb-2023 12:34:07 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\emsdemo\View\calcRange.php:0
+[24-Feb-2023 12:34:07 Asia/Kolkata] PHP   2. BioMetric->__construct($EmployeeID = 'CE1021940769', $DateFrom = '2023-02-23', $DateTo = '2023-02-23', $Emd_des = 'Executive', $Emp_status = 6, $emp_dod = NULL, $emp_module = '2021-10-21 00:00:00') C:\wamp64\www\emsdemo\View\calcRange.php:2358
+[24-Feb-2023 12:34:07 Asia/Kolkata] PHP Warning:  Undefined array key "2023-02-23" in C:\wamp64\www\emsdemo\View\calcRange.php on line 583
+[24-Feb-2023 12:34:07 Asia/Kolkata] PHP Stack trace:
+[24-Feb-2023 12:34:07 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\emsdemo\View\calcRange.php:0
+[24-Feb-2023 12:34:07 Asia/Kolkata] PHP   2. BioMetric->__construct($EmployeeID = 'CE1021940769', $DateFrom = '2023-02-23', $DateTo = '2023-02-23', $Emd_des = 'Executive', $Emp_status = 6, $emp_dod = NULL, $emp_module = '2021-10-21 00:00:00') C:\wamp64\www\emsdemo\View\calcRange.php:2358
+[24-Feb-2023 12:34:07 Asia/Kolkata] PHP   3. BioMetric->__calculation_for_day($__date = '2023-02-23', $__EmpID = 'CE1021940769', $__des = 'Executive', $__status = 6) C:\wamp64\www\emsdemo\View\calcRange.php:558
+[24-Feb-2023 12:34:07 Asia/Kolkata] PHP Warning:  Undefined array key "2023-02-23" in C:\wamp64\www\emsdemo\View\calcRange.php on line 932
+[24-Feb-2023 12:34:07 Asia/Kolkata] PHP Stack trace:
+[24-Feb-2023 12:34:07 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\emsdemo\View\calcRange.php:0
+[24-Feb-2023 12:34:07 Asia/Kolkata] PHP   2. BioMetric->__construct($EmployeeID = 'CE1021940769', $DateFrom = '2023-02-23', $DateTo = '2023-02-23', $Emd_des = 'Executive', $Emp_status = 6, $emp_dod = NULL, $emp_module = '2021-10-21 00:00:00') C:\wamp64\www\emsdemo\View\calcRange.php:2358
+[24-Feb-2023 12:34:07 Asia/Kolkata] PHP   3. BioMetric->__calculation_for_day($__date = '2023-02-23', $__EmpID = 'CE1021940769', $__des = 'Executive', $__status = 6) C:\wamp64\www\emsdemo\View\calcRange.php:558
+[24-Feb-2023 12:34:07 Asia/Kolkata] PHP Warning:  Undefined array key "2023-02-23" in C:\wamp64\www\emsdemo\View\calcRange.php on line 1225
+[24-Feb-2023 12:34:07 Asia/Kolkata] PHP Stack trace:
+[24-Feb-2023 12:34:07 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\emsdemo\View\calcRange.php:0
+[24-Feb-2023 12:34:07 Asia/Kolkata] PHP   2. BioMetric->__construct($EmployeeID = 'CE1021940769', $DateFrom = '2023-02-23', $DateTo = '2023-02-23', $Emd_des = 'Executive', $Emp_status = 6, $emp_dod = NULL, $emp_module = '2021-10-21 00:00:00') C:\wamp64\www\emsdemo\View\calcRange.php:2358
+[24-Feb-2023 12:34:07 Asia/Kolkata] PHP   3. BioMetric->__calculation_for_day($__date = '2023-02-23', $__EmpID = 'CE1021940769', $__des = 'Executive', $__status = 6) C:\wamp64\www\emsdemo\View\calcRange.php:558
+[24-Feb-2023 12:34:08 Asia/Kolkata] PHP Warning:  Array to string conversion in C:\wamp64\www\emsdemo\View\calcRange.php on line 1559
+[24-Feb-2023 12:34:08 Asia/Kolkata] PHP Stack trace:
+[24-Feb-2023 12:34:08 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\emsdemo\View\calcRange.php:0
+[24-Feb-2023 12:34:08 Asia/Kolkata] PHP   2. BioMetric->__construct($EmployeeID = 'CE1021940769', $DateFrom = '2023-02-23', $DateTo = '2023-02-23', $Emd_des = 'Executive', $Emp_status = 6, $emp_dod = NULL, $emp_module = '2021-10-21 00:00:00') C:\wamp64\www\emsdemo\View\calcRange.php:2358
+[24-Feb-2023 12:34:08 Asia/Kolkata] PHP   3. BioMetric->__calculation_for_day($__date = '2023-02-23', $__EmpID = 'CE1021940769', $__des = 'Executive', $__status = 6) C:\wamp64\www\emsdemo\View\calcRange.php:558
+[24-Feb-2023 12:34:09 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in C:\wamp64\www\emsdemo\View\index.php on line 356
+[24-Feb-2023 12:34:09 Asia/Kolkata] PHP Stack trace:
+[24-Feb-2023 12:34:09 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\emsdemo\View\index.php:0
+[24-Feb-2023 12:34:27 Asia/Kolkata] PHP Warning:  Undefined variable $isPostBack in C:\wamp64\www\emsdemo\View\rpt_manual_atnd.php on line 42
+[24-Feb-2023 12:34:27 Asia/Kolkata] PHP Stack trace:
+[24-Feb-2023 12:34:27 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\emsdemo\View\rpt_manual_atnd.php:0
+[24-Feb-2023 12:35:16 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in C:\wamp64\www\emsdemo\View\index.php on line 356
+[24-Feb-2023 12:35:16 Asia/Kolkata] PHP Stack trace:
+[24-Feb-2023 12:35:16 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\emsdemo\View\index.php:0
+[24-Feb-2023 12:39:20 Asia/Kolkata] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 98727048 bytes) in C:\wamp64\www\emsdemo\View\rpt_manual_atnd.php on line 62
+[24-Feb-2023 12:39:20 Asia/Kolkata] PHP Stack trace:
+[24-Feb-2023 12:39:20 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\emsdemo\View\rpt_manual_atnd.php:0
+[24-Feb-2023 12:39:20 Asia/Kolkata] PHP   2. mysqli_stmt->get_result() C:\wamp64\www\emsdemo\View\rpt_manual_atnd.php:62

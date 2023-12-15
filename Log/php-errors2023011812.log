@@ -1,0 +1,4 @@
+[18-Jan-2023 12:58:26 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Undefined constant "EMS_CenterName" in C:\wamp64\www\emsdemo\Controller\ConLog.php:470
+Stack trace:
+#0 {main}
+  thrown in C:\wamp64\www\emsdemo\Controller\ConLog.php on line 470

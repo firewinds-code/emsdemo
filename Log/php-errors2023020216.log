@@ -1,0 +1,30 @@
+[02-Feb-2023 16:01:31 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in C:\wamp64\www\emsdemo\View\index.php on line 356
+[02-Feb-2023 16:01:31 Asia/Kolkata] PHP Stack trace:
+[02-Feb-2023 16:01:31 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\emsdemo\View\index.php:0
+[02-Feb-2023 16:01:50 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in C:\wamp64\www\emsdemo\View\index.php on line 356
+[02-Feb-2023 16:01:50 Asia/Kolkata] PHP Stack trace:
+[02-Feb-2023 16:01:50 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\emsdemo\View\index.php:0
+[02-Feb-2023 16:53:16 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in C:\wamp64\www\emsdemo\View\index.php on line 356
+[02-Feb-2023 16:53:16 Asia/Kolkata] PHP Stack trace:
+[02-Feb-2023 16:53:16 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\emsdemo\View\index.php:0
+[02-Feb-2023 16:54:23 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in C:\wamp64\www\emsdemo\View\index.php on line 356
+[02-Feb-2023 16:54:23 Asia/Kolkata] PHP Stack trace:
+[02-Feb-2023 16:54:23 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\emsdemo\View\index.php:0
+[02-Feb-2023 16:54:45 Asia/Kolkata] PHP Warning:  Undefined array key "txt_dateFrom" in C:\wamp64\www\emsdemo\View\message-popup.php on line 28
+[02-Feb-2023 16:54:45 Asia/Kolkata] PHP Stack trace:
+[02-Feb-2023 16:54:45 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\emsdemo\View\message-popup.php:0
+[02-Feb-2023 16:54:45 Asia/Kolkata] PHP Warning:  Undefined array key "txt_dateto" in C:\wamp64\www\emsdemo\View\message-popup.php on line 29
+[02-Feb-2023 16:54:45 Asia/Kolkata] PHP Stack trace:
+[02-Feb-2023 16:54:45 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\emsdemo\View\message-popup.php:0
+[02-Feb-2023 16:54:53 Asia/Kolkata] PHP Warning:  Undefined array key "txt_dateFrom" in C:\wamp64\www\emsdemo\View\message-popup.php on line 28
+[02-Feb-2023 16:54:53 Asia/Kolkata] PHP Stack trace:
+[02-Feb-2023 16:54:53 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\emsdemo\View\message-popup.php:0
+[02-Feb-2023 16:54:53 Asia/Kolkata] PHP Warning:  Undefined array key "txt_dateto" in C:\wamp64\www\emsdemo\View\message-popup.php on line 29
+[02-Feb-2023 16:54:53 Asia/Kolkata] PHP Stack trace:
+[02-Feb-2023 16:54:53 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\emsdemo\View\message-popup.php:0
+[02-Feb-2023 16:54:57 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in C:\wamp64\www\emsdemo\View\index.php on line 356
+[02-Feb-2023 16:54:57 Asia/Kolkata] PHP Stack trace:
+[02-Feb-2023 16:54:57 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\emsdemo\View\index.php:0
+[02-Feb-2023 16:58:14 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in C:\wamp64\www\emsdemo\View\index.php on line 356
+[02-Feb-2023 16:58:14 Asia/Kolkata] PHP Stack trace:
+[02-Feb-2023 16:58:14 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\emsdemo\View\index.php:0

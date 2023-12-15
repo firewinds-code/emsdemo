@@ -1,0 +1,137 @@
+<meta name="viewport" content="width=device-width, initial-scale=1"/>
+<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1"/>
+<meta http-equiv="X-UA-Compatible" content="IE=edge"/>
+<meta name="description" content="Coegnt E Services EMS for Employee MAnagement and Detailised for the Whole Org Management and Performance ERP and EMS ORM and HRM system... " />
+<?php include(ROOT_PATH.'Controller/Scripter.php'); ?>
+<script>
+	$(function() {
+		 <?php echo "var servertime = new Date('".date("Y-m-d H:i:s", time())."');";?>
+		 var dt = new Date();
+		 var timeDifference = dt - servertime;
+		 var n = dt.getTimezoneOffset();
+		 if( Math.abs(timeDifference/(1000*60*60)) > 3  && dt.getDate() != servertime.getDate())
+		 {
+		 	alert(" Server  Time Is " + servertime);
+		 	$("body").empty().append("<Style>body {background: url(<?php echo STYLE.'img/404background.jpg' ;?>);font-family: Helvetica, arial, sans-serif;color: #ccc;}.alert-container {background: url(<?php echo STYLE.'img/404_textbox.png' ;?>);width: 918px;height: 142px;margin: 82px auto 0px;}.alert-inner {padding: 24px 0px 0px 209px;}.alert-heading {font-size: 35px;font-weight: bold;line-height: 50px;}.alert-subheading {margin-top: 8px;font-size: 18px;line-height: 28px;}.redirect {width: 918px;margin: 24px auto 0px;font-size: 14px;line-height: 14px;text-align: center;}.redirect a {color: #ffb300;text-decoration: none;border: 1px solid #8B6A1D;padding: 5px;}code{color: #DBA914;}</style><div class='alert-container'><div class='alert-inner'><div class='alert-heading'>Error - System Time Missmatch </div><div class='alert-subheading'>Sorry, you can't access the page without time match.For access set your system time with server. </div></div></div><div class='redirect'> If not resolve then show to your supervisor and contact your IT person. If done , <a href=''>  <i class='fa fa-home'></i> click here</a> to be redirected to the <i class='fa fa-home'></i> Home.</div>");
+		 }
+		 $('#divpopup').html('').remove();
+		 function copyToClipboardasd() {
+			  // Create a "hidden" input
+			  var aux = document.createElement("input");
+			  // Assign it the value of the specified element
+			  aux.setAttribute("value", "");
+			  // Append it to the body
+			  document.body.appendChild(aux);
+			  // Highlight its content
+			  aux.select();
+			  // Copy the highlighted text
+			  document.execCommand("copy");
+			  // Remove it from the body
+			  document.body.removeChild(aux);
+			  alert("Print screen disabled.");
+			}
+			$(document).keyup(function(e){
+		 		if(e.keyCode == 44){copyToClipboardasd();}
+		 	});
+	    	var pull    = $('#pull');
+	        menu        = $('nav.naval >ul');
+	        menuHeight  = menu.height();
+	 		sub_menu    = $('nav.naval ul li ul');
+	 		sub_level   = $('nav.naval ul li').find('ul');		 		 		
+	 		sub_menu.hide();
+	    $(pull).on('click', function(e) {
+	        e.preventDefault();
+	        menu.slideToggle();
+	    });	 
+	   	$(sub_menu).on('mouseleave',function(e){	   		
+	   		sub_menu.hide();
+	   		
+	   	});
+	   	
+	    $(sub_level.parent('li')).on('click', function(e) {
+	        e.preventDefault();	
+	        $(this).find('ul').slideToggle();
+	        $(this).siblings('li').find('ul').hide();
+	        //.slideToggle();        
+	        //sub_level.slideToggle();
+	    });
+	    $(sub_level).children().on('click', function(e) {
+	        e.preventDefault();	        	        
+	        window.location=$(this).children().attr('href');
+	    });
+	    $('.forgotpasslink').click(function(){
+	    	$('#MessageDiv').removeClass('hidden').addClass('slideInRight animated').delay(3000).queue(function(next){
+			    $('#MessageDiv').removeClass('slideInRight animated').addClass("fadeOutRight animated").delay(1000).queue(function(next){
+				    $('#MessageDiv').removeClass('fadeOutRight animated').addClass("hidden");
+				    next();
+				});
+			    next();
+			});
+	    	$('#MessageDiv_info').html('Plase contact to admin for this query');
+	    //	$('#MessageDiv').delay(5000).addClass('hidden');
+	    });
+	    $('.img-circle-close').click(function(){
+	    	 $('#MessageDiv').removeClass('slideInRight animated').addClass("hidden").stop();
+	    });
+	    $('.answer').hide();
+	    $('.menu a').on('click', function() {
+	        var state = $(this).is('.active');
+	        if (state) {
+	            $(this).removeClass('active').next('.answer').slideUp()
+	        } else {
+	            $(this).addClass('active').next('.answer').slideDown()
+					.closest('.holder').siblings('.holder').find('.answer').slideUp().end()
+					.find('a').not(this).removeClass('active');
+	        }
+	    });
+	    $('#user_info_span').mouseenter(function() {
+	    	$('#user_div_info').removeClass('hidden');
+	    })
+	    $('#user_div_info').mouseleave(function() {
+	    	$(this).addClass('hidden');
+	    });
+	    setInterval(updateClock,1000);
+	    updateClock();
+		$('span.nav_badge').each(function(){
+			if($(this).text()=='0')
+			{
+				$(this).css('background-color','#FF9800');
+			}
+		});
+		
+	});
+	$(window).resize(function(){
+	    var w = $(window).width();
+	    if(w > 320 && menu.is(':hidden')) {
+	        menu.removeAttr('style');
+	    }
+	    
+	   
+	});
+	function updateClock ( )
+ 	{
+	 	var currentTime = new Date ( );
+	  	var currentHours = currentTime.getHours ( );
+	  	var currentMinutes = currentTime.getMinutes ( );
+	  	var currentSeconds = currentTime.getSeconds ( );
+
+	  	// Pad the minutes and seconds with leading zeros, if required
+	  	currentMinutes = ( currentMinutes < 10 ? "0" : "" ) + currentMinutes;
+	  	currentSeconds = ( currentSeconds < 10 ? "0" : "" ) + currentSeconds;
+
+	  	// Choose either "AM" or "PM" as appropriate
+	  	var timeOfDay = ( currentHours < 12 ) ? "AM" : "PM";
+
+	  	// Convert the hours component to 12-hour format if needed
+	  	currentHours = ( currentHours > 12 ) ? currentHours - 12 : currentHours;
+
+	  	// Convert an hours component of "0" to "12"
+	  	currentHours = ( currentHours == 0 ) ? 12 : currentHours;
+
+	  	// Compose the string for display
+	  	var currentTimeString = currentHours + ":" + currentMinutes + ":" + currentSeconds + " " + timeOfDay;
+	  	
+	  	var my_date_string = $.datepicker.formatDate( "dd M, yy",  new Date() );
+	   	$("#clock").html(my_date_string +"&nbsp; <kbd id='time_span'>&nbsp; "+ currentTimeString+" &nbsp;</kbd>"); 	  	
+	 }
+</script>

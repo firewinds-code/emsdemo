@@ -1,0 +1,47 @@
+[21-Jan-2023 10:06:45 Asia/Kolkata] PHP Notice:  Undefined index: txt_dateFrom in C:\wamp64\www\emsdemo\View\message-popup.php on line 28
+[21-Jan-2023 10:06:45 Asia/Kolkata] PHP Stack trace:
+[21-Jan-2023 10:06:45 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\emsdemo\View\message-popup.php:0
+[21-Jan-2023 10:06:46 Asia/Kolkata] PHP Notice:  Undefined index: txt_dateto in C:\wamp64\www\emsdemo\View\message-popup.php on line 29
+[21-Jan-2023 10:06:46 Asia/Kolkata] PHP Stack trace:
+[21-Jan-2023 10:06:46 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\emsdemo\View\message-popup.php:0
+[21-Jan-2023 10:07:52 Asia/Kolkata] PHP Notice:  Undefined index: txt_dateFrom in C:\wamp64\www\emsdemo\View\message-popup.php on line 28
+[21-Jan-2023 10:07:52 Asia/Kolkata] PHP Stack trace:
+[21-Jan-2023 10:07:52 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\emsdemo\View\message-popup.php:0
+[21-Jan-2023 10:07:52 Asia/Kolkata] PHP Notice:  Undefined index: txt_dateto in C:\wamp64\www\emsdemo\View\message-popup.php on line 29
+[21-Jan-2023 10:07:52 Asia/Kolkata] PHP Stack trace:
+[21-Jan-2023 10:07:52 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\emsdemo\View\message-popup.php:0
+[21-Jan-2023 10:23:23 Asia/Kolkata] PHP Notice:  Undefined index: __user_logid in C:\wamp64\www\emsdemo\AppCode\nHead.php on line 2
+[21-Jan-2023 10:23:23 Asia/Kolkata] PHP Stack trace:
+[21-Jan-2023 10:23:23 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\emsdemo\View\bajaj_finance_decl.php:0
+[21-Jan-2023 10:23:23 Asia/Kolkata] PHP   2. require() C:\wamp64\www\emsdemo\View\bajaj_finance_decl.php:9
+[21-Jan-2023 10:23:46 Asia/Kolkata] PHP Notice:  Undefined index: txt_dateFrom in C:\wamp64\www\emsdemo\View\message-popup.php on line 28
+[21-Jan-2023 10:23:46 Asia/Kolkata] PHP Stack trace:
+[21-Jan-2023 10:23:46 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\emsdemo\View\message-popup.php:0
+[21-Jan-2023 10:23:46 Asia/Kolkata] PHP Notice:  Undefined index: txt_dateto in C:\wamp64\www\emsdemo\View\message-popup.php on line 29
+[21-Jan-2023 10:23:46 Asia/Kolkata] PHP Stack trace:
+[21-Jan-2023 10:23:46 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\emsdemo\View\message-popup.php:0
+[21-Jan-2023 10:39:12 Asia/Kolkata] PHP Notice:  Undefined index: txt_dateTo in C:\wamp64\www\emsdemo\View\rpt_bajaj_finance_decl.php on line 14
+[21-Jan-2023 10:39:12 Asia/Kolkata] PHP Stack trace:
+[21-Jan-2023 10:39:12 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\emsdemo\View\rpt_bajaj_finance_decl.php:0
+[21-Jan-2023 10:43:12 Asia/Kolkata] PHP Notice:  Undefined index: txt_dateTo in C:\wamp64\www\emsdemo\View\rpt_bajaj_finance_decl.php on line 14
+[21-Jan-2023 10:43:12 Asia/Kolkata] PHP Stack trace:
+[21-Jan-2023 10:43:12 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\emsdemo\View\rpt_bajaj_finance_decl.php:0
+[21-Jan-2023 10:45:52 Asia/Kolkata] PHP Notice:  Undefined index: ack_check in C:\wamp64\www\emsdemo\View\bajaj_finance_decl.php on line 34
+[21-Jan-2023 10:45:52 Asia/Kolkata] PHP Stack trace:
+[21-Jan-2023 10:45:52 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\emsdemo\View\bajaj_finance_decl.php:0
+[21-Jan-2023 10:46:04 Asia/Kolkata] PHP Notice:  Undefined index: txt_dateFrom in C:\wamp64\www\emsdemo\View\message-popup.php on line 28
+[21-Jan-2023 10:46:04 Asia/Kolkata] PHP Stack trace:
+[21-Jan-2023 10:46:04 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\emsdemo\View\message-popup.php:0
+[21-Jan-2023 10:46:04 Asia/Kolkata] PHP Notice:  Undefined index: txt_dateto in C:\wamp64\www\emsdemo\View\message-popup.php on line 29
+[21-Jan-2023 10:46:04 Asia/Kolkata] PHP Stack trace:
+[21-Jan-2023 10:46:04 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\emsdemo\View\message-popup.php:0
+[21-Jan-2023 10:54:45 Asia/Kolkata] PHP Notice:  Undefined index: __user_logid in C:\wamp64\www\emsdemo\AppCode\nHead.php on line 2
+[21-Jan-2023 10:54:45 Asia/Kolkata] PHP Stack trace:
+[21-Jan-2023 10:54:45 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\emsdemo\View\bajaj_finance_decl.php:0
+[21-Jan-2023 10:54:45 Asia/Kolkata] PHP   2. require() C:\wamp64\www\emsdemo\View\bajaj_finance_decl.php:9
+[21-Jan-2023 10:55:00 Asia/Kolkata] PHP Notice:  Undefined index: txt_dateFrom in C:\wamp64\www\emsdemo\View\message-popup.php on line 28
+[21-Jan-2023 10:55:00 Asia/Kolkata] PHP Stack trace:
+[21-Jan-2023 10:55:00 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\emsdemo\View\message-popup.php:0
+[21-Jan-2023 10:55:01 Asia/Kolkata] PHP Notice:  Undefined index: txt_dateto in C:\wamp64\www\emsdemo\View\message-popup.php on line 29
+[21-Jan-2023 10:55:01 Asia/Kolkata] PHP Stack trace:
+[21-Jan-2023 10:55:01 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\emsdemo\View\message-popup.php:0

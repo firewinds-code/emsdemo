@@ -1,0 +1,29 @@
+[25-Jan-2023 12:27:22 Asia/Kolkata] PHP Warning:  Undefined array key "__user_logid" in C:\wamp64\www\emsdemo\AppCode\nHead.php on line 2
+[25-Jan-2023 12:27:22 Asia/Kolkata] PHP Stack trace:
+[25-Jan-2023 12:27:22 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\emsdemo\View\update_mobile_alert.php:0
+[25-Jan-2023 12:27:22 Asia/Kolkata] PHP   2. require() C:\wamp64\www\emsdemo\View\update_mobile_alert.php:5
+[25-Jan-2023 12:27:31 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in C:\wamp64\www\emsdemo\View\index.php on line 355
+[25-Jan-2023 12:27:31 Asia/Kolkata] PHP Stack trace:
+[25-Jan-2023 12:27:31 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\emsdemo\View\index.php:0
+[25-Jan-2023 12:47:10 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in C:\wamp64\www\emsdemo\View\index.php on line 355
+[25-Jan-2023 12:47:10 Asia/Kolkata] PHP Stack trace:
+[25-Jan-2023 12:47:10 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\emsdemo\View\index.php:0
+[25-Jan-2023 12:52:32 Asia/Kolkata] PHP Warning:  Undefined variable $txt_payout in C:\wamp64\www\emsdemo\View\update_mobile_alert.php on line 21
+[25-Jan-2023 12:52:32 Asia/Kolkata] PHP Stack trace:
+[25-Jan-2023 12:52:32 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\emsdemo\View\update_mobile_alert.php:0
+[25-Jan-2023 12:52:32 Asia/Kolkata] PHP Warning:  Undefined variable $txt_payout in C:\wamp64\www\emsdemo\View\update_mobile_alert.php on line 21
+[25-Jan-2023 12:52:32 Asia/Kolkata] PHP Stack trace:
+[25-Jan-2023 12:52:32 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\emsdemo\View\update_mobile_alert.php:0
+[25-Jan-2023 12:52:39 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in C:\wamp64\www\emsdemo\View\index.php on line 355
+[25-Jan-2023 12:52:39 Asia/Kolkata] PHP Stack trace:
+[25-Jan-2023 12:52:39 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\emsdemo\View\index.php:0
+[25-Jan-2023 12:55:00 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in C:\wamp64\www\emsdemo\View\index.php on line 355
+[25-Jan-2023 12:55:00 Asia/Kolkata] PHP Stack trace:
+[25-Jan-2023 12:55:00 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\emsdemo\View\index.php:0
+[25-Jan-2023 12:58:12 Asia/Kolkata] PHP Warning:  Undefined array key "__user_logid" in C:\wamp64\www\emsdemo\AppCode\nHead.php on line 2
+[25-Jan-2023 12:58:12 Asia/Kolkata] PHP Stack trace:
+[25-Jan-2023 12:58:12 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\emsdemo\View\update_mobile_alert.php:0
+[25-Jan-2023 12:58:12 Asia/Kolkata] PHP   2. require() C:\wamp64\www\emsdemo\View\update_mobile_alert.php:5
+[25-Jan-2023 12:58:21 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in C:\wamp64\www\emsdemo\View\index.php on line 355
+[25-Jan-2023 12:58:21 Asia/Kolkata] PHP Stack trace:
+[25-Jan-2023 12:58:21 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\emsdemo\View\index.php:0

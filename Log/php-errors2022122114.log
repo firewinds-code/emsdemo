@@ -1,0 +1,16 @@
+[21-Dec-2022 14:47:23 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Cannot use object of type mysqli_result as array in /var/www/html/erpm/Services/checkAdhanumber_candidate.php:41
+Stack trace:
+#0 {main}
+  thrown in /var/www/html/erpm/Services/checkAdhanumber_candidate.php on line 41
+[21-Dec-2022 14:47:42 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Cannot use object of type mysqli_result as array in /var/www/html/erpm/Services/checkAdhanumber_candidate.php:41
+Stack trace:
+#0 {main}
+  thrown in /var/www/html/erpm/Services/checkAdhanumber_candidate.php on line 41
+[21-Dec-2022 14:47:44 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Cannot use object of type mysqli_result as array in /var/www/html/erpm/Services/checkAdhanumber_candidate.php:41
+Stack trace:
+#0 {main}
+  thrown in /var/www/html/erpm/Services/checkAdhanumber_candidate.php on line 41
+[21-Dec-2022 14:54:05 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Cannot use object of type mysqli_result as array in /var/www/html/erpm/Services/checkAdhanumber_candidate.php:41
+Stack trace:
+#0 {main}
+  thrown in /var/www/html/erpm/Services/checkAdhanumber_candidate.php on line 41

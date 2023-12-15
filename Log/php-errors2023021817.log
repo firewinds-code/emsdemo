@@ -1,0 +1,83 @@
+[18-Feb-2023 17:06:16 Asia/Kolkata] PHP Warning:  Undefined array key "__user_logid" in C:\wamp64\www\emsdemo\AppCode\nHead.php on line 2
+[18-Feb-2023 17:06:16 Asia/Kolkata] PHP Stack trace:
+[18-Feb-2023 17:06:16 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\emsdemo\View\view_issue.php:0
+[18-Feb-2023 17:06:16 Asia/Kolkata] PHP   2. require() C:\wamp64\www\emsdemo\View\view_issue.php:9
+[18-Feb-2023 17:06:42 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in C:\wamp64\www\emsdemo\View\index.php on line 356
+[18-Feb-2023 17:06:42 Asia/Kolkata] PHP Stack trace:
+[18-Feb-2023 17:06:42 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\emsdemo\View\index.php:0
+[18-Feb-2023 17:48:31 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in C:\wamp64\www\emsdemo\View\index.php on line 356
+[18-Feb-2023 17:48:31 Asia/Kolkata] PHP Stack trace:
+[18-Feb-2023 17:48:31 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\emsdemo\View\index.php:0
+[20-Feb-2023 09:54:23 Asia/Kolkata] PHP Warning:  mysqli::__construct(): Error while reading greeting packet. PID=10152 in C:\wamp64\www\emsdemo\AppData\Class\MysqliDb.php on line 291
+[20-Feb-2023 09:54:23 Asia/Kolkata] PHP Stack trace:
+[20-Feb-2023 09:54:23 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\emsdemo\View\pwd_rcvr.php:0
+[20-Feb-2023 09:54:23 Asia/Kolkata] PHP   2. require_once() C:\wamp64\www\emsdemo\View\pwd_rcvr.php:3
+[20-Feb-2023 09:54:23 Asia/Kolkata] PHP   3. MysqliDb->dbConnect() C:\wamp64\www\emsdemo\Config\init.php:94
+[20-Feb-2023 09:54:23 Asia/Kolkata] PHP   4. mysqli->__construct($hostname = '45.79.125.127', $username = 'root', $password = 'asg@rd#123', $database = 'ems', $port = 3306) C:\wamp64\www\emsdemo\AppData\Class\MysqliDb.php:291
+[20-Feb-2023 09:54:23 Asia/Kolkata] PHP Warning:  mysqli::__construct(): (HY000/2006): MySQL server has gone away in C:\wamp64\www\emsdemo\AppData\Class\MysqliDb.php on line 291
+[20-Feb-2023 09:54:23 Asia/Kolkata] PHP Stack trace:
+[20-Feb-2023 09:54:23 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\emsdemo\View\pwd_rcvr.php:0
+[20-Feb-2023 09:54:23 Asia/Kolkata] PHP   2. require_once() C:\wamp64\www\emsdemo\View\pwd_rcvr.php:3
+[20-Feb-2023 09:54:23 Asia/Kolkata] PHP   3. MysqliDb->dbConnect() C:\wamp64\www\emsdemo\Config\init.php:94
+[20-Feb-2023 09:54:23 Asia/Kolkata] PHP   4. mysqli->__construct($hostname = '45.79.125.127', $username = 'root', $password = 'asg@rd#123', $database = 'ems', $port = 3306) C:\wamp64\www\emsdemo\AppData\Class\MysqliDb.php:291
+[20-Feb-2023 09:54:23 Asia/Kolkata] PHP Fatal error:  Maximum execution time of 300 seconds exceeded in C:\wamp64\www\emsdemo\AppData\Class\MysqliDb.php on line 291
+[20-Feb-2023 09:54:23 Asia/Kolkata] PHP Stack trace:
+[20-Feb-2023 09:54:23 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\emsdemo\View\pwd_rcvr.php:0
+[20-Feb-2023 09:54:23 Asia/Kolkata] PHP   2. require_once() C:\wamp64\www\emsdemo\View\pwd_rcvr.php:3
+[20-Feb-2023 09:54:23 Asia/Kolkata] PHP   3. MysqliDb->dbConnect() C:\wamp64\www\emsdemo\Config\init.php:94
+[20-Feb-2023 09:54:23 Asia/Kolkata] PHP Fatal error:  Maximum execution time of 300 seconds exceeded in C:\wamp64\www\emsdemo\Config\init.php on line 41
+[20-Feb-2023 09:54:23 Asia/Kolkata] PHP Stack trace:
+[20-Feb-2023 09:54:23 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\emsdemo\View\Login.php:0
+[20-Feb-2023 09:54:23 Asia/Kolkata] PHP   2. require_once() C:\wamp64\www\emsdemo\View\Login.php:2
+[20-Feb-2023 09:54:23 Asia/Kolkata] PHP Fatal error:  Maximum execution time of 300 seconds exceeded in C:\wamp64\www\emsdemo\Config\init.php on line 41
+[20-Feb-2023 09:54:23 Asia/Kolkata] PHP Stack trace:
+[20-Feb-2023 09:54:23 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\emsdemo\View\Login.php:0
+[20-Feb-2023 09:54:23 Asia/Kolkata] PHP   2. require_once() C:\wamp64\www\emsdemo\View\Login.php:2
+[20-Feb-2023 09:54:23 Asia/Kolkata] PHP Fatal error:  Maximum execution time of 300 seconds exceeded in C:\wamp64\www\emsdemo\Config\init.php on line 41
+[20-Feb-2023 09:54:23 Asia/Kolkata] PHP Stack trace:
+[20-Feb-2023 09:54:23 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\emsdemo\View\Login.php:0
+[20-Feb-2023 09:54:23 Asia/Kolkata] PHP   2. require_once() C:\wamp64\www\emsdemo\View\Login.php:2
+[20-Feb-2023 09:54:23 Asia/Kolkata] PHP Fatal error:  Maximum execution time of 300 seconds exceeded in C:\wamp64\www\emsdemo\Config\init.php on line 41
+[20-Feb-2023 09:54:23 Asia/Kolkata] PHP Stack trace:
+[20-Feb-2023 09:54:23 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\emsdemo\View\Login.php:0
+[20-Feb-2023 09:54:23 Asia/Kolkata] PHP   2. require_once() C:\wamp64\www\emsdemo\View\Login.php:2
+[20-Feb-2023 09:54:23 Asia/Kolkata] PHP Fatal error:  Maximum execution time of 300 seconds exceeded in C:\wamp64\www\emsdemo\Config\init.php on line 41
+[20-Feb-2023 09:54:23 Asia/Kolkata] PHP Stack trace:
+[20-Feb-2023 09:54:23 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\emsdemo\View\Login.php:0
+[20-Feb-2023 09:54:23 Asia/Kolkata] PHP   2. require_once() C:\wamp64\www\emsdemo\View\Login.php:2
+[20-Feb-2023 09:54:23 Asia/Kolkata] PHP Fatal error:  Maximum execution time of 300 seconds exceeded in C:\wamp64\www\emsdemo\Config\init.php on line 41
+[20-Feb-2023 09:54:23 Asia/Kolkata] PHP Stack trace:
+[20-Feb-2023 09:54:23 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\emsdemo\View\Login.php:0
+[20-Feb-2023 09:54:23 Asia/Kolkata] PHP   2. require_once() C:\wamp64\www\emsdemo\View\Login.php:2
+[20-Feb-2023 09:54:23 Asia/Kolkata] PHP Fatal error:  Maximum execution time of 300 seconds exceeded in C:\wamp64\www\emsdemo\Config\init.php on line 41
+[20-Feb-2023 09:54:23 Asia/Kolkata] PHP Stack trace:
+[20-Feb-2023 09:54:23 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\emsdemo\View\Login.php:0
+[20-Feb-2023 09:54:23 Asia/Kolkata] PHP   2. require_once() C:\wamp64\www\emsdemo\View\Login.php:2
+[20-Feb-2023 09:54:23 Asia/Kolkata] PHP Fatal error:  Maximum execution time of 300 seconds exceeded in C:\wamp64\www\emsdemo\Config\init.php on line 41
+[20-Feb-2023 09:54:23 Asia/Kolkata] PHP Stack trace:
+[20-Feb-2023 09:54:23 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\emsdemo\View\Login.php:0
+[20-Feb-2023 09:54:23 Asia/Kolkata] PHP   2. require_once() C:\wamp64\www\emsdemo\View\Login.php:2
+[20-Feb-2023 09:54:23 Asia/Kolkata] PHP Fatal error:  Maximum execution time of 300 seconds exceeded in C:\wamp64\www\emsdemo\Config\init.php on line 41
+[20-Feb-2023 09:54:23 Asia/Kolkata] PHP Stack trace:
+[20-Feb-2023 09:54:23 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\emsdemo\View\Login.php:0
+[20-Feb-2023 09:54:23 Asia/Kolkata] PHP   2. require_once() C:\wamp64\www\emsdemo\View\Login.php:2
+[20-Feb-2023 09:54:23 Asia/Kolkata] PHP Fatal error:  Maximum execution time of 300 seconds exceeded in C:\wamp64\www\emsdemo\Config\init.php on line 41
+[20-Feb-2023 09:54:23 Asia/Kolkata] PHP Stack trace:
+[20-Feb-2023 09:54:23 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\emsdemo\View\Login.php:0
+[20-Feb-2023 09:54:23 Asia/Kolkata] PHP   2. require_once() C:\wamp64\www\emsdemo\View\Login.php:2
+[20-Feb-2023 09:54:23 Asia/Kolkata] PHP Fatal error:  Maximum execution time of 300 seconds exceeded in C:\wamp64\www\emsdemo\Config\init.php on line 41
+[20-Feb-2023 09:54:23 Asia/Kolkata] PHP Stack trace:
+[20-Feb-2023 09:54:23 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\emsdemo\View\Login.php:0
+[20-Feb-2023 09:54:23 Asia/Kolkata] PHP   2. require_once() C:\wamp64\www\emsdemo\View\Login.php:2
+[20-Feb-2023 09:54:23 Asia/Kolkata] PHP Fatal error:  Maximum execution time of 300 seconds exceeded in C:\wamp64\www\emsdemo\Config\init.php on line 41
+[20-Feb-2023 09:54:23 Asia/Kolkata] PHP Stack trace:
+[20-Feb-2023 09:54:23 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\emsdemo\View\Login.php:0
+[20-Feb-2023 09:54:23 Asia/Kolkata] PHP   2. require_once() C:\wamp64\www\emsdemo\View\Login.php:2
+[20-Feb-2023 09:54:23 Asia/Kolkata] PHP Fatal error:  Maximum execution time of 300 seconds exceeded in C:\wamp64\www\emsdemo\Config\init.php on line 41
+[20-Feb-2023 09:54:23 Asia/Kolkata] PHP Stack trace:
+[20-Feb-2023 09:54:23 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\emsdemo\View\Login.php:0
+[20-Feb-2023 09:54:23 Asia/Kolkata] PHP   2. require_once() C:\wamp64\www\emsdemo\View\Login.php:2
+[20-Feb-2023 09:54:23 Asia/Kolkata] PHP Fatal error:  Maximum execution time of 300 seconds exceeded in C:\wamp64\www\emsdemo\Config\init.php on line 41
+[20-Feb-2023 09:54:23 Asia/Kolkata] PHP Stack trace:
+[20-Feb-2023 09:54:23 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\emsdemo\View\Login.php:0
+[20-Feb-2023 09:54:23 Asia/Kolkata] PHP   2. require_once() C:\wamp64\www\emsdemo\View\Login.php:2

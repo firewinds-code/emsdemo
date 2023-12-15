@@ -1,0 +1,450 @@
+[05-Jan-2023 10:00:41 Asia/Kolkata] PHP Notice:  Undefined index: __user_logid in /var/www/html/erpm/AppCode/nHead.php on line 2
+[05-Jan-2023 10:04:09 Asia/Kolkata] PHP Notice:  Undefined index: __user_logid in /var/www/html/erpm/AppCode/nHead.php on line 2
+[05-Jan-2023 10:04:10 Asia/Kolkata] PHP Notice:  Undefined index: __user_logid in /var/www/html/erpm/AppCode/nHead.php on line 2
+[05-Jan-2023 10:04:31 Asia/Kolkata] PHP Notice:  Undefined index: __user_logid in /var/www/html/erpm/AppCode/nHead.php on line 2
+[05-Jan-2023 10:05:13 Asia/Kolkata] PHP Notice:  Undefined index: __user_logid in /var/www/html/erpm/AppCode/nHead.php on line 2
+[05-Jan-2023 10:10:22 Asia/Kolkata] PHP Notice:  Undefined index: __user_logid in /var/www/html/erpm/AppCode/nHead.php on line 2
+[05-Jan-2023 10:16:30 Asia/Kolkata] PHP Warning:  mysqli_stmt::bind_param(): Number of elements in type definition string doesn't match number of bind variables in /var/www/html/erpm/Controller/ConLog.php on line 464
+[05-Jan-2023 10:16:30 Asia/Kolkata] PHP Warning:  Use of undefined constant EMS_CenterName - assumed 'EMS_CenterName' (this will throw an Error in a future version of PHP) in /var/www/html/erpm/Controller/ConLog.php on line 470
+[05-Jan-2023 10:16:30 Asia/Kolkata] PHP Warning:  Use of undefined constant EMAIL_HOST - assumed 'EMAIL_HOST' (this will throw an Error in a future version of PHP) in /var/www/html/erpm/Controller/ConLog.php on line 473
+[05-Jan-2023 10:16:30 Asia/Kolkata] PHP Warning:  Use of undefined constant EMAIL_AUTH - assumed 'EMAIL_AUTH' (this will throw an Error in a future version of PHP) in /var/www/html/erpm/Controller/ConLog.php on line 474
+[05-Jan-2023 10:16:30 Asia/Kolkata] PHP Warning:  Use of undefined constant EMAIL_USER - assumed 'EMAIL_USER' (this will throw an Error in a future version of PHP) in /var/www/html/erpm/Controller/ConLog.php on line 475
+[05-Jan-2023 10:16:30 Asia/Kolkata] PHP Warning:  Use of undefined constant EMAIL_PASS - assumed 'EMAIL_PASS' (this will throw an Error in a future version of PHP) in /var/www/html/erpm/Controller/ConLog.php on line 476
+[05-Jan-2023 10:16:30 Asia/Kolkata] PHP Warning:  Use of undefined constant EMAIL_SMTPSecure - assumed 'EMAIL_SMTPSecure' (this will throw an Error in a future version of PHP) in /var/www/html/erpm/Controller/ConLog.php on line 477
+[05-Jan-2023 10:16:30 Asia/Kolkata] PHP Warning:  Use of undefined constant EMAIL_PORT - assumed 'EMAIL_PORT' (this will throw an Error in a future version of PHP) in /var/www/html/erpm/Controller/ConLog.php on line 478
+[05-Jan-2023 10:16:30 Asia/Kolkata] PHP Warning:  Use of undefined constant EMAIL_FROM - assumed 'EMAIL_FROM' (this will throw an Error in a future version of PHP) in /var/www/html/erpm/Controller/ConLog.php on line 479
+[05-Jan-2023 10:16:30 Asia/Kolkata] PHP Warning:  Use of undefined constant EMS_CenterName - assumed 'EMS_CenterName' (this will throw an Error in a future version of PHP) in /var/www/html/erpm/Controller/ConLog.php on line 482
+[05-Jan-2023 10:16:39 Asia/Kolkata] PHP Warning:  mysqli_stmt::bind_param(): Number of elements in type definition string doesn't match number of bind variables in /var/www/html/erpm/Controller/ConLog.php on line 464
+[05-Jan-2023 10:16:39 Asia/Kolkata] PHP Warning:  Use of undefined constant EMS_CenterName - assumed 'EMS_CenterName' (this will throw an Error in a future version of PHP) in /var/www/html/erpm/Controller/ConLog.php on line 470
+[05-Jan-2023 10:16:39 Asia/Kolkata] PHP Warning:  Use of undefined constant EMAIL_HOST - assumed 'EMAIL_HOST' (this will throw an Error in a future version of PHP) in /var/www/html/erpm/Controller/ConLog.php on line 473
+[05-Jan-2023 10:16:39 Asia/Kolkata] PHP Warning:  Use of undefined constant EMAIL_AUTH - assumed 'EMAIL_AUTH' (this will throw an Error in a future version of PHP) in /var/www/html/erpm/Controller/ConLog.php on line 474
+[05-Jan-2023 10:16:39 Asia/Kolkata] PHP Warning:  Use of undefined constant EMAIL_USER - assumed 'EMAIL_USER' (this will throw an Error in a future version of PHP) in /var/www/html/erpm/Controller/ConLog.php on line 475
+[05-Jan-2023 10:16:39 Asia/Kolkata] PHP Warning:  Use of undefined constant EMAIL_PASS - assumed 'EMAIL_PASS' (this will throw an Error in a future version of PHP) in /var/www/html/erpm/Controller/ConLog.php on line 476
+[05-Jan-2023 10:16:39 Asia/Kolkata] PHP Warning:  Use of undefined constant EMAIL_SMTPSecure - assumed 'EMAIL_SMTPSecure' (this will throw an Error in a future version of PHP) in /var/www/html/erpm/Controller/ConLog.php on line 477
+[05-Jan-2023 10:16:39 Asia/Kolkata] PHP Warning:  Use of undefined constant EMAIL_PORT - assumed 'EMAIL_PORT' (this will throw an Error in a future version of PHP) in /var/www/html/erpm/Controller/ConLog.php on line 478
+[05-Jan-2023 10:16:39 Asia/Kolkata] PHP Warning:  Use of undefined constant EMAIL_FROM - assumed 'EMAIL_FROM' (this will throw an Error in a future version of PHP) in /var/www/html/erpm/Controller/ConLog.php on line 479
+[05-Jan-2023 10:16:39 Asia/Kolkata] PHP Warning:  Use of undefined constant EMS_CenterName - assumed 'EMS_CenterName' (this will throw an Error in a future version of PHP) in /var/www/html/erpm/Controller/ConLog.php on line 482
+[05-Jan-2023 10:16:50 Asia/Kolkata] PHP Warning:  mysqli_stmt::bind_param(): Number of elements in type definition string doesn't match number of bind variables in /var/www/html/erpm/Controller/ConLog.php on line 464
+[05-Jan-2023 10:16:50 Asia/Kolkata] PHP Warning:  Use of undefined constant EMS_CenterName - assumed 'EMS_CenterName' (this will throw an Error in a future version of PHP) in /var/www/html/erpm/Controller/ConLog.php on line 470
+[05-Jan-2023 10:16:50 Asia/Kolkata] PHP Warning:  Use of undefined constant EMAIL_HOST - assumed 'EMAIL_HOST' (this will throw an Error in a future version of PHP) in /var/www/html/erpm/Controller/ConLog.php on line 473
+[05-Jan-2023 10:16:50 Asia/Kolkata] PHP Warning:  Use of undefined constant EMAIL_AUTH - assumed 'EMAIL_AUTH' (this will throw an Error in a future version of PHP) in /var/www/html/erpm/Controller/ConLog.php on line 474
+[05-Jan-2023 10:16:50 Asia/Kolkata] PHP Warning:  Use of undefined constant EMAIL_USER - assumed 'EMAIL_USER' (this will throw an Error in a future version of PHP) in /var/www/html/erpm/Controller/ConLog.php on line 475
+[05-Jan-2023 10:16:50 Asia/Kolkata] PHP Warning:  Use of undefined constant EMAIL_PASS - assumed 'EMAIL_PASS' (this will throw an Error in a future version of PHP) in /var/www/html/erpm/Controller/ConLog.php on line 476
+[05-Jan-2023 10:16:50 Asia/Kolkata] PHP Warning:  Use of undefined constant EMAIL_SMTPSecure - assumed 'EMAIL_SMTPSecure' (this will throw an Error in a future version of PHP) in /var/www/html/erpm/Controller/ConLog.php on line 477
+[05-Jan-2023 10:16:50 Asia/Kolkata] PHP Warning:  Use of undefined constant EMAIL_PORT - assumed 'EMAIL_PORT' (this will throw an Error in a future version of PHP) in /var/www/html/erpm/Controller/ConLog.php on line 478
+[05-Jan-2023 10:16:50 Asia/Kolkata] PHP Warning:  Use of undefined constant EMAIL_FROM - assumed 'EMAIL_FROM' (this will throw an Error in a future version of PHP) in /var/www/html/erpm/Controller/ConLog.php on line 479
+[05-Jan-2023 10:16:50 Asia/Kolkata] PHP Warning:  Use of undefined constant EMS_CenterName - assumed 'EMS_CenterName' (this will throw an Error in a future version of PHP) in /var/www/html/erpm/Controller/ConLog.php on line 482
+[05-Jan-2023 10:16:54 Asia/Kolkata] PHP Notice:  Undefined index: txt_dateFrom in /var/www/html/erpm/View/message-popup.php on line 27
+[05-Jan-2023 10:16:54 Asia/Kolkata] PHP Notice:  Undefined index: txt_dateto in /var/www/html/erpm/View/message-popup.php on line 34
+[05-Jan-2023 10:17:05 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /var/www/html/erpm/View/message-popup.php on line 192
+[05-Jan-2023 10:19:20 Asia/Kolkata] PHP Notice:  Undefined index: __user_logid in /var/www/html/erpm/AppCode/nHead.php on line 2
+[05-Jan-2023 10:19:27 Asia/Kolkata] PHP Warning:  mysqli_stmt::bind_param(): Number of elements in type definition string doesn't match number of bind variables in /var/www/html/erpm/Controller/ConLog.php on line 464
+[05-Jan-2023 10:19:29 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /var/www/html/erpm/View/index.php on line 346
+[05-Jan-2023 10:21:13 Asia/Kolkata] PHP Notice:  Undefined index: __user_logid in /var/www/html/erpm/AppCode/nHead.php on line 2
+[05-Jan-2023 10:23:10 Asia/Kolkata] PHP Notice:  Undefined index: __user_logid in /var/www/html/erpm/AppCode/nHead.php on line 2
+[05-Jan-2023 10:23:18 Asia/Kolkata] PHP Notice:  Undefined index: __user_logid in /var/www/html/erpm/AppCode/nHead.php on line 2
+[05-Jan-2023 10:23:24 Asia/Kolkata] PHP Notice:  Undefined index: __user_logid in /var/www/html/erpm/AppCode/nHead.php on line 2
+[05-Jan-2023 10:23:34 Asia/Kolkata] PHP Notice:  Undefined index: __user_logid in /var/www/html/erpm/AppCode/nHead.php on line 2
+[05-Jan-2023 10:23:44 Asia/Kolkata] PHP Notice:  Undefined index: __user_logid in /var/www/html/erpm/AppCode/nHead.php on line 2
+[05-Jan-2023 10:27:25 Asia/Kolkata] PHP Notice:  Undefined index: __user_logid in /var/www/html/erpm/AppCode/nHead.php on line 2
+[05-Jan-2023 10:32:04 Asia/Kolkata] PHP Notice:  Undefined index: __user_logid in /var/www/html/erpm/AppCode/nHead.php on line 2
+[05-Jan-2023 10:32:22 Asia/Kolkata] PHP Warning:  mysqli_stmt::bind_param(): Number of elements in type definition string doesn't match number of bind variables in /var/www/html/erpm/Controller/ConLog.php on line 464
+[05-Jan-2023 10:32:22 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /var/www/html/erpm/View/index.php on line 346
+[05-Jan-2023 10:33:16 Asia/Kolkata] PHP Warning:  mysqli_stmt::bind_param(): Number of elements in type definition string doesn't match number of bind variables in /var/www/html/erpm/Controller/ConLog.php on line 464
+[05-Jan-2023 10:33:18 Asia/Kolkata] PHP Notice:  Undefined index: to in /var/www/html/erpm/View/calcRange.php on line 42
+[05-Jan-2023 10:33:19 Asia/Kolkata] PHP Notice:  Object of class mysqli_result could not be converted to int in /var/www/html/erpm/View/calcRange.php on line 412
+[05-Jan-2023 10:33:19 Asia/Kolkata] PHP Notice:  Undefined index: 2023-01-04 in /var/www/html/erpm/View/calcRange.php on line 583
+[05-Jan-2023 10:33:19 Asia/Kolkata] PHP Notice:  Undefined index: 2023-01-04 in /var/www/html/erpm/View/calcRange.php on line 932
+[05-Jan-2023 10:33:19 Asia/Kolkata] PHP Notice:  Undefined index: 2023-01-04 in /var/www/html/erpm/View/calcRange.php on line 1225
+[05-Jan-2023 10:33:19 Asia/Kolkata] PHP Notice:  Array to string conversion in /var/www/html/erpm/View/calcRange.php on line 1559
+[05-Jan-2023 10:33:20 Asia/Kolkata] PHP Notice:  Undefined index: txt_dateFrom in /var/www/html/erpm/View/message-popup.php on line 27
+[05-Jan-2023 10:33:20 Asia/Kolkata] PHP Notice:  Undefined index: txt_dateto in /var/www/html/erpm/View/message-popup.php on line 34
+[05-Jan-2023 10:33:33 Asia/Kolkata] PHP Notice:  Undefined index: txt_dateFrom in /var/www/html/erpm/View/message-popup.php on line 27
+[05-Jan-2023 10:33:33 Asia/Kolkata] PHP Notice:  Undefined index: txt_dateto in /var/www/html/erpm/View/message-popup.php on line 34
+[05-Jan-2023 10:33:49 Asia/Kolkata] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /var/www/html/erpm/TCPDF/tcpdf.php on line 16899
+[05-Jan-2023 10:33:49 Asia/Kolkata] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /var/www/html/erpm/TCPDF/tcpdf.php on line 16899
+[05-Jan-2023 10:33:49 Asia/Kolkata] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /var/www/html/erpm/TCPDF/tcpdf.php on line 16902
+[05-Jan-2023 10:33:49 Asia/Kolkata] PHP Warning:  "continue" targeting switch is equivalent to "break". Did you mean to use "continue 2"? in /var/www/html/erpm/TCPDF/tcpdf.php on line 17784
+[05-Jan-2023 10:33:49 Asia/Kolkata] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /var/www/html/erpm/TCPDF/include/tcpdf_images.php on line 318
+[05-Jan-2023 10:34:12 Asia/Kolkata] PHP Warning:  mysqli_stmt::bind_param(): Number of elements in type definition string doesn't match number of bind variables in /var/www/html/erpm/Controller/ConLog.php on line 464
+[05-Jan-2023 10:34:12 Asia/Kolkata] PHP Warning:  Use of undefined constant EMS_CenterName - assumed 'EMS_CenterName' (this will throw an Error in a future version of PHP) in /var/www/html/erpm/Controller/ConLog.php on line 470
+[05-Jan-2023 10:34:12 Asia/Kolkata] PHP Warning:  Use of undefined constant EMAIL_HOST - assumed 'EMAIL_HOST' (this will throw an Error in a future version of PHP) in /var/www/html/erpm/Controller/ConLog.php on line 473
+[05-Jan-2023 10:34:12 Asia/Kolkata] PHP Warning:  Use of undefined constant EMAIL_AUTH - assumed 'EMAIL_AUTH' (this will throw an Error in a future version of PHP) in /var/www/html/erpm/Controller/ConLog.php on line 474
+[05-Jan-2023 10:34:12 Asia/Kolkata] PHP Warning:  Use of undefined constant EMAIL_USER - assumed 'EMAIL_USER' (this will throw an Error in a future version of PHP) in /var/www/html/erpm/Controller/ConLog.php on line 475
+[05-Jan-2023 10:34:12 Asia/Kolkata] PHP Warning:  Use of undefined constant EMAIL_PASS - assumed 'EMAIL_PASS' (this will throw an Error in a future version of PHP) in /var/www/html/erpm/Controller/ConLog.php on line 476
+[05-Jan-2023 10:34:12 Asia/Kolkata] PHP Warning:  Use of undefined constant EMAIL_SMTPSecure - assumed 'EMAIL_SMTPSecure' (this will throw an Error in a future version of PHP) in /var/www/html/erpm/Controller/ConLog.php on line 477
+[05-Jan-2023 10:34:12 Asia/Kolkata] PHP Warning:  Use of undefined constant EMAIL_PORT - assumed 'EMAIL_PORT' (this will throw an Error in a future version of PHP) in /var/www/html/erpm/Controller/ConLog.php on line 478
+[05-Jan-2023 10:34:12 Asia/Kolkata] PHP Warning:  Use of undefined constant EMAIL_FROM - assumed 'EMAIL_FROM' (this will throw an Error in a future version of PHP) in /var/www/html/erpm/Controller/ConLog.php on line 479
+[05-Jan-2023 10:34:12 Asia/Kolkata] PHP Warning:  Use of undefined constant EMS_CenterName - assumed 'EMS_CenterName' (this will throw an Error in a future version of PHP) in /var/www/html/erpm/Controller/ConLog.php on line 482
+[05-Jan-2023 10:34:15 Asia/Kolkata] PHP Notice:  Undefined index: txt_dateFrom in /var/www/html/erpm/View/message-popup.php on line 27
+[05-Jan-2023 10:34:15 Asia/Kolkata] PHP Notice:  Undefined index: txt_dateto in /var/www/html/erpm/View/message-popup.php on line 34
+[05-Jan-2023 10:34:26 Asia/Kolkata] PHP Warning:  include_once(../Services/sendsms_API1.php): failed to open stream: No such file or directory in /var/www/html/erpm/View/upload_esicard.php on line 11
+[05-Jan-2023 10:34:26 Asia/Kolkata] PHP Warning:  include_once(): Failed opening '../Services/sendsms_API1.php' for inclusion (include_path='.:/usr/share/php') in /var/www/html/erpm/View/upload_esicard.php on line 11
+[05-Jan-2023 10:35:14 Asia/Kolkata] PHP Warning:  include_once(../Services/sendsms_API1.php): failed to open stream: No such file or directory in /var/www/html/erpm/View/upload_esicard.php on line 11
+[05-Jan-2023 10:35:14 Asia/Kolkata] PHP Warning:  include_once(): Failed opening '../Services/sendsms_API1.php' for inclusion (include_path='.:/usr/share/php') in /var/www/html/erpm/View/upload_esicard.php on line 11
+[05-Jan-2023 10:36:13 Asia/Kolkata] PHP Notice:  Undefined offset: 1 in /var/www/html/erpm/AppData/Class/MysqliDb.php on line 1581
+[05-Jan-2023 10:36:15 Asia/Kolkata] PHP Notice:  Undefined offset: 1 in /var/www/html/erpm/AppData/Class/MysqliDb.php on line 1581
+[05-Jan-2023 10:36:19 Asia/Kolkata] PHP Warning:  mysqli_stmt::bind_param(): Number of elements in type definition string doesn't match number of bind variables in /var/www/html/erpm/Controller/ConLog.php on line 464
+[05-Jan-2023 10:37:13 Asia/Kolkata] PHP Warning:  include_once(../Services/sendsms_API1.php): failed to open stream: No such file or directory in /var/www/html/erpm/View/upload_esicard.php on line 11
+[05-Jan-2023 10:37:13 Asia/Kolkata] PHP Warning:  include_once(): Failed opening '../Services/sendsms_API1.php' for inclusion (include_path='.:/usr/share/php') in /var/www/html/erpm/View/upload_esicard.php on line 11
+[05-Jan-2023 10:38:55 Asia/Kolkata] PHP Warning:  include_once(../Services/sendsms_API1.php): failed to open stream: No such file or directory in /var/www/html/erpm/View/upload_esicard.php on line 11
+[05-Jan-2023 10:38:55 Asia/Kolkata] PHP Warning:  include_once(): Failed opening '../Services/sendsms_API1.php' for inclusion (include_path='.:/usr/share/php') in /var/www/html/erpm/View/upload_esicard.php on line 11
+[05-Jan-2023 10:38:57 Asia/Kolkata] PHP Warning:  include_once(../Services/sendsms_API1.php): failed to open stream: No such file or directory in /var/www/html/erpm/View/upload_esicard.php on line 11
+[05-Jan-2023 10:38:57 Asia/Kolkata] PHP Warning:  include_once(): Failed opening '../Services/sendsms_API1.php' for inclusion (include_path='.:/usr/share/php') in /var/www/html/erpm/View/upload_esicard.php on line 11
+[05-Jan-2023 10:38:58 Asia/Kolkata] PHP Warning:  include_once(../Services/sendsms_API1.php): failed to open stream: No such file or directory in /var/www/html/erpm/View/upload_esicard.php on line 11
+[05-Jan-2023 10:38:58 Asia/Kolkata] PHP Warning:  include_once(): Failed opening '../Services/sendsms_API1.php' for inclusion (include_path='.:/usr/share/php') in /var/www/html/erpm/View/upload_esicard.php on line 11
+[05-Jan-2023 10:39:00 Asia/Kolkata] PHP Warning:  include_once(../Services/sendsms_API1.php): failed to open stream: No such file or directory in /var/www/html/erpm/View/upload_esicard.php on line 11
+[05-Jan-2023 10:39:00 Asia/Kolkata] PHP Warning:  include_once(): Failed opening '../Services/sendsms_API1.php' for inclusion (include_path='.:/usr/share/php') in /var/www/html/erpm/View/upload_esicard.php on line 11
+[05-Jan-2023 10:39:02 Asia/Kolkata] PHP Warning:  include_once(../Services/sendsms_API1.php): failed to open stream: No such file or directory in /var/www/html/erpm/View/upload_esicard.php on line 11
+[05-Jan-2023 10:39:02 Asia/Kolkata] PHP Warning:  include_once(): Failed opening '../Services/sendsms_API1.php' for inclusion (include_path='.:/usr/share/php') in /var/www/html/erpm/View/upload_esicard.php on line 11
+[05-Jan-2023 10:39:04 Asia/Kolkata] PHP Warning:  include_once(../Services/sendsms_API1.php): failed to open stream: No such file or directory in /var/www/html/erpm/View/upload_esicard.php on line 11
+[05-Jan-2023 10:39:04 Asia/Kolkata] PHP Warning:  include_once(): Failed opening '../Services/sendsms_API1.php' for inclusion (include_path='.:/usr/share/php') in /var/www/html/erpm/View/upload_esicard.php on line 11
+[05-Jan-2023 10:39:05 Asia/Kolkata] PHP Warning:  include_once(../Services/sendsms_API1.php): failed to open stream: No such file or directory in /var/www/html/erpm/View/upload_esicard.php on line 11
+[05-Jan-2023 10:39:05 Asia/Kolkata] PHP Warning:  include_once(): Failed opening '../Services/sendsms_API1.php' for inclusion (include_path='.:/usr/share/php') in /var/www/html/erpm/View/upload_esicard.php on line 11
+[05-Jan-2023 10:39:29 Asia/Kolkata] PHP Warning:  include_once(../Services/sendsms_API1.php): failed to open stream: No such file or directory in /var/www/html/erpm/View/upload_esicard.php on line 11
+[05-Jan-2023 10:39:29 Asia/Kolkata] PHP Warning:  include_once(): Failed opening '../Services/sendsms_API1.php' for inclusion (include_path='.:/usr/share/php') in /var/www/html/erpm/View/upload_esicard.php on line 11
+[05-Jan-2023 10:39:37 Asia/Kolkata] PHP Warning:  include_once(../Services/sendsms_API1.php): failed to open stream: No such file or directory in /var/www/html/erpm/View/upload_esicard.php on line 11
+[05-Jan-2023 10:39:37 Asia/Kolkata] PHP Warning:  include_once(): Failed opening '../Services/sendsms_API1.php' for inclusion (include_path='.:/usr/share/php') in /var/www/html/erpm/View/upload_esicard.php on line 11
+[05-Jan-2023 10:39:45 Asia/Kolkata] PHP Warning:  include_once(../Services/sendsms_API1.php): failed to open stream: No such file or directory in /var/www/html/erpm/View/upload_esicard.php on line 11
+[05-Jan-2023 10:39:45 Asia/Kolkata] PHP Warning:  include_once(): Failed opening '../Services/sendsms_API1.php' for inclusion (include_path='.:/usr/share/php') in /var/www/html/erpm/View/upload_esicard.php on line 11
+[05-Jan-2023 10:39:53 Asia/Kolkata] PHP Warning:  include_once(../Services/sendsms_API1.php): failed to open stream: No such file or directory in /var/www/html/erpm/View/upload_esicard.php on line 11
+[05-Jan-2023 10:39:53 Asia/Kolkata] PHP Warning:  include_once(): Failed opening '../Services/sendsms_API1.php' for inclusion (include_path='.:/usr/share/php') in /var/www/html/erpm/View/upload_esicard.php on line 11
+[05-Jan-2023 10:40:01 Asia/Kolkata] PHP Warning:  include_once(../Services/sendsms_API1.php): failed to open stream: No such file or directory in /var/www/html/erpm/View/upload_esicard.php on line 11
+[05-Jan-2023 10:40:01 Asia/Kolkata] PHP Warning:  include_once(): Failed opening '../Services/sendsms_API1.php' for inclusion (include_path='.:/usr/share/php') in /var/www/html/erpm/View/upload_esicard.php on line 11
+[05-Jan-2023 10:40:09 Asia/Kolkata] PHP Warning:  include_once(../Services/sendsms_API1.php): failed to open stream: No such file or directory in /var/www/html/erpm/View/upload_esicard.php on line 11
+[05-Jan-2023 10:40:09 Asia/Kolkata] PHP Warning:  include_once(): Failed opening '../Services/sendsms_API1.php' for inclusion (include_path='.:/usr/share/php') in /var/www/html/erpm/View/upload_esicard.php on line 11
+[05-Jan-2023 10:40:17 Asia/Kolkata] PHP Warning:  include_once(../Services/sendsms_API1.php): failed to open stream: No such file or directory in /var/www/html/erpm/View/upload_esicard.php on line 11
+[05-Jan-2023 10:40:17 Asia/Kolkata] PHP Warning:  include_once(): Failed opening '../Services/sendsms_API1.php' for inclusion (include_path='.:/usr/share/php') in /var/www/html/erpm/View/upload_esicard.php on line 11
+[05-Jan-2023 10:40:25 Asia/Kolkata] PHP Warning:  include_once(../Services/sendsms_API1.php): failed to open stream: No such file or directory in /var/www/html/erpm/View/upload_esicard.php on line 11
+[05-Jan-2023 10:40:25 Asia/Kolkata] PHP Warning:  include_once(): Failed opening '../Services/sendsms_API1.php' for inclusion (include_path='.:/usr/share/php') in /var/www/html/erpm/View/upload_esicard.php on line 11
+[05-Jan-2023 10:40:33 Asia/Kolkata] PHP Warning:  include_once(../Services/sendsms_API1.php): failed to open stream: No such file or directory in /var/www/html/erpm/View/upload_esicard.php on line 11
+[05-Jan-2023 10:40:33 Asia/Kolkata] PHP Warning:  include_once(): Failed opening '../Services/sendsms_API1.php' for inclusion (include_path='.:/usr/share/php') in /var/www/html/erpm/View/upload_esicard.php on line 11
+[05-Jan-2023 10:40:41 Asia/Kolkata] PHP Warning:  include_once(../Services/sendsms_API1.php): failed to open stream: No such file or directory in /var/www/html/erpm/View/upload_esicard.php on line 11
+[05-Jan-2023 10:40:41 Asia/Kolkata] PHP Warning:  include_once(): Failed opening '../Services/sendsms_API1.php' for inclusion (include_path='.:/usr/share/php') in /var/www/html/erpm/View/upload_esicard.php on line 11
+[05-Jan-2023 10:40:49 Asia/Kolkata] PHP Warning:  include_once(../Services/sendsms_API1.php): failed to open stream: No such file or directory in /var/www/html/erpm/View/upload_esicard.php on line 11
+[05-Jan-2023 10:40:49 Asia/Kolkata] PHP Warning:  include_once(): Failed opening '../Services/sendsms_API1.php' for inclusion (include_path='.:/usr/share/php') in /var/www/html/erpm/View/upload_esicard.php on line 11
+[05-Jan-2023 10:40:57 Asia/Kolkata] PHP Warning:  include_once(../Services/sendsms_API1.php): failed to open stream: No such file or directory in /var/www/html/erpm/View/upload_esicard.php on line 11
+[05-Jan-2023 10:40:57 Asia/Kolkata] PHP Warning:  include_once(): Failed opening '../Services/sendsms_API1.php' for inclusion (include_path='.:/usr/share/php') in /var/www/html/erpm/View/upload_esicard.php on line 11
+[05-Jan-2023 10:41:05 Asia/Kolkata] PHP Warning:  include_once(../Services/sendsms_API1.php): failed to open stream: No such file or directory in /var/www/html/erpm/View/upload_esicard.php on line 11
+[05-Jan-2023 10:41:05 Asia/Kolkata] PHP Warning:  include_once(): Failed opening '../Services/sendsms_API1.php' for inclusion (include_path='.:/usr/share/php') in /var/www/html/erpm/View/upload_esicard.php on line 11
+[05-Jan-2023 10:41:13 Asia/Kolkata] PHP Warning:  include_once(../Services/sendsms_API1.php): failed to open stream: No such file or directory in /var/www/html/erpm/View/upload_esicard.php on line 11
+[05-Jan-2023 10:41:13 Asia/Kolkata] PHP Warning:  include_once(): Failed opening '../Services/sendsms_API1.php' for inclusion (include_path='.:/usr/share/php') in /var/www/html/erpm/View/upload_esicard.php on line 11
+[05-Jan-2023 10:41:21 Asia/Kolkata] PHP Warning:  include_once(../Services/sendsms_API1.php): failed to open stream: No such file or directory in /var/www/html/erpm/View/upload_esicard.php on line 11
+[05-Jan-2023 10:41:21 Asia/Kolkata] PHP Warning:  include_once(): Failed opening '../Services/sendsms_API1.php' for inclusion (include_path='.:/usr/share/php') in /var/www/html/erpm/View/upload_esicard.php on line 11
+[05-Jan-2023 10:41:29 Asia/Kolkata] PHP Warning:  include_once(../Services/sendsms_API1.php): failed to open stream: No such file or directory in /var/www/html/erpm/View/upload_esicard.php on line 11
+[05-Jan-2023 10:41:29 Asia/Kolkata] PHP Warning:  include_once(): Failed opening '../Services/sendsms_API1.php' for inclusion (include_path='.:/usr/share/php') in /var/www/html/erpm/View/upload_esicard.php on line 11
+[05-Jan-2023 10:41:37 Asia/Kolkata] PHP Warning:  include_once(../Services/sendsms_API1.php): failed to open stream: No such file or directory in /var/www/html/erpm/View/upload_esicard.php on line 11
+[05-Jan-2023 10:41:37 Asia/Kolkata] PHP Warning:  include_once(): Failed opening '../Services/sendsms_API1.php' for inclusion (include_path='.:/usr/share/php') in /var/www/html/erpm/View/upload_esicard.php on line 11
+[05-Jan-2023 10:41:53 Asia/Kolkata] PHP Warning:  include_once(../Services/sendsms_API1.php): failed to open stream: No such file or directory in /var/www/html/erpm/View/upload_esicard.php on line 11
+[05-Jan-2023 10:41:53 Asia/Kolkata] PHP Warning:  include_once(): Failed opening '../Services/sendsms_API1.php' for inclusion (include_path='.:/usr/share/php') in /var/www/html/erpm/View/upload_esicard.php on line 11
+[05-Jan-2023 10:42:01 Asia/Kolkata] PHP Warning:  include_once(../Services/sendsms_API1.php): failed to open stream: No such file or directory in /var/www/html/erpm/View/upload_esicard.php on line 11
+[05-Jan-2023 10:42:01 Asia/Kolkata] PHP Warning:  include_once(): Failed opening '../Services/sendsms_API1.php' for inclusion (include_path='.:/usr/share/php') in /var/www/html/erpm/View/upload_esicard.php on line 11
+[05-Jan-2023 10:42:09 Asia/Kolkata] PHP Warning:  include_once(../Services/sendsms_API1.php): failed to open stream: No such file or directory in /var/www/html/erpm/View/upload_esicard.php on line 11
+[05-Jan-2023 10:42:09 Asia/Kolkata] PHP Warning:  include_once(): Failed opening '../Services/sendsms_API1.php' for inclusion (include_path='.:/usr/share/php') in /var/www/html/erpm/View/upload_esicard.php on line 11
+[05-Jan-2023 10:42:25 Asia/Kolkata] PHP Warning:  include_once(../Services/sendsms_API1.php): failed to open stream: No such file or directory in /var/www/html/erpm/View/upload_esicard.php on line 11
+[05-Jan-2023 10:42:25 Asia/Kolkata] PHP Warning:  include_once(): Failed opening '../Services/sendsms_API1.php' for inclusion (include_path='.:/usr/share/php') in /var/www/html/erpm/View/upload_esicard.php on line 11
+[05-Jan-2023 10:42:33 Asia/Kolkata] PHP Warning:  include_once(../Services/sendsms_API1.php): failed to open stream: No such file or directory in /var/www/html/erpm/View/upload_esicard.php on line 11
+[05-Jan-2023 10:42:33 Asia/Kolkata] PHP Warning:  include_once(): Failed opening '../Services/sendsms_API1.php' for inclusion (include_path='.:/usr/share/php') in /var/www/html/erpm/View/upload_esicard.php on line 11
+[05-Jan-2023 10:42:41 Asia/Kolkata] PHP Warning:  include_once(../Services/sendsms_API1.php): failed to open stream: No such file or directory in /var/www/html/erpm/View/upload_esicard.php on line 11
+[05-Jan-2023 10:42:41 Asia/Kolkata] PHP Warning:  include_once(): Failed opening '../Services/sendsms_API1.php' for inclusion (include_path='.:/usr/share/php') in /var/www/html/erpm/View/upload_esicard.php on line 11
+[05-Jan-2023 10:42:49 Asia/Kolkata] PHP Warning:  include_once(../Services/sendsms_API1.php): failed to open stream: No such file or directory in /var/www/html/erpm/View/upload_esicard.php on line 11
+[05-Jan-2023 10:42:49 Asia/Kolkata] PHP Warning:  include_once(): Failed opening '../Services/sendsms_API1.php' for inclusion (include_path='.:/usr/share/php') in /var/www/html/erpm/View/upload_esicard.php on line 11
+[05-Jan-2023 10:42:57 Asia/Kolkata] PHP Warning:  include_once(../Services/sendsms_API1.php): failed to open stream: No such file or directory in /var/www/html/erpm/View/upload_esicard.php on line 11
+[05-Jan-2023 10:42:57 Asia/Kolkata] PHP Warning:  include_once(): Failed opening '../Services/sendsms_API1.php' for inclusion (include_path='.:/usr/share/php') in /var/www/html/erpm/View/upload_esicard.php on line 11
+[05-Jan-2023 10:43:05 Asia/Kolkata] PHP Warning:  include_once(../Services/sendsms_API1.php): failed to open stream: No such file or directory in /var/www/html/erpm/View/upload_esicard.php on line 11
+[05-Jan-2023 10:43:05 Asia/Kolkata] PHP Warning:  include_once(): Failed opening '../Services/sendsms_API1.php' for inclusion (include_path='.:/usr/share/php') in /var/www/html/erpm/View/upload_esicard.php on line 11
+[05-Jan-2023 10:43:21 Asia/Kolkata] PHP Warning:  include_once(../Services/sendsms_API1.php): failed to open stream: No such file or directory in /var/www/html/erpm/View/upload_esicard.php on line 11
+[05-Jan-2023 10:43:21 Asia/Kolkata] PHP Warning:  include_once(): Failed opening '../Services/sendsms_API1.php' for inclusion (include_path='.:/usr/share/php') in /var/www/html/erpm/View/upload_esicard.php on line 11
+[05-Jan-2023 10:43:29 Asia/Kolkata] PHP Warning:  include_once(../Services/sendsms_API1.php): failed to open stream: No such file or directory in /var/www/html/erpm/View/upload_esicard.php on line 11
+[05-Jan-2023 10:43:29 Asia/Kolkata] PHP Warning:  include_once(): Failed opening '../Services/sendsms_API1.php' for inclusion (include_path='.:/usr/share/php') in /var/www/html/erpm/View/upload_esicard.php on line 11
+[05-Jan-2023 10:43:45 Asia/Kolkata] PHP Warning:  include_once(../Services/sendsms_API1.php): failed to open stream: No such file or directory in /var/www/html/erpm/View/upload_esicard.php on line 11
+[05-Jan-2023 10:43:45 Asia/Kolkata] PHP Warning:  include_once(): Failed opening '../Services/sendsms_API1.php' for inclusion (include_path='.:/usr/share/php') in /var/www/html/erpm/View/upload_esicard.php on line 11
+[05-Jan-2023 10:43:53 Asia/Kolkata] PHP Warning:  include_once(../Services/sendsms_API1.php): failed to open stream: No such file or directory in /var/www/html/erpm/View/upload_esicard.php on line 11
+[05-Jan-2023 10:43:53 Asia/Kolkata] PHP Warning:  include_once(): Failed opening '../Services/sendsms_API1.php' for inclusion (include_path='.:/usr/share/php') in /var/www/html/erpm/View/upload_esicard.php on line 11
+[05-Jan-2023 10:44:01 Asia/Kolkata] PHP Warning:  include_once(../Services/sendsms_API1.php): failed to open stream: No such file or directory in /var/www/html/erpm/View/upload_esicard.php on line 11
+[05-Jan-2023 10:44:01 Asia/Kolkata] PHP Warning:  include_once(): Failed opening '../Services/sendsms_API1.php' for inclusion (include_path='.:/usr/share/php') in /var/www/html/erpm/View/upload_esicard.php on line 11
+[05-Jan-2023 10:44:09 Asia/Kolkata] PHP Warning:  include_once(../Services/sendsms_API1.php): failed to open stream: No such file or directory in /var/www/html/erpm/View/upload_esicard.php on line 11
+[05-Jan-2023 10:44:09 Asia/Kolkata] PHP Warning:  include_once(): Failed opening '../Services/sendsms_API1.php' for inclusion (include_path='.:/usr/share/php') in /var/www/html/erpm/View/upload_esicard.php on line 11
+[05-Jan-2023 10:44:12 Asia/Kolkata] PHP Notice:  Undefined offset: 1 in /var/www/html/erpm/AppData/Class/MysqliDb.php on line 1581
+[05-Jan-2023 10:44:15 Asia/Kolkata] PHP Notice:  Undefined offset: 1 in /var/www/html/erpm/AppData/Class/MysqliDb.php on line 1581
+[05-Jan-2023 10:44:17 Asia/Kolkata] PHP Warning:  include_once(../Services/sendsms_API1.php): failed to open stream: No such file or directory in /var/www/html/erpm/View/upload_esicard.php on line 11
+[05-Jan-2023 10:44:17 Asia/Kolkata] PHP Warning:  include_once(): Failed opening '../Services/sendsms_API1.php' for inclusion (include_path='.:/usr/share/php') in /var/www/html/erpm/View/upload_esicard.php on line 11
+[05-Jan-2023 10:44:19 Asia/Kolkata] PHP Warning:  mysqli_stmt::bind_param(): Number of elements in type definition string doesn't match number of bind variables in /var/www/html/erpm/Controller/ConLog.php on line 464
+[05-Jan-2023 10:44:25 Asia/Kolkata] PHP Warning:  include_once(../Services/sendsms_API1.php): failed to open stream: No such file or directory in /var/www/html/erpm/View/upload_esicard.php on line 11
+[05-Jan-2023 10:44:25 Asia/Kolkata] PHP Warning:  include_once(): Failed opening '../Services/sendsms_API1.php' for inclusion (include_path='.:/usr/share/php') in /var/www/html/erpm/View/upload_esicard.php on line 11
+[05-Jan-2023 10:44:33 Asia/Kolkata] PHP Warning:  include_once(../Services/sendsms_API1.php): failed to open stream: No such file or directory in /var/www/html/erpm/View/upload_esicard.php on line 11
+[05-Jan-2023 10:44:33 Asia/Kolkata] PHP Warning:  include_once(): Failed opening '../Services/sendsms_API1.php' for inclusion (include_path='.:/usr/share/php') in /var/www/html/erpm/View/upload_esicard.php on line 11
+[05-Jan-2023 10:44:41 Asia/Kolkata] PHP Warning:  include_once(../Services/sendsms_API1.php): failed to open stream: No such file or directory in /var/www/html/erpm/View/upload_esicard.php on line 11
+[05-Jan-2023 10:44:41 Asia/Kolkata] PHP Warning:  include_once(): Failed opening '../Services/sendsms_API1.php' for inclusion (include_path='.:/usr/share/php') in /var/www/html/erpm/View/upload_esicard.php on line 11
+[05-Jan-2023 10:44:49 Asia/Kolkata] PHP Warning:  include_once(../Services/sendsms_API1.php): failed to open stream: No such file or directory in /var/www/html/erpm/View/upload_esicard.php on line 11
+[05-Jan-2023 10:44:49 Asia/Kolkata] PHP Warning:  include_once(): Failed opening '../Services/sendsms_API1.php' for inclusion (include_path='.:/usr/share/php') in /var/www/html/erpm/View/upload_esicard.php on line 11
+[05-Jan-2023 10:45:05 Asia/Kolkata] PHP Warning:  include_once(../Services/sendsms_API1.php): failed to open stream: No such file or directory in /var/www/html/erpm/View/upload_esicard.php on line 11
+[05-Jan-2023 10:45:05 Asia/Kolkata] PHP Warning:  include_once(): Failed opening '../Services/sendsms_API1.php' for inclusion (include_path='.:/usr/share/php') in /var/www/html/erpm/View/upload_esicard.php on line 11
+[05-Jan-2023 10:45:13 Asia/Kolkata] PHP Warning:  include_once(../Services/sendsms_API1.php): failed to open stream: No such file or directory in /var/www/html/erpm/View/upload_esicard.php on line 11
+[05-Jan-2023 10:45:13 Asia/Kolkata] PHP Warning:  include_once(): Failed opening '../Services/sendsms_API1.php' for inclusion (include_path='.:/usr/share/php') in /var/www/html/erpm/View/upload_esicard.php on line 11
+[05-Jan-2023 10:45:21 Asia/Kolkata] PHP Warning:  include_once(../Services/sendsms_API1.php): failed to open stream: No such file or directory in /var/www/html/erpm/View/upload_esicard.php on line 11
+[05-Jan-2023 10:45:21 Asia/Kolkata] PHP Warning:  include_once(): Failed opening '../Services/sendsms_API1.php' for inclusion (include_path='.:/usr/share/php') in /var/www/html/erpm/View/upload_esicard.php on line 11
+[05-Jan-2023 10:45:29 Asia/Kolkata] PHP Warning:  include_once(../Services/sendsms_API1.php): failed to open stream: No such file or directory in /var/www/html/erpm/View/upload_esicard.php on line 11
+[05-Jan-2023 10:45:29 Asia/Kolkata] PHP Warning:  include_once(): Failed opening '../Services/sendsms_API1.php' for inclusion (include_path='.:/usr/share/php') in /var/www/html/erpm/View/upload_esicard.php on line 11
+[05-Jan-2023 10:45:37 Asia/Kolkata] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /var/www/html/erpm/AppData/lib/PHPExcel/Shared/String.php on line 529
+[05-Jan-2023 10:45:37 Asia/Kolkata] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /var/www/html/erpm/AppData/lib/PHPExcel/Shared/String.php on line 530
+[05-Jan-2023 10:45:37 Asia/Kolkata] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /var/www/html/erpm/AppData/lib/PHPExcel/Shared/String.php on line 536
+[05-Jan-2023 10:45:37 Asia/Kolkata] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /var/www/html/erpm/AppData/lib/PHPExcel/Shared/String.php on line 536
+[05-Jan-2023 10:45:37 Asia/Kolkata] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /var/www/html/erpm/AppData/lib/PHPExcel/Shared/String.php on line 537
+[05-Jan-2023 10:45:37 Asia/Kolkata] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /var/www/html/erpm/AppData/lib/PHPExcel/Shared/String.php on line 537
+[05-Jan-2023 10:45:45 Asia/Kolkata] PHP Warning:  include_once(../Services/sendsms_API1.php): failed to open stream: No such file or directory in /var/www/html/erpm/View/upload_esicard.php on line 11
+[05-Jan-2023 10:45:45 Asia/Kolkata] PHP Warning:  include_once(): Failed opening '../Services/sendsms_API1.php' for inclusion (include_path='.:/usr/share/php') in /var/www/html/erpm/View/upload_esicard.php on line 11
+[05-Jan-2023 10:45:53 Asia/Kolkata] PHP Warning:  include_once(../Services/sendsms_API1.php): failed to open stream: No such file or directory in /var/www/html/erpm/View/upload_esicard.php on line 11
+[05-Jan-2023 10:45:53 Asia/Kolkata] PHP Warning:  include_once(): Failed opening '../Services/sendsms_API1.php' for inclusion (include_path='.:/usr/share/php') in /var/www/html/erpm/View/upload_esicard.php on line 11
+[05-Jan-2023 10:46:09 Asia/Kolkata] PHP Warning:  include_once(../Services/sendsms_API1.php): failed to open stream: No such file or directory in /var/www/html/erpm/View/upload_esicard.php on line 11
+[05-Jan-2023 10:46:09 Asia/Kolkata] PHP Warning:  include_once(): Failed opening '../Services/sendsms_API1.php' for inclusion (include_path='.:/usr/share/php') in /var/www/html/erpm/View/upload_esicard.php on line 11
+[05-Jan-2023 10:46:17 Asia/Kolkata] PHP Warning:  include_once(../Services/sendsms_API1.php): failed to open stream: No such file or directory in /var/www/html/erpm/View/upload_esicard.php on line 11
+[05-Jan-2023 10:46:17 Asia/Kolkata] PHP Warning:  include_once(): Failed opening '../Services/sendsms_API1.php' for inclusion (include_path='.:/usr/share/php') in /var/www/html/erpm/View/upload_esicard.php on line 11
+[05-Jan-2023 10:46:33 Asia/Kolkata] PHP Warning:  include_once(../Services/sendsms_API1.php): failed to open stream: No such file or directory in /var/www/html/erpm/View/upload_esicard.php on line 11
+[05-Jan-2023 10:46:33 Asia/Kolkata] PHP Warning:  include_once(): Failed opening '../Services/sendsms_API1.php' for inclusion (include_path='.:/usr/share/php') in /var/www/html/erpm/View/upload_esicard.php on line 11
+[05-Jan-2023 10:46:41 Asia/Kolkata] PHP Warning:  include_once(../Services/sendsms_API1.php): failed to open stream: No such file or directory in /var/www/html/erpm/View/upload_esicard.php on line 11
+[05-Jan-2023 10:46:41 Asia/Kolkata] PHP Warning:  include_once(): Failed opening '../Services/sendsms_API1.php' for inclusion (include_path='.:/usr/share/php') in /var/www/html/erpm/View/upload_esicard.php on line 11
+[05-Jan-2023 10:46:57 Asia/Kolkata] PHP Warning:  include_once(../Services/sendsms_API1.php): failed to open stream: No such file or directory in /var/www/html/erpm/View/upload_esicard.php on line 11
+[05-Jan-2023 10:46:57 Asia/Kolkata] PHP Warning:  include_once(): Failed opening '../Services/sendsms_API1.php' for inclusion (include_path='.:/usr/share/php') in /var/www/html/erpm/View/upload_esicard.php on line 11
+[05-Jan-2023 10:47:05 Asia/Kolkata] PHP Warning:  include_once(../Services/sendsms_API1.php): failed to open stream: No such file or directory in /var/www/html/erpm/View/upload_esicard.php on line 11
+[05-Jan-2023 10:47:05 Asia/Kolkata] PHP Warning:  include_once(): Failed opening '../Services/sendsms_API1.php' for inclusion (include_path='.:/usr/share/php') in /var/www/html/erpm/View/upload_esicard.php on line 11
+[05-Jan-2023 10:47:21 Asia/Kolkata] PHP Warning:  include_once(../Services/sendsms_API1.php): failed to open stream: No such file or directory in /var/www/html/erpm/View/upload_esicard.php on line 11
+[05-Jan-2023 10:47:21 Asia/Kolkata] PHP Warning:  include_once(): Failed opening '../Services/sendsms_API1.php' for inclusion (include_path='.:/usr/share/php') in /var/www/html/erpm/View/upload_esicard.php on line 11
+[05-Jan-2023 10:47:29 Asia/Kolkata] PHP Warning:  include_once(../Services/sendsms_API1.php): failed to open stream: No such file or directory in /var/www/html/erpm/View/upload_esicard.php on line 11
+[05-Jan-2023 10:47:29 Asia/Kolkata] PHP Warning:  include_once(): Failed opening '../Services/sendsms_API1.php' for inclusion (include_path='.:/usr/share/php') in /var/www/html/erpm/View/upload_esicard.php on line 11
+[05-Jan-2023 10:47:37 Asia/Kolkata] PHP Warning:  include_once(../Services/sendsms_API1.php): failed to open stream: No such file or directory in /var/www/html/erpm/View/upload_esicard.php on line 11
+[05-Jan-2023 10:47:37 Asia/Kolkata] PHP Warning:  include_once(): Failed opening '../Services/sendsms_API1.php' for inclusion (include_path='.:/usr/share/php') in /var/www/html/erpm/View/upload_esicard.php on line 11
+[05-Jan-2023 10:47:45 Asia/Kolkata] PHP Warning:  include_once(../Services/sendsms_API1.php): failed to open stream: No such file or directory in /var/www/html/erpm/View/upload_esicard.php on line 11
+[05-Jan-2023 10:47:45 Asia/Kolkata] PHP Warning:  include_once(): Failed opening '../Services/sendsms_API1.php' for inclusion (include_path='.:/usr/share/php') in /var/www/html/erpm/View/upload_esicard.php on line 11
+[05-Jan-2023 10:47:50 Asia/Kolkata] PHP Warning:  mysqli_stmt::bind_param(): Number of elements in type definition string doesn't match number of bind variables in /var/www/html/erpm/Controller/ConLog.php on line 464
+[05-Jan-2023 10:47:50 Asia/Kolkata] PHP Warning:  Use of undefined constant EMS_CenterName - assumed 'EMS_CenterName' (this will throw an Error in a future version of PHP) in /var/www/html/erpm/Controller/ConLog.php on line 470
+[05-Jan-2023 10:47:50 Asia/Kolkata] PHP Warning:  Use of undefined constant EMAIL_HOST - assumed 'EMAIL_HOST' (this will throw an Error in a future version of PHP) in /var/www/html/erpm/Controller/ConLog.php on line 473
+[05-Jan-2023 10:47:50 Asia/Kolkata] PHP Warning:  Use of undefined constant EMAIL_AUTH - assumed 'EMAIL_AUTH' (this will throw an Error in a future version of PHP) in /var/www/html/erpm/Controller/ConLog.php on line 474
+[05-Jan-2023 10:47:50 Asia/Kolkata] PHP Warning:  Use of undefined constant EMAIL_USER - assumed 'EMAIL_USER' (this will throw an Error in a future version of PHP) in /var/www/html/erpm/Controller/ConLog.php on line 475
+[05-Jan-2023 10:47:50 Asia/Kolkata] PHP Warning:  Use of undefined constant EMAIL_PASS - assumed 'EMAIL_PASS' (this will throw an Error in a future version of PHP) in /var/www/html/erpm/Controller/ConLog.php on line 476
+[05-Jan-2023 10:47:50 Asia/Kolkata] PHP Warning:  Use of undefined constant EMAIL_SMTPSecure - assumed 'EMAIL_SMTPSecure' (this will throw an Error in a future version of PHP) in /var/www/html/erpm/Controller/ConLog.php on line 477
+[05-Jan-2023 10:47:50 Asia/Kolkata] PHP Warning:  Use of undefined constant EMAIL_PORT - assumed 'EMAIL_PORT' (this will throw an Error in a future version of PHP) in /var/www/html/erpm/Controller/ConLog.php on line 478
+[05-Jan-2023 10:47:50 Asia/Kolkata] PHP Warning:  Use of undefined constant EMAIL_FROM - assumed 'EMAIL_FROM' (this will throw an Error in a future version of PHP) in /var/www/html/erpm/Controller/ConLog.php on line 479
+[05-Jan-2023 10:47:50 Asia/Kolkata] PHP Warning:  Use of undefined constant EMS_CenterName - assumed 'EMS_CenterName' (this will throw an Error in a future version of PHP) in /var/www/html/erpm/Controller/ConLog.php on line 482
+[05-Jan-2023 10:47:53 Asia/Kolkata] PHP Warning:  include_once(../Services/sendsms_API1.php): failed to open stream: No such file or directory in /var/www/html/erpm/View/upload_esicard.php on line 11
+[05-Jan-2023 10:47:53 Asia/Kolkata] PHP Warning:  include_once(): Failed opening '../Services/sendsms_API1.php' for inclusion (include_path='.:/usr/share/php') in /var/www/html/erpm/View/upload_esicard.php on line 11
+[05-Jan-2023 10:47:54 Asia/Kolkata] PHP Notice:  Undefined index: txt_dateFrom in /var/www/html/erpm/View/message-popup.php on line 27
+[05-Jan-2023 10:47:54 Asia/Kolkata] PHP Notice:  Undefined index: txt_dateto in /var/www/html/erpm/View/message-popup.php on line 34
+[05-Jan-2023 10:48:01 Asia/Kolkata] PHP Warning:  include_once(../Services/sendsms_API1.php): failed to open stream: No such file or directory in /var/www/html/erpm/View/upload_esicard.php on line 11
+[05-Jan-2023 10:48:01 Asia/Kolkata] PHP Warning:  include_once(): Failed opening '../Services/sendsms_API1.php' for inclusion (include_path='.:/usr/share/php') in /var/www/html/erpm/View/upload_esicard.php on line 11
+[05-Jan-2023 10:48:09 Asia/Kolkata] PHP Warning:  include_once(../Services/sendsms_API1.php): failed to open stream: No such file or directory in /var/www/html/erpm/View/upload_esicard.php on line 11
+[05-Jan-2023 10:48:09 Asia/Kolkata] PHP Warning:  include_once(): Failed opening '../Services/sendsms_API1.php' for inclusion (include_path='.:/usr/share/php') in /var/www/html/erpm/View/upload_esicard.php on line 11
+[05-Jan-2023 10:48:12 Asia/Kolkata] PHP Notice:  Undefined index: txt_dateFrom in /var/www/html/erpm/View/message-popup.php on line 27
+[05-Jan-2023 10:48:12 Asia/Kolkata] PHP Notice:  Undefined index: txt_dateto in /var/www/html/erpm/View/message-popup.php on line 34
+[05-Jan-2023 10:48:17 Asia/Kolkata] PHP Warning:  include_once(../Services/sendsms_API1.php): failed to open stream: No such file or directory in /var/www/html/erpm/View/upload_esicard.php on line 11
+[05-Jan-2023 10:48:17 Asia/Kolkata] PHP Warning:  include_once(): Failed opening '../Services/sendsms_API1.php' for inclusion (include_path='.:/usr/share/php') in /var/www/html/erpm/View/upload_esicard.php on line 11
+[05-Jan-2023 10:48:25 Asia/Kolkata] PHP Warning:  include_once(../Services/sendsms_API1.php): failed to open stream: No such file or directory in /var/www/html/erpm/View/upload_esicard.php on line 11
+[05-Jan-2023 10:48:25 Asia/Kolkata] PHP Warning:  include_once(): Failed opening '../Services/sendsms_API1.php' for inclusion (include_path='.:/usr/share/php') in /var/www/html/erpm/View/upload_esicard.php on line 11
+[05-Jan-2023 10:48:33 Asia/Kolkata] PHP Warning:  include_once(../Services/sendsms_API1.php): failed to open stream: No such file or directory in /var/www/html/erpm/View/upload_esicard.php on line 11
+[05-Jan-2023 10:48:33 Asia/Kolkata] PHP Warning:  include_once(): Failed opening '../Services/sendsms_API1.php' for inclusion (include_path='.:/usr/share/php') in /var/www/html/erpm/View/upload_esicard.php on line 11
+[05-Jan-2023 10:48:41 Asia/Kolkata] PHP Warning:  include_once(../Services/sendsms_API1.php): failed to open stream: No such file or directory in /var/www/html/erpm/View/upload_esicard.php on line 11
+[05-Jan-2023 10:48:41 Asia/Kolkata] PHP Warning:  include_once(): Failed opening '../Services/sendsms_API1.php' for inclusion (include_path='.:/usr/share/php') in /var/www/html/erpm/View/upload_esicard.php on line 11
+[05-Jan-2023 10:48:49 Asia/Kolkata] PHP Warning:  include_once(../Services/sendsms_API1.php): failed to open stream: No such file or directory in /var/www/html/erpm/View/upload_esicard.php on line 11
+[05-Jan-2023 10:48:49 Asia/Kolkata] PHP Warning:  include_once(): Failed opening '../Services/sendsms_API1.php' for inclusion (include_path='.:/usr/share/php') in /var/www/html/erpm/View/upload_esicard.php on line 11
+[05-Jan-2023 10:48:51 Asia/Kolkata] PHP Warning:  mysqli_stmt::bind_param(): Number of elements in type definition string doesn't match number of bind variables in /var/www/html/erpm/Controller/ConLog.php on line 464
+[05-Jan-2023 10:48:51 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /var/www/html/erpm/View/index.php on line 346
+[05-Jan-2023 10:48:57 Asia/Kolkata] PHP Warning:  include_once(../Services/sendsms_API1.php): failed to open stream: No such file or directory in /var/www/html/erpm/View/upload_esicard.php on line 11
+[05-Jan-2023 10:48:57 Asia/Kolkata] PHP Warning:  include_once(): Failed opening '../Services/sendsms_API1.php' for inclusion (include_path='.:/usr/share/php') in /var/www/html/erpm/View/upload_esicard.php on line 11
+[05-Jan-2023 10:49:05 Asia/Kolkata] PHP Warning:  include_once(../Services/sendsms_API1.php): failed to open stream: No such file or directory in /var/www/html/erpm/View/upload_esicard.php on line 11
+[05-Jan-2023 10:49:05 Asia/Kolkata] PHP Warning:  include_once(): Failed opening '../Services/sendsms_API1.php' for inclusion (include_path='.:/usr/share/php') in /var/www/html/erpm/View/upload_esicard.php on line 11
+[05-Jan-2023 10:49:13 Asia/Kolkata] PHP Warning:  include_once(../Services/sendsms_API1.php): failed to open stream: No such file or directory in /var/www/html/erpm/View/upload_esicard.php on line 11
+[05-Jan-2023 10:49:13 Asia/Kolkata] PHP Warning:  include_once(): Failed opening '../Services/sendsms_API1.php' for inclusion (include_path='.:/usr/share/php') in /var/www/html/erpm/View/upload_esicard.php on line 11
+[05-Jan-2023 10:49:21 Asia/Kolkata] PHP Warning:  include_once(../Services/sendsms_API1.php): failed to open stream: No such file or directory in /var/www/html/erpm/View/upload_esicard.php on line 11
+[05-Jan-2023 10:49:21 Asia/Kolkata] PHP Warning:  include_once(): Failed opening '../Services/sendsms_API1.php' for inclusion (include_path='.:/usr/share/php') in /var/www/html/erpm/View/upload_esicard.php on line 11
+[05-Jan-2023 10:49:28 Asia/Kolkata] PHP Notice:  Undefined index: __user_logid in /var/www/html/erpm/AppCode/nHead.php on line 2
+[05-Jan-2023 10:49:30 Asia/Kolkata] PHP Warning:  mysqli_stmt::bind_param(): Number of elements in type definition string doesn't match number of bind variables in /var/www/html/erpm/Controller/ConLog.php on line 464
+[05-Jan-2023 10:49:31 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /var/www/html/erpm/View/index.php on line 346
+[05-Jan-2023 10:49:37 Asia/Kolkata] PHP Warning:  include_once(../Services/sendsms_API1.php): failed to open stream: No such file or directory in /var/www/html/erpm/View/upload_esicard.php on line 11
+[05-Jan-2023 10:49:37 Asia/Kolkata] PHP Warning:  include_once(): Failed opening '../Services/sendsms_API1.php' for inclusion (include_path='.:/usr/share/php') in /var/www/html/erpm/View/upload_esicard.php on line 11
+[05-Jan-2023 10:49:41 Asia/Kolkata] PHP Notice:  Undefined index: from_date in /var/www/html/erpm/View/site_master_report.php on line 23
+[05-Jan-2023 10:49:41 Asia/Kolkata] PHP Notice:  Undefined index: to_date in /var/www/html/erpm/View/site_master_report.php on line 24
+[05-Jan-2023 10:49:41 Asia/Kolkata] PHP Notice:  Undefined variable: classvarr in /var/www/html/erpm/View/site_master_report.php on line 71
+[05-Jan-2023 10:49:45 Asia/Kolkata] PHP Warning:  include_once(../Services/sendsms_API1.php): failed to open stream: No such file or directory in /var/www/html/erpm/View/upload_esicard.php on line 11
+[05-Jan-2023 10:49:45 Asia/Kolkata] PHP Warning:  include_once(): Failed opening '../Services/sendsms_API1.php' for inclusion (include_path='.:/usr/share/php') in /var/www/html/erpm/View/upload_esicard.php on line 11
+[05-Jan-2023 10:49:52 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /var/www/html/erpm/View/index.php on line 346
+[05-Jan-2023 10:49:53 Asia/Kolkata] PHP Warning:  include_once(../Services/sendsms_API1.php): failed to open stream: No such file or directory in /var/www/html/erpm/View/upload_esicard.php on line 11
+[05-Jan-2023 10:49:53 Asia/Kolkata] PHP Warning:  include_once(): Failed opening '../Services/sendsms_API1.php' for inclusion (include_path='.:/usr/share/php') in /var/www/html/erpm/View/upload_esicard.php on line 11
+[05-Jan-2023 10:50:01 Asia/Kolkata] PHP Warning:  include_once(../Services/sendsms_API1.php): failed to open stream: No such file or directory in /var/www/html/erpm/View/upload_esicard.php on line 11
+[05-Jan-2023 10:50:01 Asia/Kolkata] PHP Warning:  include_once(): Failed opening '../Services/sendsms_API1.php' for inclusion (include_path='.:/usr/share/php') in /var/www/html/erpm/View/upload_esicard.php on line 11
+[05-Jan-2023 10:50:03 Asia/Kolkata] PHP Warning:  mysqli_stmt::bind_param(): Number of elements in type definition string doesn't match number of bind variables in /var/www/html/erpm/Controller/ConLog.php on line 464
+[05-Jan-2023 10:50:04 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /var/www/html/erpm/View/index.php on line 346
+[05-Jan-2023 10:50:09 Asia/Kolkata] PHP Warning:  include_once(../Services/sendsms_API1.php): failed to open stream: No such file or directory in /var/www/html/erpm/View/upload_esicard.php on line 11
+[05-Jan-2023 10:50:09 Asia/Kolkata] PHP Warning:  include_once(): Failed opening '../Services/sendsms_API1.php' for inclusion (include_path='.:/usr/share/php') in /var/www/html/erpm/View/upload_esicard.php on line 11
+[05-Jan-2023 10:50:17 Asia/Kolkata] PHP Warning:  include_once(../Services/sendsms_API1.php): failed to open stream: No such file or directory in /var/www/html/erpm/View/upload_esicard.php on line 11
+[05-Jan-2023 10:50:17 Asia/Kolkata] PHP Warning:  include_once(): Failed opening '../Services/sendsms_API1.php' for inclusion (include_path='.:/usr/share/php') in /var/www/html/erpm/View/upload_esicard.php on line 11
+[05-Jan-2023 10:50:20 Asia/Kolkata] PHP Notice:  Undefined index: __user_logid in /var/www/html/erpm/AppCode/nHead.php on line 2
+[05-Jan-2023 10:50:22 Asia/Kolkata] PHP Warning:  mysqli_stmt::bind_param(): Number of elements in type definition string doesn't match number of bind variables in /var/www/html/erpm/Controller/ConLog.php on line 464
+[05-Jan-2023 10:50:22 Asia/Kolkata] PHP Warning:  Use of undefined constant EMS_CenterName - assumed 'EMS_CenterName' (this will throw an Error in a future version of PHP) in /var/www/html/erpm/Controller/ConLog.php on line 470
+[05-Jan-2023 10:50:22 Asia/Kolkata] PHP Warning:  Use of undefined constant EMAIL_HOST - assumed 'EMAIL_HOST' (this will throw an Error in a future version of PHP) in /var/www/html/erpm/Controller/ConLog.php on line 473
+[05-Jan-2023 10:50:22 Asia/Kolkata] PHP Warning:  Use of undefined constant EMAIL_AUTH - assumed 'EMAIL_AUTH' (this will throw an Error in a future version of PHP) in /var/www/html/erpm/Controller/ConLog.php on line 474
+[05-Jan-2023 10:50:22 Asia/Kolkata] PHP Warning:  Use of undefined constant EMAIL_USER - assumed 'EMAIL_USER' (this will throw an Error in a future version of PHP) in /var/www/html/erpm/Controller/ConLog.php on line 475
+[05-Jan-2023 10:50:22 Asia/Kolkata] PHP Warning:  Use of undefined constant EMAIL_PASS - assumed 'EMAIL_PASS' (this will throw an Error in a future version of PHP) in /var/www/html/erpm/Controller/ConLog.php on line 476
+[05-Jan-2023 10:50:22 Asia/Kolkata] PHP Warning:  Use of undefined constant EMAIL_SMTPSecure - assumed 'EMAIL_SMTPSecure' (this will throw an Error in a future version of PHP) in /var/www/html/erpm/Controller/ConLog.php on line 477
+[05-Jan-2023 10:50:22 Asia/Kolkata] PHP Warning:  Use of undefined constant EMAIL_PORT - assumed 'EMAIL_PORT' (this will throw an Error in a future version of PHP) in /var/www/html/erpm/Controller/ConLog.php on line 478
+[05-Jan-2023 10:50:22 Asia/Kolkata] PHP Warning:  Use of undefined constant EMAIL_FROM - assumed 'EMAIL_FROM' (this will throw an Error in a future version of PHP) in /var/www/html/erpm/Controller/ConLog.php on line 479
+[05-Jan-2023 10:50:22 Asia/Kolkata] PHP Warning:  Use of undefined constant EMS_CenterName - assumed 'EMS_CenterName' (this will throw an Error in a future version of PHP) in /var/www/html/erpm/Controller/ConLog.php on line 482
+[05-Jan-2023 10:50:25 Asia/Kolkata] PHP Warning:  include_once(../Services/sendsms_API1.php): failed to open stream: No such file or directory in /var/www/html/erpm/View/upload_esicard.php on line 11
+[05-Jan-2023 10:50:25 Asia/Kolkata] PHP Warning:  include_once(): Failed opening '../Services/sendsms_API1.php' for inclusion (include_path='.:/usr/share/php') in /var/www/html/erpm/View/upload_esicard.php on line 11
+[05-Jan-2023 10:50:25 Asia/Kolkata] PHP Notice:  Undefined index: txt_dateFrom in /var/www/html/erpm/View/message-popup.php on line 27
+[05-Jan-2023 10:50:25 Asia/Kolkata] PHP Notice:  Undefined index: txt_dateto in /var/www/html/erpm/View/message-popup.php on line 34
+[05-Jan-2023 10:50:41 Asia/Kolkata] PHP Warning:  include_once(../Services/sendsms_API1.php): failed to open stream: No such file or directory in /var/www/html/erpm/View/upload_esicard.php on line 11
+[05-Jan-2023 10:50:41 Asia/Kolkata] PHP Warning:  include_once(): Failed opening '../Services/sendsms_API1.php' for inclusion (include_path='.:/usr/share/php') in /var/www/html/erpm/View/upload_esicard.php on line 11
+[05-Jan-2023 10:50:49 Asia/Kolkata] PHP Warning:  include_once(../Services/sendsms_API1.php): failed to open stream: No such file or directory in /var/www/html/erpm/View/upload_esicard.php on line 11
+[05-Jan-2023 10:50:49 Asia/Kolkata] PHP Warning:  include_once(): Failed opening '../Services/sendsms_API1.php' for inclusion (include_path='.:/usr/share/php') in /var/www/html/erpm/View/upload_esicard.php on line 11
+[05-Jan-2023 10:50:57 Asia/Kolkata] PHP Warning:  include_once(../Services/sendsms_API1.php): failed to open stream: No such file or directory in /var/www/html/erpm/View/upload_esicard.php on line 11
+[05-Jan-2023 10:50:57 Asia/Kolkata] PHP Warning:  include_once(): Failed opening '../Services/sendsms_API1.php' for inclusion (include_path='.:/usr/share/php') in /var/www/html/erpm/View/upload_esicard.php on line 11
+[05-Jan-2023 10:51:00 Asia/Kolkata] PHP Notice:  Undefined index: txt_dateFrom in /var/www/html/erpm/View/induction_hr.php on line 22
+[05-Jan-2023 10:51:00 Asia/Kolkata] PHP Notice:  Undefined index: txt_dateTo in /var/www/html/erpm/View/induction_hr.php on line 23
+[05-Jan-2023 10:51:00 Asia/Kolkata] PHP Notice:  Undefined index: ijp in /var/www/html/erpm/View/induction_hr.php on line 155
+[05-Jan-2023 10:51:00 Asia/Kolkata] PHP Notice:  Undefined variable: date_From in /var/www/html/erpm/View/induction_hr.php on line 163
+[05-Jan-2023 10:51:05 Asia/Kolkata] PHP Warning:  include_once(../Services/sendsms_API1.php): failed to open stream: No such file or directory in /var/www/html/erpm/View/upload_esicard.php on line 11
+[05-Jan-2023 10:51:05 Asia/Kolkata] PHP Warning:  include_once(): Failed opening '../Services/sendsms_API1.php' for inclusion (include_path='.:/usr/share/php') in /var/www/html/erpm/View/upload_esicard.php on line 11
+[05-Jan-2023 10:51:13 Asia/Kolkata] PHP Warning:  include_once(../Services/sendsms_API1.php): failed to open stream: No such file or directory in /var/www/html/erpm/View/upload_esicard.php on line 11
+[05-Jan-2023 10:51:13 Asia/Kolkata] PHP Warning:  include_once(): Failed opening '../Services/sendsms_API1.php' for inclusion (include_path='.:/usr/share/php') in /var/www/html/erpm/View/upload_esicard.php on line 11
+[05-Jan-2023 10:51:21 Asia/Kolkata] PHP Notice:  Undefined index: __user_logid in /var/www/html/erpm/AppCode/nHead.php on line 2
+[05-Jan-2023 10:51:21 Asia/Kolkata] PHP Warning:  include_once(../Services/sendsms_API1.php): failed to open stream: No such file or directory in /var/www/html/erpm/View/upload_esicard.php on line 11
+[05-Jan-2023 10:51:21 Asia/Kolkata] PHP Warning:  include_once(): Failed opening '../Services/sendsms_API1.php' for inclusion (include_path='.:/usr/share/php') in /var/www/html/erpm/View/upload_esicard.php on line 11
+[05-Jan-2023 10:51:24 Asia/Kolkata] PHP Notice:  Undefined index: ijp in /var/www/html/erpm/View/induction_hr.php on line 157
+[05-Jan-2023 10:51:24 Asia/Kolkata] PHP Notice:  Undefined variable: date_From in /var/www/html/erpm/View/induction_hr.php on line 165
+[05-Jan-2023 10:51:24 Asia/Kolkata] PHP Notice:  Undefined variable: txt_dateTo in /var/www/html/erpm/View/induction_hr.php on line 169
+[05-Jan-2023 10:51:29 Asia/Kolkata] PHP Warning:  include_once(../Services/sendsms_API1.php): failed to open stream: No such file or directory in /var/www/html/erpm/View/upload_esicard.php on line 11
+[05-Jan-2023 10:51:29 Asia/Kolkata] PHP Warning:  include_once(): Failed opening '../Services/sendsms_API1.php' for inclusion (include_path='.:/usr/share/php') in /var/www/html/erpm/View/upload_esicard.php on line 11
+[05-Jan-2023 10:51:35 Asia/Kolkata] PHP Notice:  Undefined index: ijp in /var/www/html/erpm/View/induction_hr.php on line 157
+[05-Jan-2023 10:51:35 Asia/Kolkata] PHP Notice:  Undefined variable: date_From in /var/www/html/erpm/View/induction_hr.php on line 165
+[05-Jan-2023 10:51:37 Asia/Kolkata] PHP Warning:  include_once(../Services/sendsms_API1.php): failed to open stream: No such file or directory in /var/www/html/erpm/View/upload_esicard.php on line 11
+[05-Jan-2023 10:51:37 Asia/Kolkata] PHP Warning:  include_once(): Failed opening '../Services/sendsms_API1.php' for inclusion (include_path='.:/usr/share/php') in /var/www/html/erpm/View/upload_esicard.php on line 11
+[05-Jan-2023 10:51:45 Asia/Kolkata] PHP Warning:  include_once(../Services/sendsms_API1.php): failed to open stream: No such file or directory in /var/www/html/erpm/View/upload_esicard.php on line 11
+[05-Jan-2023 10:51:45 Asia/Kolkata] PHP Warning:  include_once(): Failed opening '../Services/sendsms_API1.php' for inclusion (include_path='.:/usr/share/php') in /var/www/html/erpm/View/upload_esicard.php on line 11
+[05-Jan-2023 10:51:53 Asia/Kolkata] PHP Warning:  include_once(../Services/sendsms_API1.php): failed to open stream: No such file or directory in /var/www/html/erpm/View/upload_esicard.php on line 11
+[05-Jan-2023 10:51:53 Asia/Kolkata] PHP Warning:  include_once(): Failed opening '../Services/sendsms_API1.php' for inclusion (include_path='.:/usr/share/php') in /var/www/html/erpm/View/upload_esicard.php on line 11
+[05-Jan-2023 10:52:01 Asia/Kolkata] PHP Warning:  include_once(../Services/sendsms_API1.php): failed to open stream: No such file or directory in /var/www/html/erpm/View/upload_esicard.php on line 11
+[05-Jan-2023 10:52:01 Asia/Kolkata] PHP Warning:  include_once(): Failed opening '../Services/sendsms_API1.php' for inclusion (include_path='.:/usr/share/php') in /var/www/html/erpm/View/upload_esicard.php on line 11
+[05-Jan-2023 10:52:09 Asia/Kolkata] PHP Warning:  include_once(../Services/sendsms_API1.php): failed to open stream: No such file or directory in /var/www/html/erpm/View/upload_esicard.php on line 11
+[05-Jan-2023 10:52:09 Asia/Kolkata] PHP Warning:  include_once(): Failed opening '../Services/sendsms_API1.php' for inclusion (include_path='.:/usr/share/php') in /var/www/html/erpm/View/upload_esicard.php on line 11
+[05-Jan-2023 10:52:17 Asia/Kolkata] PHP Warning:  include_once(../Services/sendsms_API1.php): failed to open stream: No such file or directory in /var/www/html/erpm/View/upload_esicard.php on line 11
+[05-Jan-2023 10:52:17 Asia/Kolkata] PHP Warning:  include_once(): Failed opening '../Services/sendsms_API1.php' for inclusion (include_path='.:/usr/share/php') in /var/www/html/erpm/View/upload_esicard.php on line 11
+[05-Jan-2023 10:52:25 Asia/Kolkata] PHP Warning:  include_once(../Services/sendsms_API1.php): failed to open stream: No such file or directory in /var/www/html/erpm/View/upload_esicard.php on line 11
+[05-Jan-2023 10:52:25 Asia/Kolkata] PHP Warning:  include_once(): Failed opening '../Services/sendsms_API1.php' for inclusion (include_path='.:/usr/share/php') in /var/www/html/erpm/View/upload_esicard.php on line 11
+[05-Jan-2023 10:52:33 Asia/Kolkata] PHP Warning:  include_once(../Services/sendsms_API1.php): failed to open stream: No such file or directory in /var/www/html/erpm/View/upload_esicard.php on line 11
+[05-Jan-2023 10:52:33 Asia/Kolkata] PHP Warning:  include_once(): Failed opening '../Services/sendsms_API1.php' for inclusion (include_path='.:/usr/share/php') in /var/www/html/erpm/View/upload_esicard.php on line 11
+[05-Jan-2023 10:52:41 Asia/Kolkata] PHP Warning:  include_once(../Services/sendsms_API1.php): failed to open stream: No such file or directory in /var/www/html/erpm/View/upload_esicard.php on line 11
+[05-Jan-2023 10:52:41 Asia/Kolkata] PHP Warning:  include_once(): Failed opening '../Services/sendsms_API1.php' for inclusion (include_path='.:/usr/share/php') in /var/www/html/erpm/View/upload_esicard.php on line 11
+[05-Jan-2023 10:52:49 Asia/Kolkata] PHP Warning:  include_once(../Services/sendsms_API1.php): failed to open stream: No such file or directory in /var/www/html/erpm/View/upload_esicard.php on line 11
+[05-Jan-2023 10:52:49 Asia/Kolkata] PHP Warning:  include_once(): Failed opening '../Services/sendsms_API1.php' for inclusion (include_path='.:/usr/share/php') in /var/www/html/erpm/View/upload_esicard.php on line 11
+[05-Jan-2023 10:52:57 Asia/Kolkata] PHP Warning:  include_once(../Services/sendsms_API1.php): failed to open stream: No such file or directory in /var/www/html/erpm/View/upload_esicard.php on line 11
+[05-Jan-2023 10:52:57 Asia/Kolkata] PHP Warning:  include_once(): Failed opening '../Services/sendsms_API1.php' for inclusion (include_path='.:/usr/share/php') in /var/www/html/erpm/View/upload_esicard.php on line 11
+[05-Jan-2023 10:53:05 Asia/Kolkata] PHP Warning:  include_once(../Services/sendsms_API1.php): failed to open stream: No such file or directory in /var/www/html/erpm/View/upload_esicard.php on line 11
+[05-Jan-2023 10:53:05 Asia/Kolkata] PHP Warning:  include_once(): Failed opening '../Services/sendsms_API1.php' for inclusion (include_path='.:/usr/share/php') in /var/www/html/erpm/View/upload_esicard.php on line 11
+[05-Jan-2023 10:53:13 Asia/Kolkata] PHP Warning:  include_once(../Services/sendsms_API1.php): failed to open stream: No such file or directory in /var/www/html/erpm/View/upload_esicard.php on line 11
+[05-Jan-2023 10:53:13 Asia/Kolkata] PHP Warning:  include_once(): Failed opening '../Services/sendsms_API1.php' for inclusion (include_path='.:/usr/share/php') in /var/www/html/erpm/View/upload_esicard.php on line 11
+[05-Jan-2023 10:53:21 Asia/Kolkata] PHP Warning:  include_once(../Services/sendsms_API1.php): failed to open stream: No such file or directory in /var/www/html/erpm/View/upload_esicard.php on line 11
+[05-Jan-2023 10:53:21 Asia/Kolkata] PHP Warning:  include_once(): Failed opening '../Services/sendsms_API1.php' for inclusion (include_path='.:/usr/share/php') in /var/www/html/erpm/View/upload_esicard.php on line 11
+[05-Jan-2023 10:53:27 Asia/Kolkata] PHP Notice:  Undefined index: __user_logid in /var/www/html/erpm/AppCode/nHead.php on line 2
+[05-Jan-2023 10:53:29 Asia/Kolkata] PHP Warning:  include_once(../Services/sendsms_API1.php): failed to open stream: No such file or directory in /var/www/html/erpm/View/upload_esicard.php on line 11
+[05-Jan-2023 10:53:29 Asia/Kolkata] PHP Warning:  include_once(): Failed opening '../Services/sendsms_API1.php' for inclusion (include_path='.:/usr/share/php') in /var/www/html/erpm/View/upload_esicard.php on line 11
+[05-Jan-2023 10:53:37 Asia/Kolkata] PHP Warning:  include_once(../Services/sendsms_API1.php): failed to open stream: No such file or directory in /var/www/html/erpm/View/upload_esicard.php on line 11
+[05-Jan-2023 10:53:37 Asia/Kolkata] PHP Warning:  include_once(): Failed opening '../Services/sendsms_API1.php' for inclusion (include_path='.:/usr/share/php') in /var/www/html/erpm/View/upload_esicard.php on line 11
+[05-Jan-2023 10:53:42 Asia/Kolkata] PHP Notice:  Undefined index: __user_logid in /var/www/html/erpm/AppCode/nHead.php on line 2
+[05-Jan-2023 10:53:45 Asia/Kolkata] PHP Warning:  include_once(../Services/sendsms_API1.php): failed to open stream: No such file or directory in /var/www/html/erpm/View/upload_esicard.php on line 11
+[05-Jan-2023 10:53:45 Asia/Kolkata] PHP Warning:  include_once(): Failed opening '../Services/sendsms_API1.php' for inclusion (include_path='.:/usr/share/php') in /var/www/html/erpm/View/upload_esicard.php on line 11
+[05-Jan-2023 10:53:53 Asia/Kolkata] PHP Warning:  include_once(../Services/sendsms_API1.php): failed to open stream: No such file or directory in /var/www/html/erpm/View/upload_esicard.php on line 11
+[05-Jan-2023 10:53:53 Asia/Kolkata] PHP Warning:  include_once(): Failed opening '../Services/sendsms_API1.php' for inclusion (include_path='.:/usr/share/php') in /var/www/html/erpm/View/upload_esicard.php on line 11
+[05-Jan-2023 10:54:01 Asia/Kolkata] PHP Warning:  include_once(../Services/sendsms_API1.php): failed to open stream: No such file or directory in /var/www/html/erpm/View/upload_esicard.php on line 11
+[05-Jan-2023 10:54:01 Asia/Kolkata] PHP Warning:  include_once(): Failed opening '../Services/sendsms_API1.php' for inclusion (include_path='.:/usr/share/php') in /var/www/html/erpm/View/upload_esicard.php on line 11
+[05-Jan-2023 10:54:09 Asia/Kolkata] PHP Warning:  include_once(../Services/sendsms_API1.php): failed to open stream: No such file or directory in /var/www/html/erpm/View/upload_esicard.php on line 11
+[05-Jan-2023 10:54:09 Asia/Kolkata] PHP Warning:  include_once(): Failed opening '../Services/sendsms_API1.php' for inclusion (include_path='.:/usr/share/php') in /var/www/html/erpm/View/upload_esicard.php on line 11
+[05-Jan-2023 10:54:14 Asia/Kolkata] PHP Notice:  Undefined index: __user_logid in /var/www/html/erpm/AppCode/nHead.php on line 2
+[05-Jan-2023 10:54:17 Asia/Kolkata] PHP Warning:  include_once(../Services/sendsms_API1.php): failed to open stream: No such file or directory in /var/www/html/erpm/View/upload_esicard.php on line 11
+[05-Jan-2023 10:54:17 Asia/Kolkata] PHP Warning:  include_once(): Failed opening '../Services/sendsms_API1.php' for inclusion (include_path='.:/usr/share/php') in /var/www/html/erpm/View/upload_esicard.php on line 11
+[05-Jan-2023 10:54:25 Asia/Kolkata] PHP Warning:  include_once(../Services/sendsms_API1.php): failed to open stream: No such file or directory in /var/www/html/erpm/View/upload_esicard.php on line 11
+[05-Jan-2023 10:54:25 Asia/Kolkata] PHP Warning:  include_once(): Failed opening '../Services/sendsms_API1.php' for inclusion (include_path='.:/usr/share/php') in /var/www/html/erpm/View/upload_esicard.php on line 11
+[05-Jan-2023 10:54:33 Asia/Kolkata] PHP Warning:  include_once(../Services/sendsms_API1.php): failed to open stream: No such file or directory in /var/www/html/erpm/View/upload_esicard.php on line 11
+[05-Jan-2023 10:54:33 Asia/Kolkata] PHP Warning:  include_once(): Failed opening '../Services/sendsms_API1.php' for inclusion (include_path='.:/usr/share/php') in /var/www/html/erpm/View/upload_esicard.php on line 11
+[05-Jan-2023 10:54:41 Asia/Kolkata] PHP Warning:  include_once(../Services/sendsms_API1.php): failed to open stream: No such file or directory in /var/www/html/erpm/View/upload_esicard.php on line 11
+[05-Jan-2023 10:54:41 Asia/Kolkata] PHP Warning:  include_once(): Failed opening '../Services/sendsms_API1.php' for inclusion (include_path='.:/usr/share/php') in /var/www/html/erpm/View/upload_esicard.php on line 11
+[05-Jan-2023 10:54:46 Asia/Kolkata] PHP Notice:  Undefined index: txt_dateFrom in /var/www/html/erpm/View/message-popup.php on line 27
+[05-Jan-2023 10:54:46 Asia/Kolkata] PHP Notice:  Undefined index: txt_dateto in /var/www/html/erpm/View/message-popup.php on line 34
+[05-Jan-2023 10:54:49 Asia/Kolkata] PHP Warning:  include_once(../Services/sendsms_API1.php): failed to open stream: No such file or directory in /var/www/html/erpm/View/upload_esicard.php on line 11
+[05-Jan-2023 10:54:49 Asia/Kolkata] PHP Warning:  include_once(): Failed opening '../Services/sendsms_API1.php' for inclusion (include_path='.:/usr/share/php') in /var/www/html/erpm/View/upload_esicard.php on line 11
+[05-Jan-2023 10:54:57 Asia/Kolkata] PHP Warning:  include_once(../Services/sendsms_API1.php): failed to open stream: No such file or directory in /var/www/html/erpm/View/upload_esicard.php on line 11
+[05-Jan-2023 10:54:57 Asia/Kolkata] PHP Warning:  include_once(): Failed opening '../Services/sendsms_API1.php' for inclusion (include_path='.:/usr/share/php') in /var/www/html/erpm/View/upload_esicard.php on line 11
+[05-Jan-2023 10:55:02 Asia/Kolkata] PHP Notice:  Undefined index: txt_dateFrom in /var/www/html/erpm/View/message-popup.php on line 27
+[05-Jan-2023 10:55:02 Asia/Kolkata] PHP Notice:  Undefined index: txt_dateto in /var/www/html/erpm/View/message-popup.php on line 34
+[05-Jan-2023 10:55:05 Asia/Kolkata] PHP Warning:  include_once(../Services/sendsms_API1.php): failed to open stream: No such file or directory in /var/www/html/erpm/View/upload_esicard.php on line 11
+[05-Jan-2023 10:55:05 Asia/Kolkata] PHP Warning:  include_once(): Failed opening '../Services/sendsms_API1.php' for inclusion (include_path='.:/usr/share/php') in /var/www/html/erpm/View/upload_esicard.php on line 11
+[05-Jan-2023 10:55:13 Asia/Kolkata] PHP Warning:  include_once(../Services/sendsms_API1.php): failed to open stream: No such file or directory in /var/www/html/erpm/View/upload_esicard.php on line 11
+[05-Jan-2023 10:55:13 Asia/Kolkata] PHP Warning:  include_once(): Failed opening '../Services/sendsms_API1.php' for inclusion (include_path='.:/usr/share/php') in /var/www/html/erpm/View/upload_esicard.php on line 11
+[05-Jan-2023 10:55:21 Asia/Kolkata] PHP Warning:  include_once(../Services/sendsms_API1.php): failed to open stream: No such file or directory in /var/www/html/erpm/View/upload_esicard.php on line 11
+[05-Jan-2023 10:55:21 Asia/Kolkata] PHP Warning:  include_once(): Failed opening '../Services/sendsms_API1.php' for inclusion (include_path='.:/usr/share/php') in /var/www/html/erpm/View/upload_esicard.php on line 11
+[05-Jan-2023 10:55:29 Asia/Kolkata] PHP Warning:  include_once(../Services/sendsms_API1.php): failed to open stream: No such file or directory in /var/www/html/erpm/View/upload_esicard.php on line 11
+[05-Jan-2023 10:55:29 Asia/Kolkata] PHP Warning:  include_once(): Failed opening '../Services/sendsms_API1.php' for inclusion (include_path='.:/usr/share/php') in /var/www/html/erpm/View/upload_esicard.php on line 11
+[05-Jan-2023 10:55:37 Asia/Kolkata] PHP Warning:  include_once(../Services/sendsms_API1.php): failed to open stream: No such file or directory in /var/www/html/erpm/View/upload_esicard.php on line 11
+[05-Jan-2023 10:55:37 Asia/Kolkata] PHP Warning:  include_once(): Failed opening '../Services/sendsms_API1.php' for inclusion (include_path='.:/usr/share/php') in /var/www/html/erpm/View/upload_esicard.php on line 11
+[05-Jan-2023 10:55:45 Asia/Kolkata] PHP Warning:  include_once(../Services/sendsms_API1.php): failed to open stream: No such file or directory in /var/www/html/erpm/View/upload_esicard.php on line 11
+[05-Jan-2023 10:55:45 Asia/Kolkata] PHP Warning:  include_once(): Failed opening '../Services/sendsms_API1.php' for inclusion (include_path='.:/usr/share/php') in /var/www/html/erpm/View/upload_esicard.php on line 11
+[05-Jan-2023 10:55:53 Asia/Kolkata] PHP Warning:  include_once(../Services/sendsms_API1.php): failed to open stream: No such file or directory in /var/www/html/erpm/View/upload_esicard.php on line 11
+[05-Jan-2023 10:55:53 Asia/Kolkata] PHP Warning:  include_once(): Failed opening '../Services/sendsms_API1.php' for inclusion (include_path='.:/usr/share/php') in /var/www/html/erpm/View/upload_esicard.php on line 11
+[05-Jan-2023 10:56:01 Asia/Kolkata] PHP Warning:  include_once(../Services/sendsms_API1.php): failed to open stream: No such file or directory in /var/www/html/erpm/View/upload_esicard.php on line 11
+[05-Jan-2023 10:56:01 Asia/Kolkata] PHP Warning:  include_once(): Failed opening '../Services/sendsms_API1.php' for inclusion (include_path='.:/usr/share/php') in /var/www/html/erpm/View/upload_esicard.php on line 11
+[05-Jan-2023 10:56:09 Asia/Kolkata] PHP Warning:  include_once(../Services/sendsms_API1.php): failed to open stream: No such file or directory in /var/www/html/erpm/View/upload_esicard.php on line 11
+[05-Jan-2023 10:56:09 Asia/Kolkata] PHP Warning:  include_once(): Failed opening '../Services/sendsms_API1.php' for inclusion (include_path='.:/usr/share/php') in /var/www/html/erpm/View/upload_esicard.php on line 11
+[05-Jan-2023 10:56:17 Asia/Kolkata] PHP Warning:  include_once(../Services/sendsms_API1.php): failed to open stream: No such file or directory in /var/www/html/erpm/View/upload_esicard.php on line 11
+[05-Jan-2023 10:56:17 Asia/Kolkata] PHP Warning:  include_once(): Failed opening '../Services/sendsms_API1.php' for inclusion (include_path='.:/usr/share/php') in /var/www/html/erpm/View/upload_esicard.php on line 11
+[05-Jan-2023 10:56:25 Asia/Kolkata] PHP Warning:  include_once(../Services/sendsms_API1.php): failed to open stream: No such file or directory in /var/www/html/erpm/View/upload_esicard.php on line 11
+[05-Jan-2023 10:56:25 Asia/Kolkata] PHP Warning:  include_once(): Failed opening '../Services/sendsms_API1.php' for inclusion (include_path='.:/usr/share/php') in /var/www/html/erpm/View/upload_esicard.php on line 11
+[05-Jan-2023 10:56:34 Asia/Kolkata] PHP Warning:  include_once(../Services/sendsms_API1.php): failed to open stream: No such file or directory in /var/www/html/erpm/View/upload_esicard.php on line 11
+[05-Jan-2023 10:56:34 Asia/Kolkata] PHP Warning:  include_once(): Failed opening '../Services/sendsms_API1.php' for inclusion (include_path='.:/usr/share/php') in /var/www/html/erpm/View/upload_esicard.php on line 11
+[05-Jan-2023 10:56:42 Asia/Kolkata] PHP Warning:  include_once(../Services/sendsms_API1.php): failed to open stream: No such file or directory in /var/www/html/erpm/View/upload_esicard.php on line 11
+[05-Jan-2023 10:56:42 Asia/Kolkata] PHP Warning:  include_once(): Failed opening '../Services/sendsms_API1.php' for inclusion (include_path='.:/usr/share/php') in /var/www/html/erpm/View/upload_esicard.php on line 11
+[05-Jan-2023 10:56:50 Asia/Kolkata] PHP Warning:  include_once(../Services/sendsms_API1.php): failed to open stream: No such file or directory in /var/www/html/erpm/View/upload_esicard.php on line 11
+[05-Jan-2023 10:56:50 Asia/Kolkata] PHP Warning:  include_once(): Failed opening '../Services/sendsms_API1.php' for inclusion (include_path='.:/usr/share/php') in /var/www/html/erpm/View/upload_esicard.php on line 11
+[05-Jan-2023 10:56:58 Asia/Kolkata] PHP Warning:  include_once(../Services/sendsms_API1.php): failed to open stream: No such file or directory in /var/www/html/erpm/View/upload_esicard.php on line 11
+[05-Jan-2023 10:56:58 Asia/Kolkata] PHP Warning:  include_once(): Failed opening '../Services/sendsms_API1.php' for inclusion (include_path='.:/usr/share/php') in /var/www/html/erpm/View/upload_esicard.php on line 11
+[05-Jan-2023 10:57:06 Asia/Kolkata] PHP Warning:  include_once(../Services/sendsms_API1.php): failed to open stream: No such file or directory in /var/www/html/erpm/View/upload_esicard.php on line 11
+[05-Jan-2023 10:57:06 Asia/Kolkata] PHP Warning:  include_once(): Failed opening '../Services/sendsms_API1.php' for inclusion (include_path='.:/usr/share/php') in /var/www/html/erpm/View/upload_esicard.php on line 11
+[05-Jan-2023 10:57:14 Asia/Kolkata] PHP Warning:  include_once(../Services/sendsms_API1.php): failed to open stream: No such file or directory in /var/www/html/erpm/View/upload_esicard.php on line 11
+[05-Jan-2023 10:57:14 Asia/Kolkata] PHP Warning:  include_once(): Failed opening '../Services/sendsms_API1.php' for inclusion (include_path='.:/usr/share/php') in /var/www/html/erpm/View/upload_esicard.php on line 11
+[05-Jan-2023 10:57:22 Asia/Kolkata] PHP Warning:  include_once(../Services/sendsms_API1.php): failed to open stream: No such file or directory in /var/www/html/erpm/View/upload_esicard.php on line 11
+[05-Jan-2023 10:57:22 Asia/Kolkata] PHP Warning:  include_once(): Failed opening '../Services/sendsms_API1.php' for inclusion (include_path='.:/usr/share/php') in /var/www/html/erpm/View/upload_esicard.php on line 11
+[05-Jan-2023 10:57:30 Asia/Kolkata] PHP Warning:  include_once(../Services/sendsms_API1.php): failed to open stream: No such file or directory in /var/www/html/erpm/View/upload_esicard.php on line 11
+[05-Jan-2023 10:57:30 Asia/Kolkata] PHP Warning:  include_once(): Failed opening '../Services/sendsms_API1.php' for inclusion (include_path='.:/usr/share/php') in /var/www/html/erpm/View/upload_esicard.php on line 11
+[05-Jan-2023 10:57:38 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /var/www/html/erpm/View/message-popup.php on line 192
+[05-Jan-2023 10:57:46 Asia/Kolkata] PHP Warning:  include_once(../Services/sendsms_API1.php): failed to open stream: No such file or directory in /var/www/html/erpm/View/upload_esicard.php on line 11
+[05-Jan-2023 10:57:46 Asia/Kolkata] PHP Warning:  include_once(): Failed opening '../Services/sendsms_API1.php' for inclusion (include_path='.:/usr/share/php') in /var/www/html/erpm/View/upload_esicard.php on line 11
+[05-Jan-2023 10:57:54 Asia/Kolkata] PHP Warning:  include_once(../Services/sendsms_API1.php): failed to open stream: No such file or directory in /var/www/html/erpm/View/upload_esicard.php on line 11
+[05-Jan-2023 10:57:54 Asia/Kolkata] PHP Warning:  include_once(): Failed opening '../Services/sendsms_API1.php' for inclusion (include_path='.:/usr/share/php') in /var/www/html/erpm/View/upload_esicard.php on line 11
+[05-Jan-2023 10:58:02 Asia/Kolkata] PHP Warning:  include_once(../Services/sendsms_API1.php): failed to open stream: No such file or directory in /var/www/html/erpm/View/upload_esicard.php on line 11
+[05-Jan-2023 10:58:02 Asia/Kolkata] PHP Warning:  include_once(): Failed opening '../Services/sendsms_API1.php' for inclusion (include_path='.:/usr/share/php') in /var/www/html/erpm/View/upload_esicard.php on line 11
+[05-Jan-2023 10:58:10 Asia/Kolkata] PHP Warning:  include_once(../Services/sendsms_API1.php): failed to open stream: No such file or directory in /var/www/html/erpm/View/upload_esicard.php on line 11
+[05-Jan-2023 10:58:10 Asia/Kolkata] PHP Warning:  include_once(): Failed opening '../Services/sendsms_API1.php' for inclusion (include_path='.:/usr/share/php') in /var/www/html/erpm/View/upload_esicard.php on line 11
+[05-Jan-2023 10:58:18 Asia/Kolkata] PHP Warning:  include_once(../Services/sendsms_API1.php): failed to open stream: No such file or directory in /var/www/html/erpm/View/upload_esicard.php on line 11
+[05-Jan-2023 10:58:18 Asia/Kolkata] PHP Warning:  include_once(): Failed opening '../Services/sendsms_API1.php' for inclusion (include_path='.:/usr/share/php') in /var/www/html/erpm/View/upload_esicard.php on line 11
+[05-Jan-2023 10:58:26 Asia/Kolkata] PHP Warning:  include_once(../Services/sendsms_API1.php): failed to open stream: No such file or directory in /var/www/html/erpm/View/upload_esicard.php on line 11
+[05-Jan-2023 10:58:26 Asia/Kolkata] PHP Warning:  include_once(): Failed opening '../Services/sendsms_API1.php' for inclusion (include_path='.:/usr/share/php') in /var/www/html/erpm/View/upload_esicard.php on line 11
+[05-Jan-2023 10:58:34 Asia/Kolkata] PHP Warning:  include_once(../Services/sendsms_API1.php): failed to open stream: No such file or directory in /var/www/html/erpm/View/upload_esicard.php on line 11
+[05-Jan-2023 10:58:34 Asia/Kolkata] PHP Warning:  include_once(): Failed opening '../Services/sendsms_API1.php' for inclusion (include_path='.:/usr/share/php') in /var/www/html/erpm/View/upload_esicard.php on line 11
+[05-Jan-2023 10:58:42 Asia/Kolkata] PHP Warning:  include_once(../Services/sendsms_API1.php): failed to open stream: No such file or directory in /var/www/html/erpm/View/upload_esicard.php on line 11
+[05-Jan-2023 10:58:42 Asia/Kolkata] PHP Warning:  include_once(): Failed opening '../Services/sendsms_API1.php' for inclusion (include_path='.:/usr/share/php') in /var/www/html/erpm/View/upload_esicard.php on line 11
+[05-Jan-2023 10:58:50 Asia/Kolkata] PHP Warning:  include_once(../Services/sendsms_API1.php): failed to open stream: No such file or directory in /var/www/html/erpm/View/upload_esicard.php on line 11
+[05-Jan-2023 10:58:50 Asia/Kolkata] PHP Warning:  include_once(): Failed opening '../Services/sendsms_API1.php' for inclusion (include_path='.:/usr/share/php') in /var/www/html/erpm/View/upload_esicard.php on line 11
+[05-Jan-2023 10:58:58 Asia/Kolkata] PHP Warning:  include_once(../Services/sendsms_API1.php): failed to open stream: No such file or directory in /var/www/html/erpm/View/upload_esicard.php on line 11
+[05-Jan-2023 10:58:58 Asia/Kolkata] PHP Warning:  include_once(): Failed opening '../Services/sendsms_API1.php' for inclusion (include_path='.:/usr/share/php') in /var/www/html/erpm/View/upload_esicard.php on line 11
+[05-Jan-2023 10:59:06 Asia/Kolkata] PHP Warning:  include_once(../Services/sendsms_API1.php): failed to open stream: No such file or directory in /var/www/html/erpm/View/upload_esicard.php on line 11
+[05-Jan-2023 10:59:06 Asia/Kolkata] PHP Warning:  include_once(): Failed opening '../Services/sendsms_API1.php' for inclusion (include_path='.:/usr/share/php') in /var/www/html/erpm/View/upload_esicard.php on line 11
+[05-Jan-2023 10:59:14 Asia/Kolkata] PHP Warning:  include_once(../Services/sendsms_API1.php): failed to open stream: No such file or directory in /var/www/html/erpm/View/upload_esicard.php on line 11
+[05-Jan-2023 10:59:14 Asia/Kolkata] PHP Warning:  include_once(): Failed opening '../Services/sendsms_API1.php' for inclusion (include_path='.:/usr/share/php') in /var/www/html/erpm/View/upload_esicard.php on line 11
+[05-Jan-2023 10:59:22 Asia/Kolkata] PHP Warning:  include_once(../Services/sendsms_API1.php): failed to open stream: No such file or directory in /var/www/html/erpm/View/upload_esicard.php on line 11
+[05-Jan-2023 10:59:22 Asia/Kolkata] PHP Warning:  include_once(): Failed opening '../Services/sendsms_API1.php' for inclusion (include_path='.:/usr/share/php') in /var/www/html/erpm/View/upload_esicard.php on line 11
+[05-Jan-2023 10:59:30 Asia/Kolkata] PHP Warning:  include_once(../Services/sendsms_API1.php): failed to open stream: No such file or directory in /var/www/html/erpm/View/upload_esicard.php on line 11
+[05-Jan-2023 10:59:30 Asia/Kolkata] PHP Warning:  include_once(): Failed opening '../Services/sendsms_API1.php' for inclusion (include_path='.:/usr/share/php') in /var/www/html/erpm/View/upload_esicard.php on line 11
+[05-Jan-2023 10:59:38 Asia/Kolkata] PHP Warning:  include_once(../Services/sendsms_API1.php): failed to open stream: No such file or directory in /var/www/html/erpm/View/upload_esicard.php on line 11
+[05-Jan-2023 10:59:38 Asia/Kolkata] PHP Warning:  include_once(): Failed opening '../Services/sendsms_API1.php' for inclusion (include_path='.:/usr/share/php') in /var/www/html/erpm/View/upload_esicard.php on line 11
+[05-Jan-2023 10:59:46 Asia/Kolkata] PHP Warning:  include_once(../Services/sendsms_API1.php): failed to open stream: No such file or directory in /var/www/html/erpm/View/upload_esicard.php on line 11
+[05-Jan-2023 10:59:46 Asia/Kolkata] PHP Warning:  include_once(): Failed opening '../Services/sendsms_API1.php' for inclusion (include_path='.:/usr/share/php') in /var/www/html/erpm/View/upload_esicard.php on line 11
+[05-Jan-2023 10:59:54 Asia/Kolkata] PHP Warning:  include_once(../Services/sendsms_API1.php): failed to open stream: No such file or directory in /var/www/html/erpm/View/upload_esicard.php on line 11
+[05-Jan-2023 10:59:54 Asia/Kolkata] PHP Warning:  include_once(): Failed opening '../Services/sendsms_API1.php' for inclusion (include_path='.:/usr/share/php') in /var/www/html/erpm/View/upload_esicard.php on line 11

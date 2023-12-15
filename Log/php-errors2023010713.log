@@ -1,0 +1,19 @@
+[07-Jan-2023 13:32:05 Asia/Kolkata] PHP Notice:  Undefined index: __user_logid in /var/www/html/erpm/AppCode/nHead.php on line 2
+[07-Jan-2023 13:32:07 Asia/Kolkata] PHP Warning:  mysqli_stmt::bind_param(): Number of elements in type definition string doesn't match number of bind variables in /var/www/html/erpm/Controller/ConLog.php on line 464
+[07-Jan-2023 13:32:07 Asia/Kolkata] PHP Warning:  Use of undefined constant EMS_CenterName - assumed 'EMS_CenterName' (this will throw an Error in a future version of PHP) in /var/www/html/erpm/Controller/ConLog.php on line 470
+[07-Jan-2023 13:32:07 Asia/Kolkata] PHP Warning:  Use of undefined constant EMAIL_HOST - assumed 'EMAIL_HOST' (this will throw an Error in a future version of PHP) in /var/www/html/erpm/Controller/ConLog.php on line 473
+[07-Jan-2023 13:32:07 Asia/Kolkata] PHP Warning:  Use of undefined constant EMAIL_AUTH - assumed 'EMAIL_AUTH' (this will throw an Error in a future version of PHP) in /var/www/html/erpm/Controller/ConLog.php on line 474
+[07-Jan-2023 13:32:07 Asia/Kolkata] PHP Warning:  Use of undefined constant EMAIL_USER - assumed 'EMAIL_USER' (this will throw an Error in a future version of PHP) in /var/www/html/erpm/Controller/ConLog.php on line 475
+[07-Jan-2023 13:32:07 Asia/Kolkata] PHP Warning:  Use of undefined constant EMAIL_PASS - assumed 'EMAIL_PASS' (this will throw an Error in a future version of PHP) in /var/www/html/erpm/Controller/ConLog.php on line 476
+[07-Jan-2023 13:32:07 Asia/Kolkata] PHP Warning:  Use of undefined constant EMAIL_SMTPSecure - assumed 'EMAIL_SMTPSecure' (this will throw an Error in a future version of PHP) in /var/www/html/erpm/Controller/ConLog.php on line 477
+[07-Jan-2023 13:32:07 Asia/Kolkata] PHP Warning:  Use of undefined constant EMAIL_PORT - assumed 'EMAIL_PORT' (this will throw an Error in a future version of PHP) in /var/www/html/erpm/Controller/ConLog.php on line 478
+[07-Jan-2023 13:32:07 Asia/Kolkata] PHP Warning:  Use of undefined constant EMAIL_FROM - assumed 'EMAIL_FROM' (this will throw an Error in a future version of PHP) in /var/www/html/erpm/Controller/ConLog.php on line 479
+[07-Jan-2023 13:32:07 Asia/Kolkata] PHP Warning:  Use of undefined constant EMS_CenterName - assumed 'EMS_CenterName' (this will throw an Error in a future version of PHP) in /var/www/html/erpm/Controller/ConLog.php on line 482
+[07-Jan-2023 13:34:33 Asia/Kolkata] PHP Notice:  Undefined index: _s_user_type in /var/www/html/erpm/View/rpt_cycle.php on line 37
+[07-Jan-2023 13:36:44 Asia/Kolkata] PHP Notice:  Undefined index: _s_user_type in /var/www/html/erpm/View/rpt_cycle.php on line 37
+[07-Jan-2023 13:47:20 Asia/Kolkata] PHP Notice:  Undefined index: emp_status in /var/www/html/erpm/View/rpt_DownTime.php on line 137
+[07-Jan-2023 13:47:20 Asia/Kolkata] PHP Notice:  Undefined index: emp_status in /var/www/html/erpm/View/rpt_DownTime.php on line 142
+[07-Jan-2023 13:50:06 Asia/Kolkata] PHP Notice:  Undefined index: emp_status in /var/www/html/erpm/View/rpt_DownTime_for_it.php on line 102
+[07-Jan-2023 13:50:06 Asia/Kolkata] PHP Notice:  Undefined index: emp_status in /var/www/html/erpm/View/rpt_DownTime_for_it.php on line 106
+[07-Jan-2023 13:50:30 Asia/Kolkata] PHP Notice:  Undefined index: emp_status in /var/www/html/erpm/View/rpt_DownTime_for_it.php on line 102
+[07-Jan-2023 13:50:30 Asia/Kolkata] PHP Notice:  Undefined index: emp_status in /var/www/html/erpm/View/rpt_DownTime_for_it.php on line 106

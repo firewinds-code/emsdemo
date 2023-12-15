@@ -1,0 +1,56 @@
+[16-Jan-2023 11:52:20 Asia/Kolkata] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: YES) in C:\wamp64\www\emsdemo\AppData\Class\MysqliDb.php on line 291
+[16-Jan-2023 11:52:20 Asia/Kolkata] PHP Stack trace:
+[16-Jan-2023 11:52:20 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\emsdemo\View\index.php:0
+[16-Jan-2023 11:52:20 Asia/Kolkata] PHP   2. require_once() C:\wamp64\www\emsdemo\View\index.php:3
+[16-Jan-2023 11:52:20 Asia/Kolkata] PHP   3. MysqliDb->dbConnect() C:\wamp64\www\emsdemo\Config\init.php:92
+[16-Jan-2023 11:52:20 Asia/Kolkata] PHP   4. mysqli->__construct($hostname = 'localhost', $username = 'root', $password = 'asg@rd#123', $database = 'ems') C:\wamp64\www\emsdemo\AppData\Class\MysqliDb.php:291
+[16-Jan-2023 11:52:20 Asia/Kolkata] PHP Warning:  Undefined array key "__user_logid" in C:\wamp64\www\emsdemo\AppCode\nHead.php on line 2
+[16-Jan-2023 11:52:20 Asia/Kolkata] PHP Stack trace:
+[16-Jan-2023 11:52:20 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\emsdemo\View\index.php:0
+[16-Jan-2023 11:52:20 Asia/Kolkata] PHP   2. require() C:\wamp64\www\emsdemo\View\index.php:14
+[16-Jan-2023 11:53:34 Asia/Kolkata] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: YES) in C:\wamp64\www\emsdemo\AppData\Class\MysqliDb.php on line 291
+[16-Jan-2023 11:53:34 Asia/Kolkata] PHP Stack trace:
+[16-Jan-2023 11:53:34 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\emsdemo\View\index.php:0
+[16-Jan-2023 11:53:34 Asia/Kolkata] PHP   2. require_once() C:\wamp64\www\emsdemo\View\index.php:3
+[16-Jan-2023 11:53:34 Asia/Kolkata] PHP   3. MysqliDb->dbConnect() C:\wamp64\www\emsdemo\Config\init.php:92
+[16-Jan-2023 11:53:34 Asia/Kolkata] PHP   4. mysqli->__construct($hostname = 'localhost', $username = 'root', $password = 'asg@rd#123', $database = 'ems') C:\wamp64\www\emsdemo\AppData\Class\MysqliDb.php:291
+[16-Jan-2023 11:53:34 Asia/Kolkata] PHP Warning:  Undefined array key "__user_logid" in C:\wamp64\www\emsdemo\AppCode\nHead.php on line 2
+[16-Jan-2023 11:53:34 Asia/Kolkata] PHP Stack trace:
+[16-Jan-2023 11:53:34 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\emsdemo\View\index.php:0
+[16-Jan-2023 11:53:34 Asia/Kolkata] PHP   2. require() C:\wamp64\www\emsdemo\View\index.php:14
+[16-Jan-2023 11:54:17 Asia/Kolkata] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: YES) in C:\wamp64\www\emsdemo\AppData\Class\MysqliDb.php on line 291
+[16-Jan-2023 11:54:17 Asia/Kolkata] PHP Stack trace:
+[16-Jan-2023 11:54:17 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\emsdemo\View\index.php:0
+[16-Jan-2023 11:54:17 Asia/Kolkata] PHP   2. require_once() C:\wamp64\www\emsdemo\View\index.php:3
+[16-Jan-2023 11:54:17 Asia/Kolkata] PHP   3. MysqliDb->dbConnect() C:\wamp64\www\emsdemo\Config\init.php:92
+[16-Jan-2023 11:54:17 Asia/Kolkata] PHP   4. mysqli->__construct($hostname = 'localhost', $username = 'root', $password = 'asg@rd#123', $database = 'ems') C:\wamp64\www\emsdemo\AppData\Class\MysqliDb.php:291
+[16-Jan-2023 11:54:17 Asia/Kolkata] PHP Warning:  Undefined array key "__user_logid" in C:\wamp64\www\emsdemo\AppCode\nHead.php on line 2
+[16-Jan-2023 11:54:17 Asia/Kolkata] PHP Stack trace:
+[16-Jan-2023 11:54:17 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\emsdemo\View\index.php:0
+[16-Jan-2023 11:54:17 Asia/Kolkata] PHP   2. require() C:\wamp64\www\emsdemo\View\index.php:14
+[16-Jan-2023 11:54:17 Asia/Kolkata] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: YES) in C:\wamp64\www\emsdemo\AppData\Class\MysqliDb.php on line 291
+[16-Jan-2023 11:54:17 Asia/Kolkata] PHP Stack trace:
+[16-Jan-2023 11:54:17 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\emsdemo\View\Login.php:0
+[16-Jan-2023 11:54:17 Asia/Kolkata] PHP   2. require_once() C:\wamp64\www\emsdemo\View\Login.php:2
+[16-Jan-2023 11:54:17 Asia/Kolkata] PHP   3. MysqliDb->dbConnect() C:\wamp64\www\emsdemo\Config\init.php:92
+[16-Jan-2023 11:54:17 Asia/Kolkata] PHP   4. mysqli->__construct($hostname = 'localhost', $username = 'root', $password = 'asg@rd#123', $database = 'ems') C:\wamp64\www\emsdemo\AppData\Class\MysqliDb.php:291
+[16-Jan-2023 11:54:50 Asia/Kolkata] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: YES) in C:\wamp64\www\emsdemo\AppData\Class\MysqliDb.php on line 291
+[16-Jan-2023 11:54:50 Asia/Kolkata] PHP Stack trace:
+[16-Jan-2023 11:54:50 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\emsdemo\View\Login.php:0
+[16-Jan-2023 11:54:50 Asia/Kolkata] PHP   2. require_once() C:\wamp64\www\emsdemo\View\Login.php:2
+[16-Jan-2023 11:54:50 Asia/Kolkata] PHP   3. MysqliDb->dbConnect() C:\wamp64\www\emsdemo\Config\init.php:92
+[16-Jan-2023 11:54:50 Asia/Kolkata] PHP   4. mysqli->__construct($hostname = 'localhost', $username = 'root', $password = 'india@123', $database = 'ems') C:\wamp64\www\emsdemo\AppData\Class\MysqliDb.php:291
+[16-Jan-2023 11:54:51 Asia/Kolkata] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: YES) in C:\wamp64\www\emsdemo\AppData\Class\MysqliDb.php on line 291
+[16-Jan-2023 11:54:51 Asia/Kolkata] PHP Stack trace:
+[16-Jan-2023 11:54:51 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\emsdemo\View\Login.php:0
+[16-Jan-2023 11:54:51 Asia/Kolkata] PHP   2. require_once() C:\wamp64\www\emsdemo\View\Login.php:2
+[16-Jan-2023 11:54:51 Asia/Kolkata] PHP   3. MysqliDb->dbConnect() C:\wamp64\www\emsdemo\Config\init.php:92
+[16-Jan-2023 11:54:51 Asia/Kolkata] PHP   4. mysqli->__construct($hostname = 'localhost', $username = 'root', $password = 'india@123', $database = 'ems') C:\wamp64\www\emsdemo\AppData\Class\MysqliDb.php:291
+[16-Jan-2023 11:56:36 Asia/Kolkata] PHP Fatal error:  __autoload() is no longer supported, use spl_autoload_register() instead in C:\wamp64\www\emsdemo\AppData\lib\PHPMailer-master\PHPMailerAutoload.php on line 45
+[16-Jan-2023 11:56:36 Asia/Kolkata] PHP Stack trace:
+[16-Jan-2023 11:56:36 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\emsdemo\Controller\ConLog.php:0
+[16-Jan-2023 11:57:23 Asia/Kolkata] PHP Fatal error:  Uncaught ArgumentCountError: The number of elements in the type definition string must match the number of bind variables in C:\wamp64\www\emsdemo\Controller\ConLog.php:464
+Stack trace:
+#0 C:\wamp64\www\emsdemo\Controller\ConLog.php(464): mysqli_stmt->bind_param('sis', 'CE0821939593', '::1', '1', 'f1bd8d016e55f51...')
+#1 {main}
+  thrown in C:\wamp64\www\emsdemo\Controller\ConLog.php on line 464

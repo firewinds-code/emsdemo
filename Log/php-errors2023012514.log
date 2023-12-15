@@ -1,0 +1,26 @@
+[25-Jan-2023 14:00:48 Asia/Kolkata] PHP Warning:  Undefined array key "__user_logid" in C:\wamp64\www\emsdemo\AppCode\nHead.php on line 2
+[25-Jan-2023 14:00:48 Asia/Kolkata] PHP Stack trace:
+[25-Jan-2023 14:00:48 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\emsdemo\View\update_mobile_alert.php:0
+[25-Jan-2023 14:00:48 Asia/Kolkata] PHP   2. require() C:\wamp64\www\emsdemo\View\update_mobile_alert.php:5
+[25-Jan-2023 14:00:58 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in C:\wamp64\www\emsdemo\View\index.php on line 355
+[25-Jan-2023 14:00:58 Asia/Kolkata] PHP Stack trace:
+[25-Jan-2023 14:00:58 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\emsdemo\View\index.php:0
+[25-Jan-2023 14:20:22 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in C:\wamp64\www\emsdemo\View\index.php on line 355
+[25-Jan-2023 14:20:22 Asia/Kolkata] PHP Stack trace:
+[25-Jan-2023 14:20:22 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\emsdemo\View\index.php:0
+[25-Jan-2023 14:31:19 Asia/Kolkata] PHP Warning:  Undefined array key "__user_logid" in C:\wamp64\www\emsdemo\AppCode\nHead.php on line 2
+[25-Jan-2023 14:31:19 Asia/Kolkata] PHP Stack trace:
+[25-Jan-2023 14:31:19 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\emsdemo\View\update_mobile_alert.php:0
+[25-Jan-2023 14:31:19 Asia/Kolkata] PHP   2. require() C:\wamp64\www\emsdemo\View\update_mobile_alert.php:5
+[25-Jan-2023 14:31:28 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in C:\wamp64\www\emsdemo\View\index.php on line 355
+[25-Jan-2023 14:31:28 Asia/Kolkata] PHP Stack trace:
+[25-Jan-2023 14:31:28 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\emsdemo\View\index.php:0
+[25-Jan-2023 14:49:23 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in C:\wamp64\www\emsdemo\View\index.php on line 355
+[25-Jan-2023 14:49:23 Asia/Kolkata] PHP Stack trace:
+[25-Jan-2023 14:49:23 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\emsdemo\View\index.php:0
+[25-Jan-2023 14:49:35 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in C:\wamp64\www\emsdemo\View\index.php on line 355
+[25-Jan-2023 14:49:35 Asia/Kolkata] PHP Stack trace:
+[25-Jan-2023 14:49:35 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\emsdemo\View\index.php:0
+[25-Jan-2023 14:49:57 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in C:\wamp64\www\emsdemo\View\index.php on line 355
+[25-Jan-2023 14:49:57 Asia/Kolkata] PHP Stack trace:
+[25-Jan-2023 14:49:57 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\emsdemo\View\index.php:0

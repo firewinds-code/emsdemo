@@ -1,0 +1,32 @@
+[08-Feb-2023 12:04:12 Asia/Kolkata] PHP Warning:  Undefined array key "clientName" in C:\wamp64\www\emsdemo\View\rpt_Atnd_new.php on line 219
+[08-Feb-2023 12:04:12 Asia/Kolkata] PHP Stack trace:
+[08-Feb-2023 12:04:12 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\emsdemo\View\rpt_Atnd_new.php:0
+[08-Feb-2023 12:04:12 Asia/Kolkata] PHP Warning:  Undefined array key "txt_dateMonth" in C:\wamp64\www\emsdemo\View\rpt_Atnd_new.php on line 225
+[08-Feb-2023 12:04:12 Asia/Kolkata] PHP Stack trace:
+[08-Feb-2023 12:04:12 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\emsdemo\View\rpt_Atnd_new.php:0
+[08-Feb-2023 12:04:12 Asia/Kolkata] PHP Warning:  Undefined variable $monthCount in C:\wamp64\www\emsdemo\View\rpt_Atnd_new.php on line 230
+[08-Feb-2023 12:04:12 Asia/Kolkata] PHP Stack trace:
+[08-Feb-2023 12:04:12 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\emsdemo\View\rpt_Atnd_new.php:0
+[08-Feb-2023 12:04:12 Asia/Kolkata] PHP Warning:  Undefined variable $monthCount in C:\wamp64\www\emsdemo\View\rpt_Atnd_new.php on line 232
+[08-Feb-2023 12:04:12 Asia/Kolkata] PHP Stack trace:
+[08-Feb-2023 12:04:12 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\emsdemo\View\rpt_Atnd_new.php:0
+[08-Feb-2023 12:17:04 Asia/Kolkata] PHP Warning:  Undefined array key "sp" in C:\wamp64\www\emsdemo\View\textExport.php on line 34
+[08-Feb-2023 12:17:04 Asia/Kolkata] PHP Stack trace:
+[08-Feb-2023 12:17:04 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\emsdemo\View\textExport.php:0
+[08-Feb-2023 12:17:30 Asia/Kolkata] PHP Warning:  Undefined variable $con in C:\wamp64\www\emsdemo\View\textExport.php on line 43
+[08-Feb-2023 12:17:30 Asia/Kolkata] PHP Stack trace:
+[08-Feb-2023 12:17:30 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\emsdemo\View\textExport.php:0
+[08-Feb-2023 12:17:30 Asia/Kolkata] PHP Fatal error:  Uncaught TypeError: mysqli_query(): Argument #1 ($mysql) must be of type mysqli, null given in C:\wamp64\www\emsdemo\View\textExport.php:43
+Stack trace:
+#0 C:\wamp64\www\emsdemo\View\textExport.php(43): mysqli_query(NULL, 'call sp_get_atn...')
+#1 {main}
+  thrown in C:\wamp64\www\emsdemo\View\textExport.php on line 43
+[08-Feb-2023 12:29:00 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in C:\wamp64\www\emsdemo\View\index.php on line 356
+[08-Feb-2023 12:29:00 Asia/Kolkata] PHP Stack trace:
+[08-Feb-2023 12:29:00 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\emsdemo\View\index.php:0
+[08-Feb-2023 12:29:12 Asia/Kolkata] PHP Warning:  Undefined array key "emp_status" in C:\wamp64\www\emsdemo\View\rpt_Roster_new.php on line 199
+[08-Feb-2023 12:29:12 Asia/Kolkata] PHP Stack trace:
+[08-Feb-2023 12:29:12 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\emsdemo\View\rpt_Roster_new.php:0
+[08-Feb-2023 12:29:12 Asia/Kolkata] PHP Warning:  Undefined array key "emp_status" in C:\wamp64\www\emsdemo\View\rpt_Roster_new.php on line 203
+[08-Feb-2023 12:29:12 Asia/Kolkata] PHP Stack trace:
+[08-Feb-2023 12:29:12 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\emsdemo\View\rpt_Roster_new.php:0

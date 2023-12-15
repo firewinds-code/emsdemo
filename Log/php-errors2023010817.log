@@ -1,0 +1,6 @@
+[08-Jan-2023 17:34:12 Asia/Kolkata] PHP Notice:  Undefined index: to in /var/www/html/erpm/View/calcRange.php on line 42
+[08-Jan-2023 17:34:14 Asia/Kolkata] PHP Notice:  Object of class mysqli_result could not be converted to int in /var/www/html/erpm/View/calcRange.php on line 412
+[08-Jan-2023 17:34:14 Asia/Kolkata] PHP Notice:  Undefined index: 2023-01-07 in /var/www/html/erpm/View/calcRange.php on line 583
+[08-Jan-2023 17:34:14 Asia/Kolkata] PHP Notice:  Undefined index: 2023-01-07 in /var/www/html/erpm/View/calcRange.php on line 932
+[08-Jan-2023 17:34:14 Asia/Kolkata] PHP Notice:  Undefined index: 2023-01-07 in /var/www/html/erpm/View/calcRange.php on line 1225
+[08-Jan-2023 17:34:14 Asia/Kolkata] PHP Notice:  Array to string conversion in /var/www/html/erpm/View/calcRange.php on line 1559

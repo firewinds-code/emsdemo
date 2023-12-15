@@ -1,0 +1,41 @@
+[27-Sep-2023 16:08:13 Asia/Kolkata] PHP Warning:  Undefined array key "__nda_decl" in D:\wamp64\www\emsdemo\View\index.php on line 132
+[27-Sep-2023 16:08:13 Asia/Kolkata] PHP Stack trace:
+[27-Sep-2023 16:08:13 Asia/Kolkata] PHP   1. {main}() D:\wamp64\www\emsdemo\View\index.php:0
+[27-Sep-2023 16:08:13 Asia/Kolkata] PHP Warning:  Undefined array key "__isms_decl" in D:\wamp64\www\emsdemo\View\index.php on line 137
+[27-Sep-2023 16:08:13 Asia/Kolkata] PHP Stack trace:
+[27-Sep-2023 16:08:13 Asia/Kolkata] PHP   1. {main}() D:\wamp64\www\emsdemo\View\index.php:0
+[27-Sep-2023 16:08:13 Asia/Kolkata] PHP Warning:  Undefined array key "__asset_decl" in D:\wamp64\www\emsdemo\View\index.php on line 141
+[27-Sep-2023 16:08:13 Asia/Kolkata] PHP Stack trace:
+[27-Sep-2023 16:08:13 Asia/Kolkata] PHP   1. {main}() D:\wamp64\www\emsdemo\View\index.php:0
+[27-Sep-2023 16:08:14 Asia/Kolkata] PHP Warning:  Undefined variable $induction_popup_flag in D:\wamp64\www\emsdemo\View\index.php on line 436
+[27-Sep-2023 16:08:14 Asia/Kolkata] PHP Stack trace:
+[27-Sep-2023 16:08:14 Asia/Kolkata] PHP   1. {main}() D:\wamp64\www\emsdemo\View\index.php:0
+[27-Sep-2023 16:08:14 Asia/Kolkata] PHP Warning:  Undefined array key 0 in D:\wamp64\www\emsdemo\View\index.php on line 495
+[27-Sep-2023 16:08:14 Asia/Kolkata] PHP Stack trace:
+[27-Sep-2023 16:08:14 Asia/Kolkata] PHP   1. {main}() D:\wamp64\www\emsdemo\View\index.php:0
+[27-Sep-2023 16:08:14 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in D:\wamp64\www\emsdemo\View\index.php on line 495
+[27-Sep-2023 16:08:14 Asia/Kolkata] PHP Stack trace:
+[27-Sep-2023 16:08:14 Asia/Kolkata] PHP   1. {main}() D:\wamp64\www\emsdemo\View\index.php:0
+[27-Sep-2023 16:08:15 Asia/Kolkata] PHP Warning:  Undefined array key "__AppraisalMonth" in D:\wamp64\www\emsdemo\View\index.php on line 528
+[27-Sep-2023 16:08:15 Asia/Kolkata] PHP Stack trace:
+[27-Sep-2023 16:08:15 Asia/Kolkata] PHP   1. {main}() D:\wamp64\www\emsdemo\View\index.php:0
+[27-Sep-2023 16:08:15 Asia/Kolkata] PHP Deprecated:  stripslashes(): Passing null to parameter #1 ($string) of type string is deprecated in D:\wamp64\www\emsdemo\Config\init.php on line 122
+[27-Sep-2023 16:08:15 Asia/Kolkata] PHP Stack trace:
+[27-Sep-2023 16:08:15 Asia/Kolkata] PHP   1. {main}() D:\wamp64\www\emsdemo\View\index.php:0
+[27-Sep-2023 16:08:15 Asia/Kolkata] PHP   2. clean($data = NULL) D:\wamp64\www\emsdemo\View\index.php:528
+[27-Sep-2023 16:08:15 Asia/Kolkata] PHP   3. stripslashes($string = NULL) D:\wamp64\www\emsdemo\Config\init.php:122
+[27-Sep-2023 16:08:15 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in D:\wamp64\www\emsdemo\View\index.php on line 536
+[27-Sep-2023 16:08:15 Asia/Kolkata] PHP Stack trace:
+[27-Sep-2023 16:08:15 Asia/Kolkata] PHP   1. {main}() D:\wamp64\www\emsdemo\View\index.php:0
+[27-Sep-2023 16:08:16 Asia/Kolkata] PHP Warning:  Undefined variable $induction_popup_flag in D:\wamp64\www\emsdemo\View\index.php on line 1226
+[27-Sep-2023 16:08:16 Asia/Kolkata] PHP Stack trace:
+[27-Sep-2023 16:08:16 Asia/Kolkata] PHP   1. {main}() D:\wamp64\www\emsdemo\View\index.php:0
+[27-Sep-2023 16:08:16 Asia/Kolkata] PHP Warning:  Undefined array key "param" in D:\wamp64\www\emsdemo\View\index.php on line 1240
+[27-Sep-2023 16:08:16 Asia/Kolkata] PHP Stack trace:
+[27-Sep-2023 16:08:16 Asia/Kolkata] PHP   1. {main}() D:\wamp64\www\emsdemo\View\index.php:0
+[27-Sep-2023 16:30:36 Asia/Kolkata] PHP Fatal error:  Array and string offset access syntax with curly braces is no longer supported in D:\wamp64\www\emsdemo\AppData\lib\PHPExcel\Shared\String.php on line 529
+[27-Sep-2023 16:30:36 Asia/Kolkata] PHP Stack trace:
+[27-Sep-2023 16:30:36 Asia/Kolkata] PHP   1. {main}() D:\wamp64\www\emsdemo\View\module_master_new.php:0
+[27-Sep-2023 16:30:36 Asia/Kolkata] PHP   2. require_once() D:\wamp64\www\emsdemo\View\module_master_new.php:10
+[27-Sep-2023 16:30:36 Asia/Kolkata] PHP   3. require() D:\wamp64\www\emsdemo\AppData\lib\PHPExcel\IOFactory.php:35
+[27-Sep-2023 16:30:36 Asia/Kolkata] PHP   4. PHPExcel_Autoloader::Load($pClassName = 'PHPExcel_Shared_String') D:\wamp64\www\emsdemo\AppData\lib\PHPExcel\Autoloader.php:36

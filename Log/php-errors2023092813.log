@@ -1,0 +1,4 @@
+[28-Sep-2023 13:01:03 Asia/Kolkata] PHP Fatal error:  Uncaught TypeError: count(): Argument #1 ($value) must be of type Countable|array, null given in D:\wamp64\www\emsdemo\View\rpt_ref_register.php:194
+Stack trace:
+#0 {main}
+  thrown in D:\wamp64\www\emsdemo\View\rpt_ref_register.php on line 194

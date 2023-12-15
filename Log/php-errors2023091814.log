@@ -1,0 +1,44 @@
+[18-Sep-2023 14:28:13 Asia/Kolkata] PHP Warning:  Undefined array key "__user_logid" in D:\wamp64\www\emsdemo\AppCode\nHead.php on line 2
+[18-Sep-2023 14:28:13 Asia/Kolkata] PHP Stack trace:
+[18-Sep-2023 14:28:13 Asia/Kolkata] PHP   1. {main}() D:\wamp64\www\emsdemo\View\ithdk_handle_mails.php:0
+[18-Sep-2023 14:28:13 Asia/Kolkata] PHP   2. require() D:\wamp64\www\emsdemo\View\ithdk_handle_mails.php:9
+[18-Sep-2023 14:28:34 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in D:\wamp64\www\emsdemo\View\index.php on line 356
+[18-Sep-2023 14:28:34 Asia/Kolkata] PHP Stack trace:
+[18-Sep-2023 14:28:34 Asia/Kolkata] PHP   1. {main}() D:\wamp64\www\emsdemo\View\index.php:0
+[18-Sep-2023 14:28:34 Asia/Kolkata] PHP Deprecated:  stripslashes(): Passing null to parameter #1 ($string) of type string is deprecated in D:\wamp64\www\emsdemo\Config\init.php on line 122
+[18-Sep-2023 14:28:34 Asia/Kolkata] PHP Stack trace:
+[18-Sep-2023 14:28:34 Asia/Kolkata] PHP   1. {main}() D:\wamp64\www\emsdemo\View\index.php:0
+[18-Sep-2023 14:28:34 Asia/Kolkata] PHP   2. clean($data = NULL) D:\wamp64\www\emsdemo\View\index.php:356
+[18-Sep-2023 14:28:34 Asia/Kolkata] PHP   3. stripslashes($string = NULL) D:\wamp64\www\emsdemo\Config\init.php:122
+[18-Sep-2023 14:30:10 Asia/Kolkata] PHP Warning:  Undefined array key "CogentC121" in D:\wamp64\www\emsdemo\View\ithdk_handle_mails.php on line 46
+[18-Sep-2023 14:30:10 Asia/Kolkata] PHP Stack trace:
+[18-Sep-2023 14:30:10 Asia/Kolkata] PHP   1. {main}() D:\wamp64\www\emsdemo\View\ithdk_handle_mails.php:0
+[18-Sep-2023 14:30:10 Asia/Kolkata] PHP Warning:  Undefined array key "CogentC100" in D:\wamp64\www\emsdemo\View\ithdk_handle_mails.php on line 48
+[18-Sep-2023 14:30:10 Asia/Kolkata] PHP Stack trace:
+[18-Sep-2023 14:30:10 Asia/Kolkata] PHP   1. {main}() D:\wamp64\www\emsdemo\View\ithdk_handle_mails.php:0
+[18-Sep-2023 14:30:10 Asia/Kolkata] PHP Warning:  Undefined array key "CogentA61" in D:\wamp64\www\emsdemo\View\ithdk_handle_mails.php on line 50
+[18-Sep-2023 14:30:10 Asia/Kolkata] PHP Stack trace:
+[18-Sep-2023 14:30:10 Asia/Kolkata] PHP   1. {main}() D:\wamp64\www\emsdemo\View\ithdk_handle_mails.php:0
+[18-Sep-2023 14:30:10 Asia/Kolkata] PHP Warning:  Undefined array key "Vadodara" in D:\wamp64\www\emsdemo\View\ithdk_handle_mails.php on line 56
+[18-Sep-2023 14:30:10 Asia/Kolkata] PHP Stack trace:
+[18-Sep-2023 14:30:10 Asia/Kolkata] PHP   1. {main}() D:\wamp64\www\emsdemo\View\ithdk_handle_mails.php:0
+[18-Sep-2023 14:30:10 Asia/Kolkata] PHP Warning:  Undefined array key "MangaloreRajTower" in D:\wamp64\www\emsdemo\View\ithdk_handle_mails.php on line 58
+[18-Sep-2023 14:30:10 Asia/Kolkata] PHP Stack trace:
+[18-Sep-2023 14:30:10 Asia/Kolkata] PHP   1. {main}() D:\wamp64\www\emsdemo\View\ithdk_handle_mails.php:0
+[18-Sep-2023 14:30:10 Asia/Kolkata] PHP Warning:  Undefined array key "MangaloreFortune" in D:\wamp64\www\emsdemo\View\ithdk_handle_mails.php on line 60
+[18-Sep-2023 14:30:10 Asia/Kolkata] PHP Stack trace:
+[18-Sep-2023 14:30:10 Asia/Kolkata] PHP   1. {main}() D:\wamp64\www\emsdemo\View\ithdk_handle_mails.php:0
+[18-Sep-2023 14:30:11 Asia/Kolkata] PHP Warning:  Undefined array key "Meerut" in D:\wamp64\www\emsdemo\View\ithdk_handle_mails.php on line 62
+[18-Sep-2023 14:30:11 Asia/Kolkata] PHP Stack trace:
+[18-Sep-2023 14:30:11 Asia/Kolkata] PHP   1. {main}() D:\wamp64\www\emsdemo\View\ithdk_handle_mails.php:0
+[18-Sep-2023 14:30:11 Asia/Kolkata] PHP Warning:  Undefined array key "Bareilly" in D:\wamp64\www\emsdemo\View\ithdk_handle_mails.php on line 64
+[18-Sep-2023 14:30:11 Asia/Kolkata] PHP Stack trace:
+[18-Sep-2023 14:30:11 Asia/Kolkata] PHP   1. {main}() D:\wamp64\www\emsdemo\View\ithdk_handle_mails.php:0
+[18-Sep-2023 14:39:20 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in D:\wamp64\www\emsdemo\View\index.php on line 356
+[18-Sep-2023 14:39:20 Asia/Kolkata] PHP Stack trace:
+[18-Sep-2023 14:39:20 Asia/Kolkata] PHP   1. {main}() D:\wamp64\www\emsdemo\View\index.php:0
+[18-Sep-2023 14:39:20 Asia/Kolkata] PHP Deprecated:  stripslashes(): Passing null to parameter #1 ($string) of type string is deprecated in D:\wamp64\www\emsdemo\Config\init.php on line 122
+[18-Sep-2023 14:39:20 Asia/Kolkata] PHP Stack trace:
+[18-Sep-2023 14:39:20 Asia/Kolkata] PHP   1. {main}() D:\wamp64\www\emsdemo\View\index.php:0
+[18-Sep-2023 14:39:20 Asia/Kolkata] PHP   2. clean($data = NULL) D:\wamp64\www\emsdemo\View\index.php:356
+[18-Sep-2023 14:39:20 Asia/Kolkata] PHP   3. stripslashes($string = NULL) D:\wamp64\www\emsdemo\Config\init.php:122

@@ -1,0 +1,54 @@
+[24-Jan-2023 12:08:51 Asia/Kolkata] PHP Warning:  Undefined array key "__user_logid" in C:\wamp64\www\emsdemo\AppCode\nHead.php on line 2
+[24-Jan-2023 12:08:51 Asia/Kolkata] PHP Stack trace:
+[24-Jan-2023 12:08:51 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\emsdemo\View\update_mobile_alert.php:0
+[24-Jan-2023 12:08:51 Asia/Kolkata] PHP   2. require() C:\wamp64\www\emsdemo\View\update_mobile_alert.php:5
+[24-Jan-2023 12:09:27 Asia/Kolkata] PHP Warning:  Undefined array key "txt_dateFrom" in C:\wamp64\www\emsdemo\View\tataaig_report.php on line 84
+[24-Jan-2023 12:09:27 Asia/Kolkata] PHP Stack trace:
+[24-Jan-2023 12:09:27 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\emsdemo\View\tataaig_report.php:0
+[24-Jan-2023 12:09:27 Asia/Kolkata] PHP Warning:  Undefined array key "txt_dateTo" in C:\wamp64\www\emsdemo\View\tataaig_report.php on line 85
+[24-Jan-2023 12:09:27 Asia/Kolkata] PHP Stack trace:
+[24-Jan-2023 12:09:27 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\emsdemo\View\tataaig_report.php:0
+[24-Jan-2023 12:11:05 Asia/Kolkata] PHP Warning:  Undefined variable $date_From in C:\wamp64\www\emsdemo\View\tataaig_report.php on line 18
+[24-Jan-2023 12:11:05 Asia/Kolkata] PHP Stack trace:
+[24-Jan-2023 12:11:05 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\emsdemo\View\tataaig_report.php:0
+[24-Jan-2023 12:11:05 Asia/Kolkata] PHP Warning:  Undefined variable $date_To in C:\wamp64\www\emsdemo\View\tataaig_report.php on line 18
+[24-Jan-2023 12:11:05 Asia/Kolkata] PHP Stack trace:
+[24-Jan-2023 12:11:05 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\emsdemo\View\tataaig_report.php:0
+[24-Jan-2023 12:11:05 Asia/Kolkata] PHP Fatal error:  Uncaught Exception: Problem preparing query (select EmployeeID, EmpName,designation,createdon from tataaig_decl where cast(createdon as date) between '' and '' order by createdon) Incorrect DATE value: '' in C:\wamp64\www\emsdemo\AppData\Class\MysqliDb.php:1514
+Stack trace:
+#0 C:\wamp64\www\emsdemo\AppData\Class\MysqliDb.php(1127): MysqliDb->_prepareQuery()
+#1 C:\wamp64\www\emsdemo\AppData\Class\MysqliDb.php(495): MysqliDb->_buildQuery(NULL)
+#2 C:\wamp64\www\emsdemo\View\tataaig_report.php(20): MysqliDb->query('select Employee...')
+#3 {main}
+  thrown in C:\wamp64\www\emsdemo\AppData\Class\MysqliDb.php on line 1514
+[24-Jan-2023 12:11:24 Asia/Kolkata] PHP Warning:  Undefined variable $date_From in C:\wamp64\www\emsdemo\View\tataaig_report.php on line 17
+[24-Jan-2023 12:11:24 Asia/Kolkata] PHP Stack trace:
+[24-Jan-2023 12:11:24 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\emsdemo\View\tataaig_report.php:0
+[24-Jan-2023 12:11:24 Asia/Kolkata] PHP Warning:  Undefined variable $date_To in C:\wamp64\www\emsdemo\View\tataaig_report.php on line 17
+[24-Jan-2023 12:11:24 Asia/Kolkata] PHP Stack trace:
+[24-Jan-2023 12:11:24 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\emsdemo\View\tataaig_report.php:0
+[24-Jan-2023 12:11:24 Asia/Kolkata] PHP Fatal error:  Uncaught Exception: Problem preparing query (select EmployeeID, EmpName,designation,createdon from tataaig_decl where cast(createdon as date) between '' and '' order by createdon) Incorrect DATE value: '' in C:\wamp64\www\emsdemo\AppData\Class\MysqliDb.php:1514
+Stack trace:
+#0 C:\wamp64\www\emsdemo\AppData\Class\MysqliDb.php(1127): MysqliDb->_prepareQuery()
+#1 C:\wamp64\www\emsdemo\AppData\Class\MysqliDb.php(495): MysqliDb->_buildQuery(NULL)
+#2 C:\wamp64\www\emsdemo\View\tataaig_report.php(19): MysqliDb->query('select Employee...')
+#3 {main}
+  thrown in C:\wamp64\www\emsdemo\AppData\Class\MysqliDb.php on line 1514
+[24-Jan-2023 12:17:12 Asia/Kolkata] PHP Warning:  Undefined array key "txt_dateFrom" in C:\wamp64\www\emsdemo\View\tataaig_report.php on line 117
+[24-Jan-2023 12:17:12 Asia/Kolkata] PHP Stack trace:
+[24-Jan-2023 12:17:12 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\emsdemo\View\tataaig_report.php:0
+[24-Jan-2023 12:17:12 Asia/Kolkata] PHP Warning:  Undefined array key "txt_dateTo" in C:\wamp64\www\emsdemo\View\tataaig_report.php on line 118
+[24-Jan-2023 12:17:12 Asia/Kolkata] PHP Stack trace:
+[24-Jan-2023 12:17:12 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\emsdemo\View\tataaig_report.php:0
+[24-Jan-2023 12:23:07 Asia/Kolkata] PHP Warning:  Undefined variable $date_From in C:\wamp64\www\emsdemo\View\tataaig_report.php on line 94
+[24-Jan-2023 12:23:07 Asia/Kolkata] PHP Stack trace:
+[24-Jan-2023 12:23:07 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\emsdemo\View\tataaig_report.php:0
+[24-Jan-2023 12:23:07 Asia/Kolkata] PHP Warning:  Undefined variable $date_To in C:\wamp64\www\emsdemo\View\tataaig_report.php on line 98
+[24-Jan-2023 12:23:07 Asia/Kolkata] PHP Stack trace:
+[24-Jan-2023 12:23:07 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\emsdemo\View\tataaig_report.php:0
+[24-Jan-2023 12:24:42 Asia/Kolkata] PHP Warning:  Undefined variable $father_name in C:\wamp64\www\emsdemo\View\tata_aig_declaration_self.php on line 86
+[24-Jan-2023 12:24:42 Asia/Kolkata] PHP Stack trace:
+[24-Jan-2023 12:24:42 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\emsdemo\View\tata_aig_declaration_self.php:0
+[24-Jan-2023 12:31:17 Asia/Kolkata] PHP Warning:  Undefined variable $father_name in C:\wamp64\www\emsdemo\View\tata_aig_declaration_self.php on line 86
+[24-Jan-2023 12:31:17 Asia/Kolkata] PHP Stack trace:
+[24-Jan-2023 12:31:17 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\emsdemo\View\tata_aig_declaration_self.php:0

@@ -1,0 +1,539 @@
+[05-Jan-2023 18:12:14 Asia/Kolkata] PHP Notice:  Undefined index: __user_logid in /var/www/html/erpm/AppCode/nHead.php on line 2
+[05-Jan-2023 18:12:29 Asia/Kolkata] PHP Warning:  mysqli_stmt::bind_param(): Number of elements in type definition string doesn't match number of bind variables in /var/www/html/erpm/Controller/ConLog.php on line 464
+[05-Jan-2023 18:12:29 Asia/Kolkata] PHP Warning:  Use of undefined constant EMS_CenterName - assumed 'EMS_CenterName' (this will throw an Error in a future version of PHP) in /var/www/html/erpm/Controller/ConLog.php on line 470
+[05-Jan-2023 18:12:29 Asia/Kolkata] PHP Warning:  Use of undefined constant EMAIL_HOST - assumed 'EMAIL_HOST' (this will throw an Error in a future version of PHP) in /var/www/html/erpm/Controller/ConLog.php on line 473
+[05-Jan-2023 18:12:29 Asia/Kolkata] PHP Warning:  Use of undefined constant EMAIL_AUTH - assumed 'EMAIL_AUTH' (this will throw an Error in a future version of PHP) in /var/www/html/erpm/Controller/ConLog.php on line 474
+[05-Jan-2023 18:12:29 Asia/Kolkata] PHP Warning:  Use of undefined constant EMAIL_USER - assumed 'EMAIL_USER' (this will throw an Error in a future version of PHP) in /var/www/html/erpm/Controller/ConLog.php on line 475
+[05-Jan-2023 18:12:29 Asia/Kolkata] PHP Warning:  Use of undefined constant EMAIL_PASS - assumed 'EMAIL_PASS' (this will throw an Error in a future version of PHP) in /var/www/html/erpm/Controller/ConLog.php on line 476
+[05-Jan-2023 18:12:29 Asia/Kolkata] PHP Warning:  Use of undefined constant EMAIL_SMTPSecure - assumed 'EMAIL_SMTPSecure' (this will throw an Error in a future version of PHP) in /var/www/html/erpm/Controller/ConLog.php on line 477
+[05-Jan-2023 18:12:29 Asia/Kolkata] PHP Warning:  Use of undefined constant EMAIL_PORT - assumed 'EMAIL_PORT' (this will throw an Error in a future version of PHP) in /var/www/html/erpm/Controller/ConLog.php on line 478
+[05-Jan-2023 18:12:29 Asia/Kolkata] PHP Warning:  Use of undefined constant EMAIL_FROM - assumed 'EMAIL_FROM' (this will throw an Error in a future version of PHP) in /var/www/html/erpm/Controller/ConLog.php on line 479
+[05-Jan-2023 18:12:29 Asia/Kolkata] PHP Warning:  Use of undefined constant EMS_CenterName - assumed 'EMS_CenterName' (this will throw an Error in a future version of PHP) in /var/www/html/erpm/Controller/ConLog.php on line 482
+[05-Jan-2023 18:12:32 Asia/Kolkata] PHP Notice:  Undefined index: txt_dateFrom in /var/www/html/erpm/View/message-popup.php on line 27
+[05-Jan-2023 18:12:32 Asia/Kolkata] PHP Notice:  Undefined index: txt_dateto in /var/www/html/erpm/View/message-popup.php on line 34
+[05-Jan-2023 18:12:52 Asia/Kolkata] PHP Notice:  Undefined index: __user_logid in /var/www/html/erpm/AppCode/nHead.php on line 2
+[05-Jan-2023 18:13:03 Asia/Kolkata] PHP Warning:  mysqli_stmt::bind_param(): Number of elements in type definition string doesn't match number of bind variables in /var/www/html/erpm/Controller/ConLog.php on line 464
+[05-Jan-2023 18:13:05 Asia/Kolkata] PHP Notice:  Undefined index: __user_logid in /var/www/html/erpm/AppCode/nHead.php on line 2
+[05-Jan-2023 18:13:05 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /var/www/html/erpm/View/index.php on line 346
+[05-Jan-2023 18:13:08 Asia/Kolkata] PHP Warning:  mysqli_stmt::bind_param(): Number of elements in type definition string doesn't match number of bind variables in /var/www/html/erpm/Controller/ConLog.php on line 464
+[05-Jan-2023 18:13:15 Asia/Kolkata] PHP Notice:  Undefined index: __user_logid in /var/www/html/erpm/AppCode/nHead.php on line 2
+[05-Jan-2023 18:13:22 Asia/Kolkata] PHP Warning:  mysqli_stmt::bind_param(): Number of elements in type definition string doesn't match number of bind variables in /var/www/html/erpm/Controller/ConLog.php on line 464
+[05-Jan-2023 18:13:31 Asia/Kolkata] PHP Notice:  Undefined index: txt_dateMonth in /var/www/html/erpm/View/team_atnd.php on line 32
+[05-Jan-2023 18:13:35 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /var/www/html/erpm/View/team_atnd.php on line 247
+[05-Jan-2023 18:13:35 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /var/www/html/erpm/View/team_atnd.php on line 319
+[05-Jan-2023 18:13:37 Asia/Kolkata] PHP Notice:  Undefined index: txt_dateMonth in /var/www/html/erpm/View/team_atnd.php on line 32
+[05-Jan-2023 18:13:40 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /var/www/html/erpm/View/team_atnd.php on line 247
+[05-Jan-2023 18:13:40 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /var/www/html/erpm/View/team_atnd.php on line 319
+[05-Jan-2023 18:13:44 Asia/Kolkata] PHP Warning:  mysqli_stmt::bind_param(): Number of elements in type definition string doesn't match number of bind variables in /var/www/html/erpm/Controller/ConLog.php on line 464
+[05-Jan-2023 18:13:45 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /var/www/html/erpm/View/index.php on line 346
+[05-Jan-2023 18:13:47 Asia/Kolkata] PHP Notice:  Undefined index: emp_status in /var/www/html/erpm/View/rpt_Roster_for_rt.php on line 176
+[05-Jan-2023 18:13:47 Asia/Kolkata] PHP Notice:  Undefined index: emp_status in /var/www/html/erpm/View/rpt_Roster_for_rt.php on line 180
+[05-Jan-2023 18:13:50 Asia/Kolkata] PHP Notice:  Undefined index: txt_dateFor in /var/www/html/erpm/View/rpt_WeeklyRoster.php on line 30
+[05-Jan-2023 18:13:50 Asia/Kolkata] PHP Notice:  Undefined index: txt_Process in /var/www/html/erpm/View/rpt_WeeklyRoster.php on line 37
+[05-Jan-2023 18:13:51 Asia/Kolkata] PHP Notice:  Undefined index: txt_Process in /var/www/html/erpm/View/rpt_WeeklyRoster.php on line 191
+[05-Jan-2023 18:13:51 Asia/Kolkata] PHP Warning:  mysqli_stmt::bind_param(): Number of elements in type definition string doesn't match number of bind variables in /var/www/html/erpm/Controller/ConLog.php on line 464
+[05-Jan-2023 18:13:51 Asia/Kolkata] PHP Warning:  Use of undefined constant EMS_CenterName - assumed 'EMS_CenterName' (this will throw an Error in a future version of PHP) in /var/www/html/erpm/Controller/ConLog.php on line 470
+[05-Jan-2023 18:13:51 Asia/Kolkata] PHP Warning:  Use of undefined constant EMAIL_HOST - assumed 'EMAIL_HOST' (this will throw an Error in a future version of PHP) in /var/www/html/erpm/Controller/ConLog.php on line 473
+[05-Jan-2023 18:13:51 Asia/Kolkata] PHP Warning:  Use of undefined constant EMAIL_AUTH - assumed 'EMAIL_AUTH' (this will throw an Error in a future version of PHP) in /var/www/html/erpm/Controller/ConLog.php on line 474
+[05-Jan-2023 18:13:51 Asia/Kolkata] PHP Warning:  Use of undefined constant EMAIL_USER - assumed 'EMAIL_USER' (this will throw an Error in a future version of PHP) in /var/www/html/erpm/Controller/ConLog.php on line 475
+[05-Jan-2023 18:13:51 Asia/Kolkata] PHP Warning:  Use of undefined constant EMAIL_PASS - assumed 'EMAIL_PASS' (this will throw an Error in a future version of PHP) in /var/www/html/erpm/Controller/ConLog.php on line 476
+[05-Jan-2023 18:13:51 Asia/Kolkata] PHP Warning:  Use of undefined constant EMAIL_SMTPSecure - assumed 'EMAIL_SMTPSecure' (this will throw an Error in a future version of PHP) in /var/www/html/erpm/Controller/ConLog.php on line 477
+[05-Jan-2023 18:13:51 Asia/Kolkata] PHP Warning:  Use of undefined constant EMAIL_PORT - assumed 'EMAIL_PORT' (this will throw an Error in a future version of PHP) in /var/www/html/erpm/Controller/ConLog.php on line 478
+[05-Jan-2023 18:13:51 Asia/Kolkata] PHP Warning:  Use of undefined constant EMAIL_FROM - assumed 'EMAIL_FROM' (this will throw an Error in a future version of PHP) in /var/www/html/erpm/Controller/ConLog.php on line 479
+[05-Jan-2023 18:13:51 Asia/Kolkata] PHP Warning:  Use of undefined constant EMS_CenterName - assumed 'EMS_CenterName' (this will throw an Error in a future version of PHP) in /var/www/html/erpm/Controller/ConLog.php on line 482
+[05-Jan-2023 18:13:54 Asia/Kolkata] PHP Notice:  Undefined index: emp_status in /var/www/html/erpm/View/rpt_Roster_for_rt.php on line 176
+[05-Jan-2023 18:13:54 Asia/Kolkata] PHP Notice:  Undefined index: emp_status in /var/www/html/erpm/View/rpt_Roster_for_rt.php on line 180
+[05-Jan-2023 18:13:54 Asia/Kolkata] PHP Notice:  Undefined index: txt_dateFrom in /var/www/html/erpm/View/message-popup.php on line 27
+[05-Jan-2023 18:13:54 Asia/Kolkata] PHP Notice:  Undefined index: txt_dateto in /var/www/html/erpm/View/message-popup.php on line 34
+[05-Jan-2023 18:13:57 Asia/Kolkata] PHP Notice:  Undefined index: txt_dateFor in /var/www/html/erpm/View/rpt_WeeklyRoster.php on line 30
+[05-Jan-2023 18:13:57 Asia/Kolkata] PHP Notice:  Undefined index: txt_Process in /var/www/html/erpm/View/rpt_WeeklyRoster.php on line 37
+[05-Jan-2023 18:13:57 Asia/Kolkata] PHP Notice:  Undefined index: txt_Process in /var/www/html/erpm/View/rpt_WeeklyRoster.php on line 191
+[05-Jan-2023 18:15:22 Asia/Kolkata] PHP Notice:  Undefined index: txt_dateMonth in /var/www/html/erpm/View/team_atnd.php on line 32
+[05-Jan-2023 18:15:26 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /var/www/html/erpm/View/team_atnd.php on line 247
+[05-Jan-2023 18:15:26 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /var/www/html/erpm/View/team_atnd.php on line 319
+[05-Jan-2023 18:15:57 Asia/Kolkata] PHP Notice:  Undefined index: txt_dateMonth in /var/www/html/erpm/View/team_atnd.php on line 32
+[05-Jan-2023 18:16:01 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /var/www/html/erpm/View/team_atnd.php on line 247
+[05-Jan-2023 18:16:01 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /var/www/html/erpm/View/team_atnd.php on line 319
+[05-Jan-2023 18:16:08 Asia/Kolkata] PHP Notice:  Undefined index: travel_date in /var/www/html/erpm/View/expenses.php on line 60
+[05-Jan-2023 18:16:08 Asia/Kolkata] PHP Notice:  Undefined index: placeFrom in /var/www/html/erpm/View/expenses.php on line 61
+[05-Jan-2023 18:16:08 Asia/Kolkata] PHP Notice:  Undefined index: placeTO in /var/www/html/erpm/View/expenses.php on line 62
+[05-Jan-2023 18:16:08 Asia/Kolkata] PHP Notice:  Undefined index: modeOftravel in /var/www/html/erpm/View/expenses.php on line 63
+[05-Jan-2023 18:16:08 Asia/Kolkata] PHP Notice:  Undefined index: receipt_no in /var/www/html/erpm/View/expenses.php on line 66
+[05-Jan-2023 18:16:08 Asia/Kolkata] PHP Notice:  Undefined index: remarks in /var/www/html/erpm/View/expenses.php on line 68
+[05-Jan-2023 18:16:08 Asia/Kolkata] PHP Notice:  Undefined index: returnDate in /var/www/html/erpm/View/expenses.php on line 74
+[05-Jan-2023 18:16:08 Asia/Kolkata] PHP Notice:  Undefined index: car_km in /var/www/html/erpm/View/expenses.php on line 75
+[05-Jan-2023 18:16:21 Asia/Kolkata] PHP Notice:  Undefined index: txt_dateMonth in /var/www/html/erpm/View/team_atnd.php on line 32
+[05-Jan-2023 18:16:24 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /var/www/html/erpm/View/team_atnd.php on line 247
+[05-Jan-2023 18:16:24 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /var/www/html/erpm/View/team_atnd.php on line 319
+[05-Jan-2023 18:16:34 Asia/Kolkata] PHP Notice:  Undefined index: emp_status in /var/www/html/erpm/View/rpt_Roster_for_rt.php on line 176
+[05-Jan-2023 18:16:34 Asia/Kolkata] PHP Notice:  Undefined index: emp_status in /var/www/html/erpm/View/rpt_Roster_for_rt.php on line 180
+[05-Jan-2023 18:18:17 Asia/Kolkata] PHP Notice:  Undefined index: __user_logid in /var/www/html/erpm/AppCode/nHead.php on line 2
+[05-Jan-2023 18:18:25 Asia/Kolkata] PHP Warning:  mysqli_stmt::bind_param(): Number of elements in type definition string doesn't match number of bind variables in /var/www/html/erpm/Controller/ConLog.php on line 464
+[05-Jan-2023 18:23:20 Asia/Kolkata] PHP Notice:  Undefined index: travel_date in /var/www/html/erpm/View/expenses.php on line 60
+[05-Jan-2023 18:23:20 Asia/Kolkata] PHP Notice:  Undefined index: placeFrom in /var/www/html/erpm/View/expenses.php on line 61
+[05-Jan-2023 18:23:20 Asia/Kolkata] PHP Notice:  Undefined index: placeTO in /var/www/html/erpm/View/expenses.php on line 62
+[05-Jan-2023 18:23:20 Asia/Kolkata] PHP Notice:  Undefined index: modeOftravel in /var/www/html/erpm/View/expenses.php on line 63
+[05-Jan-2023 18:23:20 Asia/Kolkata] PHP Notice:  Undefined index: receipt_no in /var/www/html/erpm/View/expenses.php on line 66
+[05-Jan-2023 18:23:20 Asia/Kolkata] PHP Notice:  Undefined index: remarks in /var/www/html/erpm/View/expenses.php on line 68
+[05-Jan-2023 18:23:20 Asia/Kolkata] PHP Notice:  Undefined index: returnDate in /var/www/html/erpm/View/expenses.php on line 74
+[05-Jan-2023 18:23:20 Asia/Kolkata] PHP Notice:  Undefined index: car_km in /var/www/html/erpm/View/expenses.php on line 75
+[05-Jan-2023 18:23:24 Asia/Kolkata] PHP Notice:  Undefined index: travel_date in /var/www/html/erpm/View/expenses.php on line 60
+[05-Jan-2023 18:23:24 Asia/Kolkata] PHP Notice:  Undefined index: placeFrom in /var/www/html/erpm/View/expenses.php on line 61
+[05-Jan-2023 18:23:24 Asia/Kolkata] PHP Notice:  Undefined index: placeTO in /var/www/html/erpm/View/expenses.php on line 62
+[05-Jan-2023 18:23:24 Asia/Kolkata] PHP Notice:  Undefined index: modeOftravel in /var/www/html/erpm/View/expenses.php on line 63
+[05-Jan-2023 18:23:24 Asia/Kolkata] PHP Notice:  Undefined index: receipt_no in /var/www/html/erpm/View/expenses.php on line 66
+[05-Jan-2023 18:23:24 Asia/Kolkata] PHP Notice:  Undefined index: remarks in /var/www/html/erpm/View/expenses.php on line 68
+[05-Jan-2023 18:23:24 Asia/Kolkata] PHP Notice:  Undefined index: returnDate in /var/www/html/erpm/View/expenses.php on line 74
+[05-Jan-2023 18:23:24 Asia/Kolkata] PHP Notice:  Undefined index: car_km in /var/www/html/erpm/View/expenses.php on line 75
+[05-Jan-2023 18:23:24 Asia/Kolkata] PHP Notice:  Undefined index: amount in /var/www/html/erpm/View/expenses.php on line 585
+[05-Jan-2023 18:24:05 Asia/Kolkata] PHP Notice:  Undefined index: cm_id in /var/www/html/erpm/View/manage_consultancy.php on line 235
+[05-Jan-2023 18:24:05 Asia/Kolkata] PHP Notice:  Undefined index: client_id in /var/www/html/erpm/View/manage_consultancy.php on line 240
+[05-Jan-2023 18:24:05 Asia/Kolkata] PHP Notice:  Undefined index: sub_process in /var/www/html/erpm/View/manage_consultancy.php on line 240
+[05-Jan-2023 18:24:05 Asia/Kolkata] PHP Notice:  Undefined index: cm_id in /var/www/html/erpm/View/manage_consultancy.php on line 240
+[05-Jan-2023 18:24:05 Asia/Kolkata] PHP Notice:  Undefined index: Client_info in /var/www/html/erpm/View/manage_consultancy.php on line 240
+[05-Jan-2023 18:24:05 Asia/Kolkata] PHP Notice:  Undefined index: cm_id in /var/www/html/erpm/View/manage_consultancy.php on line 235
+[05-Jan-2023 18:24:05 Asia/Kolkata] PHP Notice:  Undefined index: client_id in /var/www/html/erpm/View/manage_consultancy.php on line 240
+[05-Jan-2023 18:24:05 Asia/Kolkata] PHP Notice:  Undefined index: sub_process in /var/www/html/erpm/View/manage_consultancy.php on line 240
+[05-Jan-2023 18:24:05 Asia/Kolkata] PHP Notice:  Undefined index: cm_id in /var/www/html/erpm/View/manage_consultancy.php on line 240
+[05-Jan-2023 18:24:05 Asia/Kolkata] PHP Notice:  Undefined index: Client_info in /var/www/html/erpm/View/manage_consultancy.php on line 240
+[05-Jan-2023 18:24:05 Asia/Kolkata] PHP Notice:  Undefined index: cm_id in /var/www/html/erpm/View/manage_consultancy.php on line 235
+[05-Jan-2023 18:24:05 Asia/Kolkata] PHP Notice:  Undefined index: client_id in /var/www/html/erpm/View/manage_consultancy.php on line 240
+[05-Jan-2023 18:24:05 Asia/Kolkata] PHP Notice:  Undefined index: sub_process in /var/www/html/erpm/View/manage_consultancy.php on line 240
+[05-Jan-2023 18:24:05 Asia/Kolkata] PHP Notice:  Undefined index: cm_id in /var/www/html/erpm/View/manage_consultancy.php on line 240
+[05-Jan-2023 18:24:05 Asia/Kolkata] PHP Notice:  Undefined index: Client_info in /var/www/html/erpm/View/manage_consultancy.php on line 240
+[05-Jan-2023 18:24:05 Asia/Kolkata] PHP Notice:  Undefined index: cm_id in /var/www/html/erpm/View/manage_consultancy.php on line 235
+[05-Jan-2023 18:24:05 Asia/Kolkata] PHP Notice:  Undefined index: client_id in /var/www/html/erpm/View/manage_consultancy.php on line 240
+[05-Jan-2023 18:24:05 Asia/Kolkata] PHP Notice:  Undefined index: sub_process in /var/www/html/erpm/View/manage_consultancy.php on line 240
+[05-Jan-2023 18:24:05 Asia/Kolkata] PHP Notice:  Undefined index: cm_id in /var/www/html/erpm/View/manage_consultancy.php on line 240
+[05-Jan-2023 18:24:05 Asia/Kolkata] PHP Notice:  Undefined index: Client_info in /var/www/html/erpm/View/manage_consultancy.php on line 240
+[05-Jan-2023 18:24:05 Asia/Kolkata] PHP Notice:  Undefined index: cm_id in /var/www/html/erpm/View/manage_consultancy.php on line 235
+[05-Jan-2023 18:24:05 Asia/Kolkata] PHP Notice:  Undefined index: client_id in /var/www/html/erpm/View/manage_consultancy.php on line 240
+[05-Jan-2023 18:24:05 Asia/Kolkata] PHP Notice:  Undefined index: sub_process in /var/www/html/erpm/View/manage_consultancy.php on line 240
+[05-Jan-2023 18:24:05 Asia/Kolkata] PHP Notice:  Undefined index: cm_id in /var/www/html/erpm/View/manage_consultancy.php on line 240
+[05-Jan-2023 18:24:05 Asia/Kolkata] PHP Notice:  Undefined index: Client_info in /var/www/html/erpm/View/manage_consultancy.php on line 240
+[05-Jan-2023 18:24:05 Asia/Kolkata] PHP Notice:  Undefined index: cm_id in /var/www/html/erpm/View/manage_consultancy.php on line 235
+[05-Jan-2023 18:24:05 Asia/Kolkata] PHP Notice:  Undefined index: client_id in /var/www/html/erpm/View/manage_consultancy.php on line 240
+[05-Jan-2023 18:24:05 Asia/Kolkata] PHP Notice:  Undefined index: sub_process in /var/www/html/erpm/View/manage_consultancy.php on line 240
+[05-Jan-2023 18:24:05 Asia/Kolkata] PHP Notice:  Undefined index: cm_id in /var/www/html/erpm/View/manage_consultancy.php on line 240
+[05-Jan-2023 18:24:05 Asia/Kolkata] PHP Notice:  Undefined index: Client_info in /var/www/html/erpm/View/manage_consultancy.php on line 240
+[05-Jan-2023 18:24:05 Asia/Kolkata] PHP Notice:  Undefined index: cm_id in /var/www/html/erpm/View/manage_consultancy.php on line 235
+[05-Jan-2023 18:24:05 Asia/Kolkata] PHP Notice:  Undefined index: client_id in /var/www/html/erpm/View/manage_consultancy.php on line 240
+[05-Jan-2023 18:24:05 Asia/Kolkata] PHP Notice:  Undefined index: sub_process in /var/www/html/erpm/View/manage_consultancy.php on line 240
+[05-Jan-2023 18:24:05 Asia/Kolkata] PHP Notice:  Undefined index: cm_id in /var/www/html/erpm/View/manage_consultancy.php on line 240
+[05-Jan-2023 18:24:05 Asia/Kolkata] PHP Notice:  Undefined index: Client_info in /var/www/html/erpm/View/manage_consultancy.php on line 240
+[05-Jan-2023 18:24:05 Asia/Kolkata] PHP Notice:  Undefined index: cm_id in /var/www/html/erpm/View/manage_consultancy.php on line 235
+[05-Jan-2023 18:24:05 Asia/Kolkata] PHP Notice:  Undefined index: client_id in /var/www/html/erpm/View/manage_consultancy.php on line 240
+[05-Jan-2023 18:24:05 Asia/Kolkata] PHP Notice:  Undefined index: sub_process in /var/www/html/erpm/View/manage_consultancy.php on line 240
+[05-Jan-2023 18:24:05 Asia/Kolkata] PHP Notice:  Undefined index: cm_id in /var/www/html/erpm/View/manage_consultancy.php on line 240
+[05-Jan-2023 18:24:05 Asia/Kolkata] PHP Notice:  Undefined index: Client_info in /var/www/html/erpm/View/manage_consultancy.php on line 240
+[05-Jan-2023 18:24:05 Asia/Kolkata] PHP Notice:  Undefined index: cm_id in /var/www/html/erpm/View/manage_consultancy.php on line 235
+[05-Jan-2023 18:24:05 Asia/Kolkata] PHP Notice:  Undefined index: client_id in /var/www/html/erpm/View/manage_consultancy.php on line 240
+[05-Jan-2023 18:24:05 Asia/Kolkata] PHP Notice:  Undefined index: sub_process in /var/www/html/erpm/View/manage_consultancy.php on line 240
+[05-Jan-2023 18:24:05 Asia/Kolkata] PHP Notice:  Undefined index: cm_id in /var/www/html/erpm/View/manage_consultancy.php on line 240
+[05-Jan-2023 18:24:05 Asia/Kolkata] PHP Notice:  Undefined index: Client_info in /var/www/html/erpm/View/manage_consultancy.php on line 240
+[05-Jan-2023 18:24:26 Asia/Kolkata] PHP Notice:  Undefined index: cm_id in /var/www/html/erpm/View/manage_consultancy.php on line 235
+[05-Jan-2023 18:24:26 Asia/Kolkata] PHP Notice:  Undefined index: client_id in /var/www/html/erpm/View/manage_consultancy.php on line 240
+[05-Jan-2023 18:24:26 Asia/Kolkata] PHP Notice:  Undefined index: sub_process in /var/www/html/erpm/View/manage_consultancy.php on line 240
+[05-Jan-2023 18:24:26 Asia/Kolkata] PHP Notice:  Undefined index: cm_id in /var/www/html/erpm/View/manage_consultancy.php on line 240
+[05-Jan-2023 18:24:26 Asia/Kolkata] PHP Notice:  Undefined index: Client_info in /var/www/html/erpm/View/manage_consultancy.php on line 240
+[05-Jan-2023 18:24:26 Asia/Kolkata] PHP Notice:  Undefined index: cm_id in /var/www/html/erpm/View/manage_consultancy.php on line 235
+[05-Jan-2023 18:24:26 Asia/Kolkata] PHP Notice:  Undefined index: client_id in /var/www/html/erpm/View/manage_consultancy.php on line 240
+[05-Jan-2023 18:24:26 Asia/Kolkata] PHP Notice:  Undefined index: sub_process in /var/www/html/erpm/View/manage_consultancy.php on line 240
+[05-Jan-2023 18:24:26 Asia/Kolkata] PHP Notice:  Undefined index: cm_id in /var/www/html/erpm/View/manage_consultancy.php on line 240
+[05-Jan-2023 18:24:26 Asia/Kolkata] PHP Notice:  Undefined index: Client_info in /var/www/html/erpm/View/manage_consultancy.php on line 240
+[05-Jan-2023 18:24:26 Asia/Kolkata] PHP Notice:  Undefined index: cm_id in /var/www/html/erpm/View/manage_consultancy.php on line 235
+[05-Jan-2023 18:24:26 Asia/Kolkata] PHP Notice:  Undefined index: client_id in /var/www/html/erpm/View/manage_consultancy.php on line 240
+[05-Jan-2023 18:24:26 Asia/Kolkata] PHP Notice:  Undefined index: sub_process in /var/www/html/erpm/View/manage_consultancy.php on line 240
+[05-Jan-2023 18:24:26 Asia/Kolkata] PHP Notice:  Undefined index: cm_id in /var/www/html/erpm/View/manage_consultancy.php on line 240
+[05-Jan-2023 18:24:26 Asia/Kolkata] PHP Notice:  Undefined index: Client_info in /var/www/html/erpm/View/manage_consultancy.php on line 240
+[05-Jan-2023 18:24:26 Asia/Kolkata] PHP Notice:  Undefined index: cm_id in /var/www/html/erpm/View/manage_consultancy.php on line 235
+[05-Jan-2023 18:24:26 Asia/Kolkata] PHP Notice:  Undefined index: client_id in /var/www/html/erpm/View/manage_consultancy.php on line 240
+[05-Jan-2023 18:24:26 Asia/Kolkata] PHP Notice:  Undefined index: sub_process in /var/www/html/erpm/View/manage_consultancy.php on line 240
+[05-Jan-2023 18:24:26 Asia/Kolkata] PHP Notice:  Undefined index: cm_id in /var/www/html/erpm/View/manage_consultancy.php on line 240
+[05-Jan-2023 18:24:26 Asia/Kolkata] PHP Notice:  Undefined index: Client_info in /var/www/html/erpm/View/manage_consultancy.php on line 240
+[05-Jan-2023 18:24:26 Asia/Kolkata] PHP Notice:  Undefined index: cm_id in /var/www/html/erpm/View/manage_consultancy.php on line 235
+[05-Jan-2023 18:24:26 Asia/Kolkata] PHP Notice:  Undefined index: client_id in /var/www/html/erpm/View/manage_consultancy.php on line 240
+[05-Jan-2023 18:24:26 Asia/Kolkata] PHP Notice:  Undefined index: sub_process in /var/www/html/erpm/View/manage_consultancy.php on line 240
+[05-Jan-2023 18:24:26 Asia/Kolkata] PHP Notice:  Undefined index: cm_id in /var/www/html/erpm/View/manage_consultancy.php on line 240
+[05-Jan-2023 18:24:26 Asia/Kolkata] PHP Notice:  Undefined index: Client_info in /var/www/html/erpm/View/manage_consultancy.php on line 240
+[05-Jan-2023 18:24:26 Asia/Kolkata] PHP Notice:  Undefined index: cm_id in /var/www/html/erpm/View/manage_consultancy.php on line 235
+[05-Jan-2023 18:24:26 Asia/Kolkata] PHP Notice:  Undefined index: client_id in /var/www/html/erpm/View/manage_consultancy.php on line 240
+[05-Jan-2023 18:24:26 Asia/Kolkata] PHP Notice:  Undefined index: sub_process in /var/www/html/erpm/View/manage_consultancy.php on line 240
+[05-Jan-2023 18:24:26 Asia/Kolkata] PHP Notice:  Undefined index: cm_id in /var/www/html/erpm/View/manage_consultancy.php on line 240
+[05-Jan-2023 18:24:26 Asia/Kolkata] PHP Notice:  Undefined index: Client_info in /var/www/html/erpm/View/manage_consultancy.php on line 240
+[05-Jan-2023 18:24:26 Asia/Kolkata] PHP Notice:  Undefined index: cm_id in /var/www/html/erpm/View/manage_consultancy.php on line 235
+[05-Jan-2023 18:24:26 Asia/Kolkata] PHP Notice:  Undefined index: client_id in /var/www/html/erpm/View/manage_consultancy.php on line 240
+[05-Jan-2023 18:24:26 Asia/Kolkata] PHP Notice:  Undefined index: sub_process in /var/www/html/erpm/View/manage_consultancy.php on line 240
+[05-Jan-2023 18:24:26 Asia/Kolkata] PHP Notice:  Undefined index: cm_id in /var/www/html/erpm/View/manage_consultancy.php on line 240
+[05-Jan-2023 18:24:26 Asia/Kolkata] PHP Notice:  Undefined index: Client_info in /var/www/html/erpm/View/manage_consultancy.php on line 240
+[05-Jan-2023 18:24:26 Asia/Kolkata] PHP Notice:  Undefined index: cm_id in /var/www/html/erpm/View/manage_consultancy.php on line 235
+[05-Jan-2023 18:24:26 Asia/Kolkata] PHP Notice:  Undefined index: client_id in /var/www/html/erpm/View/manage_consultancy.php on line 240
+[05-Jan-2023 18:24:26 Asia/Kolkata] PHP Notice:  Undefined index: sub_process in /var/www/html/erpm/View/manage_consultancy.php on line 240
+[05-Jan-2023 18:24:26 Asia/Kolkata] PHP Notice:  Undefined index: cm_id in /var/www/html/erpm/View/manage_consultancy.php on line 240
+[05-Jan-2023 18:24:26 Asia/Kolkata] PHP Notice:  Undefined index: Client_info in /var/www/html/erpm/View/manage_consultancy.php on line 240
+[05-Jan-2023 18:24:26 Asia/Kolkata] PHP Notice:  Undefined index: cm_id in /var/www/html/erpm/View/manage_consultancy.php on line 235
+[05-Jan-2023 18:24:26 Asia/Kolkata] PHP Notice:  Undefined index: client_id in /var/www/html/erpm/View/manage_consultancy.php on line 240
+[05-Jan-2023 18:24:26 Asia/Kolkata] PHP Notice:  Undefined index: sub_process in /var/www/html/erpm/View/manage_consultancy.php on line 240
+[05-Jan-2023 18:24:26 Asia/Kolkata] PHP Notice:  Undefined index: cm_id in /var/www/html/erpm/View/manage_consultancy.php on line 240
+[05-Jan-2023 18:24:26 Asia/Kolkata] PHP Notice:  Undefined index: Client_info in /var/www/html/erpm/View/manage_consultancy.php on line 240
+[05-Jan-2023 18:25:04 Asia/Kolkata] PHP Warning:  include_once(../Services/sendsms_API1.php): failed to open stream: No such file or directory in /var/www/html/erpm/View/ALsendOnEmail.php on line 12
+[05-Jan-2023 18:25:04 Asia/Kolkata] PHP Warning:  include_once(): Failed opening '../Services/sendsms_API1.php' for inclusion (include_path='.:/usr/share/php') in /var/www/html/erpm/View/ALsendOnEmail.php on line 12
+[05-Jan-2023 18:25:56 Asia/Kolkata] PHP Warning:  include_once(../Services/sendsms_API1.php): failed to open stream: No such file or directory in /var/www/html/erpm/View/ALsendOnEmail.php on line 12
+[05-Jan-2023 18:25:56 Asia/Kolkata] PHP Warning:  include_once(): Failed opening '../Services/sendsms_API1.php' for inclusion (include_path='.:/usr/share/php') in /var/www/html/erpm/View/ALsendOnEmail.php on line 12
+[05-Jan-2023 18:26:53 Asia/Kolkata] PHP Notice:  Undefined index: cm_id in /var/www/html/erpm/View/manage_consultancy.php on line 235
+[05-Jan-2023 18:26:53 Asia/Kolkata] PHP Notice:  Undefined index: client_id in /var/www/html/erpm/View/manage_consultancy.php on line 240
+[05-Jan-2023 18:26:53 Asia/Kolkata] PHP Notice:  Undefined index: sub_process in /var/www/html/erpm/View/manage_consultancy.php on line 240
+[05-Jan-2023 18:26:53 Asia/Kolkata] PHP Notice:  Undefined index: cm_id in /var/www/html/erpm/View/manage_consultancy.php on line 240
+[05-Jan-2023 18:26:53 Asia/Kolkata] PHP Notice:  Undefined index: Client_info in /var/www/html/erpm/View/manage_consultancy.php on line 240
+[05-Jan-2023 18:26:53 Asia/Kolkata] PHP Notice:  Undefined index: cm_id in /var/www/html/erpm/View/manage_consultancy.php on line 235
+[05-Jan-2023 18:26:53 Asia/Kolkata] PHP Notice:  Undefined index: client_id in /var/www/html/erpm/View/manage_consultancy.php on line 240
+[05-Jan-2023 18:26:53 Asia/Kolkata] PHP Notice:  Undefined index: sub_process in /var/www/html/erpm/View/manage_consultancy.php on line 240
+[05-Jan-2023 18:26:53 Asia/Kolkata] PHP Notice:  Undefined index: cm_id in /var/www/html/erpm/View/manage_consultancy.php on line 240
+[05-Jan-2023 18:26:53 Asia/Kolkata] PHP Notice:  Undefined index: Client_info in /var/www/html/erpm/View/manage_consultancy.php on line 240
+[05-Jan-2023 18:26:53 Asia/Kolkata] PHP Notice:  Undefined index: cm_id in /var/www/html/erpm/View/manage_consultancy.php on line 235
+[05-Jan-2023 18:26:53 Asia/Kolkata] PHP Notice:  Undefined index: client_id in /var/www/html/erpm/View/manage_consultancy.php on line 240
+[05-Jan-2023 18:26:53 Asia/Kolkata] PHP Notice:  Undefined index: sub_process in /var/www/html/erpm/View/manage_consultancy.php on line 240
+[05-Jan-2023 18:26:53 Asia/Kolkata] PHP Notice:  Undefined index: cm_id in /var/www/html/erpm/View/manage_consultancy.php on line 240
+[05-Jan-2023 18:26:53 Asia/Kolkata] PHP Notice:  Undefined index: Client_info in /var/www/html/erpm/View/manage_consultancy.php on line 240
+[05-Jan-2023 18:26:53 Asia/Kolkata] PHP Notice:  Undefined index: cm_id in /var/www/html/erpm/View/manage_consultancy.php on line 235
+[05-Jan-2023 18:26:53 Asia/Kolkata] PHP Notice:  Undefined index: client_id in /var/www/html/erpm/View/manage_consultancy.php on line 240
+[05-Jan-2023 18:26:53 Asia/Kolkata] PHP Notice:  Undefined index: sub_process in /var/www/html/erpm/View/manage_consultancy.php on line 240
+[05-Jan-2023 18:26:53 Asia/Kolkata] PHP Notice:  Undefined index: cm_id in /var/www/html/erpm/View/manage_consultancy.php on line 240
+[05-Jan-2023 18:26:53 Asia/Kolkata] PHP Notice:  Undefined index: Client_info in /var/www/html/erpm/View/manage_consultancy.php on line 240
+[05-Jan-2023 18:26:53 Asia/Kolkata] PHP Notice:  Undefined index: cm_id in /var/www/html/erpm/View/manage_consultancy.php on line 235
+[05-Jan-2023 18:26:53 Asia/Kolkata] PHP Notice:  Undefined index: client_id in /var/www/html/erpm/View/manage_consultancy.php on line 240
+[05-Jan-2023 18:26:53 Asia/Kolkata] PHP Notice:  Undefined index: sub_process in /var/www/html/erpm/View/manage_consultancy.php on line 240
+[05-Jan-2023 18:26:53 Asia/Kolkata] PHP Notice:  Undefined index: cm_id in /var/www/html/erpm/View/manage_consultancy.php on line 240
+[05-Jan-2023 18:26:53 Asia/Kolkata] PHP Notice:  Undefined index: Client_info in /var/www/html/erpm/View/manage_consultancy.php on line 240
+[05-Jan-2023 18:26:53 Asia/Kolkata] PHP Notice:  Undefined index: cm_id in /var/www/html/erpm/View/manage_consultancy.php on line 235
+[05-Jan-2023 18:26:53 Asia/Kolkata] PHP Notice:  Undefined index: client_id in /var/www/html/erpm/View/manage_consultancy.php on line 240
+[05-Jan-2023 18:26:53 Asia/Kolkata] PHP Notice:  Undefined index: sub_process in /var/www/html/erpm/View/manage_consultancy.php on line 240
+[05-Jan-2023 18:26:53 Asia/Kolkata] PHP Notice:  Undefined index: cm_id in /var/www/html/erpm/View/manage_consultancy.php on line 240
+[05-Jan-2023 18:26:53 Asia/Kolkata] PHP Notice:  Undefined index: Client_info in /var/www/html/erpm/View/manage_consultancy.php on line 240
+[05-Jan-2023 18:26:53 Asia/Kolkata] PHP Notice:  Undefined index: cm_id in /var/www/html/erpm/View/manage_consultancy.php on line 235
+[05-Jan-2023 18:26:53 Asia/Kolkata] PHP Notice:  Undefined index: client_id in /var/www/html/erpm/View/manage_consultancy.php on line 240
+[05-Jan-2023 18:26:53 Asia/Kolkata] PHP Notice:  Undefined index: sub_process in /var/www/html/erpm/View/manage_consultancy.php on line 240
+[05-Jan-2023 18:26:53 Asia/Kolkata] PHP Notice:  Undefined index: cm_id in /var/www/html/erpm/View/manage_consultancy.php on line 240
+[05-Jan-2023 18:26:53 Asia/Kolkata] PHP Notice:  Undefined index: Client_info in /var/www/html/erpm/View/manage_consultancy.php on line 240
+[05-Jan-2023 18:26:53 Asia/Kolkata] PHP Notice:  Undefined index: cm_id in /var/www/html/erpm/View/manage_consultancy.php on line 235
+[05-Jan-2023 18:26:53 Asia/Kolkata] PHP Notice:  Undefined index: client_id in /var/www/html/erpm/View/manage_consultancy.php on line 240
+[05-Jan-2023 18:26:53 Asia/Kolkata] PHP Notice:  Undefined index: sub_process in /var/www/html/erpm/View/manage_consultancy.php on line 240
+[05-Jan-2023 18:26:53 Asia/Kolkata] PHP Notice:  Undefined index: cm_id in /var/www/html/erpm/View/manage_consultancy.php on line 240
+[05-Jan-2023 18:26:53 Asia/Kolkata] PHP Notice:  Undefined index: Client_info in /var/www/html/erpm/View/manage_consultancy.php on line 240
+[05-Jan-2023 18:26:53 Asia/Kolkata] PHP Notice:  Undefined index: cm_id in /var/www/html/erpm/View/manage_consultancy.php on line 235
+[05-Jan-2023 18:26:53 Asia/Kolkata] PHP Notice:  Undefined index: client_id in /var/www/html/erpm/View/manage_consultancy.php on line 240
+[05-Jan-2023 18:26:53 Asia/Kolkata] PHP Notice:  Undefined index: sub_process in /var/www/html/erpm/View/manage_consultancy.php on line 240
+[05-Jan-2023 18:26:53 Asia/Kolkata] PHP Notice:  Undefined index: cm_id in /var/www/html/erpm/View/manage_consultancy.php on line 240
+[05-Jan-2023 18:26:53 Asia/Kolkata] PHP Notice:  Undefined index: Client_info in /var/www/html/erpm/View/manage_consultancy.php on line 240
+[05-Jan-2023 18:28:00 Asia/Kolkata] PHP Warning:  mysqli_stmt::bind_param(): Number of elements in type definition string doesn't match number of bind variables in /var/www/html/erpm/Controller/ConLog.php on line 464
+[05-Jan-2023 18:28:02 Asia/Kolkata] PHP Warning:  mysqli_stmt::bind_param(): Number of elements in type definition string doesn't match number of bind variables in /var/www/html/erpm/Controller/ConLog.php on line 464
+[05-Jan-2023 18:29:04 Asia/Kolkata] PHP Notice:  Undefined index: cm_id in /var/www/html/erpm/View/manage_consultancy.php on line 235
+[05-Jan-2023 18:29:04 Asia/Kolkata] PHP Notice:  Undefined index: client_id in /var/www/html/erpm/View/manage_consultancy.php on line 240
+[05-Jan-2023 18:29:04 Asia/Kolkata] PHP Notice:  Undefined index: sub_process in /var/www/html/erpm/View/manage_consultancy.php on line 240
+[05-Jan-2023 18:29:04 Asia/Kolkata] PHP Notice:  Undefined index: cm_id in /var/www/html/erpm/View/manage_consultancy.php on line 240
+[05-Jan-2023 18:29:04 Asia/Kolkata] PHP Notice:  Undefined index: Client_info in /var/www/html/erpm/View/manage_consultancy.php on line 240
+[05-Jan-2023 18:29:04 Asia/Kolkata] PHP Notice:  Undefined index: cm_id in /var/www/html/erpm/View/manage_consultancy.php on line 235
+[05-Jan-2023 18:29:04 Asia/Kolkata] PHP Notice:  Undefined index: client_id in /var/www/html/erpm/View/manage_consultancy.php on line 240
+[05-Jan-2023 18:29:04 Asia/Kolkata] PHP Notice:  Undefined index: sub_process in /var/www/html/erpm/View/manage_consultancy.php on line 240
+[05-Jan-2023 18:29:04 Asia/Kolkata] PHP Notice:  Undefined index: cm_id in /var/www/html/erpm/View/manage_consultancy.php on line 240
+[05-Jan-2023 18:29:04 Asia/Kolkata] PHP Notice:  Undefined index: Client_info in /var/www/html/erpm/View/manage_consultancy.php on line 240
+[05-Jan-2023 18:29:04 Asia/Kolkata] PHP Notice:  Undefined index: cm_id in /var/www/html/erpm/View/manage_consultancy.php on line 235
+[05-Jan-2023 18:29:04 Asia/Kolkata] PHP Notice:  Undefined index: client_id in /var/www/html/erpm/View/manage_consultancy.php on line 240
+[05-Jan-2023 18:29:04 Asia/Kolkata] PHP Notice:  Undefined index: sub_process in /var/www/html/erpm/View/manage_consultancy.php on line 240
+[05-Jan-2023 18:29:04 Asia/Kolkata] PHP Notice:  Undefined index: cm_id in /var/www/html/erpm/View/manage_consultancy.php on line 240
+[05-Jan-2023 18:29:04 Asia/Kolkata] PHP Notice:  Undefined index: Client_info in /var/www/html/erpm/View/manage_consultancy.php on line 240
+[05-Jan-2023 18:29:04 Asia/Kolkata] PHP Notice:  Undefined index: cm_id in /var/www/html/erpm/View/manage_consultancy.php on line 235
+[05-Jan-2023 18:29:04 Asia/Kolkata] PHP Notice:  Undefined index: client_id in /var/www/html/erpm/View/manage_consultancy.php on line 240
+[05-Jan-2023 18:29:04 Asia/Kolkata] PHP Notice:  Undefined index: sub_process in /var/www/html/erpm/View/manage_consultancy.php on line 240
+[05-Jan-2023 18:29:04 Asia/Kolkata] PHP Notice:  Undefined index: cm_id in /var/www/html/erpm/View/manage_consultancy.php on line 240
+[05-Jan-2023 18:29:04 Asia/Kolkata] PHP Notice:  Undefined index: Client_info in /var/www/html/erpm/View/manage_consultancy.php on line 240
+[05-Jan-2023 18:29:04 Asia/Kolkata] PHP Notice:  Undefined index: cm_id in /var/www/html/erpm/View/manage_consultancy.php on line 235
+[05-Jan-2023 18:29:04 Asia/Kolkata] PHP Notice:  Undefined index: client_id in /var/www/html/erpm/View/manage_consultancy.php on line 240
+[05-Jan-2023 18:29:04 Asia/Kolkata] PHP Notice:  Undefined index: sub_process in /var/www/html/erpm/View/manage_consultancy.php on line 240
+[05-Jan-2023 18:29:04 Asia/Kolkata] PHP Notice:  Undefined index: cm_id in /var/www/html/erpm/View/manage_consultancy.php on line 240
+[05-Jan-2023 18:29:04 Asia/Kolkata] PHP Notice:  Undefined index: Client_info in /var/www/html/erpm/View/manage_consultancy.php on line 240
+[05-Jan-2023 18:29:04 Asia/Kolkata] PHP Notice:  Undefined index: cm_id in /var/www/html/erpm/View/manage_consultancy.php on line 235
+[05-Jan-2023 18:29:04 Asia/Kolkata] PHP Notice:  Undefined index: client_id in /var/www/html/erpm/View/manage_consultancy.php on line 240
+[05-Jan-2023 18:29:04 Asia/Kolkata] PHP Notice:  Undefined index: sub_process in /var/www/html/erpm/View/manage_consultancy.php on line 240
+[05-Jan-2023 18:29:04 Asia/Kolkata] PHP Notice:  Undefined index: cm_id in /var/www/html/erpm/View/manage_consultancy.php on line 240
+[05-Jan-2023 18:29:04 Asia/Kolkata] PHP Notice:  Undefined index: Client_info in /var/www/html/erpm/View/manage_consultancy.php on line 240
+[05-Jan-2023 18:29:04 Asia/Kolkata] PHP Notice:  Undefined index: cm_id in /var/www/html/erpm/View/manage_consultancy.php on line 235
+[05-Jan-2023 18:29:04 Asia/Kolkata] PHP Notice:  Undefined index: client_id in /var/www/html/erpm/View/manage_consultancy.php on line 240
+[05-Jan-2023 18:29:04 Asia/Kolkata] PHP Notice:  Undefined index: sub_process in /var/www/html/erpm/View/manage_consultancy.php on line 240
+[05-Jan-2023 18:29:04 Asia/Kolkata] PHP Notice:  Undefined index: cm_id in /var/www/html/erpm/View/manage_consultancy.php on line 240
+[05-Jan-2023 18:29:04 Asia/Kolkata] PHP Notice:  Undefined index: Client_info in /var/www/html/erpm/View/manage_consultancy.php on line 240
+[05-Jan-2023 18:29:04 Asia/Kolkata] PHP Notice:  Undefined index: cm_id in /var/www/html/erpm/View/manage_consultancy.php on line 235
+[05-Jan-2023 18:29:04 Asia/Kolkata] PHP Notice:  Undefined index: client_id in /var/www/html/erpm/View/manage_consultancy.php on line 240
+[05-Jan-2023 18:29:04 Asia/Kolkata] PHP Notice:  Undefined index: sub_process in /var/www/html/erpm/View/manage_consultancy.php on line 240
+[05-Jan-2023 18:29:04 Asia/Kolkata] PHP Notice:  Undefined index: cm_id in /var/www/html/erpm/View/manage_consultancy.php on line 240
+[05-Jan-2023 18:29:04 Asia/Kolkata] PHP Notice:  Undefined index: Client_info in /var/www/html/erpm/View/manage_consultancy.php on line 240
+[05-Jan-2023 18:29:04 Asia/Kolkata] PHP Notice:  Undefined index: cm_id in /var/www/html/erpm/View/manage_consultancy.php on line 235
+[05-Jan-2023 18:29:04 Asia/Kolkata] PHP Notice:  Undefined index: client_id in /var/www/html/erpm/View/manage_consultancy.php on line 240
+[05-Jan-2023 18:29:04 Asia/Kolkata] PHP Notice:  Undefined index: sub_process in /var/www/html/erpm/View/manage_consultancy.php on line 240
+[05-Jan-2023 18:29:04 Asia/Kolkata] PHP Notice:  Undefined index: cm_id in /var/www/html/erpm/View/manage_consultancy.php on line 240
+[05-Jan-2023 18:29:04 Asia/Kolkata] PHP Notice:  Undefined index: Client_info in /var/www/html/erpm/View/manage_consultancy.php on line 240
+[05-Jan-2023 18:34:42 Asia/Kolkata] PHP Notice:  Undefined offset: 1 in /var/www/html/erpm/AppData/Class/MysqliDb.php on line 1581
+[05-Jan-2023 18:34:43 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /var/www/html/erpm/View/index.php on line 346
+[05-Jan-2023 18:34:55 Asia/Kolkata] PHP Notice:  Undefined index: cm_id in /var/www/html/erpm/View/manage_consultancy.php on line 235
+[05-Jan-2023 18:34:55 Asia/Kolkata] PHP Notice:  Undefined index: client_id in /var/www/html/erpm/View/manage_consultancy.php on line 240
+[05-Jan-2023 18:34:55 Asia/Kolkata] PHP Notice:  Undefined index: sub_process in /var/www/html/erpm/View/manage_consultancy.php on line 240
+[05-Jan-2023 18:34:55 Asia/Kolkata] PHP Notice:  Undefined index: cm_id in /var/www/html/erpm/View/manage_consultancy.php on line 240
+[05-Jan-2023 18:34:55 Asia/Kolkata] PHP Notice:  Undefined index: Client_info in /var/www/html/erpm/View/manage_consultancy.php on line 240
+[05-Jan-2023 18:34:55 Asia/Kolkata] PHP Notice:  Undefined index: cm_id in /var/www/html/erpm/View/manage_consultancy.php on line 235
+[05-Jan-2023 18:34:55 Asia/Kolkata] PHP Notice:  Undefined index: client_id in /var/www/html/erpm/View/manage_consultancy.php on line 240
+[05-Jan-2023 18:34:55 Asia/Kolkata] PHP Notice:  Undefined index: sub_process in /var/www/html/erpm/View/manage_consultancy.php on line 240
+[05-Jan-2023 18:34:55 Asia/Kolkata] PHP Notice:  Undefined index: cm_id in /var/www/html/erpm/View/manage_consultancy.php on line 240
+[05-Jan-2023 18:34:55 Asia/Kolkata] PHP Notice:  Undefined index: Client_info in /var/www/html/erpm/View/manage_consultancy.php on line 240
+[05-Jan-2023 18:34:55 Asia/Kolkata] PHP Notice:  Undefined index: cm_id in /var/www/html/erpm/View/manage_consultancy.php on line 235
+[05-Jan-2023 18:34:55 Asia/Kolkata] PHP Notice:  Undefined index: client_id in /var/www/html/erpm/View/manage_consultancy.php on line 240
+[05-Jan-2023 18:34:55 Asia/Kolkata] PHP Notice:  Undefined index: sub_process in /var/www/html/erpm/View/manage_consultancy.php on line 240
+[05-Jan-2023 18:34:55 Asia/Kolkata] PHP Notice:  Undefined index: cm_id in /var/www/html/erpm/View/manage_consultancy.php on line 240
+[05-Jan-2023 18:34:55 Asia/Kolkata] PHP Notice:  Undefined index: Client_info in /var/www/html/erpm/View/manage_consultancy.php on line 240
+[05-Jan-2023 18:34:55 Asia/Kolkata] PHP Notice:  Undefined index: cm_id in /var/www/html/erpm/View/manage_consultancy.php on line 235
+[05-Jan-2023 18:34:55 Asia/Kolkata] PHP Notice:  Undefined index: client_id in /var/www/html/erpm/View/manage_consultancy.php on line 240
+[05-Jan-2023 18:34:55 Asia/Kolkata] PHP Notice:  Undefined index: sub_process in /var/www/html/erpm/View/manage_consultancy.php on line 240
+[05-Jan-2023 18:34:55 Asia/Kolkata] PHP Notice:  Undefined index: cm_id in /var/www/html/erpm/View/manage_consultancy.php on line 240
+[05-Jan-2023 18:34:55 Asia/Kolkata] PHP Notice:  Undefined index: Client_info in /var/www/html/erpm/View/manage_consultancy.php on line 240
+[05-Jan-2023 18:34:55 Asia/Kolkata] PHP Notice:  Undefined index: cm_id in /var/www/html/erpm/View/manage_consultancy.php on line 235
+[05-Jan-2023 18:34:55 Asia/Kolkata] PHP Notice:  Undefined index: client_id in /var/www/html/erpm/View/manage_consultancy.php on line 240
+[05-Jan-2023 18:34:55 Asia/Kolkata] PHP Notice:  Undefined index: sub_process in /var/www/html/erpm/View/manage_consultancy.php on line 240
+[05-Jan-2023 18:34:55 Asia/Kolkata] PHP Notice:  Undefined index: cm_id in /var/www/html/erpm/View/manage_consultancy.php on line 240
+[05-Jan-2023 18:34:55 Asia/Kolkata] PHP Notice:  Undefined index: Client_info in /var/www/html/erpm/View/manage_consultancy.php on line 240
+[05-Jan-2023 18:34:55 Asia/Kolkata] PHP Notice:  Undefined index: cm_id in /var/www/html/erpm/View/manage_consultancy.php on line 235
+[05-Jan-2023 18:34:55 Asia/Kolkata] PHP Notice:  Undefined index: client_id in /var/www/html/erpm/View/manage_consultancy.php on line 240
+[05-Jan-2023 18:34:55 Asia/Kolkata] PHP Notice:  Undefined index: sub_process in /var/www/html/erpm/View/manage_consultancy.php on line 240
+[05-Jan-2023 18:34:55 Asia/Kolkata] PHP Notice:  Undefined index: cm_id in /var/www/html/erpm/View/manage_consultancy.php on line 240
+[05-Jan-2023 18:34:55 Asia/Kolkata] PHP Notice:  Undefined index: Client_info in /var/www/html/erpm/View/manage_consultancy.php on line 240
+[05-Jan-2023 18:34:55 Asia/Kolkata] PHP Notice:  Undefined index: cm_id in /var/www/html/erpm/View/manage_consultancy.php on line 235
+[05-Jan-2023 18:34:55 Asia/Kolkata] PHP Notice:  Undefined index: client_id in /var/www/html/erpm/View/manage_consultancy.php on line 240
+[05-Jan-2023 18:34:55 Asia/Kolkata] PHP Notice:  Undefined index: sub_process in /var/www/html/erpm/View/manage_consultancy.php on line 240
+[05-Jan-2023 18:34:55 Asia/Kolkata] PHP Notice:  Undefined index: cm_id in /var/www/html/erpm/View/manage_consultancy.php on line 240
+[05-Jan-2023 18:34:55 Asia/Kolkata] PHP Notice:  Undefined index: Client_info in /var/www/html/erpm/View/manage_consultancy.php on line 240
+[05-Jan-2023 18:34:55 Asia/Kolkata] PHP Notice:  Undefined index: cm_id in /var/www/html/erpm/View/manage_consultancy.php on line 235
+[05-Jan-2023 18:34:55 Asia/Kolkata] PHP Notice:  Undefined index: client_id in /var/www/html/erpm/View/manage_consultancy.php on line 240
+[05-Jan-2023 18:34:55 Asia/Kolkata] PHP Notice:  Undefined index: sub_process in /var/www/html/erpm/View/manage_consultancy.php on line 240
+[05-Jan-2023 18:34:55 Asia/Kolkata] PHP Notice:  Undefined index: cm_id in /var/www/html/erpm/View/manage_consultancy.php on line 240
+[05-Jan-2023 18:34:55 Asia/Kolkata] PHP Notice:  Undefined index: Client_info in /var/www/html/erpm/View/manage_consultancy.php on line 240
+[05-Jan-2023 18:34:55 Asia/Kolkata] PHP Notice:  Undefined index: cm_id in /var/www/html/erpm/View/manage_consultancy.php on line 235
+[05-Jan-2023 18:34:55 Asia/Kolkata] PHP Notice:  Undefined index: client_id in /var/www/html/erpm/View/manage_consultancy.php on line 240
+[05-Jan-2023 18:34:55 Asia/Kolkata] PHP Notice:  Undefined index: sub_process in /var/www/html/erpm/View/manage_consultancy.php on line 240
+[05-Jan-2023 18:34:55 Asia/Kolkata] PHP Notice:  Undefined index: cm_id in /var/www/html/erpm/View/manage_consultancy.php on line 240
+[05-Jan-2023 18:34:55 Asia/Kolkata] PHP Notice:  Undefined index: Client_info in /var/www/html/erpm/View/manage_consultancy.php on line 240
+[05-Jan-2023 18:35:05 Asia/Kolkata] PHP Warning:  include_once(../Services/sendsms_API1.php): failed to open stream: No such file or directory in /var/www/html/erpm/View/ALsendOnEmail.php on line 12
+[05-Jan-2023 18:35:05 Asia/Kolkata] PHP Warning:  include_once(): Failed opening '../Services/sendsms_API1.php' for inclusion (include_path='.:/usr/share/php') in /var/www/html/erpm/View/ALsendOnEmail.php on line 12
+[05-Jan-2023 18:35:30 Asia/Kolkata] PHP Notice:  Undefined index: travel_date in /var/www/html/erpm/View/expenses.php on line 60
+[05-Jan-2023 18:35:30 Asia/Kolkata] PHP Notice:  Undefined index: placeFrom in /var/www/html/erpm/View/expenses.php on line 61
+[05-Jan-2023 18:35:30 Asia/Kolkata] PHP Notice:  Undefined index: placeTO in /var/www/html/erpm/View/expenses.php on line 62
+[05-Jan-2023 18:35:30 Asia/Kolkata] PHP Notice:  Undefined index: modeOftravel in /var/www/html/erpm/View/expenses.php on line 63
+[05-Jan-2023 18:35:30 Asia/Kolkata] PHP Notice:  Undefined index: receipt_no in /var/www/html/erpm/View/expenses.php on line 66
+[05-Jan-2023 18:35:30 Asia/Kolkata] PHP Notice:  Undefined index: remarks in /var/www/html/erpm/View/expenses.php on line 68
+[05-Jan-2023 18:35:30 Asia/Kolkata] PHP Notice:  Undefined index: returnDate in /var/www/html/erpm/View/expenses.php on line 74
+[05-Jan-2023 18:35:30 Asia/Kolkata] PHP Notice:  Undefined index: car_km in /var/www/html/erpm/View/expenses.php on line 75
+[05-Jan-2023 18:35:47 Asia/Kolkata] PHP Notice:  Undefined index: txt_dateMonth in /var/www/html/erpm/View/team_atnd.php on line 32
+[05-Jan-2023 18:35:50 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /var/www/html/erpm/View/team_atnd.php on line 247
+[05-Jan-2023 18:35:50 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /var/www/html/erpm/View/team_atnd.php on line 319
+[05-Jan-2023 18:37:13 Asia/Kolkata] PHP Notice:  Undefined index: cm_id in /var/www/html/erpm/View/manage_consultancy.php on line 235
+[05-Jan-2023 18:37:13 Asia/Kolkata] PHP Notice:  Undefined index: client_id in /var/www/html/erpm/View/manage_consultancy.php on line 240
+[05-Jan-2023 18:37:13 Asia/Kolkata] PHP Notice:  Undefined index: sub_process in /var/www/html/erpm/View/manage_consultancy.php on line 240
+[05-Jan-2023 18:37:13 Asia/Kolkata] PHP Notice:  Undefined index: cm_id in /var/www/html/erpm/View/manage_consultancy.php on line 240
+[05-Jan-2023 18:37:13 Asia/Kolkata] PHP Notice:  Undefined index: Client_info in /var/www/html/erpm/View/manage_consultancy.php on line 240
+[05-Jan-2023 18:37:13 Asia/Kolkata] PHP Notice:  Undefined index: cm_id in /var/www/html/erpm/View/manage_consultancy.php on line 235
+[05-Jan-2023 18:37:13 Asia/Kolkata] PHP Notice:  Undefined index: client_id in /var/www/html/erpm/View/manage_consultancy.php on line 240
+[05-Jan-2023 18:37:13 Asia/Kolkata] PHP Notice:  Undefined index: sub_process in /var/www/html/erpm/View/manage_consultancy.php on line 240
+[05-Jan-2023 18:37:13 Asia/Kolkata] PHP Notice:  Undefined index: cm_id in /var/www/html/erpm/View/manage_consultancy.php on line 240
+[05-Jan-2023 18:37:13 Asia/Kolkata] PHP Notice:  Undefined index: Client_info in /var/www/html/erpm/View/manage_consultancy.php on line 240
+[05-Jan-2023 18:37:13 Asia/Kolkata] PHP Notice:  Undefined index: cm_id in /var/www/html/erpm/View/manage_consultancy.php on line 235
+[05-Jan-2023 18:37:13 Asia/Kolkata] PHP Notice:  Undefined index: client_id in /var/www/html/erpm/View/manage_consultancy.php on line 240
+[05-Jan-2023 18:37:13 Asia/Kolkata] PHP Notice:  Undefined index: sub_process in /var/www/html/erpm/View/manage_consultancy.php on line 240
+[05-Jan-2023 18:37:13 Asia/Kolkata] PHP Notice:  Undefined index: cm_id in /var/www/html/erpm/View/manage_consultancy.php on line 240
+[05-Jan-2023 18:37:13 Asia/Kolkata] PHP Notice:  Undefined index: Client_info in /var/www/html/erpm/View/manage_consultancy.php on line 240
+[05-Jan-2023 18:37:13 Asia/Kolkata] PHP Notice:  Undefined index: cm_id in /var/www/html/erpm/View/manage_consultancy.php on line 235
+[05-Jan-2023 18:37:13 Asia/Kolkata] PHP Notice:  Undefined index: client_id in /var/www/html/erpm/View/manage_consultancy.php on line 240
+[05-Jan-2023 18:37:13 Asia/Kolkata] PHP Notice:  Undefined index: sub_process in /var/www/html/erpm/View/manage_consultancy.php on line 240
+[05-Jan-2023 18:37:13 Asia/Kolkata] PHP Notice:  Undefined index: cm_id in /var/www/html/erpm/View/manage_consultancy.php on line 240
+[05-Jan-2023 18:37:13 Asia/Kolkata] PHP Notice:  Undefined index: Client_info in /var/www/html/erpm/View/manage_consultancy.php on line 240
+[05-Jan-2023 18:37:13 Asia/Kolkata] PHP Notice:  Undefined index: cm_id in /var/www/html/erpm/View/manage_consultancy.php on line 235
+[05-Jan-2023 18:37:13 Asia/Kolkata] PHP Notice:  Undefined index: client_id in /var/www/html/erpm/View/manage_consultancy.php on line 240
+[05-Jan-2023 18:37:13 Asia/Kolkata] PHP Notice:  Undefined index: sub_process in /var/www/html/erpm/View/manage_consultancy.php on line 240
+[05-Jan-2023 18:37:13 Asia/Kolkata] PHP Notice:  Undefined index: cm_id in /var/www/html/erpm/View/manage_consultancy.php on line 240
+[05-Jan-2023 18:37:13 Asia/Kolkata] PHP Notice:  Undefined index: Client_info in /var/www/html/erpm/View/manage_consultancy.php on line 240
+[05-Jan-2023 18:37:13 Asia/Kolkata] PHP Notice:  Undefined index: cm_id in /var/www/html/erpm/View/manage_consultancy.php on line 235
+[05-Jan-2023 18:37:13 Asia/Kolkata] PHP Notice:  Undefined index: client_id in /var/www/html/erpm/View/manage_consultancy.php on line 240
+[05-Jan-2023 18:37:13 Asia/Kolkata] PHP Notice:  Undefined index: sub_process in /var/www/html/erpm/View/manage_consultancy.php on line 240
+[05-Jan-2023 18:37:13 Asia/Kolkata] PHP Notice:  Undefined index: cm_id in /var/www/html/erpm/View/manage_consultancy.php on line 240
+[05-Jan-2023 18:37:13 Asia/Kolkata] PHP Notice:  Undefined index: Client_info in /var/www/html/erpm/View/manage_consultancy.php on line 240
+[05-Jan-2023 18:37:13 Asia/Kolkata] PHP Notice:  Undefined index: cm_id in /var/www/html/erpm/View/manage_consultancy.php on line 235
+[05-Jan-2023 18:37:13 Asia/Kolkata] PHP Notice:  Undefined index: client_id in /var/www/html/erpm/View/manage_consultancy.php on line 240
+[05-Jan-2023 18:37:13 Asia/Kolkata] PHP Notice:  Undefined index: sub_process in /var/www/html/erpm/View/manage_consultancy.php on line 240
+[05-Jan-2023 18:37:13 Asia/Kolkata] PHP Notice:  Undefined index: cm_id in /var/www/html/erpm/View/manage_consultancy.php on line 240
+[05-Jan-2023 18:37:13 Asia/Kolkata] PHP Notice:  Undefined index: Client_info in /var/www/html/erpm/View/manage_consultancy.php on line 240
+[05-Jan-2023 18:37:13 Asia/Kolkata] PHP Notice:  Undefined index: cm_id in /var/www/html/erpm/View/manage_consultancy.php on line 235
+[05-Jan-2023 18:37:13 Asia/Kolkata] PHP Notice:  Undefined index: client_id in /var/www/html/erpm/View/manage_consultancy.php on line 240
+[05-Jan-2023 18:37:13 Asia/Kolkata] PHP Notice:  Undefined index: sub_process in /var/www/html/erpm/View/manage_consultancy.php on line 240
+[05-Jan-2023 18:37:13 Asia/Kolkata] PHP Notice:  Undefined index: cm_id in /var/www/html/erpm/View/manage_consultancy.php on line 240
+[05-Jan-2023 18:37:13 Asia/Kolkata] PHP Notice:  Undefined index: Client_info in /var/www/html/erpm/View/manage_consultancy.php on line 240
+[05-Jan-2023 18:37:13 Asia/Kolkata] PHP Notice:  Undefined index: cm_id in /var/www/html/erpm/View/manage_consultancy.php on line 235
+[05-Jan-2023 18:37:13 Asia/Kolkata] PHP Notice:  Undefined index: client_id in /var/www/html/erpm/View/manage_consultancy.php on line 240
+[05-Jan-2023 18:37:13 Asia/Kolkata] PHP Notice:  Undefined index: sub_process in /var/www/html/erpm/View/manage_consultancy.php on line 240
+[05-Jan-2023 18:37:13 Asia/Kolkata] PHP Notice:  Undefined index: cm_id in /var/www/html/erpm/View/manage_consultancy.php on line 240
+[05-Jan-2023 18:37:13 Asia/Kolkata] PHP Notice:  Undefined index: Client_info in /var/www/html/erpm/View/manage_consultancy.php on line 240
+[05-Jan-2023 18:37:45 Asia/Kolkata] PHP Warning:  Cannot modify header information - headers already sent by (output started at /var/www/html/erpm/AppCode/head.mpt:15) in /var/www/html/erpm/View/team_alert_ActiveUsers.php on line 19
+[05-Jan-2023 18:38:05 Asia/Kolkata] PHP Warning:  Cannot modify header information - headers already sent by (output started at /var/www/html/erpm/AppCode/head.mpt:15) in /var/www/html/erpm/View/team_alert_ActiveUsers.php on line 19
+[05-Jan-2023 18:38:28 Asia/Kolkata] PHP Notice:  Undefined index: travel_date in /var/www/html/erpm/View/expenses.php on line 60
+[05-Jan-2023 18:38:28 Asia/Kolkata] PHP Notice:  Undefined index: placeFrom in /var/www/html/erpm/View/expenses.php on line 61
+[05-Jan-2023 18:38:28 Asia/Kolkata] PHP Notice:  Undefined index: placeTO in /var/www/html/erpm/View/expenses.php on line 62
+[05-Jan-2023 18:38:28 Asia/Kolkata] PHP Notice:  Undefined index: modeOftravel in /var/www/html/erpm/View/expenses.php on line 63
+[05-Jan-2023 18:38:28 Asia/Kolkata] PHP Notice:  Undefined index: receipt_no in /var/www/html/erpm/View/expenses.php on line 66
+[05-Jan-2023 18:38:28 Asia/Kolkata] PHP Notice:  Undefined index: remarks in /var/www/html/erpm/View/expenses.php on line 68
+[05-Jan-2023 18:38:28 Asia/Kolkata] PHP Notice:  Undefined index: returnDate in /var/www/html/erpm/View/expenses.php on line 74
+[05-Jan-2023 18:38:28 Asia/Kolkata] PHP Notice:  Undefined index: car_km in /var/www/html/erpm/View/expenses.php on line 75
+[05-Jan-2023 18:39:16 Asia/Kolkata] PHP Notice:  Undefined variable: locationdir in /var/www/html/erpm/View/EmployeInfo.php on line 160
+[05-Jan-2023 18:39:16 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type int in /var/www/html/erpm/View/EmployeInfo.php on line 879
+[05-Jan-2023 18:39:16 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type int in /var/www/html/erpm/View/EmployeInfo.php on line 879
+[05-Jan-2023 18:39:16 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type int in /var/www/html/erpm/View/EmployeInfo.php on line 879
+[05-Jan-2023 18:41:05 Asia/Kolkata] PHP Notice:  Undefined index: emp_status in /var/www/html/erpm/View/rpt_DownTime_for_it.php on line 94
+[05-Jan-2023 18:41:05 Asia/Kolkata] PHP Notice:  Undefined index: emp_status in /var/www/html/erpm/View/rpt_DownTime_for_it.php on line 98
+[05-Jan-2023 18:42:06 Asia/Kolkata] PHP Notice:  Undefined index: txt_dateFrom in /var/www/html/erpm/View/message-popup.php on line 27
+[05-Jan-2023 18:42:06 Asia/Kolkata] PHP Notice:  Undefined index: txt_dateto in /var/www/html/erpm/View/message-popup.php on line 34
+[05-Jan-2023 18:43:48 Asia/Kolkata] PHP Notice:  Undefined index: action in /var/www/html/erpm/Controller/getFilterData.php on line 6
+[05-Jan-2023 18:43:48 Asia/Kolkata] PHP Notice:  Undefined index: clientid in /var/www/html/erpm/Controller/getFilterData.php on line 86
+[05-Jan-2023 18:43:48 Asia/Kolkata] PHP Notice:  Undefined index: processid in /var/www/html/erpm/Controller/getFilterData.php on line 112
+[05-Jan-2023 18:44:09 Asia/Kolkata] PHP Notice:  Undefined index: action in /var/www/html/erpm/Controller/getFilterData.php on line 6
+[05-Jan-2023 18:44:09 Asia/Kolkata] PHP Notice:  Undefined index: location_id in /var/www/html/erpm/Controller/getFilterData.php on line 63
+[05-Jan-2023 18:44:09 Asia/Kolkata] PHP Notice:  Undefined index: clientid in /var/www/html/erpm/Controller/getFilterData.php on line 86
+[05-Jan-2023 18:44:09 Asia/Kolkata] PHP Notice:  Undefined index: action in /var/www/html/erpm/Controller/getFilterData.php on line 6
+[05-Jan-2023 18:44:09 Asia/Kolkata] PHP Notice:  Undefined index: location_id in /var/www/html/erpm/Controller/getFilterData.php on line 63
+[05-Jan-2023 18:44:09 Asia/Kolkata] PHP Notice:  Undefined index: clientid in /var/www/html/erpm/Controller/getFilterData.php on line 86
+[05-Jan-2023 18:44:12 Asia/Kolkata] PHP Notice:  Undefined index: action in /var/www/html/erpm/Controller/getFilterData.php on line 6
+[05-Jan-2023 18:44:12 Asia/Kolkata] PHP Notice:  Undefined index: location_id in /var/www/html/erpm/Controller/getFilterData.php on line 63
+[05-Jan-2023 18:44:12 Asia/Kolkata] PHP Notice:  Undefined index: processid in /var/www/html/erpm/Controller/getFilterData.php on line 112
+[05-Jan-2023 18:44:14 Asia/Kolkata] PHP Notice:  Undefined index: action in /var/www/html/erpm/Controller/getFilterData.php on line 6
+[05-Jan-2023 18:44:14 Asia/Kolkata] PHP Notice:  Undefined index: location_id in /var/www/html/erpm/Controller/getFilterData.php on line 63
+[05-Jan-2023 18:44:14 Asia/Kolkata] PHP Notice:  Undefined index: clientid in /var/www/html/erpm/Controller/getFilterData.php on line 86
+[05-Jan-2023 18:44:43 Asia/Kolkata] PHP Notice:  Undefined variable: locationdir in /var/www/html/erpm/View/EmployeInfo.php on line 160
+[05-Jan-2023 18:44:44 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type int in /var/www/html/erpm/View/EmployeInfo.php on line 879
+[05-Jan-2023 18:44:44 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type int in /var/www/html/erpm/View/EmployeInfo.php on line 879
+[05-Jan-2023 18:44:44 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type int in /var/www/html/erpm/View/EmployeInfo.php on line 879
+[05-Jan-2023 18:45:27 Asia/Kolkata] PHP Notice:  Undefined index: action in /var/www/html/erpm/Controller/getFilterData.php on line 6
+[05-Jan-2023 18:45:27 Asia/Kolkata] PHP Notice:  Undefined index: clientid in /var/www/html/erpm/Controller/getFilterData.php on line 86
+[05-Jan-2023 18:45:27 Asia/Kolkata] PHP Notice:  Undefined index: processid in /var/www/html/erpm/Controller/getFilterData.php on line 112
+[05-Jan-2023 18:45:39 Asia/Kolkata] PHP Notice:  Undefined index: __user_logid in /var/www/html/erpm/AppCode/nHead.php on line 2
+[05-Jan-2023 18:45:43 Asia/Kolkata] PHP Warning:  mysqli_stmt::bind_param(): Number of elements in type definition string doesn't match number of bind variables in /var/www/html/erpm/Controller/ConLog.php on line 464
+[05-Jan-2023 18:45:43 Asia/Kolkata] PHP Warning:  Use of undefined constant EMS_CenterName - assumed 'EMS_CenterName' (this will throw an Error in a future version of PHP) in /var/www/html/erpm/Controller/ConLog.php on line 470
+[05-Jan-2023 18:45:43 Asia/Kolkata] PHP Warning:  Use of undefined constant EMAIL_HOST - assumed 'EMAIL_HOST' (this will throw an Error in a future version of PHP) in /var/www/html/erpm/Controller/ConLog.php on line 473
+[05-Jan-2023 18:45:43 Asia/Kolkata] PHP Warning:  Use of undefined constant EMAIL_AUTH - assumed 'EMAIL_AUTH' (this will throw an Error in a future version of PHP) in /var/www/html/erpm/Controller/ConLog.php on line 474
+[05-Jan-2023 18:45:43 Asia/Kolkata] PHP Warning:  Use of undefined constant EMAIL_USER - assumed 'EMAIL_USER' (this will throw an Error in a future version of PHP) in /var/www/html/erpm/Controller/ConLog.php on line 475
+[05-Jan-2023 18:45:43 Asia/Kolkata] PHP Warning:  Use of undefined constant EMAIL_PASS - assumed 'EMAIL_PASS' (this will throw an Error in a future version of PHP) in /var/www/html/erpm/Controller/ConLog.php on line 476
+[05-Jan-2023 18:45:43 Asia/Kolkata] PHP Warning:  Use of undefined constant EMAIL_SMTPSecure - assumed 'EMAIL_SMTPSecure' (this will throw an Error in a future version of PHP) in /var/www/html/erpm/Controller/ConLog.php on line 477
+[05-Jan-2023 18:45:43 Asia/Kolkata] PHP Warning:  Use of undefined constant EMAIL_PORT - assumed 'EMAIL_PORT' (this will throw an Error in a future version of PHP) in /var/www/html/erpm/Controller/ConLog.php on line 478
+[05-Jan-2023 18:45:43 Asia/Kolkata] PHP Warning:  Use of undefined constant EMAIL_FROM - assumed 'EMAIL_FROM' (this will throw an Error in a future version of PHP) in /var/www/html/erpm/Controller/ConLog.php on line 479
+[05-Jan-2023 18:45:43 Asia/Kolkata] PHP Warning:  Use of undefined constant EMS_CenterName - assumed 'EMS_CenterName' (this will throw an Error in a future version of PHP) in /var/www/html/erpm/Controller/ConLog.php on line 482
+[05-Jan-2023 18:45:47 Asia/Kolkata] PHP Notice:  Undefined index: txt_dateFrom in /var/www/html/erpm/View/message-popup.php on line 27
+[05-Jan-2023 18:45:47 Asia/Kolkata] PHP Notice:  Undefined index: txt_dateto in /var/www/html/erpm/View/message-popup.php on line 34
+[05-Jan-2023 18:46:33 Asia/Kolkata] PHP Notice:  Undefined index: txt_dateFrom in /var/www/html/erpm/View/message-popup.php on line 27
+[05-Jan-2023 18:46:33 Asia/Kolkata] PHP Notice:  Undefined index: txt_dateto in /var/www/html/erpm/View/message-popup.php on line 34
+[05-Jan-2023 18:46:43 Asia/Kolkata] PHP Notice:  Undefined index: txt_dateFrom in /var/www/html/erpm/View/message-popup.php on line 27
+[05-Jan-2023 18:46:43 Asia/Kolkata] PHP Notice:  Undefined index: txt_dateto in /var/www/html/erpm/View/message-popup.php on line 34
+[05-Jan-2023 18:47:26 Asia/Kolkata] PHP Notice:  Undefined index: txt_dateFrom in /var/www/html/erpm/View/message-popup.php on line 27
+[05-Jan-2023 18:47:26 Asia/Kolkata] PHP Notice:  Undefined index: txt_dateto in /var/www/html/erpm/View/message-popup.php on line 34
+[05-Jan-2023 18:47:33 Asia/Kolkata] PHP Notice:  Undefined index: txt_dateFrom in /var/www/html/erpm/View/message-popup.php on line 27
+[05-Jan-2023 18:47:33 Asia/Kolkata] PHP Notice:  Undefined index: txt_dateto in /var/www/html/erpm/View/message-popup.php on line 34
+[05-Jan-2023 18:47:39 Asia/Kolkata] PHP Notice:  Undefined index: txt_dateFrom in /var/www/html/erpm/View/message-popup.php on line 27
+[05-Jan-2023 18:47:39 Asia/Kolkata] PHP Notice:  Undefined index: txt_dateto in /var/www/html/erpm/View/message-popup.php on line 34
+[05-Jan-2023 18:47:57 Asia/Kolkata] PHP Notice:  Undefined index: txt_dateFrom in /var/www/html/erpm/View/message-popup.php on line 27
+[05-Jan-2023 18:47:57 Asia/Kolkata] PHP Notice:  Undefined index: txt_dateto in /var/www/html/erpm/View/message-popup.php on line 34
+[05-Jan-2023 18:48:05 Asia/Kolkata] PHP Notice:  Undefined index: txt_dateFrom in /var/www/html/erpm/View/message-popup.php on line 27
+[05-Jan-2023 18:48:05 Asia/Kolkata] PHP Notice:  Undefined index: txt_dateto in /var/www/html/erpm/View/message-popup.php on line 34
+[05-Jan-2023 18:48:11 Asia/Kolkata] PHP Notice:  Undefined index: txt_dateFrom in /var/www/html/erpm/View/message-popup.php on line 27
+[05-Jan-2023 18:48:11 Asia/Kolkata] PHP Notice:  Undefined index: txt_dateto in /var/www/html/erpm/View/message-popup.php on line 34
+[05-Jan-2023 18:48:16 Asia/Kolkata] PHP Notice:  Undefined index: txt_dateFrom in /var/www/html/erpm/View/message-popup.php on line 27
+[05-Jan-2023 18:48:16 Asia/Kolkata] PHP Notice:  Undefined index: txt_dateto in /var/www/html/erpm/View/message-popup.php on line 34
+[05-Jan-2023 18:48:22 Asia/Kolkata] PHP Notice:  Undefined index: txt_dateFrom in /var/www/html/erpm/View/message-popup.php on line 27
+[05-Jan-2023 18:48:22 Asia/Kolkata] PHP Notice:  Undefined index: txt_dateto in /var/www/html/erpm/View/message-popup.php on line 34
+[05-Jan-2023 18:48:31 Asia/Kolkata] PHP Notice:  Undefined index: txt_dateFrom in /var/www/html/erpm/View/message-popup.php on line 27
+[05-Jan-2023 18:48:31 Asia/Kolkata] PHP Notice:  Undefined index: txt_dateto in /var/www/html/erpm/View/message-popup.php on line 34
+[05-Jan-2023 18:48:35 Asia/Kolkata] PHP Notice:  Undefined index: txt_dateFrom in /var/www/html/erpm/View/message-popup.php on line 27
+[05-Jan-2023 18:48:35 Asia/Kolkata] PHP Notice:  Undefined index: txt_dateto in /var/www/html/erpm/View/message-popup.php on line 34
+[05-Jan-2023 18:48:35 Asia/Kolkata] PHP Notice:  Undefined index: txt_dateFrom in /var/www/html/erpm/View/message-popup.php on line 27
+[05-Jan-2023 18:48:35 Asia/Kolkata] PHP Notice:  Undefined index: txt_dateto in /var/www/html/erpm/View/message-popup.php on line 34
+[05-Jan-2023 18:48:46 Asia/Kolkata] PHP Notice:  Undefined index: txt_dateFrom in /var/www/html/erpm/View/message-popup.php on line 27
+[05-Jan-2023 18:48:46 Asia/Kolkata] PHP Notice:  Undefined index: txt_dateto in /var/www/html/erpm/View/message-popup.php on line 34
+[05-Jan-2023 18:49:01 Asia/Kolkata] PHP Notice:  Undefined index: txt_dateFrom in /var/www/html/erpm/View/message-popup.php on line 27
+[05-Jan-2023 18:49:01 Asia/Kolkata] PHP Notice:  Undefined index: txt_dateto in /var/www/html/erpm/View/message-popup.php on line 34
+[05-Jan-2023 18:49:12 Asia/Kolkata] PHP Warning:  mysqli_stmt::bind_param(): Number of elements in type definition string doesn't match number of bind variables in /var/www/html/erpm/Controller/ConLog.php on line 464
+[05-Jan-2023 18:49:12 Asia/Kolkata] PHP Notice:  Undefined index: txt_dateFrom in /var/www/html/erpm/View/message-popup.php on line 27
+[05-Jan-2023 18:49:12 Asia/Kolkata] PHP Notice:  Undefined index: txt_dateto in /var/www/html/erpm/View/message-popup.php on line 34
+[05-Jan-2023 18:49:14 Asia/Kolkata] PHP Notice:  Undefined index: txt_dateFrom in /var/www/html/erpm/View/message-popup.php on line 27
+[05-Jan-2023 18:49:14 Asia/Kolkata] PHP Notice:  Undefined index: txt_dateto in /var/www/html/erpm/View/message-popup.php on line 34
+[05-Jan-2023 18:49:21 Asia/Kolkata] PHP Notice:  Undefined index: txt_dateFrom in /var/www/html/erpm/View/message-popup.php on line 27
+[05-Jan-2023 18:49:21 Asia/Kolkata] PHP Notice:  Undefined index: txt_dateto in /var/www/html/erpm/View/message-popup.php on line 34
+[05-Jan-2023 18:49:28 Asia/Kolkata] PHP Notice:  Undefined index: action in /var/www/html/erpm/Controller/getFilterData.php on line 6
+[05-Jan-2023 18:49:28 Asia/Kolkata] PHP Notice:  Undefined index: clientid in /var/www/html/erpm/Controller/getFilterData.php on line 86
+[05-Jan-2023 18:49:28 Asia/Kolkata] PHP Notice:  Undefined index: processid in /var/www/html/erpm/Controller/getFilterData.php on line 112
+[05-Jan-2023 18:49:30 Asia/Kolkata] PHP Notice:  Undefined index: txt_dateFrom in /var/www/html/erpm/View/message-popup.php on line 27
+[05-Jan-2023 18:49:30 Asia/Kolkata] PHP Notice:  Undefined index: txt_dateto in /var/www/html/erpm/View/message-popup.php on line 34
+[05-Jan-2023 18:49:31 Asia/Kolkata] PHP Notice:  Undefined index: action in /var/www/html/erpm/Controller/getFilterData.php on line 6
+[05-Jan-2023 18:49:31 Asia/Kolkata] PHP Notice:  Undefined index: location_id in /var/www/html/erpm/Controller/getFilterData.php on line 63
+[05-Jan-2023 18:49:31 Asia/Kolkata] PHP Notice:  Undefined index: processid in /var/www/html/erpm/Controller/getFilterData.php on line 112
+[05-Jan-2023 18:49:45 Asia/Kolkata] PHP Notice:  Undefined index: req in /var/www/html/erpm/View/add_leave.php on line 412
+[05-Jan-2023 18:49:45 Asia/Kolkata] PHP Notice:  Undefined index: req in /var/www/html/erpm/View/add_leave.php on line 416
+[05-Jan-2023 18:49:45 Asia/Kolkata] PHP Notice:  Undefined variable: leave_Level in /var/www/html/erpm/View/add_leave.php on line 904
+[05-Jan-2023 18:49:48 Asia/Kolkata] PHP Notice:  Undefined index: txt_dateFrom in /var/www/html/erpm/View/message-popup.php on line 27
+[05-Jan-2023 18:49:48 Asia/Kolkata] PHP Notice:  Undefined index: txt_dateto in /var/www/html/erpm/View/message-popup.php on line 34
+[05-Jan-2023 18:49:55 Asia/Kolkata] PHP Notice:  Undefined index: txt_dateFrom in /var/www/html/erpm/View/message-popup.php on line 27
+[05-Jan-2023 18:49:55 Asia/Kolkata] PHP Notice:  Undefined index: txt_dateto in /var/www/html/erpm/View/message-popup.php on line 34
+[05-Jan-2023 18:50:17 Asia/Kolkata] PHP Notice:  Undefined index: txt_dateFrom in /var/www/html/erpm/View/message-popup.php on line 27
+[05-Jan-2023 18:50:17 Asia/Kolkata] PHP Notice:  Undefined index: txt_dateto in /var/www/html/erpm/View/message-popup.php on line 34
+[05-Jan-2023 18:50:22 Asia/Kolkata] PHP Notice:  Undefined index: txt_dateFrom in /var/www/html/erpm/View/message-popup.php on line 27
+[05-Jan-2023 18:50:22 Asia/Kolkata] PHP Notice:  Undefined index: txt_dateto in /var/www/html/erpm/View/message-popup.php on line 34
+[05-Jan-2023 18:50:24 Asia/Kolkata] PHP Notice:  Undefined index: txt_dateFrom in /var/www/html/erpm/View/message-popup.php on line 27
+[05-Jan-2023 18:50:24 Asia/Kolkata] PHP Notice:  Undefined index: txt_dateto in /var/www/html/erpm/View/message-popup.php on line 34
+[05-Jan-2023 18:50:28 Asia/Kolkata] PHP Notice:  Undefined index: req in /var/www/html/erpm/View/add_leave.php on line 412
+[05-Jan-2023 18:50:28 Asia/Kolkata] PHP Notice:  Undefined index: req in /var/www/html/erpm/View/add_leave.php on line 416
+[05-Jan-2023 18:50:28 Asia/Kolkata] PHP Notice:  Undefined variable: leave_Level in /var/www/html/erpm/View/add_leave.php on line 904
+[05-Jan-2023 18:50:30 Asia/Kolkata] PHP Notice:  Undefined index: txt_dateFrom in /var/www/html/erpm/View/message-popup.php on line 27
+[05-Jan-2023 18:50:30 Asia/Kolkata] PHP Notice:  Undefined index: txt_dateto in /var/www/html/erpm/View/message-popup.php on line 34
+[05-Jan-2023 18:50:31 Asia/Kolkata] PHP Warning:  mysqli_stmt::bind_param(): Number of elements in type definition string doesn't match number of bind variables in /var/www/html/erpm/Controller/ConLog.php on line 464
+[05-Jan-2023 18:50:31 Asia/Kolkata] PHP Warning:  Use of undefined constant EMS_CenterName - assumed 'EMS_CenterName' (this will throw an Error in a future version of PHP) in /var/www/html/erpm/Controller/ConLog.php on line 470
+[05-Jan-2023 18:50:31 Asia/Kolkata] PHP Warning:  Use of undefined constant EMAIL_HOST - assumed 'EMAIL_HOST' (this will throw an Error in a future version of PHP) in /var/www/html/erpm/Controller/ConLog.php on line 473
+[05-Jan-2023 18:50:31 Asia/Kolkata] PHP Warning:  Use of undefined constant EMAIL_AUTH - assumed 'EMAIL_AUTH' (this will throw an Error in a future version of PHP) in /var/www/html/erpm/Controller/ConLog.php on line 474
+[05-Jan-2023 18:50:31 Asia/Kolkata] PHP Warning:  Use of undefined constant EMAIL_USER - assumed 'EMAIL_USER' (this will throw an Error in a future version of PHP) in /var/www/html/erpm/Controller/ConLog.php on line 475
+[05-Jan-2023 18:50:31 Asia/Kolkata] PHP Warning:  Use of undefined constant EMAIL_PASS - assumed 'EMAIL_PASS' (this will throw an Error in a future version of PHP) in /var/www/html/erpm/Controller/ConLog.php on line 476
+[05-Jan-2023 18:50:31 Asia/Kolkata] PHP Warning:  Use of undefined constant EMAIL_SMTPSecure - assumed 'EMAIL_SMTPSecure' (this will throw an Error in a future version of PHP) in /var/www/html/erpm/Controller/ConLog.php on line 477
+[05-Jan-2023 18:50:31 Asia/Kolkata] PHP Warning:  Use of undefined constant EMAIL_PORT - assumed 'EMAIL_PORT' (this will throw an Error in a future version of PHP) in /var/www/html/erpm/Controller/ConLog.php on line 478
+[05-Jan-2023 18:50:31 Asia/Kolkata] PHP Warning:  Use of undefined constant EMAIL_FROM - assumed 'EMAIL_FROM' (this will throw an Error in a future version of PHP) in /var/www/html/erpm/Controller/ConLog.php on line 479
+[05-Jan-2023 18:50:31 Asia/Kolkata] PHP Warning:  Use of undefined constant EMS_CenterName - assumed 'EMS_CenterName' (this will throw an Error in a future version of PHP) in /var/www/html/erpm/Controller/ConLog.php on line 482
+[05-Jan-2023 18:50:34 Asia/Kolkata] PHP Notice:  Undefined index: txt_dateFrom in /var/www/html/erpm/View/message-popup.php on line 27
+[05-Jan-2023 18:50:34 Asia/Kolkata] PHP Notice:  Undefined index: txt_dateto in /var/www/html/erpm/View/message-popup.php on line 34
+[05-Jan-2023 18:50:40 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /var/www/html/erpm/View/message-popup.php on line 192
+[05-Jan-2023 18:50:41 Asia/Kolkata] PHP Notice:  Undefined index: txt_dateFrom in /var/www/html/erpm/View/message-popup.php on line 27
+[05-Jan-2023 18:50:41 Asia/Kolkata] PHP Notice:  Undefined index: txt_dateto in /var/www/html/erpm/View/message-popup.php on line 34
+[05-Jan-2023 18:51:30 Asia/Kolkata] PHP Warning:  mysqli_stmt::bind_param(): Number of elements in type definition string doesn't match number of bind variables in /var/www/html/erpm/Controller/ConLog.php on line 464
+[05-Jan-2023 18:51:32 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /var/www/html/erpm/View/index.php on line 346
+[05-Jan-2023 18:51:50 Asia/Kolkata] PHP Notice:  Undefined index: txt_dateFrom in /var/www/html/erpm/View/message-popup.php on line 27
+[05-Jan-2023 18:51:50 Asia/Kolkata] PHP Notice:  Undefined index: txt_dateto in /var/www/html/erpm/View/message-popup.php on line 34
+[05-Jan-2023 18:52:01 Asia/Kolkata] PHP Notice:  Undefined index: txt_dateFrom in /var/www/html/erpm/View/message-popup.php on line 27
+[05-Jan-2023 18:52:01 Asia/Kolkata] PHP Notice:  Undefined index: txt_dateto in /var/www/html/erpm/View/message-popup.php on line 34
+[05-Jan-2023 18:52:31 Asia/Kolkata] PHP Notice:  Undefined index: txt_dateFrom in /var/www/html/erpm/View/message-popup.php on line 27
+[05-Jan-2023 18:52:31 Asia/Kolkata] PHP Notice:  Undefined index: txt_dateto in /var/www/html/erpm/View/message-popup.php on line 34
+[05-Jan-2023 18:52:37 Asia/Kolkata] PHP Notice:  Undefined index: txt_dateFrom in /var/www/html/erpm/View/message-popup.php on line 27
+[05-Jan-2023 18:52:37 Asia/Kolkata] PHP Notice:  Undefined index: txt_dateto in /var/www/html/erpm/View/message-popup.php on line 34
+[05-Jan-2023 18:52:43 Asia/Kolkata] PHP Notice:  Undefined index: txt_dateFrom in /var/www/html/erpm/View/message-popup.php on line 27
+[05-Jan-2023 18:52:43 Asia/Kolkata] PHP Notice:  Undefined index: txt_dateto in /var/www/html/erpm/View/message-popup.php on line 34
+[05-Jan-2023 18:54:28 Asia/Kolkata] PHP Notice:  Undefined index: txt_dateFrom in /var/www/html/erpm/View/message-popup.php on line 27
+[05-Jan-2023 18:54:28 Asia/Kolkata] PHP Notice:  Undefined index: txt_dateto in /var/www/html/erpm/View/message-popup.php on line 34
+[05-Jan-2023 18:54:37 Asia/Kolkata] PHP Notice:  Undefined index: txt_dateFrom in /var/www/html/erpm/View/message-popup.php on line 27
+[05-Jan-2023 18:54:37 Asia/Kolkata] PHP Notice:  Undefined index: txt_dateto in /var/www/html/erpm/View/message-popup.php on line 34
+[05-Jan-2023 18:55:28 Asia/Kolkata] PHP Notice:  Undefined index: txt_dateFrom in /var/www/html/erpm/View/message-popup.php on line 27
+[05-Jan-2023 18:55:28 Asia/Kolkata] PHP Notice:  Undefined index: txt_dateto in /var/www/html/erpm/View/message-popup.php on line 34
+[05-Jan-2023 18:55:39 Asia/Kolkata] PHP Notice:  Undefined index: txt_dateFrom in /var/www/html/erpm/View/message-popup.php on line 27
+[05-Jan-2023 18:55:39 Asia/Kolkata] PHP Notice:  Undefined index: txt_dateto in /var/www/html/erpm/View/message-popup.php on line 34
+[05-Jan-2023 18:55:41 Asia/Kolkata] PHP Notice:  Undefined index: txt_dateFrom in /var/www/html/erpm/View/message-popup.php on line 27
+[05-Jan-2023 18:55:41 Asia/Kolkata] PHP Notice:  Undefined index: txt_dateto in /var/www/html/erpm/View/message-popup.php on line 34
+[05-Jan-2023 18:55:51 Asia/Kolkata] PHP Warning:  mysqli_stmt::bind_param(): Number of elements in type definition string doesn't match number of bind variables in /var/www/html/erpm/Controller/ConLog.php on line 464
+[05-Jan-2023 18:55:51 Asia/Kolkata] PHP Notice:  Undefined index: txt_dateFrom in /var/www/html/erpm/View/message-popup.php on line 27
+[05-Jan-2023 18:55:51 Asia/Kolkata] PHP Notice:  Undefined index: txt_dateto in /var/www/html/erpm/View/message-popup.php on line 34
+[05-Jan-2023 18:56:31 Asia/Kolkata] PHP Notice:  Undefined index: __user_logid in /var/www/html/erpm/AppCode/nHead.php on line 2
+[05-Jan-2023 18:59:11 Asia/Kolkata] PHP Notice:  Undefined index: txt_dateFrom in /var/www/html/erpm/View/message-popup.php on line 27
+[05-Jan-2023 18:59:11 Asia/Kolkata] PHP Notice:  Undefined index: txt_dateto in /var/www/html/erpm/View/message-popup.php on line 34
+[05-Jan-2023 18:59:30 Asia/Kolkata] PHP Notice:  Undefined variable: emp_mail in /var/www/html/erpm/View/employee_serach.php on line 347

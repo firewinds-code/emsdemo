@@ -1,0 +1,15 @@
+[08-Feb-2023 13:52:53 Asia/Kolkata] PHP Warning:  Undefined array key "emp_status" in C:\wamp64\www\emsdemo\View\rpt_Exception_spl.php on line 136
+[08-Feb-2023 13:52:53 Asia/Kolkata] PHP Stack trace:
+[08-Feb-2023 13:52:53 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\emsdemo\View\rpt_Exception_spl.php:0
+[08-Feb-2023 13:52:53 Asia/Kolkata] PHP Warning:  Undefined array key "emp_status" in C:\wamp64\www\emsdemo\View\rpt_Exception_spl.php on line 140
+[08-Feb-2023 13:52:53 Asia/Kolkata] PHP Stack trace:
+[08-Feb-2023 13:52:53 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\emsdemo\View\rpt_Exception_spl.php:0
+[08-Feb-2023 13:53:28 Asia/Kolkata] PHP Warning:  Undefined array key "emp_status" in C:\wamp64\www\emsdemo\View\rpt_Leave_new.php on line 136
+[08-Feb-2023 13:53:28 Asia/Kolkata] PHP Stack trace:
+[08-Feb-2023 13:53:28 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\emsdemo\View\rpt_Leave_new.php:0
+[08-Feb-2023 13:56:32 Asia/Kolkata] PHP Warning:  Undefined array key "emp_status" in C:\wamp64\www\emsdemo\View\rpt_DownTime_new.php on line 143
+[08-Feb-2023 13:56:32 Asia/Kolkata] PHP Stack trace:
+[08-Feb-2023 13:56:32 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\emsdemo\View\rpt_DownTime_new.php:0
+[08-Feb-2023 13:56:32 Asia/Kolkata] PHP Warning:  Undefined array key "emp_status" in C:\wamp64\www\emsdemo\View\rpt_DownTime_new.php on line 147
+[08-Feb-2023 13:56:32 Asia/Kolkata] PHP Stack trace:
+[08-Feb-2023 13:56:32 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\emsdemo\View\rpt_DownTime_new.php:0

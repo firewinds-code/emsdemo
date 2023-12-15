@@ -1,0 +1,9 @@
+[20-Feb-2023 11:41:31 Asia/Kolkata] PHP Warning:  Undefined array key "__user_logid" in C:\wamp64\www\emsdemo\View\pwd_rcvr.php on line 13
+[20-Feb-2023 11:41:31 Asia/Kolkata] PHP Stack trace:
+[20-Feb-2023 11:41:31 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\emsdemo\View\pwd_rcvr.php:0
+[20-Feb-2023 11:42:41 Asia/Kolkata] PHP Warning:  Undefined array key "txt_pwd_empid" in C:\wamp64\www\emsdemo\View\pwd_rcvr.php on line 13
+[20-Feb-2023 11:42:41 Asia/Kolkata] PHP Stack trace:
+[20-Feb-2023 11:42:41 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\emsdemo\View\pwd_rcvr.php:0
+[20-Feb-2023 11:42:53 Asia/Kolkata] PHP Warning:  Undefined array key "txt_pwd_empid" in C:\wamp64\www\emsdemo\View\pwd_rcvr.php on line 13
+[20-Feb-2023 11:42:53 Asia/Kolkata] PHP Stack trace:
+[20-Feb-2023 11:42:53 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\emsdemo\View\pwd_rcvr.php:0

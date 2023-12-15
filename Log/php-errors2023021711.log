@@ -1,0 +1,43 @@
+[17-Feb-2023 11:47:43 Asia/Kolkata] PHP Warning:  Undefined array key "txt_dateFrom" in C:\wamp64\www\emsdemo\View\message-popup.php on line 28
+[17-Feb-2023 11:47:43 Asia/Kolkata] PHP Stack trace:
+[17-Feb-2023 11:47:43 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\emsdemo\View\message-popup.php:0
+[17-Feb-2023 11:47:43 Asia/Kolkata] PHP Warning:  Undefined array key "txt_dateto" in C:\wamp64\www\emsdemo\View\message-popup.php on line 29
+[17-Feb-2023 11:47:43 Asia/Kolkata] PHP Stack trace:
+[17-Feb-2023 11:47:43 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\emsdemo\View\message-popup.php:0
+[17-Feb-2023 11:48:06 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type int in C:\wamp64\www\emsdemo\View\EmployeInfo.php on line 885
+[17-Feb-2023 11:48:06 Asia/Kolkata] PHP Stack trace:
+[17-Feb-2023 11:48:06 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\emsdemo\View\EmployeInfo.php:0
+[17-Feb-2023 11:48:06 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type int in C:\wamp64\www\emsdemo\View\EmployeInfo.php on line 885
+[17-Feb-2023 11:48:06 Asia/Kolkata] PHP Stack trace:
+[17-Feb-2023 11:48:06 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\emsdemo\View\EmployeInfo.php:0
+[17-Feb-2023 11:48:06 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type int in C:\wamp64\www\emsdemo\View\EmployeInfo.php on line 885
+[17-Feb-2023 11:48:06 Asia/Kolkata] PHP Stack trace:
+[17-Feb-2023 11:48:06 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\emsdemo\View\EmployeInfo.php:0
+[17-Feb-2023 11:48:34 Asia/Kolkata] PHP Warning:  Undefined variable $locationdir in C:\wamp64\www\emsdemo\View\EmployeInfo.php on line 165
+[17-Feb-2023 11:48:34 Asia/Kolkata] PHP Stack trace:
+[17-Feb-2023 11:48:34 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\emsdemo\View\EmployeInfo.php:0
+[17-Feb-2023 11:48:38 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type int in C:\wamp64\www\emsdemo\View\EmployeInfo.php on line 884
+[17-Feb-2023 11:48:38 Asia/Kolkata] PHP Stack trace:
+[17-Feb-2023 11:48:38 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\emsdemo\View\EmployeInfo.php:0
+[17-Feb-2023 11:48:38 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type int in C:\wamp64\www\emsdemo\View\EmployeInfo.php on line 884
+[17-Feb-2023 11:48:38 Asia/Kolkata] PHP Stack trace:
+[17-Feb-2023 11:48:38 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\emsdemo\View\EmployeInfo.php:0
+[17-Feb-2023 11:48:38 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type int in C:\wamp64\www\emsdemo\View\EmployeInfo.php on line 884
+[17-Feb-2023 11:48:38 Asia/Kolkata] PHP Stack trace:
+[17-Feb-2023 11:48:38 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\emsdemo\View\EmployeInfo.php:0
+[17-Feb-2023 11:53:04 Asia/Kolkata] PHP Warning:  Undefined array key "__user_logid" in C:\wamp64\www\emsdemo\AppCode\nHead.php on line 2
+[17-Feb-2023 11:53:04 Asia/Kolkata] PHP Stack trace:
+[17-Feb-2023 11:53:04 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\emsdemo\View\EmployeInfo.php:0
+[17-Feb-2023 11:53:04 Asia/Kolkata] PHP   2. require() C:\wamp64\www\emsdemo\View\EmployeInfo.php:6
+[17-Feb-2023 11:58:06 Asia/Kolkata] PHP Warning:  Undefined variable $locationdir in C:\wamp64\www\emsdemo\View\EmployeInfo.php on line 165
+[17-Feb-2023 11:58:06 Asia/Kolkata] PHP Stack trace:
+[17-Feb-2023 11:58:06 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\emsdemo\View\EmployeInfo.php:0
+[17-Feb-2023 11:58:11 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type int in C:\wamp64\www\emsdemo\View\EmployeInfo.php on line 884
+[17-Feb-2023 11:58:11 Asia/Kolkata] PHP Stack trace:
+[17-Feb-2023 11:58:11 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\emsdemo\View\EmployeInfo.php:0
+[17-Feb-2023 11:58:11 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type int in C:\wamp64\www\emsdemo\View\EmployeInfo.php on line 884
+[17-Feb-2023 11:58:11 Asia/Kolkata] PHP Stack trace:
+[17-Feb-2023 11:58:11 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\emsdemo\View\EmployeInfo.php:0
+[17-Feb-2023 11:58:11 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type int in C:\wamp64\www\emsdemo\View\EmployeInfo.php on line 884
+[17-Feb-2023 11:58:11 Asia/Kolkata] PHP Stack trace:
+[17-Feb-2023 11:58:11 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\emsdemo\View\EmployeInfo.php:0

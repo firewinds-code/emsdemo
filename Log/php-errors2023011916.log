@@ -1,0 +1,6 @@
+[19-Jan-2023 16:00:39 Asia/Kolkata] PHP Warning:  Undefined array key "txt_dateFrom" in C:\wamp64\www\emsdemo\View\message-popup.php on line 28
+[19-Jan-2023 16:00:39 Asia/Kolkata] PHP Stack trace:
+[19-Jan-2023 16:00:39 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\emsdemo\View\message-popup.php:0
+[19-Jan-2023 16:00:39 Asia/Kolkata] PHP Warning:  Undefined array key "txt_dateto" in C:\wamp64\www\emsdemo\View\message-popup.php on line 29
+[19-Jan-2023 16:00:39 Asia/Kolkata] PHP Stack trace:
+[19-Jan-2023 16:00:39 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\emsdemo\View\message-popup.php:0

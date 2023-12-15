@@ -1,0 +1,42 @@
+[22-Feb-2023 13:03:34 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in C:\wamp64\www\emsdemo\View\index.php on line 356
+[22-Feb-2023 13:03:34 Asia/Kolkata] PHP Stack trace:
+[22-Feb-2023 13:03:34 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\emsdemo\View\index.php:0
+[22-Feb-2023 13:04:41 Asia/Kolkata] PHP Warning:  Cannot modify header information - headers already sent by (output started at C:\wamp64\www\emsdemo\AppCode\head.mpt:15) in C:\wamp64\www\emsdemo\View\EmployeInfo.php on line 52
+[22-Feb-2023 13:04:41 Asia/Kolkata] PHP Stack trace:
+[22-Feb-2023 13:04:41 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\emsdemo\View\EmployeInfo.php:0
+[22-Feb-2023 13:04:41 Asia/Kolkata] PHP   2. setcookie($name = 'key', $value = 'value', $expires_or_options = ['samesite' => 'None', 'secure' => TRUE]) C:\wamp64\www\emsdemo\View\EmployeInfo.php:52
+[22-Feb-2023 13:04:45 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type int in C:\wamp64\www\emsdemo\View\EmployeInfo.php on line 892
+[22-Feb-2023 13:04:45 Asia/Kolkata] PHP Stack trace:
+[22-Feb-2023 13:04:45 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\emsdemo\View\EmployeInfo.php:0
+[22-Feb-2023 13:04:45 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type int in C:\wamp64\www\emsdemo\View\EmployeInfo.php on line 892
+[22-Feb-2023 13:04:45 Asia/Kolkata] PHP Stack trace:
+[22-Feb-2023 13:04:45 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\emsdemo\View\EmployeInfo.php:0
+[22-Feb-2023 13:04:45 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type int in C:\wamp64\www\emsdemo\View\EmployeInfo.php on line 892
+[22-Feb-2023 13:04:45 Asia/Kolkata] PHP Stack trace:
+[22-Feb-2023 13:04:45 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\emsdemo\View\EmployeInfo.php:0
+[22-Feb-2023 13:08:06 Asia/Kolkata] PHP Warning:  Cannot modify header information - headers already sent by (output started at C:\wamp64\www\emsdemo\AppCode\head.mpt:15) in C:\wamp64\www\emsdemo\View\EmployeInfo.php on line 52
+[22-Feb-2023 13:08:06 Asia/Kolkata] PHP Stack trace:
+[22-Feb-2023 13:08:06 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\emsdemo\View\EmployeInfo.php:0
+[22-Feb-2023 13:08:06 Asia/Kolkata] PHP   2. setcookie($name = 'key', $value = 'value', $expires_or_options = ['samesite' => 'None', 'secure' => TRUE]) C:\wamp64\www\emsdemo\View\EmployeInfo.php:52
+[22-Feb-2023 13:08:11 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type int in C:\wamp64\www\emsdemo\View\EmployeInfo.php on line 892
+[22-Feb-2023 13:08:11 Asia/Kolkata] PHP Stack trace:
+[22-Feb-2023 13:08:11 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\emsdemo\View\EmployeInfo.php:0
+[22-Feb-2023 13:08:11 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type int in C:\wamp64\www\emsdemo\View\EmployeInfo.php on line 892
+[22-Feb-2023 13:08:11 Asia/Kolkata] PHP Stack trace:
+[22-Feb-2023 13:08:11 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\emsdemo\View\EmployeInfo.php:0
+[22-Feb-2023 13:08:11 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type int in C:\wamp64\www\emsdemo\View\EmployeInfo.php on line 892
+[22-Feb-2023 13:08:11 Asia/Kolkata] PHP Stack trace:
+[22-Feb-2023 13:08:11 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\emsdemo\View\EmployeInfo.php:0
+[22-Feb-2023 13:10:30 Asia/Kolkata] PHP Warning:  Cannot modify header information - headers already sent by (output started at C:\wamp64\www\emsdemo\AppCode\head.mpt:15) in C:\wamp64\www\emsdemo\View\EmployeInfo.php on line 52
+[22-Feb-2023 13:10:30 Asia/Kolkata] PHP Stack trace:
+[22-Feb-2023 13:10:30 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\emsdemo\View\EmployeInfo.php:0
+[22-Feb-2023 13:10:30 Asia/Kolkata] PHP   2. setcookie($name = 'user', $value = 'vinn', $expires_or_options = ['samesite' => 'None', 'secure' => TRUE]) C:\wamp64\www\emsdemo\View\EmployeInfo.php:52
+[22-Feb-2023 13:10:34 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type int in C:\wamp64\www\emsdemo\View\EmployeInfo.php on line 892
+[22-Feb-2023 13:10:34 Asia/Kolkata] PHP Stack trace:
+[22-Feb-2023 13:10:34 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\emsdemo\View\EmployeInfo.php:0
+[22-Feb-2023 13:10:34 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type int in C:\wamp64\www\emsdemo\View\EmployeInfo.php on line 892
+[22-Feb-2023 13:10:34 Asia/Kolkata] PHP Stack trace:
+[22-Feb-2023 13:10:34 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\emsdemo\View\EmployeInfo.php:0
+[22-Feb-2023 13:10:34 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type int in C:\wamp64\www\emsdemo\View\EmployeInfo.php on line 892
+[22-Feb-2023 13:10:34 Asia/Kolkata] PHP Stack trace:
+[22-Feb-2023 13:10:34 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\emsdemo\View\EmployeInfo.php:0

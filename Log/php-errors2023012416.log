@@ -1,0 +1,412 @@
+[24-Jan-2023 16:13:03 Asia/Kolkata] PHP Warning:  Undefined array key "EmployeeID" in C:\wamp64\www\emsdemo\View\welcome_mail_template.php on line 16
+[24-Jan-2023 16:13:03 Asia/Kolkata] PHP Stack trace:
+[24-Jan-2023 16:13:03 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\emsdemo\View\welcome_mail_template.php:0
+[24-Jan-2023 16:21:13 Asia/Kolkata] PHP Warning:  Undefined array key "__user_logid" in C:\wamp64\www\emsdemo\AppCode\nHead.php on line 2
+[24-Jan-2023 16:21:13 Asia/Kolkata] PHP Stack trace:
+[24-Jan-2023 16:21:13 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\emsdemo\View\manage_consultancy.php:0
+[24-Jan-2023 16:21:13 Asia/Kolkata] PHP   2. require() C:\wamp64\www\emsdemo\View\manage_consultancy.php:9
+[24-Jan-2023 16:21:35 Asia/Kolkata] PHP Warning:  Undefined array key "cm_id" in C:\wamp64\www\emsdemo\View\manage_consultancy.php on line 235
+[24-Jan-2023 16:21:35 Asia/Kolkata] PHP Stack trace:
+[24-Jan-2023 16:21:35 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\emsdemo\View\manage_consultancy.php:0
+[24-Jan-2023 16:21:35 Asia/Kolkata] PHP Warning:  Undefined array key "client_id" in C:\wamp64\www\emsdemo\View\manage_consultancy.php on line 240
+[24-Jan-2023 16:21:35 Asia/Kolkata] PHP Stack trace:
+[24-Jan-2023 16:21:35 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\emsdemo\View\manage_consultancy.php:0
+[24-Jan-2023 16:21:35 Asia/Kolkata] PHP Warning:  Undefined array key "sub_process" in C:\wamp64\www\emsdemo\View\manage_consultancy.php on line 240
+[24-Jan-2023 16:21:35 Asia/Kolkata] PHP Stack trace:
+[24-Jan-2023 16:21:35 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\emsdemo\View\manage_consultancy.php:0
+[24-Jan-2023 16:21:35 Asia/Kolkata] PHP Warning:  Undefined array key "cm_id" in C:\wamp64\www\emsdemo\View\manage_consultancy.php on line 240
+[24-Jan-2023 16:21:35 Asia/Kolkata] PHP Stack trace:
+[24-Jan-2023 16:21:35 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\emsdemo\View\manage_consultancy.php:0
+[24-Jan-2023 16:21:35 Asia/Kolkata] PHP Warning:  Undefined array key "Client_info" in C:\wamp64\www\emsdemo\View\manage_consultancy.php on line 240
+[24-Jan-2023 16:21:35 Asia/Kolkata] PHP Stack trace:
+[24-Jan-2023 16:21:35 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\emsdemo\View\manage_consultancy.php:0
+[24-Jan-2023 16:21:35 Asia/Kolkata] PHP Warning:  Undefined array key "cm_id" in C:\wamp64\www\emsdemo\View\manage_consultancy.php on line 235
+[24-Jan-2023 16:21:35 Asia/Kolkata] PHP Stack trace:
+[24-Jan-2023 16:21:35 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\emsdemo\View\manage_consultancy.php:0
+[24-Jan-2023 16:21:35 Asia/Kolkata] PHP Warning:  Undefined array key "client_id" in C:\wamp64\www\emsdemo\View\manage_consultancy.php on line 240
+[24-Jan-2023 16:21:35 Asia/Kolkata] PHP Stack trace:
+[24-Jan-2023 16:21:35 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\emsdemo\View\manage_consultancy.php:0
+[24-Jan-2023 16:21:35 Asia/Kolkata] PHP Warning:  Undefined array key "sub_process" in C:\wamp64\www\emsdemo\View\manage_consultancy.php on line 240
+[24-Jan-2023 16:21:35 Asia/Kolkata] PHP Stack trace:
+[24-Jan-2023 16:21:35 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\emsdemo\View\manage_consultancy.php:0
+[24-Jan-2023 16:21:35 Asia/Kolkata] PHP Warning:  Undefined array key "cm_id" in C:\wamp64\www\emsdemo\View\manage_consultancy.php on line 240
+[24-Jan-2023 16:21:35 Asia/Kolkata] PHP Stack trace:
+[24-Jan-2023 16:21:35 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\emsdemo\View\manage_consultancy.php:0
+[24-Jan-2023 16:21:35 Asia/Kolkata] PHP Warning:  Undefined array key "Client_info" in C:\wamp64\www\emsdemo\View\manage_consultancy.php on line 240
+[24-Jan-2023 16:21:35 Asia/Kolkata] PHP Stack trace:
+[24-Jan-2023 16:21:35 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\emsdemo\View\manage_consultancy.php:0
+[24-Jan-2023 16:21:35 Asia/Kolkata] PHP Warning:  Undefined array key "cm_id" in C:\wamp64\www\emsdemo\View\manage_consultancy.php on line 235
+[24-Jan-2023 16:21:35 Asia/Kolkata] PHP Stack trace:
+[24-Jan-2023 16:21:35 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\emsdemo\View\manage_consultancy.php:0
+[24-Jan-2023 16:21:35 Asia/Kolkata] PHP Warning:  Undefined array key "client_id" in C:\wamp64\www\emsdemo\View\manage_consultancy.php on line 240
+[24-Jan-2023 16:21:35 Asia/Kolkata] PHP Stack trace:
+[24-Jan-2023 16:21:35 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\emsdemo\View\manage_consultancy.php:0
+[24-Jan-2023 16:21:35 Asia/Kolkata] PHP Warning:  Undefined array key "sub_process" in C:\wamp64\www\emsdemo\View\manage_consultancy.php on line 240
+[24-Jan-2023 16:21:35 Asia/Kolkata] PHP Stack trace:
+[24-Jan-2023 16:21:35 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\emsdemo\View\manage_consultancy.php:0
+[24-Jan-2023 16:21:35 Asia/Kolkata] PHP Warning:  Undefined array key "cm_id" in C:\wamp64\www\emsdemo\View\manage_consultancy.php on line 240
+[24-Jan-2023 16:21:35 Asia/Kolkata] PHP Stack trace:
+[24-Jan-2023 16:21:35 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\emsdemo\View\manage_consultancy.php:0
+[24-Jan-2023 16:21:35 Asia/Kolkata] PHP Warning:  Undefined array key "Client_info" in C:\wamp64\www\emsdemo\View\manage_consultancy.php on line 240
+[24-Jan-2023 16:21:35 Asia/Kolkata] PHP Stack trace:
+[24-Jan-2023 16:21:35 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\emsdemo\View\manage_consultancy.php:0
+[24-Jan-2023 16:21:35 Asia/Kolkata] PHP Warning:  Undefined array key "cm_id" in C:\wamp64\www\emsdemo\View\manage_consultancy.php on line 235
+[24-Jan-2023 16:21:35 Asia/Kolkata] PHP Stack trace:
+[24-Jan-2023 16:21:35 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\emsdemo\View\manage_consultancy.php:0
+[24-Jan-2023 16:21:35 Asia/Kolkata] PHP Warning:  Undefined array key "client_id" in C:\wamp64\www\emsdemo\View\manage_consultancy.php on line 240
+[24-Jan-2023 16:21:35 Asia/Kolkata] PHP Stack trace:
+[24-Jan-2023 16:21:35 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\emsdemo\View\manage_consultancy.php:0
+[24-Jan-2023 16:21:35 Asia/Kolkata] PHP Warning:  Undefined array key "sub_process" in C:\wamp64\www\emsdemo\View\manage_consultancy.php on line 240
+[24-Jan-2023 16:21:35 Asia/Kolkata] PHP Stack trace:
+[24-Jan-2023 16:21:35 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\emsdemo\View\manage_consultancy.php:0
+[24-Jan-2023 16:21:35 Asia/Kolkata] PHP Warning:  Undefined array key "cm_id" in C:\wamp64\www\emsdemo\View\manage_consultancy.php on line 240
+[24-Jan-2023 16:21:35 Asia/Kolkata] PHP Stack trace:
+[24-Jan-2023 16:21:35 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\emsdemo\View\manage_consultancy.php:0
+[24-Jan-2023 16:21:35 Asia/Kolkata] PHP Warning:  Undefined array key "Client_info" in C:\wamp64\www\emsdemo\View\manage_consultancy.php on line 240
+[24-Jan-2023 16:21:35 Asia/Kolkata] PHP Stack trace:
+[24-Jan-2023 16:21:35 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\emsdemo\View\manage_consultancy.php:0
+[24-Jan-2023 16:21:35 Asia/Kolkata] PHP Warning:  Undefined array key "cm_id" in C:\wamp64\www\emsdemo\View\manage_consultancy.php on line 235
+[24-Jan-2023 16:21:35 Asia/Kolkata] PHP Stack trace:
+[24-Jan-2023 16:21:35 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\emsdemo\View\manage_consultancy.php:0
+[24-Jan-2023 16:21:35 Asia/Kolkata] PHP Warning:  Undefined array key "client_id" in C:\wamp64\www\emsdemo\View\manage_consultancy.php on line 240
+[24-Jan-2023 16:21:35 Asia/Kolkata] PHP Stack trace:
+[24-Jan-2023 16:21:35 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\emsdemo\View\manage_consultancy.php:0
+[24-Jan-2023 16:21:35 Asia/Kolkata] PHP Warning:  Undefined array key "sub_process" in C:\wamp64\www\emsdemo\View\manage_consultancy.php on line 240
+[24-Jan-2023 16:21:35 Asia/Kolkata] PHP Stack trace:
+[24-Jan-2023 16:21:35 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\emsdemo\View\manage_consultancy.php:0
+[24-Jan-2023 16:21:35 Asia/Kolkata] PHP Warning:  Undefined array key "cm_id" in C:\wamp64\www\emsdemo\View\manage_consultancy.php on line 240
+[24-Jan-2023 16:21:35 Asia/Kolkata] PHP Stack trace:
+[24-Jan-2023 16:21:35 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\emsdemo\View\manage_consultancy.php:0
+[24-Jan-2023 16:21:35 Asia/Kolkata] PHP Warning:  Undefined array key "Client_info" in C:\wamp64\www\emsdemo\View\manage_consultancy.php on line 240
+[24-Jan-2023 16:21:35 Asia/Kolkata] PHP Stack trace:
+[24-Jan-2023 16:21:35 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\emsdemo\View\manage_consultancy.php:0
+[24-Jan-2023 16:21:35 Asia/Kolkata] PHP Warning:  Undefined array key "cm_id" in C:\wamp64\www\emsdemo\View\manage_consultancy.php on line 235
+[24-Jan-2023 16:21:35 Asia/Kolkata] PHP Stack trace:
+[24-Jan-2023 16:21:35 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\emsdemo\View\manage_consultancy.php:0
+[24-Jan-2023 16:21:35 Asia/Kolkata] PHP Warning:  Undefined array key "client_id" in C:\wamp64\www\emsdemo\View\manage_consultancy.php on line 240
+[24-Jan-2023 16:21:35 Asia/Kolkata] PHP Stack trace:
+[24-Jan-2023 16:21:35 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\emsdemo\View\manage_consultancy.php:0
+[24-Jan-2023 16:21:35 Asia/Kolkata] PHP Warning:  Undefined array key "sub_process" in C:\wamp64\www\emsdemo\View\manage_consultancy.php on line 240
+[24-Jan-2023 16:21:35 Asia/Kolkata] PHP Stack trace:
+[24-Jan-2023 16:21:35 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\emsdemo\View\manage_consultancy.php:0
+[24-Jan-2023 16:21:35 Asia/Kolkata] PHP Warning:  Undefined array key "cm_id" in C:\wamp64\www\emsdemo\View\manage_consultancy.php on line 240
+[24-Jan-2023 16:21:35 Asia/Kolkata] PHP Stack trace:
+[24-Jan-2023 16:21:35 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\emsdemo\View\manage_consultancy.php:0
+[24-Jan-2023 16:21:35 Asia/Kolkata] PHP Warning:  Undefined array key "Client_info" in C:\wamp64\www\emsdemo\View\manage_consultancy.php on line 240
+[24-Jan-2023 16:21:35 Asia/Kolkata] PHP Stack trace:
+[24-Jan-2023 16:21:35 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\emsdemo\View\manage_consultancy.php:0
+[24-Jan-2023 16:21:35 Asia/Kolkata] PHP Warning:  Undefined array key "cm_id" in C:\wamp64\www\emsdemo\View\manage_consultancy.php on line 235
+[24-Jan-2023 16:21:35 Asia/Kolkata] PHP Stack trace:
+[24-Jan-2023 16:21:35 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\emsdemo\View\manage_consultancy.php:0
+[24-Jan-2023 16:21:35 Asia/Kolkata] PHP Warning:  Undefined array key "client_id" in C:\wamp64\www\emsdemo\View\manage_consultancy.php on line 240
+[24-Jan-2023 16:21:35 Asia/Kolkata] PHP Stack trace:
+[24-Jan-2023 16:21:35 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\emsdemo\View\manage_consultancy.php:0
+[24-Jan-2023 16:21:35 Asia/Kolkata] PHP Warning:  Undefined array key "sub_process" in C:\wamp64\www\emsdemo\View\manage_consultancy.php on line 240
+[24-Jan-2023 16:21:35 Asia/Kolkata] PHP Stack trace:
+[24-Jan-2023 16:21:35 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\emsdemo\View\manage_consultancy.php:0
+[24-Jan-2023 16:21:35 Asia/Kolkata] PHP Warning:  Undefined array key "cm_id" in C:\wamp64\www\emsdemo\View\manage_consultancy.php on line 240
+[24-Jan-2023 16:21:35 Asia/Kolkata] PHP Stack trace:
+[24-Jan-2023 16:21:35 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\emsdemo\View\manage_consultancy.php:0
+[24-Jan-2023 16:21:35 Asia/Kolkata] PHP Warning:  Undefined array key "Client_info" in C:\wamp64\www\emsdemo\View\manage_consultancy.php on line 240
+[24-Jan-2023 16:21:35 Asia/Kolkata] PHP Stack trace:
+[24-Jan-2023 16:21:35 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\emsdemo\View\manage_consultancy.php:0
+[24-Jan-2023 16:21:35 Asia/Kolkata] PHP Warning:  Undefined array key "cm_id" in C:\wamp64\www\emsdemo\View\manage_consultancy.php on line 235
+[24-Jan-2023 16:21:35 Asia/Kolkata] PHP Stack trace:
+[24-Jan-2023 16:21:35 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\emsdemo\View\manage_consultancy.php:0
+[24-Jan-2023 16:21:35 Asia/Kolkata] PHP Warning:  Undefined array key "client_id" in C:\wamp64\www\emsdemo\View\manage_consultancy.php on line 240
+[24-Jan-2023 16:21:35 Asia/Kolkata] PHP Stack trace:
+[24-Jan-2023 16:21:35 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\emsdemo\View\manage_consultancy.php:0
+[24-Jan-2023 16:21:35 Asia/Kolkata] PHP Warning:  Undefined array key "sub_process" in C:\wamp64\www\emsdemo\View\manage_consultancy.php on line 240
+[24-Jan-2023 16:21:35 Asia/Kolkata] PHP Stack trace:
+[24-Jan-2023 16:21:35 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\emsdemo\View\manage_consultancy.php:0
+[24-Jan-2023 16:21:35 Asia/Kolkata] PHP Warning:  Undefined array key "cm_id" in C:\wamp64\www\emsdemo\View\manage_consultancy.php on line 240
+[24-Jan-2023 16:21:35 Asia/Kolkata] PHP Stack trace:
+[24-Jan-2023 16:21:35 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\emsdemo\View\manage_consultancy.php:0
+[24-Jan-2023 16:21:35 Asia/Kolkata] PHP Warning:  Undefined array key "Client_info" in C:\wamp64\www\emsdemo\View\manage_consultancy.php on line 240
+[24-Jan-2023 16:21:35 Asia/Kolkata] PHP Stack trace:
+[24-Jan-2023 16:21:35 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\emsdemo\View\manage_consultancy.php:0
+[24-Jan-2023 16:21:35 Asia/Kolkata] PHP Warning:  Undefined array key "cm_id" in C:\wamp64\www\emsdemo\View\manage_consultancy.php on line 235
+[24-Jan-2023 16:21:35 Asia/Kolkata] PHP Stack trace:
+[24-Jan-2023 16:21:35 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\emsdemo\View\manage_consultancy.php:0
+[24-Jan-2023 16:21:35 Asia/Kolkata] PHP Warning:  Undefined array key "client_id" in C:\wamp64\www\emsdemo\View\manage_consultancy.php on line 240
+[24-Jan-2023 16:21:35 Asia/Kolkata] PHP Stack trace:
+[24-Jan-2023 16:21:35 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\emsdemo\View\manage_consultancy.php:0
+[24-Jan-2023 16:21:35 Asia/Kolkata] PHP Warning:  Undefined array key "sub_process" in C:\wamp64\www\emsdemo\View\manage_consultancy.php on line 240
+[24-Jan-2023 16:21:35 Asia/Kolkata] PHP Stack trace:
+[24-Jan-2023 16:21:35 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\emsdemo\View\manage_consultancy.php:0
+[24-Jan-2023 16:21:35 Asia/Kolkata] PHP Warning:  Undefined array key "cm_id" in C:\wamp64\www\emsdemo\View\manage_consultancy.php on line 240
+[24-Jan-2023 16:21:35 Asia/Kolkata] PHP Stack trace:
+[24-Jan-2023 16:21:35 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\emsdemo\View\manage_consultancy.php:0
+[24-Jan-2023 16:21:35 Asia/Kolkata] PHP Warning:  Undefined array key "Client_info" in C:\wamp64\www\emsdemo\View\manage_consultancy.php on line 240
+[24-Jan-2023 16:21:35 Asia/Kolkata] PHP Stack trace:
+[24-Jan-2023 16:21:35 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\emsdemo\View\manage_consultancy.php:0
+[24-Jan-2023 16:24:18 Asia/Kolkata] PHP Warning:  Undefined array key "cm_id" in C:\wamp64\www\emsdemo\View\manage_consultancy.php on line 235
+[24-Jan-2023 16:24:18 Asia/Kolkata] PHP Stack trace:
+[24-Jan-2023 16:24:18 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\emsdemo\View\manage_consultancy.php:0
+[24-Jan-2023 16:24:18 Asia/Kolkata] PHP Warning:  Undefined array key "client_id" in C:\wamp64\www\emsdemo\View\manage_consultancy.php on line 240
+[24-Jan-2023 16:24:18 Asia/Kolkata] PHP Stack trace:
+[24-Jan-2023 16:24:18 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\emsdemo\View\manage_consultancy.php:0
+[24-Jan-2023 16:24:18 Asia/Kolkata] PHP Warning:  Undefined array key "sub_process" in C:\wamp64\www\emsdemo\View\manage_consultancy.php on line 240
+[24-Jan-2023 16:24:18 Asia/Kolkata] PHP Stack trace:
+[24-Jan-2023 16:24:18 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\emsdemo\View\manage_consultancy.php:0
+[24-Jan-2023 16:24:18 Asia/Kolkata] PHP Warning:  Undefined array key "cm_id" in C:\wamp64\www\emsdemo\View\manage_consultancy.php on line 240
+[24-Jan-2023 16:24:18 Asia/Kolkata] PHP Stack trace:
+[24-Jan-2023 16:24:18 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\emsdemo\View\manage_consultancy.php:0
+[24-Jan-2023 16:24:18 Asia/Kolkata] PHP Warning:  Undefined array key "Client_info" in C:\wamp64\www\emsdemo\View\manage_consultancy.php on line 240
+[24-Jan-2023 16:24:18 Asia/Kolkata] PHP Stack trace:
+[24-Jan-2023 16:24:18 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\emsdemo\View\manage_consultancy.php:0
+[24-Jan-2023 16:24:18 Asia/Kolkata] PHP Warning:  Undefined array key "cm_id" in C:\wamp64\www\emsdemo\View\manage_consultancy.php on line 235
+[24-Jan-2023 16:24:18 Asia/Kolkata] PHP Stack trace:
+[24-Jan-2023 16:24:18 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\emsdemo\View\manage_consultancy.php:0
+[24-Jan-2023 16:24:18 Asia/Kolkata] PHP Warning:  Undefined array key "client_id" in C:\wamp64\www\emsdemo\View\manage_consultancy.php on line 240
+[24-Jan-2023 16:24:18 Asia/Kolkata] PHP Stack trace:
+[24-Jan-2023 16:24:18 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\emsdemo\View\manage_consultancy.php:0
+[24-Jan-2023 16:24:18 Asia/Kolkata] PHP Warning:  Undefined array key "sub_process" in C:\wamp64\www\emsdemo\View\manage_consultancy.php on line 240
+[24-Jan-2023 16:24:18 Asia/Kolkata] PHP Stack trace:
+[24-Jan-2023 16:24:18 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\emsdemo\View\manage_consultancy.php:0
+[24-Jan-2023 16:24:18 Asia/Kolkata] PHP Warning:  Undefined array key "cm_id" in C:\wamp64\www\emsdemo\View\manage_consultancy.php on line 240
+[24-Jan-2023 16:24:18 Asia/Kolkata] PHP Stack trace:
+[24-Jan-2023 16:24:18 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\emsdemo\View\manage_consultancy.php:0
+[24-Jan-2023 16:24:18 Asia/Kolkata] PHP Warning:  Undefined array key "Client_info" in C:\wamp64\www\emsdemo\View\manage_consultancy.php on line 240
+[24-Jan-2023 16:24:18 Asia/Kolkata] PHP Stack trace:
+[24-Jan-2023 16:24:18 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\emsdemo\View\manage_consultancy.php:0
+[24-Jan-2023 16:24:18 Asia/Kolkata] PHP Warning:  Undefined array key "cm_id" in C:\wamp64\www\emsdemo\View\manage_consultancy.php on line 235
+[24-Jan-2023 16:24:18 Asia/Kolkata] PHP Stack trace:
+[24-Jan-2023 16:24:18 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\emsdemo\View\manage_consultancy.php:0
+[24-Jan-2023 16:24:18 Asia/Kolkata] PHP Warning:  Undefined array key "client_id" in C:\wamp64\www\emsdemo\View\manage_consultancy.php on line 240
+[24-Jan-2023 16:24:18 Asia/Kolkata] PHP Stack trace:
+[24-Jan-2023 16:24:18 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\emsdemo\View\manage_consultancy.php:0
+[24-Jan-2023 16:24:18 Asia/Kolkata] PHP Warning:  Undefined array key "sub_process" in C:\wamp64\www\emsdemo\View\manage_consultancy.php on line 240
+[24-Jan-2023 16:24:18 Asia/Kolkata] PHP Stack trace:
+[24-Jan-2023 16:24:18 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\emsdemo\View\manage_consultancy.php:0
+[24-Jan-2023 16:24:18 Asia/Kolkata] PHP Warning:  Undefined array key "cm_id" in C:\wamp64\www\emsdemo\View\manage_consultancy.php on line 240
+[24-Jan-2023 16:24:18 Asia/Kolkata] PHP Stack trace:
+[24-Jan-2023 16:24:18 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\emsdemo\View\manage_consultancy.php:0
+[24-Jan-2023 16:24:18 Asia/Kolkata] PHP Warning:  Undefined array key "Client_info" in C:\wamp64\www\emsdemo\View\manage_consultancy.php on line 240
+[24-Jan-2023 16:24:18 Asia/Kolkata] PHP Stack trace:
+[24-Jan-2023 16:24:18 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\emsdemo\View\manage_consultancy.php:0
+[24-Jan-2023 16:24:18 Asia/Kolkata] PHP Warning:  Undefined array key "cm_id" in C:\wamp64\www\emsdemo\View\manage_consultancy.php on line 235
+[24-Jan-2023 16:24:18 Asia/Kolkata] PHP Stack trace:
+[24-Jan-2023 16:24:18 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\emsdemo\View\manage_consultancy.php:0
+[24-Jan-2023 16:24:18 Asia/Kolkata] PHP Warning:  Undefined array key "client_id" in C:\wamp64\www\emsdemo\View\manage_consultancy.php on line 240
+[24-Jan-2023 16:24:18 Asia/Kolkata] PHP Stack trace:
+[24-Jan-2023 16:24:18 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\emsdemo\View\manage_consultancy.php:0
+[24-Jan-2023 16:24:18 Asia/Kolkata] PHP Warning:  Undefined array key "sub_process" in C:\wamp64\www\emsdemo\View\manage_consultancy.php on line 240
+[24-Jan-2023 16:24:18 Asia/Kolkata] PHP Stack trace:
+[24-Jan-2023 16:24:18 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\emsdemo\View\manage_consultancy.php:0
+[24-Jan-2023 16:24:18 Asia/Kolkata] PHP Warning:  Undefined array key "cm_id" in C:\wamp64\www\emsdemo\View\manage_consultancy.php on line 240
+[24-Jan-2023 16:24:18 Asia/Kolkata] PHP Stack trace:
+[24-Jan-2023 16:24:18 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\emsdemo\View\manage_consultancy.php:0
+[24-Jan-2023 16:24:18 Asia/Kolkata] PHP Warning:  Undefined array key "Client_info" in C:\wamp64\www\emsdemo\View\manage_consultancy.php on line 240
+[24-Jan-2023 16:24:18 Asia/Kolkata] PHP Stack trace:
+[24-Jan-2023 16:24:18 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\emsdemo\View\manage_consultancy.php:0
+[24-Jan-2023 16:24:18 Asia/Kolkata] PHP Warning:  Undefined array key "cm_id" in C:\wamp64\www\emsdemo\View\manage_consultancy.php on line 235
+[24-Jan-2023 16:24:18 Asia/Kolkata] PHP Stack trace:
+[24-Jan-2023 16:24:18 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\emsdemo\View\manage_consultancy.php:0
+[24-Jan-2023 16:24:18 Asia/Kolkata] PHP Warning:  Undefined array key "client_id" in C:\wamp64\www\emsdemo\View\manage_consultancy.php on line 240
+[24-Jan-2023 16:24:18 Asia/Kolkata] PHP Stack trace:
+[24-Jan-2023 16:24:18 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\emsdemo\View\manage_consultancy.php:0
+[24-Jan-2023 16:24:18 Asia/Kolkata] PHP Warning:  Undefined array key "sub_process" in C:\wamp64\www\emsdemo\View\manage_consultancy.php on line 240
+[24-Jan-2023 16:24:18 Asia/Kolkata] PHP Stack trace:
+[24-Jan-2023 16:24:18 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\emsdemo\View\manage_consultancy.php:0
+[24-Jan-2023 16:24:18 Asia/Kolkata] PHP Warning:  Undefined array key "cm_id" in C:\wamp64\www\emsdemo\View\manage_consultancy.php on line 240
+[24-Jan-2023 16:24:18 Asia/Kolkata] PHP Stack trace:
+[24-Jan-2023 16:24:18 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\emsdemo\View\manage_consultancy.php:0
+[24-Jan-2023 16:24:18 Asia/Kolkata] PHP Warning:  Undefined array key "Client_info" in C:\wamp64\www\emsdemo\View\manage_consultancy.php on line 240
+[24-Jan-2023 16:24:18 Asia/Kolkata] PHP Stack trace:
+[24-Jan-2023 16:24:18 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\emsdemo\View\manage_consultancy.php:0
+[24-Jan-2023 16:24:18 Asia/Kolkata] PHP Warning:  Undefined array key "cm_id" in C:\wamp64\www\emsdemo\View\manage_consultancy.php on line 235
+[24-Jan-2023 16:24:18 Asia/Kolkata] PHP Stack trace:
+[24-Jan-2023 16:24:18 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\emsdemo\View\manage_consultancy.php:0
+[24-Jan-2023 16:24:18 Asia/Kolkata] PHP Warning:  Undefined array key "client_id" in C:\wamp64\www\emsdemo\View\manage_consultancy.php on line 240
+[24-Jan-2023 16:24:18 Asia/Kolkata] PHP Stack trace:
+[24-Jan-2023 16:24:18 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\emsdemo\View\manage_consultancy.php:0
+[24-Jan-2023 16:24:18 Asia/Kolkata] PHP Warning:  Undefined array key "sub_process" in C:\wamp64\www\emsdemo\View\manage_consultancy.php on line 240
+[24-Jan-2023 16:24:18 Asia/Kolkata] PHP Stack trace:
+[24-Jan-2023 16:24:18 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\emsdemo\View\manage_consultancy.php:0
+[24-Jan-2023 16:24:18 Asia/Kolkata] PHP Warning:  Undefined array key "cm_id" in C:\wamp64\www\emsdemo\View\manage_consultancy.php on line 240
+[24-Jan-2023 16:24:18 Asia/Kolkata] PHP Stack trace:
+[24-Jan-2023 16:24:18 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\emsdemo\View\manage_consultancy.php:0
+[24-Jan-2023 16:24:18 Asia/Kolkata] PHP Warning:  Undefined array key "Client_info" in C:\wamp64\www\emsdemo\View\manage_consultancy.php on line 240
+[24-Jan-2023 16:24:18 Asia/Kolkata] PHP Stack trace:
+[24-Jan-2023 16:24:18 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\emsdemo\View\manage_consultancy.php:0
+[24-Jan-2023 16:24:18 Asia/Kolkata] PHP Warning:  Undefined array key "cm_id" in C:\wamp64\www\emsdemo\View\manage_consultancy.php on line 235
+[24-Jan-2023 16:24:18 Asia/Kolkata] PHP Stack trace:
+[24-Jan-2023 16:24:18 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\emsdemo\View\manage_consultancy.php:0
+[24-Jan-2023 16:24:18 Asia/Kolkata] PHP Warning:  Undefined array key "client_id" in C:\wamp64\www\emsdemo\View\manage_consultancy.php on line 240
+[24-Jan-2023 16:24:18 Asia/Kolkata] PHP Stack trace:
+[24-Jan-2023 16:24:18 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\emsdemo\View\manage_consultancy.php:0
+[24-Jan-2023 16:24:18 Asia/Kolkata] PHP Warning:  Undefined array key "sub_process" in C:\wamp64\www\emsdemo\View\manage_consultancy.php on line 240
+[24-Jan-2023 16:24:18 Asia/Kolkata] PHP Stack trace:
+[24-Jan-2023 16:24:18 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\emsdemo\View\manage_consultancy.php:0
+[24-Jan-2023 16:24:18 Asia/Kolkata] PHP Warning:  Undefined array key "cm_id" in C:\wamp64\www\emsdemo\View\manage_consultancy.php on line 240
+[24-Jan-2023 16:24:18 Asia/Kolkata] PHP Stack trace:
+[24-Jan-2023 16:24:18 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\emsdemo\View\manage_consultancy.php:0
+[24-Jan-2023 16:24:18 Asia/Kolkata] PHP Warning:  Undefined array key "Client_info" in C:\wamp64\www\emsdemo\View\manage_consultancy.php on line 240
+[24-Jan-2023 16:24:18 Asia/Kolkata] PHP Stack trace:
+[24-Jan-2023 16:24:18 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\emsdemo\View\manage_consultancy.php:0
+[24-Jan-2023 16:24:18 Asia/Kolkata] PHP Warning:  Undefined array key "cm_id" in C:\wamp64\www\emsdemo\View\manage_consultancy.php on line 235
+[24-Jan-2023 16:24:18 Asia/Kolkata] PHP Stack trace:
+[24-Jan-2023 16:24:18 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\emsdemo\View\manage_consultancy.php:0
+[24-Jan-2023 16:24:18 Asia/Kolkata] PHP Warning:  Undefined array key "client_id" in C:\wamp64\www\emsdemo\View\manage_consultancy.php on line 240
+[24-Jan-2023 16:24:18 Asia/Kolkata] PHP Stack trace:
+[24-Jan-2023 16:24:18 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\emsdemo\View\manage_consultancy.php:0
+[24-Jan-2023 16:24:18 Asia/Kolkata] PHP Warning:  Undefined array key "sub_process" in C:\wamp64\www\emsdemo\View\manage_consultancy.php on line 240
+[24-Jan-2023 16:24:18 Asia/Kolkata] PHP Stack trace:
+[24-Jan-2023 16:24:18 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\emsdemo\View\manage_consultancy.php:0
+[24-Jan-2023 16:24:18 Asia/Kolkata] PHP Warning:  Undefined array key "cm_id" in C:\wamp64\www\emsdemo\View\manage_consultancy.php on line 240
+[24-Jan-2023 16:24:18 Asia/Kolkata] PHP Stack trace:
+[24-Jan-2023 16:24:18 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\emsdemo\View\manage_consultancy.php:0
+[24-Jan-2023 16:24:18 Asia/Kolkata] PHP Warning:  Undefined array key "Client_info" in C:\wamp64\www\emsdemo\View\manage_consultancy.php on line 240
+[24-Jan-2023 16:24:18 Asia/Kolkata] PHP Stack trace:
+[24-Jan-2023 16:24:18 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\emsdemo\View\manage_consultancy.php:0
+[24-Jan-2023 16:24:18 Asia/Kolkata] PHP Warning:  Undefined array key "cm_id" in C:\wamp64\www\emsdemo\View\manage_consultancy.php on line 235
+[24-Jan-2023 16:24:18 Asia/Kolkata] PHP Stack trace:
+[24-Jan-2023 16:24:18 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\emsdemo\View\manage_consultancy.php:0
+[24-Jan-2023 16:24:18 Asia/Kolkata] PHP Warning:  Undefined array key "client_id" in C:\wamp64\www\emsdemo\View\manage_consultancy.php on line 240
+[24-Jan-2023 16:24:18 Asia/Kolkata] PHP Stack trace:
+[24-Jan-2023 16:24:18 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\emsdemo\View\manage_consultancy.php:0
+[24-Jan-2023 16:24:18 Asia/Kolkata] PHP Warning:  Undefined array key "sub_process" in C:\wamp64\www\emsdemo\View\manage_consultancy.php on line 240
+[24-Jan-2023 16:24:18 Asia/Kolkata] PHP Stack trace:
+[24-Jan-2023 16:24:18 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\emsdemo\View\manage_consultancy.php:0
+[24-Jan-2023 16:24:18 Asia/Kolkata] PHP Warning:  Undefined array key "cm_id" in C:\wamp64\www\emsdemo\View\manage_consultancy.php on line 240
+[24-Jan-2023 16:24:18 Asia/Kolkata] PHP Stack trace:
+[24-Jan-2023 16:24:18 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\emsdemo\View\manage_consultancy.php:0
+[24-Jan-2023 16:24:18 Asia/Kolkata] PHP Warning:  Undefined array key "Client_info" in C:\wamp64\www\emsdemo\View\manage_consultancy.php on line 240
+[24-Jan-2023 16:24:18 Asia/Kolkata] PHP Stack trace:
+[24-Jan-2023 16:24:18 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\emsdemo\View\manage_consultancy.php:0
+[24-Jan-2023 16:32:40 Asia/Kolkata] PHP Warning:  Undefined array key "cm_id" in C:\wamp64\www\emsdemo\View\manage_consultancy.php on line 235
+[24-Jan-2023 16:32:40 Asia/Kolkata] PHP Stack trace:
+[24-Jan-2023 16:32:40 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\emsdemo\View\manage_consultancy.php:0
+[24-Jan-2023 16:32:40 Asia/Kolkata] PHP Warning:  Undefined array key "client_id" in C:\wamp64\www\emsdemo\View\manage_consultancy.php on line 240
+[24-Jan-2023 16:32:40 Asia/Kolkata] PHP Stack trace:
+[24-Jan-2023 16:32:40 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\emsdemo\View\manage_consultancy.php:0
+[24-Jan-2023 16:32:40 Asia/Kolkata] PHP Warning:  Undefined array key "sub_process" in C:\wamp64\www\emsdemo\View\manage_consultancy.php on line 240
+[24-Jan-2023 16:32:40 Asia/Kolkata] PHP Stack trace:
+[24-Jan-2023 16:32:40 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\emsdemo\View\manage_consultancy.php:0
+[24-Jan-2023 16:32:40 Asia/Kolkata] PHP Warning:  Undefined array key "cm_id" in C:\wamp64\www\emsdemo\View\manage_consultancy.php on line 240
+[24-Jan-2023 16:32:40 Asia/Kolkata] PHP Stack trace:
+[24-Jan-2023 16:32:40 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\emsdemo\View\manage_consultancy.php:0
+[24-Jan-2023 16:32:40 Asia/Kolkata] PHP Warning:  Undefined array key "Client_info" in C:\wamp64\www\emsdemo\View\manage_consultancy.php on line 240
+[24-Jan-2023 16:32:40 Asia/Kolkata] PHP Stack trace:
+[24-Jan-2023 16:32:40 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\emsdemo\View\manage_consultancy.php:0
+[24-Jan-2023 16:32:40 Asia/Kolkata] PHP Warning:  Undefined array key "cm_id" in C:\wamp64\www\emsdemo\View\manage_consultancy.php on line 235
+[24-Jan-2023 16:32:40 Asia/Kolkata] PHP Stack trace:
+[24-Jan-2023 16:32:40 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\emsdemo\View\manage_consultancy.php:0
+[24-Jan-2023 16:32:40 Asia/Kolkata] PHP Warning:  Undefined array key "client_id" in C:\wamp64\www\emsdemo\View\manage_consultancy.php on line 240
+[24-Jan-2023 16:32:40 Asia/Kolkata] PHP Stack trace:
+[24-Jan-2023 16:32:40 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\emsdemo\View\manage_consultancy.php:0
+[24-Jan-2023 16:32:40 Asia/Kolkata] PHP Warning:  Undefined array key "sub_process" in C:\wamp64\www\emsdemo\View\manage_consultancy.php on line 240
+[24-Jan-2023 16:32:40 Asia/Kolkata] PHP Stack trace:
+[24-Jan-2023 16:32:40 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\emsdemo\View\manage_consultancy.php:0
+[24-Jan-2023 16:32:40 Asia/Kolkata] PHP Warning:  Undefined array key "cm_id" in C:\wamp64\www\emsdemo\View\manage_consultancy.php on line 240
+[24-Jan-2023 16:32:40 Asia/Kolkata] PHP Stack trace:
+[24-Jan-2023 16:32:40 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\emsdemo\View\manage_consultancy.php:0
+[24-Jan-2023 16:32:40 Asia/Kolkata] PHP Warning:  Undefined array key "Client_info" in C:\wamp64\www\emsdemo\View\manage_consultancy.php on line 240
+[24-Jan-2023 16:32:40 Asia/Kolkata] PHP Stack trace:
+[24-Jan-2023 16:32:40 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\emsdemo\View\manage_consultancy.php:0
+[24-Jan-2023 16:32:40 Asia/Kolkata] PHP Warning:  Undefined array key "cm_id" in C:\wamp64\www\emsdemo\View\manage_consultancy.php on line 235
+[24-Jan-2023 16:32:40 Asia/Kolkata] PHP Stack trace:
+[24-Jan-2023 16:32:40 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\emsdemo\View\manage_consultancy.php:0
+[24-Jan-2023 16:32:40 Asia/Kolkata] PHP Warning:  Undefined array key "client_id" in C:\wamp64\www\emsdemo\View\manage_consultancy.php on line 240
+[24-Jan-2023 16:32:40 Asia/Kolkata] PHP Stack trace:
+[24-Jan-2023 16:32:40 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\emsdemo\View\manage_consultancy.php:0
+[24-Jan-2023 16:32:40 Asia/Kolkata] PHP Warning:  Undefined array key "sub_process" in C:\wamp64\www\emsdemo\View\manage_consultancy.php on line 240
+[24-Jan-2023 16:32:40 Asia/Kolkata] PHP Stack trace:
+[24-Jan-2023 16:32:40 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\emsdemo\View\manage_consultancy.php:0
+[24-Jan-2023 16:32:40 Asia/Kolkata] PHP Warning:  Undefined array key "cm_id" in C:\wamp64\www\emsdemo\View\manage_consultancy.php on line 240
+[24-Jan-2023 16:32:40 Asia/Kolkata] PHP Stack trace:
+[24-Jan-2023 16:32:40 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\emsdemo\View\manage_consultancy.php:0
+[24-Jan-2023 16:32:40 Asia/Kolkata] PHP Warning:  Undefined array key "Client_info" in C:\wamp64\www\emsdemo\View\manage_consultancy.php on line 240
+[24-Jan-2023 16:32:40 Asia/Kolkata] PHP Stack trace:
+[24-Jan-2023 16:32:40 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\emsdemo\View\manage_consultancy.php:0
+[24-Jan-2023 16:32:40 Asia/Kolkata] PHP Warning:  Undefined array key "cm_id" in C:\wamp64\www\emsdemo\View\manage_consultancy.php on line 235
+[24-Jan-2023 16:32:40 Asia/Kolkata] PHP Stack trace:
+[24-Jan-2023 16:32:40 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\emsdemo\View\manage_consultancy.php:0
+[24-Jan-2023 16:32:40 Asia/Kolkata] PHP Warning:  Undefined array key "client_id" in C:\wamp64\www\emsdemo\View\manage_consultancy.php on line 240
+[24-Jan-2023 16:32:40 Asia/Kolkata] PHP Stack trace:
+[24-Jan-2023 16:32:40 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\emsdemo\View\manage_consultancy.php:0
+[24-Jan-2023 16:32:40 Asia/Kolkata] PHP Warning:  Undefined array key "sub_process" in C:\wamp64\www\emsdemo\View\manage_consultancy.php on line 240
+[24-Jan-2023 16:32:40 Asia/Kolkata] PHP Stack trace:
+[24-Jan-2023 16:32:40 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\emsdemo\View\manage_consultancy.php:0
+[24-Jan-2023 16:32:40 Asia/Kolkata] PHP Warning:  Undefined array key "cm_id" in C:\wamp64\www\emsdemo\View\manage_consultancy.php on line 240
+[24-Jan-2023 16:32:40 Asia/Kolkata] PHP Stack trace:
+[24-Jan-2023 16:32:40 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\emsdemo\View\manage_consultancy.php:0
+[24-Jan-2023 16:32:40 Asia/Kolkata] PHP Warning:  Undefined array key "Client_info" in C:\wamp64\www\emsdemo\View\manage_consultancy.php on line 240
+[24-Jan-2023 16:32:40 Asia/Kolkata] PHP Stack trace:
+[24-Jan-2023 16:32:40 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\emsdemo\View\manage_consultancy.php:0
+[24-Jan-2023 16:32:40 Asia/Kolkata] PHP Warning:  Undefined array key "cm_id" in C:\wamp64\www\emsdemo\View\manage_consultancy.php on line 235
+[24-Jan-2023 16:32:40 Asia/Kolkata] PHP Stack trace:
+[24-Jan-2023 16:32:40 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\emsdemo\View\manage_consultancy.php:0
+[24-Jan-2023 16:32:40 Asia/Kolkata] PHP Warning:  Undefined array key "client_id" in C:\wamp64\www\emsdemo\View\manage_consultancy.php on line 240
+[24-Jan-2023 16:32:40 Asia/Kolkata] PHP Stack trace:
+[24-Jan-2023 16:32:40 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\emsdemo\View\manage_consultancy.php:0
+[24-Jan-2023 16:32:40 Asia/Kolkata] PHP Warning:  Undefined array key "sub_process" in C:\wamp64\www\emsdemo\View\manage_consultancy.php on line 240
+[24-Jan-2023 16:32:40 Asia/Kolkata] PHP Stack trace:
+[24-Jan-2023 16:32:40 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\emsdemo\View\manage_consultancy.php:0
+[24-Jan-2023 16:32:40 Asia/Kolkata] PHP Warning:  Undefined array key "cm_id" in C:\wamp64\www\emsdemo\View\manage_consultancy.php on line 240
+[24-Jan-2023 16:32:40 Asia/Kolkata] PHP Stack trace:
+[24-Jan-2023 16:32:40 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\emsdemo\View\manage_consultancy.php:0
+[24-Jan-2023 16:32:40 Asia/Kolkata] PHP Warning:  Undefined array key "Client_info" in C:\wamp64\www\emsdemo\View\manage_consultancy.php on line 240
+[24-Jan-2023 16:32:40 Asia/Kolkata] PHP Stack trace:
+[24-Jan-2023 16:32:40 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\emsdemo\View\manage_consultancy.php:0
+[24-Jan-2023 16:32:40 Asia/Kolkata] PHP Warning:  Undefined array key "cm_id" in C:\wamp64\www\emsdemo\View\manage_consultancy.php on line 235
+[24-Jan-2023 16:32:40 Asia/Kolkata] PHP Stack trace:
+[24-Jan-2023 16:32:40 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\emsdemo\View\manage_consultancy.php:0
+[24-Jan-2023 16:32:40 Asia/Kolkata] PHP Warning:  Undefined array key "client_id" in C:\wamp64\www\emsdemo\View\manage_consultancy.php on line 240
+[24-Jan-2023 16:32:40 Asia/Kolkata] PHP Stack trace:
+[24-Jan-2023 16:32:40 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\emsdemo\View\manage_consultancy.php:0
+[24-Jan-2023 16:32:40 Asia/Kolkata] PHP Warning:  Undefined array key "sub_process" in C:\wamp64\www\emsdemo\View\manage_consultancy.php on line 240
+[24-Jan-2023 16:32:40 Asia/Kolkata] PHP Stack trace:
+[24-Jan-2023 16:32:40 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\emsdemo\View\manage_consultancy.php:0
+[24-Jan-2023 16:32:40 Asia/Kolkata] PHP Warning:  Undefined array key "cm_id" in C:\wamp64\www\emsdemo\View\manage_consultancy.php on line 240
+[24-Jan-2023 16:32:40 Asia/Kolkata] PHP Stack trace:
+[24-Jan-2023 16:32:40 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\emsdemo\View\manage_consultancy.php:0
+[24-Jan-2023 16:32:40 Asia/Kolkata] PHP Warning:  Undefined array key "Client_info" in C:\wamp64\www\emsdemo\View\manage_consultancy.php on line 240
+[24-Jan-2023 16:32:40 Asia/Kolkata] PHP Stack trace:
+[24-Jan-2023 16:32:40 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\emsdemo\View\manage_consultancy.php:0
+[24-Jan-2023 16:32:40 Asia/Kolkata] PHP Warning:  Undefined array key "cm_id" in C:\wamp64\www\emsdemo\View\manage_consultancy.php on line 235
+[24-Jan-2023 16:32:40 Asia/Kolkata] PHP Stack trace:
+[24-Jan-2023 16:32:40 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\emsdemo\View\manage_consultancy.php:0
+[24-Jan-2023 16:32:40 Asia/Kolkata] PHP Warning:  Undefined array key "client_id" in C:\wamp64\www\emsdemo\View\manage_consultancy.php on line 240
+[24-Jan-2023 16:32:40 Asia/Kolkata] PHP Stack trace:
+[24-Jan-2023 16:32:40 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\emsdemo\View\manage_consultancy.php:0
+[24-Jan-2023 16:32:40 Asia/Kolkata] PHP Warning:  Undefined array key "sub_process" in C:\wamp64\www\emsdemo\View\manage_consultancy.php on line 240
+[24-Jan-2023 16:32:40 Asia/Kolkata] PHP Stack trace:
+[24-Jan-2023 16:32:40 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\emsdemo\View\manage_consultancy.php:0
+[24-Jan-2023 16:32:40 Asia/Kolkata] PHP Warning:  Undefined array key "cm_id" in C:\wamp64\www\emsdemo\View\manage_consultancy.php on line 240
+[24-Jan-2023 16:32:40 Asia/Kolkata] PHP Stack trace:
+[24-Jan-2023 16:32:40 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\emsdemo\View\manage_consultancy.php:0
+[24-Jan-2023 16:32:40 Asia/Kolkata] PHP Warning:  Undefined array key "Client_info" in C:\wamp64\www\emsdemo\View\manage_consultancy.php on line 240
+[24-Jan-2023 16:32:40 Asia/Kolkata] PHP Stack trace:
+[24-Jan-2023 16:32:40 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\emsdemo\View\manage_consultancy.php:0
+[24-Jan-2023 16:32:40 Asia/Kolkata] PHP Warning:  Undefined array key "cm_id" in C:\wamp64\www\emsdemo\View\manage_consultancy.php on line 235
+[24-Jan-2023 16:32:40 Asia/Kolkata] PHP Stack trace:
+[24-Jan-2023 16:32:40 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\emsdemo\View\manage_consultancy.php:0
+[24-Jan-2023 16:32:40 Asia/Kolkata] PHP Warning:  Undefined array key "client_id" in C:\wamp64\www\emsdemo\View\manage_consultancy.php on line 240
+[24-Jan-2023 16:32:40 Asia/Kolkata] PHP Stack trace:
+[24-Jan-2023 16:32:40 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\emsdemo\View\manage_consultancy.php:0
+[24-Jan-2023 16:32:40 Asia/Kolkata] PHP Warning:  Undefined array key "sub_process" in C:\wamp64\www\emsdemo\View\manage_consultancy.php on line 240
+[24-Jan-2023 16:32:40 Asia/Kolkata] PHP Stack trace:
+[24-Jan-2023 16:32:40 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\emsdemo\View\manage_consultancy.php:0
+[24-Jan-2023 16:32:40 Asia/Kolkata] PHP Warning:  Undefined array key "cm_id" in C:\wamp64\www\emsdemo\View\manage_consultancy.php on line 240
+[24-Jan-2023 16:32:40 Asia/Kolkata] PHP Stack trace:
+[24-Jan-2023 16:32:40 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\emsdemo\View\manage_consultancy.php:0
+[24-Jan-2023 16:32:40 Asia/Kolkata] PHP Warning:  Undefined array key "Client_info" in C:\wamp64\www\emsdemo\View\manage_consultancy.php on line 240
+[24-Jan-2023 16:32:40 Asia/Kolkata] PHP Stack trace:
+[24-Jan-2023 16:32:40 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\emsdemo\View\manage_consultancy.php:0
+[24-Jan-2023 16:32:40 Asia/Kolkata] PHP Warning:  Undefined array key "cm_id" in C:\wamp64\www\emsdemo\View\manage_consultancy.php on line 235
+[24-Jan-2023 16:32:40 Asia/Kolkata] PHP Stack trace:
+[24-Jan-2023 16:32:40 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\emsdemo\View\manage_consultancy.php:0
+[24-Jan-2023 16:32:40 Asia/Kolkata] PHP Warning:  Undefined array key "client_id" in C:\wamp64\www\emsdemo\View\manage_consultancy.php on line 240
+[24-Jan-2023 16:32:40 Asia/Kolkata] PHP Stack trace:
+[24-Jan-2023 16:32:40 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\emsdemo\View\manage_consultancy.php:0
+[24-Jan-2023 16:32:40 Asia/Kolkata] PHP Warning:  Undefined array key "sub_process" in C:\wamp64\www\emsdemo\View\manage_consultancy.php on line 240
+[24-Jan-2023 16:32:40 Asia/Kolkata] PHP Stack trace:
+[24-Jan-2023 16:32:40 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\emsdemo\View\manage_consultancy.php:0
+[24-Jan-2023 16:32:40 Asia/Kolkata] PHP Warning:  Undefined array key "cm_id" in C:\wamp64\www\emsdemo\View\manage_consultancy.php on line 240
+[24-Jan-2023 16:32:40 Asia/Kolkata] PHP Stack trace:
+[24-Jan-2023 16:32:40 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\emsdemo\View\manage_consultancy.php:0
+[24-Jan-2023 16:32:40 Asia/Kolkata] PHP Warning:  Undefined array key "Client_info" in C:\wamp64\www\emsdemo\View\manage_consultancy.php on line 240
+[24-Jan-2023 16:32:40 Asia/Kolkata] PHP Stack trace:
+[24-Jan-2023 16:32:40 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\emsdemo\View\manage_consultancy.php:0

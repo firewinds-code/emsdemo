@@ -1,0 +1,8 @@
+RewriteEngine On
+RewriteBase /emsdemo/
+RewriteRule ^index/?$ View/Login.php [NC]
+RewriteRule ^Login/?$ View/Login.php [NC]
+Options -Indexes 
+ErrorDocument 500 /ems/Error.php
+ErrorDocument 404 /ems/Error.php
+ErrorDocument 403 /ems/Error.php

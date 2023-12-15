@@ -1,0 +1,25 @@
+[08-Sep-2023 18:00:18 Asia/Kolkata] PHP Warning:  Undefined array key "__user_logid" in D:\wamp\www\emsdemo\AppCode\nHead.php on line 2
+[08-Sep-2023 18:00:18 Asia/Kolkata] PHP Stack trace:
+[08-Sep-2023 18:00:18 Asia/Kolkata] PHP   1. {main}() D:\wamp\www\emsdemo\View\Designation_master.php:0
+[08-Sep-2023 18:00:18 Asia/Kolkata] PHP   2. require() D:\wamp\www\emsdemo\View\Designation_master.php:9
+[08-Sep-2023 18:00:29 Asia/Kolkata] PHP Warning:  Undefined array key "txt_dateFrom" in D:\wamp\www\emsdemo\View\message-popup.php on line 28
+[08-Sep-2023 18:00:29 Asia/Kolkata] PHP Stack trace:
+[08-Sep-2023 18:00:29 Asia/Kolkata] PHP   1. {main}() D:\wamp\www\emsdemo\View\message-popup.php:0
+[08-Sep-2023 18:00:29 Asia/Kolkata] PHP Warning:  Undefined array key "txt_dateto" in D:\wamp\www\emsdemo\View\message-popup.php on line 29
+[08-Sep-2023 18:00:29 Asia/Kolkata] PHP Stack trace:
+[08-Sep-2023 18:00:29 Asia/Kolkata] PHP   1. {main}() D:\wamp\www\emsdemo\View\message-popup.php:0
+[08-Sep-2023 18:00:41 Asia/Kolkata] PHP Warning:  Cannot modify header information - headers already sent by (output started at D:\wamp\www\emsdemo\AppCode\head.mpt:15) in D:\wamp\www\emsdemo\View\Designation_master.php on line 19
+[08-Sep-2023 18:00:41 Asia/Kolkata] PHP Stack trace:
+[08-Sep-2023 18:00:41 Asia/Kolkata] PHP   1. {main}() D:\wamp\www\emsdemo\View\Designation_master.php:0
+[08-Sep-2023 18:00:41 Asia/Kolkata] PHP   2. header($header = 'Location: http://localhost/emsdemo/Error') D:\wamp\www\emsdemo\View\Designation_master.php:19
+[08-Sep-2023 18:06:05 Asia/Kolkata] PHP Fatal error:  Uncaught mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'function from function_master order by function' at line 1 in D:\wamp\www\emsdemo\AppData\Class\MysqliDb.php:1511
+Stack trace:
+#0 D:\wamp\www\emsdemo\AppData\Class\MysqliDb.php(1511): mysqli->prepare('select id,funct...')
+#1 D:\wamp\www\emsdemo\AppData\Class\MysqliDb.php(414): MysqliDb->_prepareQuery()
+#2 D:\wamp\www\emsdemo\View\df_master.php(157): MysqliDb->rawQuery('select id,funct...')
+#3 {main}
+  thrown in D:\wamp\www\emsdemo\AppData\Class\MysqliDb.php on line 1511
+[08-Sep-2023 18:06:24 Asia/Kolkata] PHP Warning:  Cannot modify header information - headers already sent by (output started at D:\wamp\www\emsdemo\AppCode\head.mpt:15) in D:\wamp\www\emsdemo\View\Designation_master.php on line 19
+[08-Sep-2023 18:06:24 Asia/Kolkata] PHP Stack trace:
+[08-Sep-2023 18:06:24 Asia/Kolkata] PHP   1. {main}() D:\wamp\www\emsdemo\View\Designation_master.php:0
+[08-Sep-2023 18:06:24 Asia/Kolkata] PHP   2. header($header = 'Location: http://localhost/emsdemo/Error') D:\wamp\www\emsdemo\View\Designation_master.php:19

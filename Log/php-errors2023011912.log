@@ -1,0 +1,18 @@
+[19-Jan-2023 12:29:15 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Class 'mysqli' not found in C:\wamp64\www\emsdemo\AppData\Class\MysqliDb.php:291
+Stack trace:
+#0 C:\wamp64\www\emsdemo\Config\init.php(93): MysqliDb->dbConnect()
+#1 C:\wamp64\www\emsdemo\View\index.php(3): require_once('C:\\wamp64\\www\\e...')
+#2 {main}
+  thrown in C:\wamp64\www\emsdemo\AppData\Class\MysqliDb.php on line 291
+[19-Jan-2023 12:32:12 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Class 'mysqli' not found in C:\wamp64\www\emsdemo\AppData\Class\MysqliDb.php:291
+Stack trace:
+#0 C:\wamp64\www\emsdemo\Config\init.php(93): MysqliDb->dbConnect()
+#1 C:\wamp64\www\emsdemo\View\index.php(3): require_once('C:\\wamp64\\www\\e...')
+#2 {main}
+  thrown in C:\wamp64\www\emsdemo\AppData\Class\MysqliDb.php on line 291
+[19-Jan-2023 12:33:23 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Class 'mysqli' not found in C:\wamp64\www\emsdemo\AppData\Class\MysqliDb.php:291
+Stack trace:
+#0 C:\wamp64\www\emsdemo\Config\init.php(93): MysqliDb->dbConnect()
+#1 C:\wamp64\www\emsdemo\View\index.php(3): require_once('C:\\wamp64\\www\\e...')
+#2 {main}
+  thrown in C:\wamp64\www\emsdemo\AppData\Class\MysqliDb.php on line 291

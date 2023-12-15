@@ -1,0 +1,126 @@
+[11-Jan-2023 09:27:14 Asia/Kolkata] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /var/www/html/erpm/AppData/lib/PHPMailer-master/PHPMailerAutoload.php on line 45
+[11-Jan-2023 09:27:15 Asia/Kolkata] PHP Warning:  mysqli_stmt::bind_param(): Number of elements in type definition string doesn't match number of bind variables in /var/www/html/erpm/Controller/ConLog.php on line 464
+[11-Jan-2023 09:27:15 Asia/Kolkata] PHP Warning:  Use of undefined constant EMS_CenterName - assumed 'EMS_CenterName' (this will throw an Error in a future version of PHP) in /var/www/html/erpm/Controller/ConLog.php on line 470
+[11-Jan-2023 09:27:15 Asia/Kolkata] PHP Warning:  Use of undefined constant EMAIL_HOST - assumed 'EMAIL_HOST' (this will throw an Error in a future version of PHP) in /var/www/html/erpm/Controller/ConLog.php on line 473
+[11-Jan-2023 09:27:15 Asia/Kolkata] PHP Warning:  Use of undefined constant EMAIL_AUTH - assumed 'EMAIL_AUTH' (this will throw an Error in a future version of PHP) in /var/www/html/erpm/Controller/ConLog.php on line 474
+[11-Jan-2023 09:27:15 Asia/Kolkata] PHP Warning:  Use of undefined constant EMAIL_USER - assumed 'EMAIL_USER' (this will throw an Error in a future version of PHP) in /var/www/html/erpm/Controller/ConLog.php on line 475
+[11-Jan-2023 09:27:15 Asia/Kolkata] PHP Warning:  Use of undefined constant EMAIL_PASS - assumed 'EMAIL_PASS' (this will throw an Error in a future version of PHP) in /var/www/html/erpm/Controller/ConLog.php on line 476
+[11-Jan-2023 09:27:15 Asia/Kolkata] PHP Warning:  Use of undefined constant EMAIL_SMTPSecure - assumed 'EMAIL_SMTPSecure' (this will throw an Error in a future version of PHP) in /var/www/html/erpm/Controller/ConLog.php on line 477
+[11-Jan-2023 09:27:15 Asia/Kolkata] PHP Warning:  Use of undefined constant EMAIL_PORT - assumed 'EMAIL_PORT' (this will throw an Error in a future version of PHP) in /var/www/html/erpm/Controller/ConLog.php on line 478
+[11-Jan-2023 09:27:15 Asia/Kolkata] PHP Warning:  Use of undefined constant EMAIL_FROM - assumed 'EMAIL_FROM' (this will throw an Error in a future version of PHP) in /var/www/html/erpm/Controller/ConLog.php on line 479
+[11-Jan-2023 09:27:15 Asia/Kolkata] PHP Warning:  Use of undefined constant EMS_CenterName - assumed 'EMS_CenterName' (this will throw an Error in a future version of PHP) in /var/www/html/erpm/Controller/ConLog.php on line 482
+[11-Jan-2023 09:27:16 Asia/Kolkata] PHP Notice:  Undefined index: to in /var/www/html/erpm/View/calcRange.php on line 42
+[11-Jan-2023 09:27:18 Asia/Kolkata] PHP Notice:  Object of class mysqli_result could not be converted to int in /var/www/html/erpm/View/calcRange.php on line 412
+[11-Jan-2023 09:27:18 Asia/Kolkata] PHP Notice:  Undefined index: 2023-01-10 in /var/www/html/erpm/View/calcRange.php on line 583
+[11-Jan-2023 09:27:18 Asia/Kolkata] PHP Notice:  Undefined index: 2023-01-10 in /var/www/html/erpm/View/calcRange.php on line 932
+[11-Jan-2023 09:27:18 Asia/Kolkata] PHP Notice:  Undefined index: 2023-01-10 in /var/www/html/erpm/View/calcRange.php on line 1225
+[11-Jan-2023 09:27:18 Asia/Kolkata] PHP Notice:  Array to string conversion in /var/www/html/erpm/View/calcRange.php on line 1559
+[11-Jan-2023 09:46:05 Asia/Kolkata] PHP Notice:  Undefined index: __user_logid in /var/www/html/erpm/AppCode/nHead.php on line 2
+[11-Jan-2023 09:46:34 Asia/Kolkata] PHP Warning:  mysqli_stmt::bind_param(): Number of elements in type definition string doesn't match number of bind variables in /var/www/html/erpm/Controller/ConLog.php on line 464
+[11-Jan-2023 09:46:35 Asia/Kolkata] PHP Notice:  Undefined index: to in /var/www/html/erpm/View/calcRange.php on line 42
+[11-Jan-2023 09:46:36 Asia/Kolkata] PHP Notice:  Object of class mysqli_result could not be converted to int in /var/www/html/erpm/View/calcRange.php on line 412
+[11-Jan-2023 09:46:36 Asia/Kolkata] PHP Notice:  Undefined index: 2023-01-10 in /var/www/html/erpm/View/calcRange.php on line 583
+[11-Jan-2023 09:46:36 Asia/Kolkata] PHP Notice:  Undefined index: 2023-01-10 in /var/www/html/erpm/View/calcRange.php on line 932
+[11-Jan-2023 09:46:36 Asia/Kolkata] PHP Notice:  Undefined index: 2023-01-10 in /var/www/html/erpm/View/calcRange.php on line 1225
+[11-Jan-2023 09:46:36 Asia/Kolkata] PHP Notice:  Array to string conversion in /var/www/html/erpm/View/calcRange.php on line 1559
+[11-Jan-2023 09:46:36 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /var/www/html/erpm/View/index.php on line 346
+[11-Jan-2023 09:46:54 Asia/Kolkata] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /var/www/html/erpm/AppData/lib/PHPExcel/Shared/String.php on line 529
+[11-Jan-2023 09:46:54 Asia/Kolkata] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /var/www/html/erpm/AppData/lib/PHPExcel/Shared/String.php on line 530
+[11-Jan-2023 09:46:54 Asia/Kolkata] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /var/www/html/erpm/AppData/lib/PHPExcel/Shared/String.php on line 536
+[11-Jan-2023 09:46:54 Asia/Kolkata] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /var/www/html/erpm/AppData/lib/PHPExcel/Shared/String.php on line 536
+[11-Jan-2023 09:46:54 Asia/Kolkata] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /var/www/html/erpm/AppData/lib/PHPExcel/Shared/String.php on line 537
+[11-Jan-2023 09:46:54 Asia/Kolkata] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /var/www/html/erpm/AppData/lib/PHPExcel/Shared/String.php on line 537
+[11-Jan-2023 09:50:45 Asia/Kolkata] PHP Warning:  move_uploaded_file(/var/www/html/erpm/Config/../Upload/table.csv): failed to open stream: Permission denied in /var/www/html/erpm/View/pantry_upload_atnd.php on line 98
+[11-Jan-2023 09:50:45 Asia/Kolkata] PHP Warning:  move_uploaded_file(): Unable to move '/tmp/phpeh18mm' to '/var/www/html/erpm/Config/../Upload/table.csv' in /var/www/html/erpm/View/pantry_upload_atnd.php on line 98
+[11-Jan-2023 09:52:24 Asia/Kolkata] PHP Warning:  move_uploaded_file(/var/www/html/erpm/Config/../Upload/table.csv): failed to open stream: Permission denied in /var/www/html/erpm/View/pantry_upload_atnd.php on line 98
+[11-Jan-2023 09:52:24 Asia/Kolkata] PHP Warning:  move_uploaded_file(): Unable to move '/tmp/phpEAoi3c' to '/var/www/html/erpm/Config/../Upload/table.csv' in /var/www/html/erpm/View/pantry_upload_atnd.php on line 98
+[11-Jan-2023 09:53:15 Asia/Kolkata] PHP Warning:  move_uploaded_file(/var/www/html/erpm/Config/../Upload/table.csv): failed to open stream: Permission denied in /var/www/html/erpm/View/pantry_upload_atnd.php on line 98
+[11-Jan-2023 09:53:15 Asia/Kolkata] PHP Warning:  move_uploaded_file(): Unable to move '/tmp/phpPG2S3Y' to '/var/www/html/erpm/Config/../Upload/table.csv' in /var/www/html/erpm/View/pantry_upload_atnd.php on line 98
+[11-Jan-2023 09:54:30 Asia/Kolkata] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /var/www/html/erpm/AppData/lib/PHPExcel/ReferenceHelper.php on line 892
+[11-Jan-2023 09:54:30 Asia/Kolkata] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /var/www/html/erpm/AppData/lib/PHPExcel/ReferenceHelper.php on line 892
+[11-Jan-2023 09:54:30 Asia/Kolkata] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /var/www/html/erpm/AppData/lib/PHPExcel/ReferenceHelper.php on line 894
+[11-Jan-2023 09:54:30 Asia/Kolkata] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /var/www/html/erpm/AppData/lib/PHPExcel/ReferenceHelper.php on line 894
+[11-Jan-2023 09:54:30 Asia/Kolkata] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /var/www/html/erpm/AppData/lib/PHPExcel/Calculation.php on line 2186
+[11-Jan-2023 09:54:30 Asia/Kolkata] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /var/www/html/erpm/AppData/lib/PHPExcel/Calculation.php on line 2186
+[11-Jan-2023 09:54:30 Asia/Kolkata] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /var/www/html/erpm/AppData/lib/PHPExcel/Calculation.php on line 2294
+[11-Jan-2023 09:54:30 Asia/Kolkata] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /var/www/html/erpm/AppData/lib/PHPExcel/Calculation.php on line 2294
+[11-Jan-2023 09:54:30 Asia/Kolkata] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /var/www/html/erpm/AppData/lib/PHPExcel/Calculation.php on line 2296
+[11-Jan-2023 09:54:30 Asia/Kolkata] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /var/www/html/erpm/AppData/lib/PHPExcel/Calculation.php on line 2372
+[11-Jan-2023 09:54:30 Asia/Kolkata] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /var/www/html/erpm/AppData/lib/PHPExcel/Calculation.php on line 2374
+[11-Jan-2023 09:54:30 Asia/Kolkata] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /var/www/html/erpm/AppData/lib/PHPExcel/Calculation.php on line 2383
+[11-Jan-2023 09:54:30 Asia/Kolkata] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /var/www/html/erpm/AppData/lib/PHPExcel/Calculation.php on line 2632
+[11-Jan-2023 09:54:30 Asia/Kolkata] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /var/www/html/erpm/AppData/lib/PHPExcel/Calculation.php on line 2761
+[11-Jan-2023 09:54:30 Asia/Kolkata] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /var/www/html/erpm/AppData/lib/PHPExcel/Calculation.php on line 2763
+[11-Jan-2023 09:54:30 Asia/Kolkata] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /var/www/html/erpm/AppData/lib/PHPExcel/Calculation.php on line 2764
+[11-Jan-2023 09:54:30 Asia/Kolkata] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /var/www/html/erpm/AppData/lib/PHPExcel/Calculation.php on line 3039
+[11-Jan-2023 09:54:30 Asia/Kolkata] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /var/www/html/erpm/AppData/lib/PHPExcel/Calculation.php on line 3039
+[11-Jan-2023 09:54:30 Asia/Kolkata] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /var/www/html/erpm/AppData/lib/PHPExcel/Calculation.php on line 3042
+[11-Jan-2023 09:54:30 Asia/Kolkata] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /var/www/html/erpm/AppData/lib/PHPExcel/Calculation.php on line 3043
+[11-Jan-2023 09:54:30 Asia/Kolkata] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /var/www/html/erpm/AppData/lib/PHPExcel/Calculation.php on line 3459
+[11-Jan-2023 09:54:30 Asia/Kolkata] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /var/www/html/erpm/AppData/lib/PHPExcel/Calculation.php on line 3459
+[11-Jan-2023 09:54:30 Asia/Kolkata] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /var/www/html/erpm/AppData/lib/PHPExcel/Calculation.php on line 3501
+[11-Jan-2023 09:54:30 Asia/Kolkata] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /var/www/html/erpm/AppData/lib/PHPExcel/Calculation.php on line 3505
+[11-Jan-2023 09:54:30 Asia/Kolkata] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /var/www/html/erpm/AppData/lib/PHPExcel/Calculation.php on line 3558
+[11-Jan-2023 09:54:30 Asia/Kolkata] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /var/www/html/erpm/AppData/lib/PHPExcel/Calculation.php on line 3559
+[11-Jan-2023 09:54:30 Asia/Kolkata] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /var/www/html/erpm/AppData/lib/PHPExcel/Worksheet/AutoFilter.php on line 729
+[11-Jan-2023 09:54:30 Asia/Kolkata] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /var/www/html/erpm/AppData/lib/PHPExcel/Worksheet/AutoFilter.php on line 729
+[11-Jan-2023 09:54:30 Asia/Kolkata] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /var/www/html/erpm/AppData/lib/PHPExcel/Cell.php on line 772
+[11-Jan-2023 09:54:30 Asia/Kolkata] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /var/www/html/erpm/AppData/lib/PHPExcel/Cell.php on line 773
+[11-Jan-2023 09:54:30 Asia/Kolkata] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /var/www/html/erpm/AppData/lib/PHPExcel/Cell.php on line 776
+[11-Jan-2023 09:54:30 Asia/Kolkata] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /var/www/html/erpm/AppData/lib/PHPExcel/Cell.php on line 777
+[11-Jan-2023 09:54:30 Asia/Kolkata] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /var/www/html/erpm/AppData/lib/PHPExcel/Cell.php on line 777
+[11-Jan-2023 09:54:30 Asia/Kolkata] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /var/www/html/erpm/AppData/lib/PHPExcel/Cell.php on line 779
+[11-Jan-2023 09:54:30 Asia/Kolkata] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /var/www/html/erpm/AppData/lib/PHPExcel/Cell.php on line 780
+[11-Jan-2023 09:54:30 Asia/Kolkata] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /var/www/html/erpm/AppData/lib/PHPExcel/Cell.php on line 780
+[11-Jan-2023 09:54:30 Asia/Kolkata] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /var/www/html/erpm/AppData/lib/PHPExcel/Cell.php on line 780
+[11-Jan-2023 09:54:30 Asia/Kolkata] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /var/www/html/erpm/AppData/lib/PHPExcel/Cell.php on line 784
+[11-Jan-2023 09:54:30 Asia/Kolkata] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /var/www/html/erpm/AppData/lib/PHPExcel/Cell/DefaultValueBinder.php on line 86
+[11-Jan-2023 09:54:30 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type float in /var/www/html/erpm/AppData/lib/PHPExcel/Cell/DefaultValueBinder.php on line 86
+[11-Jan-2023 09:54:30 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type float in /var/www/html/erpm/AppData/lib/PHPExcel/Cell/DefaultValueBinder.php on line 86
+[11-Jan-2023 09:54:30 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type float in /var/www/html/erpm/AppData/lib/PHPExcel/Cell/DefaultValueBinder.php on line 86
+[11-Jan-2023 09:54:30 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type float in /var/www/html/erpm/AppData/lib/PHPExcel/Cell/DefaultValueBinder.php on line 86
+[11-Jan-2023 09:54:30 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type int in /var/www/html/erpm/AppData/lib/PHPExcel/Cell/DefaultValueBinder.php on line 86
+[11-Jan-2023 09:54:30 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type int in /var/www/html/erpm/AppData/lib/PHPExcel/Cell/DefaultValueBinder.php on line 86
+[11-Jan-2023 09:54:30 Asia/Kolkata] PHP Notice:  Undefined index: J in /var/www/html/erpm/View/pantry_upload_atnd.php on line 119
+[11-Jan-2023 09:54:30 Asia/Kolkata] PHP Notice:  Undefined index: K in /var/www/html/erpm/View/pantry_upload_atnd.php on line 119
+[11-Jan-2023 09:54:30 Asia/Kolkata] PHP Notice:  Undefined index: L in /var/www/html/erpm/View/pantry_upload_atnd.php on line 119
+[11-Jan-2023 09:54:30 Asia/Kolkata] PHP Notice:  Undefined index: M in /var/www/html/erpm/View/pantry_upload_atnd.php on line 119
+[11-Jan-2023 09:54:30 Asia/Kolkata] PHP Notice:  Undefined index: N in /var/www/html/erpm/View/pantry_upload_atnd.php on line 119
+[11-Jan-2023 09:54:30 Asia/Kolkata] PHP Notice:  Undefined index: O in /var/www/html/erpm/View/pantry_upload_atnd.php on line 119
+[11-Jan-2023 09:54:30 Asia/Kolkata] PHP Notice:  Undefined index: P in /var/www/html/erpm/View/pantry_upload_atnd.php on line 119
+[11-Jan-2023 09:54:30 Asia/Kolkata] PHP Notice:  Undefined index: Q in /var/www/html/erpm/View/pantry_upload_atnd.php on line 119
+[11-Jan-2023 09:54:30 Asia/Kolkata] PHP Notice:  Undefined index: R in /var/www/html/erpm/View/pantry_upload_atnd.php on line 119
+[11-Jan-2023 09:54:30 Asia/Kolkata] PHP Notice:  Undefined index: S in /var/www/html/erpm/View/pantry_upload_atnd.php on line 119
+[11-Jan-2023 09:54:30 Asia/Kolkata] PHP Notice:  Undefined index: T in /var/www/html/erpm/View/pantry_upload_atnd.php on line 119
+[11-Jan-2023 09:54:30 Asia/Kolkata] PHP Notice:  Undefined index: U in /var/www/html/erpm/View/pantry_upload_atnd.php on line 119
+[11-Jan-2023 09:54:30 Asia/Kolkata] PHP Notice:  Undefined index: V in /var/www/html/erpm/View/pantry_upload_atnd.php on line 119
+[11-Jan-2023 09:54:30 Asia/Kolkata] PHP Notice:  Undefined index: W in /var/www/html/erpm/View/pantry_upload_atnd.php on line 119
+[11-Jan-2023 09:54:30 Asia/Kolkata] PHP Notice:  Undefined index: X in /var/www/html/erpm/View/pantry_upload_atnd.php on line 119
+[11-Jan-2023 09:54:30 Asia/Kolkata] PHP Notice:  Undefined index: Y in /var/www/html/erpm/View/pantry_upload_atnd.php on line 119
+[11-Jan-2023 09:54:30 Asia/Kolkata] PHP Notice:  Undefined index: Z in /var/www/html/erpm/View/pantry_upload_atnd.php on line 119
+[11-Jan-2023 09:54:30 Asia/Kolkata] PHP Notice:  Undefined index: AA in /var/www/html/erpm/View/pantry_upload_atnd.php on line 119
+[11-Jan-2023 09:54:30 Asia/Kolkata] PHP Notice:  Undefined index: AB in /var/www/html/erpm/View/pantry_upload_atnd.php on line 119
+[11-Jan-2023 09:54:30 Asia/Kolkata] PHP Notice:  Undefined index: AC in /var/www/html/erpm/View/pantry_upload_atnd.php on line 119
+[11-Jan-2023 09:54:30 Asia/Kolkata] PHP Notice:  Undefined index: AD in /var/www/html/erpm/View/pantry_upload_atnd.php on line 119
+[11-Jan-2023 09:54:30 Asia/Kolkata] PHP Notice:  Undefined index: AE in /var/www/html/erpm/View/pantry_upload_atnd.php on line 119
+[11-Jan-2023 09:54:30 Asia/Kolkata] PHP Notice:  Undefined index: AF in /var/www/html/erpm/View/pantry_upload_atnd.php on line 119
+[11-Jan-2023 09:54:30 Asia/Kolkata] PHP Notice:  Undefined index: AG in /var/www/html/erpm/View/pantry_upload_atnd.php on line 119
+[11-Jan-2023 09:54:30 Asia/Kolkata] PHP Notice:  Undefined index: AH in /var/www/html/erpm/View/pantry_upload_atnd.php on line 119
+[11-Jan-2023 09:54:30 Asia/Kolkata] PHP Notice:  Undefined index: AI in /var/www/html/erpm/View/pantry_upload_atnd.php on line 119
+[11-Jan-2023 09:54:30 Asia/Kolkata] PHP Notice:  Undefined index: AJ in /var/www/html/erpm/View/pantry_upload_atnd.php on line 119
+[11-Jan-2023 09:54:30 Asia/Kolkata] PHP Notice:  Undefined index: AK in /var/www/html/erpm/View/pantry_upload_atnd.php on line 119
+[11-Jan-2023 09:54:30 Asia/Kolkata] PHP Notice:  Undefined index: AL in /var/www/html/erpm/View/pantry_upload_atnd.php on line 119
+[11-Jan-2023 09:54:30 Asia/Kolkata] PHP Notice:  Undefined index: AM in /var/www/html/erpm/View/pantry_upload_atnd.php on line 119
+[11-Jan-2023 09:54:30 Asia/Kolkata] PHP Notice:  Undefined index: AN in /var/www/html/erpm/View/pantry_upload_atnd.php on line 119
+[11-Jan-2023 09:54:30 Asia/Kolkata] PHP Notice:  Undefined index: AO in /var/www/html/erpm/View/pantry_upload_atnd.php on line 119
+[11-Jan-2023 09:54:30 Asia/Kolkata] PHP Notice:  Undefined index: AP in /var/www/html/erpm/View/pantry_upload_atnd.php on line 119
+[11-Jan-2023 09:54:30 Asia/Kolkata] PHP Notice:  Undefined index: AQ in /var/www/html/erpm/View/pantry_upload_atnd.php on line 119
+[11-Jan-2023 09:54:30 Asia/Kolkata] PHP Notice:  Undefined index: AR in /var/www/html/erpm/View/pantry_upload_atnd.php on line 119
+[11-Jan-2023 09:54:30 Asia/Kolkata] PHP Notice:  Undefined variable: count in /var/www/html/erpm/View/pantry_upload_atnd.php on line 123
+[11-Jan-2023 09:59:32 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type float in /var/www/html/erpm/AppData/lib/PHPExcel/Cell/DefaultValueBinder.php on line 86
+[11-Jan-2023 09:59:32 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type float in /var/www/html/erpm/AppData/lib/PHPExcel/Cell/DefaultValueBinder.php on line 86
+[11-Jan-2023 09:59:32 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type float in /var/www/html/erpm/AppData/lib/PHPExcel/Cell/DefaultValueBinder.php on line 86
+[11-Jan-2023 09:59:32 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type float in /var/www/html/erpm/AppData/lib/PHPExcel/Cell/DefaultValueBinder.php on line 86
+[11-Jan-2023 09:59:32 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type int in /var/www/html/erpm/AppData/lib/PHPExcel/Cell/DefaultValueBinder.php on line 86
+[11-Jan-2023 09:59:32 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type int in /var/www/html/erpm/AppData/lib/PHPExcel/Cell/DefaultValueBinder.php on line 86
+[11-Jan-2023 09:59:32 Asia/Kolkata] PHP Notice:  Undefined variable: count in /var/www/html/erpm/View/pantry_upload_atnd.php on line 123

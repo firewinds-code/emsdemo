@@ -1,0 +1,128 @@
+[11-Jan-2023 10:06:43 Asia/Kolkata] PHP Notice:  Undefined index: __user_logid in /var/www/html/erpm/AppCode/nHead.php on line 2
+[11-Jan-2023 10:07:41 Asia/Kolkata] PHP Warning:  mysqli_stmt::bind_param(): Number of elements in type definition string doesn't match number of bind variables in /var/www/html/erpm/Controller/ConLog.php on line 464
+[11-Jan-2023 10:07:41 Asia/Kolkata] PHP Warning:  Use of undefined constant EMS_CenterName - assumed 'EMS_CenterName' (this will throw an Error in a future version of PHP) in /var/www/html/erpm/Controller/ConLog.php on line 470
+[11-Jan-2023 10:07:41 Asia/Kolkata] PHP Warning:  Use of undefined constant EMAIL_HOST - assumed 'EMAIL_HOST' (this will throw an Error in a future version of PHP) in /var/www/html/erpm/Controller/ConLog.php on line 473
+[11-Jan-2023 10:07:41 Asia/Kolkata] PHP Warning:  Use of undefined constant EMAIL_AUTH - assumed 'EMAIL_AUTH' (this will throw an Error in a future version of PHP) in /var/www/html/erpm/Controller/ConLog.php on line 474
+[11-Jan-2023 10:07:41 Asia/Kolkata] PHP Warning:  Use of undefined constant EMAIL_USER - assumed 'EMAIL_USER' (this will throw an Error in a future version of PHP) in /var/www/html/erpm/Controller/ConLog.php on line 475
+[11-Jan-2023 10:07:41 Asia/Kolkata] PHP Warning:  Use of undefined constant EMAIL_PASS - assumed 'EMAIL_PASS' (this will throw an Error in a future version of PHP) in /var/www/html/erpm/Controller/ConLog.php on line 476
+[11-Jan-2023 10:07:41 Asia/Kolkata] PHP Warning:  Use of undefined constant EMAIL_SMTPSecure - assumed 'EMAIL_SMTPSecure' (this will throw an Error in a future version of PHP) in /var/www/html/erpm/Controller/ConLog.php on line 477
+[11-Jan-2023 10:07:41 Asia/Kolkata] PHP Warning:  Use of undefined constant EMAIL_PORT - assumed 'EMAIL_PORT' (this will throw an Error in a future version of PHP) in /var/www/html/erpm/Controller/ConLog.php on line 478
+[11-Jan-2023 10:07:41 Asia/Kolkata] PHP Warning:  Use of undefined constant EMAIL_FROM - assumed 'EMAIL_FROM' (this will throw an Error in a future version of PHP) in /var/www/html/erpm/Controller/ConLog.php on line 479
+[11-Jan-2023 10:07:41 Asia/Kolkata] PHP Warning:  Use of undefined constant EMS_CenterName - assumed 'EMS_CenterName' (this will throw an Error in a future version of PHP) in /var/www/html/erpm/Controller/ConLog.php on line 482
+[11-Jan-2023 10:17:02 Asia/Kolkata] PHP Notice:  Undefined index: __user_logid in /var/www/html/erpm/AppCode/nHead.php on line 2
+[11-Jan-2023 10:17:19 Asia/Kolkata] PHP Warning:  mysqli_stmt::bind_param(): Number of elements in type definition string doesn't match number of bind variables in /var/www/html/erpm/Controller/ConLog.php on line 464
+[11-Jan-2023 10:17:19 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /var/www/html/erpm/View/index.php on line 346
+[11-Jan-2023 10:18:55 Asia/Kolkata] PHP Notice:  Undefined index: __user_logid in /var/www/html/erpm/AppCode/nHead.php on line 2
+[11-Jan-2023 10:20:27 Asia/Kolkata] PHP Notice:  Undefined index: __user_logid in /var/www/html/erpm/AppCode/nHead.php on line 2
+[11-Jan-2023 10:20:29 Asia/Kolkata] PHP Warning:  mysqli_stmt::bind_param(): Number of elements in type definition string doesn't match number of bind variables in /var/www/html/erpm/Controller/ConLog.php on line 464
+[11-Jan-2023 10:20:29 Asia/Kolkata] PHP Warning:  Use of undefined constant EMS_CenterName - assumed 'EMS_CenterName' (this will throw an Error in a future version of PHP) in /var/www/html/erpm/Controller/ConLog.php on line 470
+[11-Jan-2023 10:20:29 Asia/Kolkata] PHP Warning:  Use of undefined constant EMAIL_HOST - assumed 'EMAIL_HOST' (this will throw an Error in a future version of PHP) in /var/www/html/erpm/Controller/ConLog.php on line 473
+[11-Jan-2023 10:20:29 Asia/Kolkata] PHP Warning:  Use of undefined constant EMAIL_AUTH - assumed 'EMAIL_AUTH' (this will throw an Error in a future version of PHP) in /var/www/html/erpm/Controller/ConLog.php on line 474
+[11-Jan-2023 10:20:29 Asia/Kolkata] PHP Warning:  Use of undefined constant EMAIL_USER - assumed 'EMAIL_USER' (this will throw an Error in a future version of PHP) in /var/www/html/erpm/Controller/ConLog.php on line 475
+[11-Jan-2023 10:20:29 Asia/Kolkata] PHP Warning:  Use of undefined constant EMAIL_PASS - assumed 'EMAIL_PASS' (this will throw an Error in a future version of PHP) in /var/www/html/erpm/Controller/ConLog.php on line 476
+[11-Jan-2023 10:20:29 Asia/Kolkata] PHP Warning:  Use of undefined constant EMAIL_SMTPSecure - assumed 'EMAIL_SMTPSecure' (this will throw an Error in a future version of PHP) in /var/www/html/erpm/Controller/ConLog.php on line 477
+[11-Jan-2023 10:20:29 Asia/Kolkata] PHP Warning:  Use of undefined constant EMAIL_PORT - assumed 'EMAIL_PORT' (this will throw an Error in a future version of PHP) in /var/www/html/erpm/Controller/ConLog.php on line 478
+[11-Jan-2023 10:20:29 Asia/Kolkata] PHP Warning:  Use of undefined constant EMAIL_FROM - assumed 'EMAIL_FROM' (this will throw an Error in a future version of PHP) in /var/www/html/erpm/Controller/ConLog.php on line 479
+[11-Jan-2023 10:20:29 Asia/Kolkata] PHP Warning:  Use of undefined constant EMS_CenterName - assumed 'EMS_CenterName' (this will throw an Error in a future version of PHP) in /var/www/html/erpm/Controller/ConLog.php on line 482
+[11-Jan-2023 10:21:26 Asia/Kolkata] PHP Notice:  Undefined variable: date_From in /var/www/html/erpm/View/salary_certificate_report.php on line 93
+[11-Jan-2023 10:21:26 Asia/Kolkata] PHP Notice:  Undefined variable: date_To in /var/www/html/erpm/View/salary_certificate_report.php on line 97
+[11-Jan-2023 10:22:12 Asia/Kolkata] PHP Warning:  mysqli_stmt::bind_param(): Number of elements in type definition string doesn't match number of bind variables in /var/www/html/erpm/Controller/ConLog.php on line 464
+[11-Jan-2023 10:22:13 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /var/www/html/erpm/View/index.php on line 346
+[11-Jan-2023 10:22:48 Asia/Kolkata] PHP Notice:  Undefined index: __user_logid in /var/www/html/erpm/AppCode/nHead.php on line 2
+[11-Jan-2023 10:22:51 Asia/Kolkata] PHP Warning:  mysqli_stmt::bind_param(): Number of elements in type definition string doesn't match number of bind variables in /var/www/html/erpm/Controller/ConLog.php on line 464
+[11-Jan-2023 10:22:51 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /var/www/html/erpm/View/index.php on line 346
+[11-Jan-2023 10:23:00 Asia/Kolkata] PHP Notice:  Undefined variable: locationdir in /var/www/html/erpm/View/EmployeInfo.php on line 160
+[11-Jan-2023 10:23:01 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type int in /var/www/html/erpm/View/EmployeInfo.php on line 879
+[11-Jan-2023 10:23:01 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type int in /var/www/html/erpm/View/EmployeInfo.php on line 879
+[11-Jan-2023 10:23:01 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type int in /var/www/html/erpm/View/EmployeInfo.php on line 879
+[11-Jan-2023 10:23:14 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type float in /var/www/html/erpm/AppData/lib/PHPExcel/Cell/DefaultValueBinder.php on line 86
+[11-Jan-2023 10:23:14 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type float in /var/www/html/erpm/AppData/lib/PHPExcel/Cell/DefaultValueBinder.php on line 86
+[11-Jan-2023 10:23:14 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type float in /var/www/html/erpm/AppData/lib/PHPExcel/Cell/DefaultValueBinder.php on line 86
+[11-Jan-2023 10:23:14 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type float in /var/www/html/erpm/AppData/lib/PHPExcel/Cell/DefaultValueBinder.php on line 86
+[11-Jan-2023 10:23:14 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type int in /var/www/html/erpm/AppData/lib/PHPExcel/Cell/DefaultValueBinder.php on line 86
+[11-Jan-2023 10:23:14 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type int in /var/www/html/erpm/AppData/lib/PHPExcel/Cell/DefaultValueBinder.php on line 86
+[11-Jan-2023 10:23:14 Asia/Kolkata] PHP Notice:  Undefined variable: count in /var/www/html/erpm/View/pantry_upload_atnd.php on line 123
+[11-Jan-2023 10:23:58 Asia/Kolkata] PHP Notice:  Undefined index: month in /var/www/html/erpm/View/salary_emp.php on line 60
+[11-Jan-2023 10:23:58 Asia/Kolkata] PHP Notice:  Undefined index: month in /var/www/html/erpm/View/salary_emp.php on line 60
+[11-Jan-2023 10:23:58 Asia/Kolkata] PHP Notice:  Undefined index: month in /var/www/html/erpm/View/salary_emp.php on line 60
+[11-Jan-2023 10:23:58 Asia/Kolkata] PHP Notice:  Undefined index: month in /var/www/html/erpm/View/salary_emp.php on line 60
+[11-Jan-2023 10:23:58 Asia/Kolkata] PHP Notice:  Undefined index: month in /var/www/html/erpm/View/salary_emp.php on line 60
+[11-Jan-2023 10:23:58 Asia/Kolkata] PHP Notice:  Undefined index: month in /var/www/html/erpm/View/salary_emp.php on line 60
+[11-Jan-2023 10:23:58 Asia/Kolkata] PHP Notice:  Undefined index: month in /var/www/html/erpm/View/salary_emp.php on line 60
+[11-Jan-2023 10:23:58 Asia/Kolkata] PHP Notice:  Undefined index: month in /var/www/html/erpm/View/salary_emp.php on line 60
+[11-Jan-2023 10:23:58 Asia/Kolkata] PHP Notice:  Undefined index: month in /var/www/html/erpm/View/salary_emp.php on line 60
+[11-Jan-2023 10:23:58 Asia/Kolkata] PHP Notice:  Undefined index: month in /var/www/html/erpm/View/salary_emp.php on line 60
+[11-Jan-2023 10:23:58 Asia/Kolkata] PHP Notice:  Undefined index: month in /var/www/html/erpm/View/salary_emp.php on line 60
+[11-Jan-2023 10:23:58 Asia/Kolkata] PHP Notice:  Undefined index: month in /var/www/html/erpm/View/salary_emp.php on line 60
+[11-Jan-2023 10:23:58 Asia/Kolkata] PHP Notice:  Undefined index: Years in /var/www/html/erpm/View/salary_emp.php on line 80
+[11-Jan-2023 10:23:58 Asia/Kolkata] PHP Notice:  Undefined index: Years in /var/www/html/erpm/View/salary_emp.php on line 80
+[11-Jan-2023 10:23:58 Asia/Kolkata] PHP Notice:  Undefined index: Years in /var/www/html/erpm/View/salary_emp.php on line 80
+[11-Jan-2023 10:25:23 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type float in /var/www/html/erpm/AppData/lib/PHPExcel/Cell/DefaultValueBinder.php on line 86
+[11-Jan-2023 10:25:23 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type float in /var/www/html/erpm/AppData/lib/PHPExcel/Cell/DefaultValueBinder.php on line 86
+[11-Jan-2023 10:25:23 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type float in /var/www/html/erpm/AppData/lib/PHPExcel/Cell/DefaultValueBinder.php on line 86
+[11-Jan-2023 10:25:23 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type float in /var/www/html/erpm/AppData/lib/PHPExcel/Cell/DefaultValueBinder.php on line 86
+[11-Jan-2023 10:25:23 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type int in /var/www/html/erpm/AppData/lib/PHPExcel/Cell/DefaultValueBinder.php on line 86
+[11-Jan-2023 10:25:23 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type int in /var/www/html/erpm/AppData/lib/PHPExcel/Cell/DefaultValueBinder.php on line 86
+[11-Jan-2023 10:25:23 Asia/Kolkata] PHP Notice:  Undefined variable: count in /var/www/html/erpm/View/pantry_upload_atnd.php on line 123
+[11-Jan-2023 10:25:37 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /var/www/html/erpm/View/index.php on line 346
+[11-Jan-2023 10:26:13 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type float in /var/www/html/erpm/AppData/lib/PHPExcel/Cell/DefaultValueBinder.php on line 86
+[11-Jan-2023 10:26:13 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type float in /var/www/html/erpm/AppData/lib/PHPExcel/Cell/DefaultValueBinder.php on line 86
+[11-Jan-2023 10:26:13 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type float in /var/www/html/erpm/AppData/lib/PHPExcel/Cell/DefaultValueBinder.php on line 86
+[11-Jan-2023 10:26:13 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type float in /var/www/html/erpm/AppData/lib/PHPExcel/Cell/DefaultValueBinder.php on line 86
+[11-Jan-2023 10:26:13 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type int in /var/www/html/erpm/AppData/lib/PHPExcel/Cell/DefaultValueBinder.php on line 86
+[11-Jan-2023 10:26:13 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type int in /var/www/html/erpm/AppData/lib/PHPExcel/Cell/DefaultValueBinder.php on line 86
+[11-Jan-2023 10:26:13 Asia/Kolkata] PHP Notice:  Undefined variable: count in /var/www/html/erpm/View/pantry_upload_atnd.php on line 123
+[11-Jan-2023 10:31:27 Asia/Kolkata] PHP Notice:  Undefined index: __user_logid in /var/www/html/erpm/AppCode/nHead.php on line 2
+[11-Jan-2023 10:32:04 Asia/Kolkata] PHP Warning:  mysqli_stmt::bind_param(): Number of elements in type definition string doesn't match number of bind variables in /var/www/html/erpm/Controller/ConLog.php on line 464
+[11-Jan-2023 10:32:05 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /var/www/html/erpm/View/index.php on line 346
+[11-Jan-2023 10:33:16 Asia/Kolkata] PHP Warning:  mysqli_stmt::bind_param(): Number of elements in type definition string doesn't match number of bind variables in /var/www/html/erpm/Controller/ConLog.php on line 464
+[11-Jan-2023 10:33:17 Asia/Kolkata] PHP Notice:  Undefined index: to in /var/www/html/erpm/View/calcRange.php on line 42
+[11-Jan-2023 10:33:18 Asia/Kolkata] PHP Notice:  Object of class mysqli_result could not be converted to int in /var/www/html/erpm/View/calcRange.php on line 412
+[11-Jan-2023 10:33:18 Asia/Kolkata] PHP Notice:  Undefined index: 2023-01-10 in /var/www/html/erpm/View/calcRange.php on line 583
+[11-Jan-2023 10:33:18 Asia/Kolkata] PHP Notice:  Undefined index: 2023-01-10 in /var/www/html/erpm/View/calcRange.php on line 932
+[11-Jan-2023 10:33:18 Asia/Kolkata] PHP Notice:  Undefined index: 2023-01-10 in /var/www/html/erpm/View/calcRange.php on line 1225
+[11-Jan-2023 10:33:18 Asia/Kolkata] PHP Notice:  Array to string conversion in /var/www/html/erpm/View/calcRange.php on line 1559
+[11-Jan-2023 10:33:43 Asia/Kolkata] PHP Notice:  Undefined index: __user_logid in /var/www/html/erpm/AppCode/nHead.php on line 2
+[11-Jan-2023 10:33:45 Asia/Kolkata] PHP Warning:  mysqli_stmt::bind_param(): Number of elements in type definition string doesn't match number of bind variables in /var/www/html/erpm/Controller/ConLog.php on line 464
+[11-Jan-2023 10:33:46 Asia/Kolkata] PHP Notice:  Undefined index: to in /var/www/html/erpm/View/calcRange.php on line 42
+[11-Jan-2023 10:33:48 Asia/Kolkata] PHP Notice:  Object of class mysqli_result could not be converted to int in /var/www/html/erpm/View/calcRange.php on line 412
+[11-Jan-2023 10:33:48 Asia/Kolkata] PHP Notice:  Undefined index: 2023-01-10 in /var/www/html/erpm/View/calcRange.php on line 583
+[11-Jan-2023 10:33:48 Asia/Kolkata] PHP Notice:  Undefined index: 2023-01-10 in /var/www/html/erpm/View/calcRange.php on line 932
+[11-Jan-2023 10:33:48 Asia/Kolkata] PHP Notice:  Undefined index: 2023-01-10 in /var/www/html/erpm/View/calcRange.php on line 1225
+[11-Jan-2023 10:33:48 Asia/Kolkata] PHP Notice:  Array to string conversion in /var/www/html/erpm/View/calcRange.php on line 1559
+[11-Jan-2023 10:33:48 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /var/www/html/erpm/View/index.php on line 346
+[11-Jan-2023 10:33:53 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Call to a member function bind_param() on bool in /var/www/html/erpm/Controller/revenue_master_controller.php:15
+Stack trace:
+#0 {main}
+  thrown in /var/www/html/erpm/Controller/revenue_master_controller.php on line 15
+[11-Jan-2023 10:34:59 Asia/Kolkata] PHP Notice:  Undefined index: id in /var/www/html/erpm/Controller/revenue_master_controller.php on line 109
+[11-Jan-2023 10:34:59 Asia/Kolkata] PHP Notice:  Undefined variable: gSite in /var/www/html/erpm/Controller/revenue_master_controller.php on line 109
+[11-Jan-2023 10:34:59 Asia/Kolkata] PHP Notice:  Undefined index: capacity in /var/www/html/erpm/Controller/revenue_master_controller.php on line 109
+[11-Jan-2023 10:34:59 Asia/Kolkata] PHP Notice:  Undefined variable: site_month_year in /var/www/html/erpm/Controller/revenue_master_controller.php on line 109
+[11-Jan-2023 10:34:59 Asia/Kolkata] PHP Notice:  Undefined index: id in /var/www/html/erpm/Controller/revenue_master_controller.php on line 111
+[11-Jan-2023 10:34:59 Asia/Kolkata] PHP Notice:  Undefined index: id in /var/www/html/erpm/Controller/revenue_master_controller.php on line 109
+[11-Jan-2023 10:34:59 Asia/Kolkata] PHP Notice:  Undefined variable: gSite in /var/www/html/erpm/Controller/revenue_master_controller.php on line 109
+[11-Jan-2023 10:34:59 Asia/Kolkata] PHP Notice:  Undefined index: capacity in /var/www/html/erpm/Controller/revenue_master_controller.php on line 109
+[11-Jan-2023 10:34:59 Asia/Kolkata] PHP Notice:  Undefined variable: site_month_year in /var/www/html/erpm/Controller/revenue_master_controller.php on line 109
+[11-Jan-2023 10:34:59 Asia/Kolkata] PHP Notice:  Undefined index: id in /var/www/html/erpm/Controller/revenue_master_controller.php on line 111
+[11-Jan-2023 10:37:25 Asia/Kolkata] PHP Notice:  Undefined index: month in /var/www/html/erpm/View/salary_emp.php on line 73
+[11-Jan-2023 10:37:25 Asia/Kolkata] PHP Notice:  Undefined index: month in /var/www/html/erpm/View/salary_emp.php on line 73
+[11-Jan-2023 10:37:25 Asia/Kolkata] PHP Notice:  Undefined index: month in /var/www/html/erpm/View/salary_emp.php on line 73
+[11-Jan-2023 10:37:25 Asia/Kolkata] PHP Notice:  Undefined index: month in /var/www/html/erpm/View/salary_emp.php on line 73
+[11-Jan-2023 10:37:25 Asia/Kolkata] PHP Notice:  Undefined index: month in /var/www/html/erpm/View/salary_emp.php on line 73
+[11-Jan-2023 10:37:25 Asia/Kolkata] PHP Notice:  Undefined index: month in /var/www/html/erpm/View/salary_emp.php on line 73
+[11-Jan-2023 10:37:25 Asia/Kolkata] PHP Notice:  Undefined index: month in /var/www/html/erpm/View/salary_emp.php on line 73
+[11-Jan-2023 10:37:25 Asia/Kolkata] PHP Notice:  Undefined index: month in /var/www/html/erpm/View/salary_emp.php on line 73
+[11-Jan-2023 10:37:25 Asia/Kolkata] PHP Notice:  Undefined index: month in /var/www/html/erpm/View/salary_emp.php on line 73
+[11-Jan-2023 10:37:25 Asia/Kolkata] PHP Notice:  Undefined index: month in /var/www/html/erpm/View/salary_emp.php on line 73
+[11-Jan-2023 10:37:25 Asia/Kolkata] PHP Notice:  Undefined index: month in /var/www/html/erpm/View/salary_emp.php on line 73
+[11-Jan-2023 10:37:25 Asia/Kolkata] PHP Notice:  Undefined index: month in /var/www/html/erpm/View/salary_emp.php on line 73
+[11-Jan-2023 10:37:25 Asia/Kolkata] PHP Notice:  Undefined index: Years in /var/www/html/erpm/View/salary_emp.php on line 93
+[11-Jan-2023 10:37:25 Asia/Kolkata] PHP Notice:  Undefined index: Years in /var/www/html/erpm/View/salary_emp.php on line 93
+[11-Jan-2023 10:37:25 Asia/Kolkata] PHP Notice:  Undefined index: Years in /var/www/html/erpm/View/salary_emp.php on line 93
+[11-Jan-2023 10:42:26 Asia/Kolkata] PHP Warning:  mysqli_stmt::bind_param(): Number of elements in type definition string doesn't match number of bind variables in /var/www/html/erpm/Controller/ConLog.php on line 464
+[11-Jan-2023 10:44:05 Asia/Kolkata] PHP Warning:  mysqli_stmt::bind_param(): Number of elements in type definition string doesn't match number of bind variables in /var/www/html/erpm/Controller/ConLog.php on line 464
+[11-Jan-2023 10:46:20 Asia/Kolkata] PHP Notice:  Undefined variable: employee_id in /var/www/html/erpm/View/salary_master.php on line 49
+[11-Jan-2023 10:46:20 Asia/Kolkata] PHP Warning:  mysqli_stmt::bind_param(): Number of variables doesn't match number of parameters in prepared statement in /var/www/html/erpm/View/salary_master.php on line 62
+[11-Jan-2023 10:46:37 Asia/Kolkata] PHP Notice:  Undefined variable: employee_id in /var/www/html/erpm/View/salary_master.php on line 49
+[11-Jan-2023 10:46:37 Asia/Kolkata] PHP Warning:  mysqli_stmt::bind_param(): Number of variables doesn't match number of parameters in prepared statement in /var/www/html/erpm/View/salary_master.php on line 62

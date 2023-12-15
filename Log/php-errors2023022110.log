@@ -1,0 +1,100 @@
+[21-Feb-2023 10:00:15 Asia/Kolkata] PHP Warning:  Undefined array key "to" in C:\wamp64\www\emsdemo\View\calcRange.php on line 42
+[21-Feb-2023 10:00:15 Asia/Kolkata] PHP Stack trace:
+[21-Feb-2023 10:00:15 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\emsdemo\View\calcRange.php:0
+[21-Feb-2023 10:00:18 Asia/Kolkata] PHP Notice:  Object of class mysqli_result could not be converted to int in C:\wamp64\www\emsdemo\View\calcRange.php on line 412
+[21-Feb-2023 10:00:18 Asia/Kolkata] PHP Stack trace:
+[21-Feb-2023 10:00:18 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\emsdemo\View\calcRange.php:0
+[21-Feb-2023 10:00:18 Asia/Kolkata] PHP   2. BioMetric->__construct($EmployeeID = 'CE12102224', $DateFrom = '2023-02-20', $DateTo = '2023-02-20', $Emd_des = 'Manager', $Emp_status = 6, $emp_dod = NULL, $emp_module = '2010-12-06 00:00:00') C:\wamp64\www\emsdemo\View\calcRange.php:2358
+[21-Feb-2023 10:00:18 Asia/Kolkata] PHP Warning:  Undefined array key "2023-02-20" in C:\wamp64\www\emsdemo\View\calcRange.php on line 583
+[21-Feb-2023 10:00:18 Asia/Kolkata] PHP Stack trace:
+[21-Feb-2023 10:00:18 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\emsdemo\View\calcRange.php:0
+[21-Feb-2023 10:00:18 Asia/Kolkata] PHP   2. BioMetric->__construct($EmployeeID = 'CE12102224', $DateFrom = '2023-02-20', $DateTo = '2023-02-20', $Emd_des = 'Manager', $Emp_status = 6, $emp_dod = NULL, $emp_module = '2010-12-06 00:00:00') C:\wamp64\www\emsdemo\View\calcRange.php:2358
+[21-Feb-2023 10:00:18 Asia/Kolkata] PHP   3. BioMetric->__calculation_for_day($__date = '2023-02-20', $__EmpID = 'CE12102224', $__des = 'Manager', $__status = 6) C:\wamp64\www\emsdemo\View\calcRange.php:558
+[21-Feb-2023 10:00:18 Asia/Kolkata] PHP Warning:  Undefined array key "2023-02-20" in C:\wamp64\www\emsdemo\View\calcRange.php on line 932
+[21-Feb-2023 10:00:18 Asia/Kolkata] PHP Stack trace:
+[21-Feb-2023 10:00:18 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\emsdemo\View\calcRange.php:0
+[21-Feb-2023 10:00:18 Asia/Kolkata] PHP   2. BioMetric->__construct($EmployeeID = 'CE12102224', $DateFrom = '2023-02-20', $DateTo = '2023-02-20', $Emd_des = 'Manager', $Emp_status = 6, $emp_dod = NULL, $emp_module = '2010-12-06 00:00:00') C:\wamp64\www\emsdemo\View\calcRange.php:2358
+[21-Feb-2023 10:00:18 Asia/Kolkata] PHP   3. BioMetric->__calculation_for_day($__date = '2023-02-20', $__EmpID = 'CE12102224', $__des = 'Manager', $__status = 6) C:\wamp64\www\emsdemo\View\calcRange.php:558
+[21-Feb-2023 10:00:18 Asia/Kolkata] PHP Warning:  Undefined array key "2023-02-20" in C:\wamp64\www\emsdemo\View\calcRange.php on line 1225
+[21-Feb-2023 10:00:18 Asia/Kolkata] PHP Stack trace:
+[21-Feb-2023 10:00:18 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\emsdemo\View\calcRange.php:0
+[21-Feb-2023 10:00:18 Asia/Kolkata] PHP   2. BioMetric->__construct($EmployeeID = 'CE12102224', $DateFrom = '2023-02-20', $DateTo = '2023-02-20', $Emd_des = 'Manager', $Emp_status = 6, $emp_dod = NULL, $emp_module = '2010-12-06 00:00:00') C:\wamp64\www\emsdemo\View\calcRange.php:2358
+[21-Feb-2023 10:00:18 Asia/Kolkata] PHP   3. BioMetric->__calculation_for_day($__date = '2023-02-20', $__EmpID = 'CE12102224', $__des = 'Manager', $__status = 6) C:\wamp64\www\emsdemo\View\calcRange.php:558
+[21-Feb-2023 10:00:19 Asia/Kolkata] PHP Warning:  Array to string conversion in C:\wamp64\www\emsdemo\View\calcRange.php on line 1559
+[21-Feb-2023 10:00:19 Asia/Kolkata] PHP Stack trace:
+[21-Feb-2023 10:00:19 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\emsdemo\View\calcRange.php:0
+[21-Feb-2023 10:00:19 Asia/Kolkata] PHP   2. BioMetric->__construct($EmployeeID = 'CE12102224', $DateFrom = '2023-02-20', $DateTo = '2023-02-20', $Emd_des = 'Manager', $Emp_status = 6, $emp_dod = NULL, $emp_module = '2010-12-06 00:00:00') C:\wamp64\www\emsdemo\View\calcRange.php:2358
+[21-Feb-2023 10:00:19 Asia/Kolkata] PHP   3. BioMetric->__calculation_for_day($__date = '2023-02-20', $__EmpID = 'CE12102224', $__des = 'Manager', $__status = 6) C:\wamp64\www\emsdemo\View\calcRange.php:558
+[21-Feb-2023 10:00:20 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in C:\wamp64\www\emsdemo\View\index.php on line 356
+[21-Feb-2023 10:00:20 Asia/Kolkata] PHP Stack trace:
+[21-Feb-2023 10:00:20 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\emsdemo\View\index.php:0
+[21-Feb-2023 10:16:05 Asia/Kolkata] PHP Fatal error:  Uncaught Error: mysqli_stmt::bind_param(): Argument #3 cannot be passed by reference in C:\wamp64\www\emsdemo\View\rpt_AttendanceTrack.php:418
+Stack trace:
+#0 {main}
+  thrown in C:\wamp64\www\emsdemo\View\rpt_AttendanceTrack.php on line 418
+[21-Feb-2023 10:16:47 Asia/Kolkata] PHP Fatal error:  Uncaught Error: mysqli_stmt::bind_param(): Argument #3 cannot be passed by reference in C:\wamp64\www\emsdemo\View\rpt_AttendanceTrack.php:418
+Stack trace:
+#0 {main}
+  thrown in C:\wamp64\www\emsdemo\View\rpt_AttendanceTrack.php on line 418
+[21-Feb-2023 10:17:10 Asia/Kolkata] PHP Fatal error:  Uncaught Error: mysqli_stmt::bind_param(): Argument #3 cannot be passed by reference in C:\wamp64\www\emsdemo\View\rpt_AttendanceTrack.php:418
+Stack trace:
+#0 {main}
+  thrown in C:\wamp64\www\emsdemo\View\rpt_AttendanceTrack.php on line 418
+[21-Feb-2023 10:18:10 Asia/Kolkata] PHP Fatal error:  Uncaught Error: mysqli_stmt::bind_param(): Argument #3 cannot be passed by reference in C:\wamp64\www\emsdemo\View\rpt_AttendanceTrack.php:418
+Stack trace:
+#0 {main}
+  thrown in C:\wamp64\www\emsdemo\View\rpt_AttendanceTrack.php on line 418
+[21-Feb-2023 10:24:12 Asia/Kolkata] PHP Warning:  Undefined array key "__user_logid" in C:\wamp64\www\emsdemo\AppCode\nHead.php on line 2
+[21-Feb-2023 10:24:12 Asia/Kolkata] PHP Stack trace:
+[21-Feb-2023 10:24:12 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\emsdemo\View\rpt_AttendanceTrack.php:0
+[21-Feb-2023 10:24:12 Asia/Kolkata] PHP   2. require() C:\wamp64\www\emsdemo\View\rpt_AttendanceTrack.php:9
+[21-Feb-2023 10:24:33 Asia/Kolkata] PHP Warning:  Undefined array key "txt_dateFrom" in C:\wamp64\www\emsdemo\View\message-popup.php on line 28
+[21-Feb-2023 10:24:33 Asia/Kolkata] PHP Stack trace:
+[21-Feb-2023 10:24:33 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\emsdemo\View\message-popup.php:0
+[21-Feb-2023 10:24:33 Asia/Kolkata] PHP Warning:  Undefined array key "txt_dateto" in C:\wamp64\www\emsdemo\View\message-popup.php on line 29
+[21-Feb-2023 10:24:33 Asia/Kolkata] PHP Stack trace:
+[21-Feb-2023 10:24:33 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\emsdemo\View\message-popup.php:0
+[21-Feb-2023 10:25:13 Asia/Kolkata] PHP Fatal error:  Uncaught Error: mysqli_stmt::bind_param(): Argument #3 cannot be passed by reference in C:\wamp64\www\emsdemo\View\rpt_AttendanceTrack.php:418
+Stack trace:
+#0 {main}
+  thrown in C:\wamp64\www\emsdemo\View\rpt_AttendanceTrack.php on line 418
+[21-Feb-2023 10:26:41 Asia/Kolkata] PHP Fatal error:  Uncaught Error: mysqli_stmt::bind_param(): Argument #3 cannot be passed by reference in C:\wamp64\www\emsdemo\View\rpt_AttendanceTrack.php:418
+Stack trace:
+#0 {main}
+  thrown in C:\wamp64\www\emsdemo\View\rpt_AttendanceTrack.php on line 418
+[21-Feb-2023 10:28:40 Asia/Kolkata] PHP Fatal error:  Uncaught Error: mysqli_stmt::bind_param(): Argument #3 cannot be passed by reference in C:\wamp64\www\emsdemo\View\rpt_AttendanceTrack.php:419
+Stack trace:
+#0 {main}
+  thrown in C:\wamp64\www\emsdemo\View\rpt_AttendanceTrack.php on line 419
+[21-Feb-2023 10:29:13 Asia/Kolkata] PHP Fatal error:  Uncaught Error: mysqli_stmt::bind_param(): Argument #3 cannot be passed by reference in C:\wamp64\www\emsdemo\View\rpt_AttendanceTrack.php:420
+Stack trace:
+#0 {main}
+  thrown in C:\wamp64\www\emsdemo\View\rpt_AttendanceTrack.php on line 420
+[21-Feb-2023 10:29:46 Asia/Kolkata] PHP Fatal error:  Uncaught Error: mysqli_stmt::bind_param(): Argument #3 cannot be passed by reference in C:\wamp64\www\emsdemo\View\rpt_AttendanceTrack.php:420
+Stack trace:
+#0 {main}
+  thrown in C:\wamp64\www\emsdemo\View\rpt_AttendanceTrack.php on line 420
+[21-Feb-2023 10:30:19 Asia/Kolkata] PHP Fatal error:  Uncaught Error: mysqli_stmt::bind_param(): Argument #3 cannot be passed by reference in C:\wamp64\www\emsdemo\View\rpt_AttendanceTrack.php:421
+Stack trace:
+#0 {main}
+  thrown in C:\wamp64\www\emsdemo\View\rpt_AttendanceTrack.php on line 421
+[21-Feb-2023 10:32:50 Asia/Kolkata] PHP Fatal error:  Uncaught Error: mysqli_stmt::bind_param(): Argument #3 cannot be passed by reference in C:\wamp64\www\emsdemo\View\rpt_AttendanceTrack.php:418
+Stack trace:
+#0 {main}
+  thrown in C:\wamp64\www\emsdemo\View\rpt_AttendanceTrack.php on line 418
+[21-Feb-2023 10:33:25 Asia/Kolkata] PHP Warning:  Undefined array key "__user_logid" in C:\wamp64\www\emsdemo\AppCode\nHead.php on line 2
+[21-Feb-2023 10:33:25 Asia/Kolkata] PHP Stack trace:
+[21-Feb-2023 10:33:25 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\emsdemo\View\rpt_AttendanceTrack.php:0
+[21-Feb-2023 10:33:25 Asia/Kolkata] PHP   2. require() C:\wamp64\www\emsdemo\View\rpt_AttendanceTrack.php:9
+[21-Feb-2023 10:33:45 Asia/Kolkata] PHP Fatal error:  Uncaught Error: mysqli_stmt::bind_param(): Argument #3 cannot be passed by reference in C:\wamp64\www\emsdemo\View\rpt_AttendanceTrack.php:418
+Stack trace:
+#0 {main}
+  thrown in C:\wamp64\www\emsdemo\View\rpt_AttendanceTrack.php on line 418
+[21-Feb-2023 10:34:37 Asia/Kolkata] PHP Fatal error:  Uncaught Error: mysqli_stmt::bind_param(): Argument #3 cannot be passed by reference in C:\wamp64\www\emsdemo\View\rpt_AttendanceTrack.php:418
+Stack trace:
+#0 {main}
+  thrown in C:\wamp64\www\emsdemo\View\rpt_AttendanceTrack.php on line 418
+[21-Feb-2023 10:35:14 Asia/Kolkata] PHP Fatal error:  Uncaught Error: mysqli_stmt::bind_param(): Argument #3 cannot be passed by reference in C:\wamp64\www\emsdemo\View\rpt_AttendanceTrack.php:418
+Stack trace:
+#0 {main}
+  thrown in C:\wamp64\www\emsdemo\View\rpt_AttendanceTrack.php on line 418

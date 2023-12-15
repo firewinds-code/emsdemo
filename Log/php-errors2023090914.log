@@ -1,0 +1,15 @@
+[09-Sep-2023 14:20:07 Asia/Kolkata] PHP Warning:  Undefined array key "txt_dateFrom" in D:\wamp64\www\emsdemo\View\message-popup.php on line 28
+[09-Sep-2023 14:20:07 Asia/Kolkata] PHP Stack trace:
+[09-Sep-2023 14:20:07 Asia/Kolkata] PHP   1. {main}() D:\wamp64\www\emsdemo\View\message-popup.php:0
+[09-Sep-2023 14:20:07 Asia/Kolkata] PHP Warning:  Undefined array key "txt_dateto" in D:\wamp64\www\emsdemo\View\message-popup.php on line 29
+[09-Sep-2023 14:20:07 Asia/Kolkata] PHP Stack trace:
+[09-Sep-2023 14:20:07 Asia/Kolkata] PHP   1. {main}() D:\wamp64\www\emsdemo\View\message-popup.php:0
+[09-Sep-2023 14:29:39 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type int in D:\wamp64\www\emsdemo\View\EmployeInfo.php on line 893
+[09-Sep-2023 14:29:39 Asia/Kolkata] PHP Stack trace:
+[09-Sep-2023 14:29:39 Asia/Kolkata] PHP   1. {main}() D:\wamp64\www\emsdemo\View\EmployeInfo.php:0
+[09-Sep-2023 14:29:39 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type int in D:\wamp64\www\emsdemo\View\EmployeInfo.php on line 893
+[09-Sep-2023 14:29:39 Asia/Kolkata] PHP Stack trace:
+[09-Sep-2023 14:29:39 Asia/Kolkata] PHP   1. {main}() D:\wamp64\www\emsdemo\View\EmployeInfo.php:0
+[09-Sep-2023 14:29:39 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type int in D:\wamp64\www\emsdemo\View\EmployeInfo.php on line 893
+[09-Sep-2023 14:29:39 Asia/Kolkata] PHP Stack trace:
+[09-Sep-2023 14:29:39 Asia/Kolkata] PHP   1. {main}() D:\wamp64\www\emsdemo\View\EmployeInfo.php:0

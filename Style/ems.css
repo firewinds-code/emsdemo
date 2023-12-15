@@ -1,0 +1,85 @@
+@charset "utf-8";
+/* CSS Document */
+
+html, body, #wrap {height: 99%;    width: 100%;}
+body > #wrap > #main > #pageContent {height: auto !important; min-height: 100%;}
+
+#main
+{
+    background-color:#FFFFFF;
+    width:960px;
+    height:78% !important;
+    text-align:left;
+    position:relative;    
+    min-height: 70px;
+    padding: 5px;
+    border: 1px solid #CCC5C5;
+    width: 100%;
+    margin: 0px;
+    overflow: hidden;
+    
+}
+#header_div
+{
+	height: 10%;
+    min-height: 70px;
+    padding: 5px;
+    border: 1px solid #CCC5C5;
+    width: 100%;
+    margin: 0px;
+}
+#footer
+{
+   /* display:block;
+    width:100%;
+    text-align:center;
+    position: relative;
+    clear:both;*/
+    color: white;
+    display: block;
+    width: 100%;
+    text-align: center;
+    clear: both;
+    position: relative;
+    bottom: 0px;
+    background: #ff7f0e;
+    left: 0px;
+    border-top: 1px solid rgba(0, 0, 0, 0.43);
+    padding: 10px;
+    z-index: 1000;
+    text-shadow: 0px 1px 1px #545050,1px 1px 0px black;
+
+}
+/* CLEAR FIX*/
+.clearfix:after 
+{
+    content: ".";
+    display: block;
+    height: 0;
+    clear: both;
+    visibility: hidden;
+}
+.clearfix 
+{
+    display: inline-block;
+}
+/* Hides from IE-mac \*/
+* html .clearfix {
+    height: 1%;
+}
+.clearfix 
+{   
+    display: block;
+}
+
+@media only screen and (max-width : 320px) {
+	   
+	    .MainDiv {
+	    	margin: 0px;
+	    	padding-right: 0;
+    		padding-left: 0;
+	    }
+	   
+	}
+
+/* End hide from IE-mac */

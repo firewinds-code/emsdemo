@@ -1,0 +1,30 @@
+[10-Feb-2023 10:12:14 Asia/Kolkata] PHP Notice:  Undefined index: to in C:\wamp64\www\emsdemo\View\calcRange.php on line 42
+[10-Feb-2023 10:12:14 Asia/Kolkata] PHP Stack trace:
+[10-Feb-2023 10:12:14 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\emsdemo\View\calcRange.php:0
+[10-Feb-2023 10:12:16 Asia/Kolkata] PHP Notice:  Object of class mysqli_result could not be converted to int in C:\wamp64\www\emsdemo\View\calcRange.php on line 412
+[10-Feb-2023 10:12:16 Asia/Kolkata] PHP Stack trace:
+[10-Feb-2023 10:12:16 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\emsdemo\View\calcRange.php:0
+[10-Feb-2023 10:12:16 Asia/Kolkata] PHP   2. BioMetric->__construct($EmployeeID = 'CE12102224', $DateFrom = '2023-02-09', $DateTo = '2023-02-09', $Emd_des = 'Manager', $Emp_status = 6, $emp_dod = NULL, $emp_module = '2010-12-06 00:00:00') C:\wamp64\www\emsdemo\View\calcRange.php:2358
+[10-Feb-2023 10:12:16 Asia/Kolkata] PHP Notice:  Undefined index: 2023-02-09 in C:\wamp64\www\emsdemo\View\calcRange.php on line 583
+[10-Feb-2023 10:12:16 Asia/Kolkata] PHP Stack trace:
+[10-Feb-2023 10:12:16 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\emsdemo\View\calcRange.php:0
+[10-Feb-2023 10:12:16 Asia/Kolkata] PHP   2. BioMetric->__construct($EmployeeID = 'CE12102224', $DateFrom = '2023-02-09', $DateTo = '2023-02-09', $Emd_des = 'Manager', $Emp_status = 6, $emp_dod = NULL, $emp_module = '2010-12-06 00:00:00') C:\wamp64\www\emsdemo\View\calcRange.php:2358
+[10-Feb-2023 10:12:16 Asia/Kolkata] PHP   3. BioMetric->__calculation_for_day($__date = '2023-02-09', $__EmpID = 'CE12102224', $__des = 'Manager', $__status = 6) C:\wamp64\www\emsdemo\View\calcRange.php:558
+[10-Feb-2023 10:12:16 Asia/Kolkata] PHP Notice:  Undefined index: 2023-02-09 in C:\wamp64\www\emsdemo\View\calcRange.php on line 932
+[10-Feb-2023 10:12:16 Asia/Kolkata] PHP Stack trace:
+[10-Feb-2023 10:12:16 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\emsdemo\View\calcRange.php:0
+[10-Feb-2023 10:12:16 Asia/Kolkata] PHP   2. BioMetric->__construct($EmployeeID = 'CE12102224', $DateFrom = '2023-02-09', $DateTo = '2023-02-09', $Emd_des = 'Manager', $Emp_status = 6, $emp_dod = NULL, $emp_module = '2010-12-06 00:00:00') C:\wamp64\www\emsdemo\View\calcRange.php:2358
+[10-Feb-2023 10:12:16 Asia/Kolkata] PHP   3. BioMetric->__calculation_for_day($__date = '2023-02-09', $__EmpID = 'CE12102224', $__des = 'Manager', $__status = 6) C:\wamp64\www\emsdemo\View\calcRange.php:558
+[10-Feb-2023 10:12:16 Asia/Kolkata] PHP Notice:  Undefined index: 2023-02-09 in C:\wamp64\www\emsdemo\View\calcRange.php on line 1225
+[10-Feb-2023 10:12:16 Asia/Kolkata] PHP Stack trace:
+[10-Feb-2023 10:12:16 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\emsdemo\View\calcRange.php:0
+[10-Feb-2023 10:12:16 Asia/Kolkata] PHP   2. BioMetric->__construct($EmployeeID = 'CE12102224', $DateFrom = '2023-02-09', $DateTo = '2023-02-09', $Emd_des = 'Manager', $Emp_status = 6, $emp_dod = NULL, $emp_module = '2010-12-06 00:00:00') C:\wamp64\www\emsdemo\View\calcRange.php:2358
+[10-Feb-2023 10:12:16 Asia/Kolkata] PHP   3. BioMetric->__calculation_for_day($__date = '2023-02-09', $__EmpID = 'CE12102224', $__des = 'Manager', $__status = 6) C:\wamp64\www\emsdemo\View\calcRange.php:558
+[10-Feb-2023 10:12:17 Asia/Kolkata] PHP Notice:  Array to string conversion in C:\wamp64\www\emsdemo\View\calcRange.php on line 1559
+[10-Feb-2023 10:12:17 Asia/Kolkata] PHP Stack trace:
+[10-Feb-2023 10:12:17 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\emsdemo\View\calcRange.php:0
+[10-Feb-2023 10:12:17 Asia/Kolkata] PHP   2. BioMetric->__construct($EmployeeID = 'CE12102224', $DateFrom = '2023-02-09', $DateTo = '2023-02-09', $Emd_des = 'Manager', $Emp_status = 6, $emp_dod = NULL, $emp_module = '2010-12-06 00:00:00') C:\wamp64\www\emsdemo\View\calcRange.php:2358
+[10-Feb-2023 10:12:17 Asia/Kolkata] PHP   3. BioMetric->__calculation_for_day($__date = '2023-02-09', $__EmpID = 'CE12102224', $__des = 'Manager', $__status = 6) C:\wamp64\www\emsdemo\View\calcRange.php:558
+[10-Feb-2023 10:12:18 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in C:\wamp64\www\emsdemo\View\index.php on line 356
+[10-Feb-2023 10:12:18 Asia/Kolkata] PHP Stack trace:
+[10-Feb-2023 10:12:18 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\emsdemo\View\index.php:0

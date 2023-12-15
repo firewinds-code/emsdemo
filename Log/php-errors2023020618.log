@@ -1,0 +1,21 @@
+[06-Feb-2023 18:07:08 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in C:\wamp64\www\emsdemo\View\index.php on line 356
+[06-Feb-2023 18:07:08 Asia/Kolkata] PHP Stack trace:
+[06-Feb-2023 18:07:08 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\emsdemo\View\index.php:0
+[06-Feb-2023 18:07:33 Asia/Kolkata] PHP Warning:  Undefined array key "req" in C:\wamp64\www\emsdemo\View\add_leave.php on line 414
+[06-Feb-2023 18:07:33 Asia/Kolkata] PHP Stack trace:
+[06-Feb-2023 18:07:33 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\emsdemo\View\add_leave.php:0
+[06-Feb-2023 18:07:33 Asia/Kolkata] PHP Warning:  Undefined array key "req" in C:\wamp64\www\emsdemo\View\add_leave.php on line 418
+[06-Feb-2023 18:07:34 Asia/Kolkata] PHP Stack trace:
+[06-Feb-2023 18:07:34 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\emsdemo\View\add_leave.php:0
+[06-Feb-2023 18:07:34 Asia/Kolkata] PHP Warning:  Undefined variable $leave_Level in C:\wamp64\www\emsdemo\View\add_leave.php on line 906
+[06-Feb-2023 18:07:34 Asia/Kolkata] PHP Stack trace:
+[06-Feb-2023 18:07:34 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\emsdemo\View\add_leave.php:0
+[06-Feb-2023 18:07:48 Asia/Kolkata] PHP Warning:  Undefined array key "req" in C:\wamp64\www\emsdemo\View\add_leave.php on line 414
+[06-Feb-2023 18:07:48 Asia/Kolkata] PHP Stack trace:
+[06-Feb-2023 18:07:48 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\emsdemo\View\add_leave.php:0
+[06-Feb-2023 18:07:48 Asia/Kolkata] PHP Warning:  Undefined array key "req" in C:\wamp64\www\emsdemo\View\add_leave.php on line 418
+[06-Feb-2023 18:07:48 Asia/Kolkata] PHP Stack trace:
+[06-Feb-2023 18:07:48 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\emsdemo\View\add_leave.php:0
+[06-Feb-2023 18:07:49 Asia/Kolkata] PHP Warning:  Undefined variable $leave_Level in C:\wamp64\www\emsdemo\View\add_leave.php on line 906
+[06-Feb-2023 18:07:49 Asia/Kolkata] PHP Stack trace:
+[06-Feb-2023 18:07:49 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\emsdemo\View\add_leave.php:0

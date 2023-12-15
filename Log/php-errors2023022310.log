@@ -1,0 +1,16 @@
+[23-Feb-2023 10:03:57 Asia/Kolkata] PHP Warning:  Undefined array key "empid" in C:\wamp64\www\emsdemo\View\save_experience.php on line 54
+[23-Feb-2023 10:03:57 Asia/Kolkata] PHP Stack trace:
+[23-Feb-2023 10:03:57 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\emsdemo\View\save_experience.php:0
+[23-Feb-2023 10:03:57 Asia/Kolkata] PHP Warning:  Undefined array key "txt_exp_desg" in C:\wamp64\www\emsdemo\View\save_experience.php on line 55
+[23-Feb-2023 10:03:57 Asia/Kolkata] PHP Stack trace:
+[23-Feb-2023 10:03:57 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\emsdemo\View\save_experience.php:0
+[23-Feb-2023 10:03:57 Asia/Kolkata] PHP Warning:  Undefined array key "EmployeeID" in C:\wamp64\www\emsdemo\View\save_experience.php on line 66
+[23-Feb-2023 10:03:57 Asia/Kolkata] PHP Stack trace:
+[23-Feb-2023 10:03:57 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\emsdemo\View\save_experience.php:0
+[23-Feb-2023 10:03:58 Asia/Kolkata] PHP Warning:  Undefined array key "expselect" in C:\wamp64\www\emsdemo\View\save_experience.php on line 245
+[23-Feb-2023 10:03:58 Asia/Kolkata] PHP Stack trace:
+[23-Feb-2023 10:03:58 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\emsdemo\View\save_experience.php:0
+[23-Feb-2023 10:03:58 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in C:\wamp64\www\emsdemo\View\shortcutLinkEmpProfile.php on line 42
+[23-Feb-2023 10:03:58 Asia/Kolkata] PHP Stack trace:
+[23-Feb-2023 10:03:58 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\emsdemo\View\save_experience.php:0
+[23-Feb-2023 10:03:58 Asia/Kolkata] PHP   2. include() C:\wamp64\www\emsdemo\View\save_experience.php:368

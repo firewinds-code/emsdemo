@@ -1,0 +1,13 @@
+[23-Dec-2022 10:03:24 Asia/Kolkata] PHP Notice:  Undefined index: __user_logid in /var/www/html/erpm/AppCode/nHead.php on line 2
+[23-Dec-2022 10:03:28 Asia/Kolkata] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /var/www/html/erpm/AppData/lib/PHPMailer-master/PHPMailerAutoload.php on line 45
+[23-Dec-2022 10:03:28 Asia/Kolkata] PHP Warning:  mysqli_stmt::bind_param(): Number of elements in type definition string doesn't match number of bind variables in /var/www/html/erpm/Controller/ConLog.php on line 464
+[23-Dec-2022 10:03:28 Asia/Kolkata] PHP Notice:  Undefined index: to in /var/www/html/erpm/View/calcRange.php on line 42
+[23-Dec-2022 10:03:30 Asia/Kolkata] PHP Notice:  Object of class mysqli_result could not be converted to int in /var/www/html/erpm/View/calcRange.php on line 412
+[23-Dec-2022 10:03:30 Asia/Kolkata] PHP Notice:  Undefined index: 2022-12-22 in /var/www/html/erpm/View/calcRange.php on line 583
+[23-Dec-2022 10:03:30 Asia/Kolkata] PHP Notice:  Undefined index: 2022-12-22 in /var/www/html/erpm/View/calcRange.php on line 932
+[23-Dec-2022 10:03:30 Asia/Kolkata] PHP Notice:  Undefined index: 2022-12-22 in /var/www/html/erpm/View/calcRange.php on line 1225
+[23-Dec-2022 10:03:30 Asia/Kolkata] PHP Notice:  Array to string conversion in /var/www/html/erpm/View/calcRange.php on line 1559
+[23-Dec-2022 10:03:30 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /var/www/html/erpm/View/index.php on line 346
+[23-Dec-2022 10:24:21 Asia/Kolkata] PHP Notice:  Undefined index: user_type in /var/www/html/erpm/Services/Get_Process_ForReport.php on line 29
+[23-Dec-2022 10:24:21 Asia/Kolkata] PHP Notice:  Undefined index: Client in /var/www/html/erpm/Services/Get_Process_ForReport.php on line 30
+[23-Dec-2022 10:24:21 Asia/Kolkata] PHP Notice:  Undefined index: Process in /var/www/html/erpm/Services/Get_Process_ForReport.php on line 31

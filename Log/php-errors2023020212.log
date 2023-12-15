@@ -1,0 +1,154 @@
+[02-Feb-2023 12:07:32 Asia/Kolkata] PHP Warning:  Undefined array key "__user_logid" in C:\wamp64\www\emsdemo\AppCode\nHead.php on line 2
+[02-Feb-2023 12:07:32 Asia/Kolkata] PHP Stack trace:
+[02-Feb-2023 12:07:32 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\emsdemo\View\index.php:0
+[02-Feb-2023 12:07:32 Asia/Kolkata] PHP   2. require() C:\wamp64\www\emsdemo\View\index.php:14
+[02-Feb-2023 12:23:49 Asia/Kolkata] PHP Warning:  Undefined array key "txt_dateFrom" in C:\wamp64\www\emsdemo\View\message-popup.php on line 28
+[02-Feb-2023 12:23:49 Asia/Kolkata] PHP Stack trace:
+[02-Feb-2023 12:23:49 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\emsdemo\View\message-popup.php:0
+[02-Feb-2023 12:23:49 Asia/Kolkata] PHP Warning:  Undefined array key "txt_dateto" in C:\wamp64\www\emsdemo\View\message-popup.php on line 29
+[02-Feb-2023 12:23:49 Asia/Kolkata] PHP Stack trace:
+[02-Feb-2023 12:23:49 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\emsdemo\View\message-popup.php:0
+[02-Feb-2023 12:24:30 Asia/Kolkata] PHP Warning:  Undefined array key "txt_dateFrom" in C:\wamp64\www\emsdemo\View\message-popup.php on line 28
+[02-Feb-2023 12:24:30 Asia/Kolkata] PHP Stack trace:
+[02-Feb-2023 12:24:30 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\emsdemo\View\message-popup.php:0
+[02-Feb-2023 12:24:31 Asia/Kolkata] PHP Warning:  Undefined array key "txt_dateto" in C:\wamp64\www\emsdemo\View\message-popup.php on line 29
+[02-Feb-2023 12:24:31 Asia/Kolkata] PHP Stack trace:
+[02-Feb-2023 12:24:31 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\emsdemo\View\message-popup.php:0
+[02-Feb-2023 12:24:59 Asia/Kolkata] PHP Warning:  Undefined array key "txt_dateFrom" in C:\wamp64\www\emsdemo\View\message-popup.php on line 28
+[02-Feb-2023 12:24:59 Asia/Kolkata] PHP Stack trace:
+[02-Feb-2023 12:24:59 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\emsdemo\View\message-popup.php:0
+[02-Feb-2023 12:25:00 Asia/Kolkata] PHP Warning:  Undefined array key "txt_dateto" in C:\wamp64\www\emsdemo\View\message-popup.php on line 29
+[02-Feb-2023 12:25:00 Asia/Kolkata] PHP Stack trace:
+[02-Feb-2023 12:25:00 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\emsdemo\View\message-popup.php:0
+[02-Feb-2023 12:29:02 Asia/Kolkata] PHP Warning:  Undefined array key "txt_dateFrom" in C:\wamp64\www\emsdemo\View\message-popup.php on line 28
+[02-Feb-2023 12:29:02 Asia/Kolkata] PHP Stack trace:
+[02-Feb-2023 12:29:02 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\emsdemo\View\message-popup.php:0
+[02-Feb-2023 12:29:02 Asia/Kolkata] PHP Warning:  Undefined array key "txt_dateto" in C:\wamp64\www\emsdemo\View\message-popup.php on line 29
+[02-Feb-2023 12:29:02 Asia/Kolkata] PHP Stack trace:
+[02-Feb-2023 12:29:02 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\emsdemo\View\message-popup.php:0
+[02-Feb-2023 12:29:19 Asia/Kolkata] PHP Warning:  Undefined array key "txt_dateFrom" in C:\wamp64\www\emsdemo\View\message-popup.php on line 28
+[02-Feb-2023 12:29:19 Asia/Kolkata] PHP Stack trace:
+[02-Feb-2023 12:29:19 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\emsdemo\View\message-popup.php:0
+[02-Feb-2023 12:29:21 Asia/Kolkata] PHP Warning:  Undefined array key "txt_dateto" in C:\wamp64\www\emsdemo\View\message-popup.php on line 29
+[02-Feb-2023 12:29:21 Asia/Kolkata] PHP Stack trace:
+[02-Feb-2023 12:29:21 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\emsdemo\View\message-popup.php:0
+[02-Feb-2023 12:29:50 Asia/Kolkata] PHP Warning:  Undefined array key "txt_dateFrom" in C:\wamp64\www\emsdemo\View\message-popup.php on line 28
+[02-Feb-2023 12:29:50 Asia/Kolkata] PHP Stack trace:
+[02-Feb-2023 12:29:50 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\emsdemo\View\message-popup.php:0
+[02-Feb-2023 12:29:50 Asia/Kolkata] PHP Warning:  Undefined array key "txt_dateto" in C:\wamp64\www\emsdemo\View\message-popup.php on line 29
+[02-Feb-2023 12:29:50 Asia/Kolkata] PHP Stack trace:
+[02-Feb-2023 12:29:50 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\emsdemo\View\message-popup.php:0
+[02-Feb-2023 12:30:16 Asia/Kolkata] PHP Warning:  Undefined array key "txt_dateFrom" in C:\wamp64\www\emsdemo\View\message-popup.php on line 28
+[02-Feb-2023 12:30:16 Asia/Kolkata] PHP Stack trace:
+[02-Feb-2023 12:30:16 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\emsdemo\View\message-popup.php:0
+[02-Feb-2023 12:30:17 Asia/Kolkata] PHP Warning:  Undefined array key "txt_dateto" in C:\wamp64\www\emsdemo\View\message-popup.php on line 29
+[02-Feb-2023 12:30:17 Asia/Kolkata] PHP Stack trace:
+[02-Feb-2023 12:30:17 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\emsdemo\View\message-popup.php:0
+[02-Feb-2023 12:31:31 Asia/Kolkata] PHP Warning:  Undefined array key 0 in C:\wamp64\www\emsdemo\AppCode\nHead.php on line 21
+[02-Feb-2023 12:31:31 Asia/Kolkata] PHP Stack trace:
+[02-Feb-2023 12:31:31 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\emsdemo\View\message-popup.php:0
+[02-Feb-2023 12:31:31 Asia/Kolkata] PHP   2. require() C:\wamp64\www\emsdemo\View\message-popup.php:10
+[02-Feb-2023 12:31:34 Asia/Kolkata] PHP Warning:  Undefined array key "txt_dateFrom" in C:\wamp64\www\emsdemo\View\message-popup.php on line 28
+[02-Feb-2023 12:31:34 Asia/Kolkata] PHP Stack trace:
+[02-Feb-2023 12:31:34 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\emsdemo\View\message-popup.php:0
+[02-Feb-2023 12:31:34 Asia/Kolkata] PHP Warning:  Undefined array key "txt_dateto" in C:\wamp64\www\emsdemo\View\message-popup.php on line 29
+[02-Feb-2023 12:31:34 Asia/Kolkata] PHP Stack trace:
+[02-Feb-2023 12:31:34 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\emsdemo\View\message-popup.php:0
+[02-Feb-2023 12:31:54 Asia/Kolkata] PHP Warning:  Array to string conversion in C:\wamp64\www\emsdemo\AppCode\nHead.php on line 21
+[02-Feb-2023 12:31:54 Asia/Kolkata] PHP Stack trace:
+[02-Feb-2023 12:31:54 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\emsdemo\View\message-popup.php:0
+[02-Feb-2023 12:31:54 Asia/Kolkata] PHP   2. require() C:\wamp64\www\emsdemo\View\message-popup.php:10
+[02-Feb-2023 12:31:58 Asia/Kolkata] PHP Warning:  Undefined array key "txt_dateFrom" in C:\wamp64\www\emsdemo\View\message-popup.php on line 28
+[02-Feb-2023 12:31:58 Asia/Kolkata] PHP Stack trace:
+[02-Feb-2023 12:31:58 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\emsdemo\View\message-popup.php:0
+[02-Feb-2023 12:31:58 Asia/Kolkata] PHP Warning:  Undefined array key "txt_dateto" in C:\wamp64\www\emsdemo\View\message-popup.php on line 29
+[02-Feb-2023 12:31:58 Asia/Kolkata] PHP Stack trace:
+[02-Feb-2023 12:31:58 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\emsdemo\View\message-popup.php:0
+[02-Feb-2023 12:34:51 Asia/Kolkata] PHP Warning:  Undefined array key "txt_dateFrom" in C:\wamp64\www\emsdemo\View\message-popup.php on line 28
+[02-Feb-2023 12:34:51 Asia/Kolkata] PHP Stack trace:
+[02-Feb-2023 12:34:51 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\emsdemo\View\message-popup.php:0
+[02-Feb-2023 12:34:52 Asia/Kolkata] PHP Warning:  Undefined array key "txt_dateto" in C:\wamp64\www\emsdemo\View\message-popup.php on line 29
+[02-Feb-2023 12:34:52 Asia/Kolkata] PHP Stack trace:
+[02-Feb-2023 12:34:52 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\emsdemo\View\message-popup.php:0
+[02-Feb-2023 12:35:15 Asia/Kolkata] PHP Warning:  Undefined array key "txt_dateFrom" in C:\wamp64\www\emsdemo\View\message-popup.php on line 28
+[02-Feb-2023 12:35:15 Asia/Kolkata] PHP Stack trace:
+[02-Feb-2023 12:35:15 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\emsdemo\View\message-popup.php:0
+[02-Feb-2023 12:35:15 Asia/Kolkata] PHP Warning:  Undefined array key "txt_dateto" in C:\wamp64\www\emsdemo\View\message-popup.php on line 29
+[02-Feb-2023 12:35:15 Asia/Kolkata] PHP Stack trace:
+[02-Feb-2023 12:35:15 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\emsdemo\View\message-popup.php:0
+[02-Feb-2023 12:35:24 Asia/Kolkata] PHP Warning:  Undefined array key "txt_dateFrom" in C:\wamp64\www\emsdemo\View\message-popup.php on line 28
+[02-Feb-2023 12:35:24 Asia/Kolkata] PHP Stack trace:
+[02-Feb-2023 12:35:24 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\emsdemo\View\message-popup.php:0
+[02-Feb-2023 12:35:24 Asia/Kolkata] PHP Warning:  Undefined array key "txt_dateto" in C:\wamp64\www\emsdemo\View\message-popup.php on line 29
+[02-Feb-2023 12:35:24 Asia/Kolkata] PHP Stack trace:
+[02-Feb-2023 12:35:24 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\emsdemo\View\message-popup.php:0
+[02-Feb-2023 12:35:45 Asia/Kolkata] PHP Warning:  Undefined array key "txt_dateFrom" in C:\wamp64\www\emsdemo\View\message-popup.php on line 28
+[02-Feb-2023 12:35:45 Asia/Kolkata] PHP Stack trace:
+[02-Feb-2023 12:35:45 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\emsdemo\View\message-popup.php:0
+[02-Feb-2023 12:35:45 Asia/Kolkata] PHP Warning:  Undefined array key "txt_dateto" in C:\wamp64\www\emsdemo\View\message-popup.php on line 29
+[02-Feb-2023 12:35:45 Asia/Kolkata] PHP Stack trace:
+[02-Feb-2023 12:35:45 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\emsdemo\View\message-popup.php:0
+[02-Feb-2023 12:36:05 Asia/Kolkata] PHP Warning:  Undefined array key 2 in C:\wamp64\www\emsdemo\AppCode\nHead.php on line 23
+[02-Feb-2023 12:36:05 Asia/Kolkata] PHP Stack trace:
+[02-Feb-2023 12:36:05 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\emsdemo\View\message-popup.php:0
+[02-Feb-2023 12:36:05 Asia/Kolkata] PHP   2. require() C:\wamp64\www\emsdemo\View\message-popup.php:10
+[02-Feb-2023 12:36:08 Asia/Kolkata] PHP Warning:  Undefined array key "txt_dateFrom" in C:\wamp64\www\emsdemo\View\message-popup.php on line 28
+[02-Feb-2023 12:36:08 Asia/Kolkata] PHP Stack trace:
+[02-Feb-2023 12:36:08 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\emsdemo\View\message-popup.php:0
+[02-Feb-2023 12:36:08 Asia/Kolkata] PHP Warning:  Undefined array key "txt_dateto" in C:\wamp64\www\emsdemo\View\message-popup.php on line 29
+[02-Feb-2023 12:36:08 Asia/Kolkata] PHP Stack trace:
+[02-Feb-2023 12:36:08 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\emsdemo\View\message-popup.php:0
+[02-Feb-2023 12:36:29 Asia/Kolkata] PHP Warning:  Undefined array key 2 in C:\wamp64\www\emsdemo\AppCode\nHead.php on line 23
+[02-Feb-2023 12:36:29 Asia/Kolkata] PHP Stack trace:
+[02-Feb-2023 12:36:29 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\emsdemo\View\message-popup.php:0
+[02-Feb-2023 12:36:29 Asia/Kolkata] PHP   2. require() C:\wamp64\www\emsdemo\View\message-popup.php:10
+[02-Feb-2023 12:36:33 Asia/Kolkata] PHP Warning:  Undefined array key "txt_dateFrom" in C:\wamp64\www\emsdemo\View\message-popup.php on line 28
+[02-Feb-2023 12:36:33 Asia/Kolkata] PHP Stack trace:
+[02-Feb-2023 12:36:33 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\emsdemo\View\message-popup.php:0
+[02-Feb-2023 12:36:33 Asia/Kolkata] PHP Warning:  Undefined array key "txt_dateto" in C:\wamp64\www\emsdemo\View\message-popup.php on line 29
+[02-Feb-2023 12:36:33 Asia/Kolkata] PHP Stack trace:
+[02-Feb-2023 12:36:33 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\emsdemo\View\message-popup.php:0
+[02-Feb-2023 12:38:19 Asia/Kolkata] PHP Warning:  Undefined array key "__user_logid" in C:\wamp64\www\emsdemo\AppCode\nHead.php on line 2
+[02-Feb-2023 12:38:19 Asia/Kolkata] PHP Stack trace:
+[02-Feb-2023 12:38:19 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\emsdemo\View\message-popup.php:0
+[02-Feb-2023 12:38:19 Asia/Kolkata] PHP   2. require() C:\wamp64\www\emsdemo\View\message-popup.php:10
+[02-Feb-2023 12:38:30 Asia/Kolkata] PHP Warning:  Undefined array key "txt_dateFrom" in C:\wamp64\www\emsdemo\View\message-popup.php on line 28
+[02-Feb-2023 12:38:30 Asia/Kolkata] PHP Stack trace:
+[02-Feb-2023 12:38:30 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\emsdemo\View\message-popup.php:0
+[02-Feb-2023 12:38:31 Asia/Kolkata] PHP Warning:  Undefined array key "txt_dateto" in C:\wamp64\www\emsdemo\View\message-popup.php on line 29
+[02-Feb-2023 12:38:31 Asia/Kolkata] PHP Stack trace:
+[02-Feb-2023 12:38:31 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\emsdemo\View\message-popup.php:0
+[02-Feb-2023 12:38:54 Asia/Kolkata] PHP Warning:  Undefined array key 2 in C:\wamp64\www\emsdemo\AppCode\nHead.php on line 23
+[02-Feb-2023 12:38:54 Asia/Kolkata] PHP Stack trace:
+[02-Feb-2023 12:38:54 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\emsdemo\View\message-popup.php:0
+[02-Feb-2023 12:38:54 Asia/Kolkata] PHP   2. require() C:\wamp64\www\emsdemo\View\message-popup.php:10
+[02-Feb-2023 12:38:57 Asia/Kolkata] PHP Warning:  Undefined array key "txt_dateFrom" in C:\wamp64\www\emsdemo\View\message-popup.php on line 28
+[02-Feb-2023 12:38:57 Asia/Kolkata] PHP Stack trace:
+[02-Feb-2023 12:38:57 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\emsdemo\View\message-popup.php:0
+[02-Feb-2023 12:38:58 Asia/Kolkata] PHP Warning:  Undefined array key "txt_dateto" in C:\wamp64\www\emsdemo\View\message-popup.php on line 29
+[02-Feb-2023 12:38:58 Asia/Kolkata] PHP Stack trace:
+[02-Feb-2023 12:38:58 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\emsdemo\View\message-popup.php:0
+[02-Feb-2023 12:39:20 Asia/Kolkata] PHP Warning:  Undefined array key "txt_dateFrom" in C:\wamp64\www\emsdemo\View\message-popup.php on line 28
+[02-Feb-2023 12:39:20 Asia/Kolkata] PHP Stack trace:
+[02-Feb-2023 12:39:20 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\emsdemo\View\message-popup.php:0
+[02-Feb-2023 12:39:21 Asia/Kolkata] PHP Warning:  Undefined array key "txt_dateto" in C:\wamp64\www\emsdemo\View\message-popup.php on line 29
+[02-Feb-2023 12:39:21 Asia/Kolkata] PHP Stack trace:
+[02-Feb-2023 12:39:21 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\emsdemo\View\message-popup.php:0
+[02-Feb-2023 12:45:18 Asia/Kolkata] PHP Warning:  Undefined array key "txt_dateFrom" in C:\wamp64\www\emsdemo\View\message-popup.php on line 28
+[02-Feb-2023 12:45:18 Asia/Kolkata] PHP Stack trace:
+[02-Feb-2023 12:45:18 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\emsdemo\View\message-popup.php:0
+[02-Feb-2023 12:45:19 Asia/Kolkata] PHP Warning:  Undefined array key "txt_dateto" in C:\wamp64\www\emsdemo\View\message-popup.php on line 29
+[02-Feb-2023 12:45:19 Asia/Kolkata] PHP Stack trace:
+[02-Feb-2023 12:45:19 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\emsdemo\View\message-popup.php:0
+[02-Feb-2023 12:45:53 Asia/Kolkata] PHP Warning:  Undefined array key "txt_dateFrom" in C:\wamp64\www\emsdemo\View\message-popup.php on line 28
+[02-Feb-2023 12:45:53 Asia/Kolkata] PHP Stack trace:
+[02-Feb-2023 12:45:53 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\emsdemo\View\message-popup.php:0
+[02-Feb-2023 12:45:53 Asia/Kolkata] PHP Warning:  Undefined array key "txt_dateto" in C:\wamp64\www\emsdemo\View\message-popup.php on line 29
+[02-Feb-2023 12:45:53 Asia/Kolkata] PHP Stack trace:
+[02-Feb-2023 12:45:53 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\emsdemo\View\message-popup.php:0
+[02-Feb-2023 12:46:13 Asia/Kolkata] PHP Warning:  Undefined array key "txt_dateFrom" in C:\wamp64\www\emsdemo\View\message-popup.php on line 28
+[02-Feb-2023 12:46:13 Asia/Kolkata] PHP Stack trace:
+[02-Feb-2023 12:46:13 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\emsdemo\View\message-popup.php:0
+[02-Feb-2023 12:46:13 Asia/Kolkata] PHP Warning:  Undefined array key "txt_dateto" in C:\wamp64\www\emsdemo\View\message-popup.php on line 29
+[02-Feb-2023 12:46:13 Asia/Kolkata] PHP Stack trace:
+[02-Feb-2023 12:46:13 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\emsdemo\View\message-popup.php:0

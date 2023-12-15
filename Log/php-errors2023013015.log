@@ -1,0 +1,20 @@
+[30-Jan-2023 15:08:38 Asia/Kolkata] PHP Warning:  Undefined array key "__user_logid" in C:\wamp64\www\emsdemo\AppCode\nHead.php on line 2
+[30-Jan-2023 15:08:38 Asia/Kolkata] PHP Stack trace:
+[30-Jan-2023 15:08:38 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\emsdemo\View\changepwd.php:0
+[30-Jan-2023 15:08:38 Asia/Kolkata] PHP   2. require() C:\wamp64\www\emsdemo\View\changepwd.php:9
+[30-Jan-2023 15:08:52 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in C:\wamp64\www\emsdemo\View\index.php on line 356
+[30-Jan-2023 15:08:52 Asia/Kolkata] PHP Stack trace:
+[30-Jan-2023 15:08:52 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\emsdemo\View\index.php:0
+[30-Jan-2023 15:20:13 Asia/Kolkata] PHP Warning:  Undefined array key "newPassword" in C:\wamp64\www\emsdemo\View\changepwd.php on line 79
+[30-Jan-2023 15:20:13 Asia/Kolkata] PHP Stack trace:
+[30-Jan-2023 15:20:13 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\emsdemo\View\changepwd.php:0
+[30-Jan-2023 15:20:13 Asia/Kolkata] PHP Warning:  Undefined array key "currentPassword" in C:\wamp64\www\emsdemo\View\changepwd.php on line 80
+[30-Jan-2023 15:20:13 Asia/Kolkata] PHP Stack trace:
+[30-Jan-2023 15:20:13 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\emsdemo\View\changepwd.php:0
+[30-Jan-2023 15:47:04 Asia/Kolkata] PHP Warning:  Undefined array key "__user_logid" in C:\wamp64\www\emsdemo\AppCode\nHead.php on line 2
+[30-Jan-2023 15:47:04 Asia/Kolkata] PHP Stack trace:
+[30-Jan-2023 15:47:04 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\emsdemo\View\changepwd.php:0
+[30-Jan-2023 15:47:04 Asia/Kolkata] PHP   2. require() C:\wamp64\www\emsdemo\View\changepwd.php:9
+[30-Jan-2023 15:47:19 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in C:\wamp64\www\emsdemo\View\index.php on line 356
+[30-Jan-2023 15:47:19 Asia/Kolkata] PHP Stack trace:
+[30-Jan-2023 15:47:19 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\emsdemo\View\index.php:0

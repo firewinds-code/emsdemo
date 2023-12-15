@@ -1,0 +1,32 @@
+[14-Sep-2023 16:11:01 Asia/Kolkata] PHP Warning:  Undefined array key "__user_logid" in D:\wamp64\www\emsdemo\AppCode\nHead.php on line 2
+[14-Sep-2023 16:11:01 Asia/Kolkata] PHP Stack trace:
+[14-Sep-2023 16:11:01 Asia/Kolkata] PHP   1. {main}() D:\wamp64\www\emsdemo\View\ithdk_handle_mails.php:0
+[14-Sep-2023 16:11:01 Asia/Kolkata] PHP   2. require() D:\wamp64\www\emsdemo\View\ithdk_handle_mails.php:9
+[14-Sep-2023 16:53:54 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in D:\wamp64\www\emsdemo\View\index.php on line 356
+[14-Sep-2023 16:53:54 Asia/Kolkata] PHP Stack trace:
+[14-Sep-2023 16:53:54 Asia/Kolkata] PHP   1. {main}() D:\wamp64\www\emsdemo\View\index.php:0
+[14-Sep-2023 16:53:54 Asia/Kolkata] PHP Deprecated:  stripslashes(): Passing null to parameter #1 ($string) of type string is deprecated in D:\wamp64\www\emsdemo\Config\init.php on line 122
+[14-Sep-2023 16:53:54 Asia/Kolkata] PHP Stack trace:
+[14-Sep-2023 16:53:54 Asia/Kolkata] PHP   1. {main}() D:\wamp64\www\emsdemo\View\index.php:0
+[14-Sep-2023 16:53:54 Asia/Kolkata] PHP   2. clean($data = NULL) D:\wamp64\www\emsdemo\View\index.php:356
+[14-Sep-2023 16:53:54 Asia/Kolkata] PHP   3. stripslashes($string = NULL) D:\wamp64\www\emsdemo\Config\init.php:122
+[14-Sep-2023 16:57:40 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in D:\wamp64\www\emsdemo\View\index.php on line 356
+[14-Sep-2023 16:57:40 Asia/Kolkata] PHP Stack trace:
+[14-Sep-2023 16:57:40 Asia/Kolkata] PHP   1. {main}() D:\wamp64\www\emsdemo\View\index.php:0
+[14-Sep-2023 16:57:40 Asia/Kolkata] PHP Deprecated:  stripslashes(): Passing null to parameter #1 ($string) of type string is deprecated in D:\wamp64\www\emsdemo\Config\init.php on line 122
+[14-Sep-2023 16:57:40 Asia/Kolkata] PHP Stack trace:
+[14-Sep-2023 16:57:40 Asia/Kolkata] PHP   1. {main}() D:\wamp64\www\emsdemo\View\index.php:0
+[14-Sep-2023 16:57:40 Asia/Kolkata] PHP   2. clean($data = NULL) D:\wamp64\www\emsdemo\View\index.php:356
+[14-Sep-2023 16:57:40 Asia/Kolkata] PHP   3. stripslashes($string = NULL) D:\wamp64\www\emsdemo\Config\init.php:122
+[14-Sep-2023 16:58:19 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type int in D:\wamp64\www\emsdemo\View\EmployeInfo.php on line 893
+[14-Sep-2023 16:58:19 Asia/Kolkata] PHP Stack trace:
+[14-Sep-2023 16:58:19 Asia/Kolkata] PHP   1. {main}() D:\wamp64\www\emsdemo\View\EmployeInfo.php:0
+[14-Sep-2023 16:58:19 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type int in D:\wamp64\www\emsdemo\View\EmployeInfo.php on line 893
+[14-Sep-2023 16:58:19 Asia/Kolkata] PHP Stack trace:
+[14-Sep-2023 16:58:19 Asia/Kolkata] PHP   1. {main}() D:\wamp64\www\emsdemo\View\EmployeInfo.php:0
+[14-Sep-2023 16:58:19 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type int in D:\wamp64\www\emsdemo\View\EmployeInfo.php on line 893
+[14-Sep-2023 16:58:19 Asia/Kolkata] PHP Stack trace:
+[14-Sep-2023 16:58:19 Asia/Kolkata] PHP   1. {main}() D:\wamp64\www\emsdemo\View\EmployeInfo.php:0
+[14-Sep-2023 16:58:25 Asia/Kolkata] PHP Warning:  Undefined variable $imsrc_rrrt in D:\wamp64\www\emsdemo\View\EmployeInfo.php on line 1381
+[14-Sep-2023 16:58:25 Asia/Kolkata] PHP Stack trace:
+[14-Sep-2023 16:58:25 Asia/Kolkata] PHP   1. {main}() D:\wamp64\www\emsdemo\View\EmployeInfo.php:0

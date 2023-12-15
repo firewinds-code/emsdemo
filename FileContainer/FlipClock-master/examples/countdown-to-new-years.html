@@ -1,0 +1,53 @@
+<html>
+	<head>
+		<link rel="stylesheet" href="../compiled/flipclock.css">
+
+		<script src="http://ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js"></script>
+
+		<script src="../compiled/flipclock.js"></script>	
+	</head>
+	<body>
+		<div class="clock" style="margin:2em;"></div>
+		
+		<script type="text/javascript">
+			var clock;
+			function dates() {
+			    var dayOfWeek = 5;//friday
+			    var date = new Date();
+			    var diff = date.getDay() - dayOfWeek;
+			    if (diff > 0) {
+			        date.setDate(date.getDate() + 6);
+			    }
+			    else if (diff < 0) {
+			        date.setDate(date.getDate() + ((-1) * diff))
+			    }
+			    return (date);
+			}
+		  //var Datez = $.datepicker.formatDate('yy/mm/dd', dates());
+				
+			$(document).ready(function() {
+
+				// Grab the current date
+				var currentDate = new Date();
+
+				// Set some date in the future. In this case, it's always Jan 1
+				//var futureDate  = new Date(currentDate.getFullYear() + 1, 0, 1);
+				var dateto  = dates();
+				dateto.setHours(0);
+				dateto.setMinutes(0);
+				dateto.setSeconds(0);
+				var futureDate  = dateto;
+				
+				// Calculate the difference in seconds between the future and current date
+				var diff = (futureDate.getTime() - currentDate.getTime()) / 1000;
+
+				// Instantiate a coutdown FlipClock
+				clock = $('.clock').FlipClock(diff, {
+					clockFace: 'DailyCounter',
+					countdown: true
+				});
+			});
+		</script>
+		
+	</body>
+</html>

@@ -1,0 +1,38 @@
+[13-Feb-2023 12:22:53 Asia/Kolkata] PHP Warning:  Undefined array key "__user_logid" in C:\wamp64\www\emsdemo\AppCode\nHead.php on line 2
+[13-Feb-2023 12:22:53 Asia/Kolkata] PHP Stack trace:
+[13-Feb-2023 12:22:53 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\emsdemo\View\EmployeInfo.php:0
+[13-Feb-2023 12:22:53 Asia/Kolkata] PHP   2. require() C:\wamp64\www\emsdemo\View\EmployeInfo.php:6
+[13-Feb-2023 12:23:19 Asia/Kolkata] PHP Warning:  Undefined array key "txt_dateFrom" in C:\wamp64\www\emsdemo\View\message-popup.php on line 28
+[13-Feb-2023 12:23:19 Asia/Kolkata] PHP Stack trace:
+[13-Feb-2023 12:23:19 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\emsdemo\View\message-popup.php:0
+[13-Feb-2023 12:23:19 Asia/Kolkata] PHP Warning:  Undefined array key "txt_dateto" in C:\wamp64\www\emsdemo\View\message-popup.php on line 29
+[13-Feb-2023 12:23:19 Asia/Kolkata] PHP Stack trace:
+[13-Feb-2023 12:23:19 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\emsdemo\View\message-popup.php:0
+[13-Feb-2023 12:27:39 Asia/Kolkata] PHP Warning:  Undefined array key "__user_logid" in C:\wamp64\www\emsdemo\AppCode\nHead.php on line 2
+[13-Feb-2023 12:27:39 Asia/Kolkata] PHP Stack trace:
+[13-Feb-2023 12:27:39 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\emsdemo\View\view_issue.php:0
+[13-Feb-2023 12:27:39 Asia/Kolkata] PHP   2. require() C:\wamp64\www\emsdemo\View\view_issue.php:9
+[13-Feb-2023 12:27:47 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in C:\wamp64\www\emsdemo\View\index.php on line 356
+[13-Feb-2023 12:27:47 Asia/Kolkata] PHP Stack trace:
+[13-Feb-2023 12:27:47 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\emsdemo\View\index.php:0
+[13-Feb-2023 12:29:21 Asia/Kolkata] PHP Warning:  Undefined array key 1 in C:\wamp64\www\emsdemo\View\open_issue.php on line 37
+[13-Feb-2023 12:29:21 Asia/Kolkata] PHP Stack trace:
+[13-Feb-2023 12:29:21 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\emsdemo\View\open_issue.php:0
+[13-Feb-2023 12:30:02 Asia/Kolkata] PHP Warning:  Undefined array key 1 in C:\wamp64\www\emsdemo\View\open_issue.php on line 37
+[13-Feb-2023 12:30:02 Asia/Kolkata] PHP Stack trace:
+[13-Feb-2023 12:30:02 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\emsdemo\View\open_issue.php:0
+[13-Feb-2023 12:30:08 Asia/Kolkata] PHP Warning:  Undefined array key 1 in C:\wamp64\www\emsdemo\View\open_issue.php on line 37
+[13-Feb-2023 12:30:08 Asia/Kolkata] PHP Stack trace:
+[13-Feb-2023 12:30:08 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\emsdemo\View\open_issue.php:0
+[13-Feb-2023 12:31:00 Asia/Kolkata] PHP Warning:  Undefined array key 1 in C:\wamp64\www\emsdemo\View\open_issue.php on line 37
+[13-Feb-2023 12:31:00 Asia/Kolkata] PHP Stack trace:
+[13-Feb-2023 12:31:00 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\emsdemo\View\open_issue.php:0
+[13-Feb-2023 12:31:26 Asia/Kolkata] PHP Warning:  Array to string conversion in C:\wamp64\www\emsdemo\View\open_issue.php on line 139
+[13-Feb-2023 12:31:26 Asia/Kolkata] PHP Stack trace:
+[13-Feb-2023 12:31:26 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\emsdemo\View\open_issue.php:0
+[13-Feb-2023 12:34:17 Asia/Kolkata] PHP Warning:  Undefined array key 1 in C:\wamp64\www\emsdemo\View\open_issue.php on line 37
+[13-Feb-2023 12:34:17 Asia/Kolkata] PHP Stack trace:
+[13-Feb-2023 12:34:17 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\emsdemo\View\open_issue.php:0
+[13-Feb-2023 12:35:31 Asia/Kolkata] PHP Warning:  Undefined variable $DSAad in C:\wamp64\www\emsdemo\View\open_issue.php on line 33
+[13-Feb-2023 12:35:31 Asia/Kolkata] PHP Stack trace:
+[13-Feb-2023 12:35:31 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\emsdemo\View\open_issue.php:0

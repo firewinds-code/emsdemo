@@ -1,0 +1,103 @@
+[05-Jan-2023 09:37:09 Asia/Kolkata] PHP Notice:  Undefined index: __user_logid in /var/www/html/erpm/AppCode/nHead.php on line 2
+[05-Jan-2023 09:37:28 Asia/Kolkata] PHP Deprecated:  __autoload() is deprecated, use spl_autoload_register() instead in /var/www/html/erpm/AppData/lib/PHPMailer-master/PHPMailerAutoload.php on line 45
+[05-Jan-2023 09:37:28 Asia/Kolkata] PHP Warning:  mysqli_stmt::bind_param(): Number of elements in type definition string doesn't match number of bind variables in /var/www/html/erpm/Controller/ConLog.php on line 464
+[05-Jan-2023 09:37:28 Asia/Kolkata] PHP Warning:  Use of undefined constant EMS_CenterName - assumed 'EMS_CenterName' (this will throw an Error in a future version of PHP) in /var/www/html/erpm/Controller/ConLog.php on line 470
+[05-Jan-2023 09:37:28 Asia/Kolkata] PHP Warning:  Use of undefined constant EMAIL_HOST - assumed 'EMAIL_HOST' (this will throw an Error in a future version of PHP) in /var/www/html/erpm/Controller/ConLog.php on line 473
+[05-Jan-2023 09:37:28 Asia/Kolkata] PHP Warning:  Use of undefined constant EMAIL_AUTH - assumed 'EMAIL_AUTH' (this will throw an Error in a future version of PHP) in /var/www/html/erpm/Controller/ConLog.php on line 474
+[05-Jan-2023 09:37:28 Asia/Kolkata] PHP Warning:  Use of undefined constant EMAIL_USER - assumed 'EMAIL_USER' (this will throw an Error in a future version of PHP) in /var/www/html/erpm/Controller/ConLog.php on line 475
+[05-Jan-2023 09:37:28 Asia/Kolkata] PHP Warning:  Use of undefined constant EMAIL_PASS - assumed 'EMAIL_PASS' (this will throw an Error in a future version of PHP) in /var/www/html/erpm/Controller/ConLog.php on line 476
+[05-Jan-2023 09:37:28 Asia/Kolkata] PHP Warning:  Use of undefined constant EMAIL_SMTPSecure - assumed 'EMAIL_SMTPSecure' (this will throw an Error in a future version of PHP) in /var/www/html/erpm/Controller/ConLog.php on line 477
+[05-Jan-2023 09:37:28 Asia/Kolkata] PHP Warning:  Use of undefined constant EMAIL_PORT - assumed 'EMAIL_PORT' (this will throw an Error in a future version of PHP) in /var/www/html/erpm/Controller/ConLog.php on line 478
+[05-Jan-2023 09:37:28 Asia/Kolkata] PHP Warning:  Use of undefined constant EMAIL_FROM - assumed 'EMAIL_FROM' (this will throw an Error in a future version of PHP) in /var/www/html/erpm/Controller/ConLog.php on line 479
+[05-Jan-2023 09:37:28 Asia/Kolkata] PHP Warning:  Use of undefined constant EMS_CenterName - assumed 'EMS_CenterName' (this will throw an Error in a future version of PHP) in /var/www/html/erpm/Controller/ConLog.php on line 482
+[05-Jan-2023 09:37:30 Asia/Kolkata] PHP Notice:  Undefined index: to in /var/www/html/erpm/View/calcRange.php on line 42
+[05-Jan-2023 09:37:31 Asia/Kolkata] PHP Notice:  Object of class mysqli_result could not be converted to int in /var/www/html/erpm/View/calcRange.php on line 412
+[05-Jan-2023 09:37:31 Asia/Kolkata] PHP Notice:  Undefined index: 2023-01-04 in /var/www/html/erpm/View/calcRange.php on line 583
+[05-Jan-2023 09:37:31 Asia/Kolkata] PHP Notice:  Undefined index: 2023-01-04 in /var/www/html/erpm/View/calcRange.php on line 932
+[05-Jan-2023 09:37:31 Asia/Kolkata] PHP Notice:  Undefined index: 2023-01-04 in /var/www/html/erpm/View/calcRange.php on line 1225
+[05-Jan-2023 09:37:31 Asia/Kolkata] PHP Notice:  Array to string conversion in /var/www/html/erpm/View/calcRange.php on line 1559
+[05-Jan-2023 09:37:33 Asia/Kolkata] PHP Notice:  Undefined index: txt_dateFrom in /var/www/html/erpm/View/message-popup.php on line 27
+[05-Jan-2023 09:37:33 Asia/Kolkata] PHP Notice:  Undefined index: txt_dateto in /var/www/html/erpm/View/message-popup.php on line 34
+[05-Jan-2023 09:43:04 Asia/Kolkata] PHP Notice:  Undefined index: txt_dateFrom in /var/www/html/erpm/View/message-popup.php on line 27
+[05-Jan-2023 09:43:04 Asia/Kolkata] PHP Notice:  Undefined index: txt_dateto in /var/www/html/erpm/View/message-popup.php on line 34
+[05-Jan-2023 09:44:19 Asia/Kolkata] PHP Notice:  Undefined index: txt_dateFrom in /var/www/html/erpm/View/message-popup.php on line 27
+[05-Jan-2023 09:44:19 Asia/Kolkata] PHP Notice:  Undefined index: txt_dateto in /var/www/html/erpm/View/message-popup.php on line 34
+[05-Jan-2023 09:46:19 Asia/Kolkata] PHP Warning:  mysqli_stmt::bind_param(): Number of elements in type definition string doesn't match number of bind variables in /var/www/html/erpm/Controller/ConLog.php on line 464
+[05-Jan-2023 09:46:21 Asia/Kolkata] PHP Notice:  Undefined index: to in /var/www/html/erpm/View/calcRange.php on line 42
+[05-Jan-2023 09:46:22 Asia/Kolkata] PHP Notice:  Object of class mysqli_result could not be converted to int in /var/www/html/erpm/View/calcRange.php on line 412
+[05-Jan-2023 09:46:22 Asia/Kolkata] PHP Notice:  Undefined index: 2023-01-04 in /var/www/html/erpm/View/calcRange.php on line 583
+[05-Jan-2023 09:46:22 Asia/Kolkata] PHP Notice:  Undefined index: 2023-01-04 in /var/www/html/erpm/View/calcRange.php on line 932
+[05-Jan-2023 09:46:22 Asia/Kolkata] PHP Notice:  Undefined index: 2023-01-04 in /var/www/html/erpm/View/calcRange.php on line 1225
+[05-Jan-2023 09:46:22 Asia/Kolkata] PHP Notice:  Array to string conversion in /var/www/html/erpm/View/calcRange.php on line 1559
+[05-Jan-2023 09:46:22 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /var/www/html/erpm/View/index.php on line 346
+[05-Jan-2023 09:47:22 Asia/Kolkata] PHP Notice:  Undefined index: txt_dateFrom in /var/www/html/erpm/View/message-popup.php on line 27
+[05-Jan-2023 09:47:22 Asia/Kolkata] PHP Notice:  Undefined index: txt_dateto in /var/www/html/erpm/View/message-popup.php on line 34
+[05-Jan-2023 09:47:44 Asia/Kolkata] PHP Notice:  Undefined index: __user_logid in /var/www/html/erpm/AppCode/nHead.php on line 2
+[05-Jan-2023 09:48:03 Asia/Kolkata] PHP Warning:  mysqli_stmt::bind_param(): Number of elements in type definition string doesn't match number of bind variables in /var/www/html/erpm/Controller/ConLog.php on line 464
+[05-Jan-2023 09:48:04 Asia/Kolkata] PHP Notice:  Undefined index: to in /var/www/html/erpm/View/calcRange.php on line 42
+[05-Jan-2023 09:48:05 Asia/Kolkata] PHP Notice:  Object of class mysqli_result could not be converted to int in /var/www/html/erpm/View/calcRange.php on line 412
+[05-Jan-2023 09:48:05 Asia/Kolkata] PHP Notice:  Undefined index: 2023-01-04 in /var/www/html/erpm/View/calcRange.php on line 583
+[05-Jan-2023 09:48:05 Asia/Kolkata] PHP Notice:  Undefined index: 2023-01-04 in /var/www/html/erpm/View/calcRange.php on line 932
+[05-Jan-2023 09:48:05 Asia/Kolkata] PHP Notice:  Undefined index: 2023-01-04 in /var/www/html/erpm/View/calcRange.php on line 1225
+[05-Jan-2023 09:48:05 Asia/Kolkata] PHP Notice:  Array to string conversion in /var/www/html/erpm/View/calcRange.php on line 1559
+[05-Jan-2023 09:48:06 Asia/Kolkata] PHP Notice:  Undefined index: txt_dateFrom in /var/www/html/erpm/View/message-popup.php on line 27
+[05-Jan-2023 09:48:06 Asia/Kolkata] PHP Notice:  Undefined index: txt_dateto in /var/www/html/erpm/View/message-popup.php on line 34
+[05-Jan-2023 09:48:26 Asia/Kolkata] PHP Notice:  Undefined index: txt_dateFrom in /var/www/html/erpm/View/message-popup.php on line 27
+[05-Jan-2023 09:48:26 Asia/Kolkata] PHP Notice:  Undefined index: txt_dateto in /var/www/html/erpm/View/message-popup.php on line 34
+[05-Jan-2023 09:48:32 Asia/Kolkata] PHP Notice:  Undefined index: txt_dateFrom in /var/www/html/erpm/View/message-popup.php on line 27
+[05-Jan-2023 09:48:32 Asia/Kolkata] PHP Notice:  Undefined index: txt_dateto in /var/www/html/erpm/View/message-popup.php on line 34
+[05-Jan-2023 09:48:40 Asia/Kolkata] PHP Notice:  Undefined index: txt_dateFrom in /var/www/html/erpm/View/message-popup.php on line 27
+[05-Jan-2023 09:48:40 Asia/Kolkata] PHP Notice:  Undefined index: txt_dateto in /var/www/html/erpm/View/message-popup.php on line 34
+[05-Jan-2023 09:48:45 Asia/Kolkata] PHP Notice:  Undefined index: txt_dateFrom in /var/www/html/erpm/View/message-popup.php on line 27
+[05-Jan-2023 09:48:45 Asia/Kolkata] PHP Notice:  Undefined index: txt_dateto in /var/www/html/erpm/View/message-popup.php on line 34
+[05-Jan-2023 09:49:12 Asia/Kolkata] PHP Warning:  mysqli_stmt::bind_param(): Number of elements in type definition string doesn't match number of bind variables in /var/www/html/erpm/Controller/ConLog.php on line 464
+[05-Jan-2023 09:49:12 Asia/Kolkata] PHP Warning:  Use of undefined constant EMS_CenterName - assumed 'EMS_CenterName' (this will throw an Error in a future version of PHP) in /var/www/html/erpm/Controller/ConLog.php on line 470
+[05-Jan-2023 09:49:12 Asia/Kolkata] PHP Warning:  Use of undefined constant EMAIL_HOST - assumed 'EMAIL_HOST' (this will throw an Error in a future version of PHP) in /var/www/html/erpm/Controller/ConLog.php on line 473
+[05-Jan-2023 09:49:12 Asia/Kolkata] PHP Warning:  Use of undefined constant EMAIL_AUTH - assumed 'EMAIL_AUTH' (this will throw an Error in a future version of PHP) in /var/www/html/erpm/Controller/ConLog.php on line 474
+[05-Jan-2023 09:49:12 Asia/Kolkata] PHP Warning:  Use of undefined constant EMAIL_USER - assumed 'EMAIL_USER' (this will throw an Error in a future version of PHP) in /var/www/html/erpm/Controller/ConLog.php on line 475
+[05-Jan-2023 09:49:12 Asia/Kolkata] PHP Warning:  Use of undefined constant EMAIL_PASS - assumed 'EMAIL_PASS' (this will throw an Error in a future version of PHP) in /var/www/html/erpm/Controller/ConLog.php on line 476
+[05-Jan-2023 09:49:12 Asia/Kolkata] PHP Warning:  Use of undefined constant EMAIL_SMTPSecure - assumed 'EMAIL_SMTPSecure' (this will throw an Error in a future version of PHP) in /var/www/html/erpm/Controller/ConLog.php on line 477
+[05-Jan-2023 09:49:12 Asia/Kolkata] PHP Warning:  Use of undefined constant EMAIL_PORT - assumed 'EMAIL_PORT' (this will throw an Error in a future version of PHP) in /var/www/html/erpm/Controller/ConLog.php on line 478
+[05-Jan-2023 09:49:12 Asia/Kolkata] PHP Warning:  Use of undefined constant EMAIL_FROM - assumed 'EMAIL_FROM' (this will throw an Error in a future version of PHP) in /var/www/html/erpm/Controller/ConLog.php on line 479
+[05-Jan-2023 09:49:12 Asia/Kolkata] PHP Warning:  Use of undefined constant EMS_CenterName - assumed 'EMS_CenterName' (this will throw an Error in a future version of PHP) in /var/www/html/erpm/Controller/ConLog.php on line 482
+[05-Jan-2023 09:49:15 Asia/Kolkata] PHP Notice:  Undefined index: txt_dateFrom in /var/www/html/erpm/View/message-popup.php on line 27
+[05-Jan-2023 09:49:15 Asia/Kolkata] PHP Notice:  Undefined index: txt_dateto in /var/www/html/erpm/View/message-popup.php on line 34
+[05-Jan-2023 09:57:32 Asia/Kolkata] PHP Fatal error:  Uncaught Exception: Problem preparing query (call  inc_GetIncentiveCriteria('CE03070003','CE03070003')) Incorrect number of arguments for PROCEDURE ems.inc_GetIncentiveCriteria; expected 1, got 2 in /var/www/html/erpm/AppData/Class/MysqliDb.php:1514
+Stack trace:
+#0 /var/www/html/erpm/AppData/Class/MysqliDb.php(414): MysqliDb->_prepareQuery()
+#1 /var/www/html/erpm/View/inc_IncentiveCriteriaRequest.php(366): MysqliDb->rawQuery()
+#2 {main}
+  thrown in /var/www/html/erpm/AppData/Class/MysqliDb.php on line 1514
+[05-Jan-2023 09:58:04 Asia/Kolkata] PHP Fatal error:  Uncaught Exception: Problem preparing query (call  inc_GetIncentiveCriteria('CE03070003','CE03070003')) Incorrect number of arguments for PROCEDURE ems.inc_GetIncentiveCriteria; expected 1, got 2 in /var/www/html/erpm/AppData/Class/MysqliDb.php:1514
+Stack trace:
+#0 /var/www/html/erpm/AppData/Class/MysqliDb.php(414): MysqliDb->_prepareQuery()
+#1 /var/www/html/erpm/View/inc_IncentiveCriteriaRequest.php(366): MysqliDb->rawQuery()
+#2 {main}
+  thrown in /var/www/html/erpm/AppData/Class/MysqliDb.php on line 1514
+[05-Jan-2023 09:58:42 Asia/Kolkata] PHP Fatal error:  Uncaught Exception: Problem preparing query (call  inc_GetIncentiveCriteria('CE03070003','CE03070003')) Incorrect number of arguments for PROCEDURE ems.inc_GetIncentiveCriteria; expected 1, got 2 in /var/www/html/erpm/AppData/Class/MysqliDb.php:1514
+Stack trace:
+#0 /var/www/html/erpm/AppData/Class/MysqliDb.php(414): MysqliDb->_prepareQuery()
+#1 /var/www/html/erpm/View/inc_IncentiveCriteriaRequest.php(366): MysqliDb->rawQuery()
+#2 {main}
+  thrown in /var/www/html/erpm/AppData/Class/MysqliDb.php on line 1514
+[05-Jan-2023 09:59:38 Asia/Kolkata] PHP Notice:  Undefined index: __user_logid in /var/www/html/erpm/AppCode/nHead.php on line 2
+[05-Jan-2023 09:59:40 Asia/Kolkata] PHP Warning:  mysqli_stmt::bind_param(): Number of elements in type definition string doesn't match number of bind variables in /var/www/html/erpm/Controller/ConLog.php on line 464
+[05-Jan-2023 09:59:41 Asia/Kolkata] PHP Notice:  Undefined index: to in /var/www/html/erpm/View/calcRange.php on line 42
+[05-Jan-2023 09:59:43 Asia/Kolkata] PHP Notice:  Object of class mysqli_result could not be converted to int in /var/www/html/erpm/View/calcRange.php on line 412
+[05-Jan-2023 09:59:43 Asia/Kolkata] PHP Notice:  Undefined index: 2023-01-04 in /var/www/html/erpm/View/calcRange.php on line 583
+[05-Jan-2023 09:59:43 Asia/Kolkata] PHP Notice:  Undefined index: 2023-01-04 in /var/www/html/erpm/View/calcRange.php on line 932
+[05-Jan-2023 09:59:43 Asia/Kolkata] PHP Notice:  Undefined index: 2023-01-04 in /var/www/html/erpm/View/calcRange.php on line 1225
+[05-Jan-2023 09:59:43 Asia/Kolkata] PHP Notice:  Array to string conversion in /var/www/html/erpm/View/calcRange.php on line 1559
+[05-Jan-2023 09:59:43 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /var/www/html/erpm/View/index.php on line 346
+[05-Jan-2023 09:59:48 Asia/Kolkata] PHP Fatal error:  Uncaught Exception: Problem preparing query (call  inc_GetIncentiveCriteria('CE03070003','CE03070003')) Incorrect number of arguments for PROCEDURE ems.inc_GetIncentiveCriteria; expected 1, got 2 in /var/www/html/erpm/AppData/Class/MysqliDb.php:1514
+Stack trace:
+#0 /var/www/html/erpm/AppData/Class/MysqliDb.php(414): MysqliDb->_prepareQuery()
+#1 /var/www/html/erpm/View/inc_IncentiveCriteriaRequest.php(366): MysqliDb->rawQuery()
+#2 {main}
+  thrown in /var/www/html/erpm/AppData/Class/MysqliDb.php on line 1514
+[05-Jan-2023 09:59:56 Asia/Kolkata] PHP Fatal error:  Uncaught Exception: Problem preparing query (call  inc_GetIncentiveCriteria('CE03070003','CE03070003')) Incorrect number of arguments for PROCEDURE ems.inc_GetIncentiveCriteria; expected 1, got 2 in /var/www/html/erpm/AppData/Class/MysqliDb.php:1514
+Stack trace:
+#0 /var/www/html/erpm/AppData/Class/MysqliDb.php(414): MysqliDb->_prepareQuery()
+#1 /var/www/html/erpm/View/inc_IncentiveCriteriaRequest.php(366): MysqliDb->rawQuery()
+#2 {main}
+  thrown in /var/www/html/erpm/AppData/Class/MysqliDb.php on line 1514

@@ -1,0 +1,16 @@
+[18-Sep-2023 09:15:47 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in D:\wamp64\www\emsdemo\View\index.php on line 356
+[18-Sep-2023 09:15:47 Asia/Kolkata] PHP Stack trace:
+[18-Sep-2023 09:15:47 Asia/Kolkata] PHP   1. {main}() D:\wamp64\www\emsdemo\View\index.php:0
+[18-Sep-2023 09:15:47 Asia/Kolkata] PHP Deprecated:  stripslashes(): Passing null to parameter #1 ($string) of type string is deprecated in D:\wamp64\www\emsdemo\Config\init.php on line 122
+[18-Sep-2023 09:15:47 Asia/Kolkata] PHP Stack trace:
+[18-Sep-2023 09:15:47 Asia/Kolkata] PHP   1. {main}() D:\wamp64\www\emsdemo\View\index.php:0
+[18-Sep-2023 09:15:47 Asia/Kolkata] PHP   2. clean($data = NULL) D:\wamp64\www\emsdemo\View\index.php:356
+[18-Sep-2023 09:15:47 Asia/Kolkata] PHP   3. stripslashes($string = NULL) D:\wamp64\www\emsdemo\Config\init.php:122
+[18-Sep-2023 09:16:48 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in D:\wamp64\www\emsdemo\View\index.php on line 356
+[18-Sep-2023 09:16:48 Asia/Kolkata] PHP Stack trace:
+[18-Sep-2023 09:16:48 Asia/Kolkata] PHP   1. {main}() D:\wamp64\www\emsdemo\View\index.php:0
+[18-Sep-2023 09:16:48 Asia/Kolkata] PHP Deprecated:  stripslashes(): Passing null to parameter #1 ($string) of type string is deprecated in D:\wamp64\www\emsdemo\Config\init.php on line 122
+[18-Sep-2023 09:16:48 Asia/Kolkata] PHP Stack trace:
+[18-Sep-2023 09:16:48 Asia/Kolkata] PHP   1. {main}() D:\wamp64\www\emsdemo\View\index.php:0
+[18-Sep-2023 09:16:48 Asia/Kolkata] PHP   2. clean($data = NULL) D:\wamp64\www\emsdemo\View\index.php:356
+[18-Sep-2023 09:16:48 Asia/Kolkata] PHP   3. stripslashes($string = NULL) D:\wamp64\www\emsdemo\Config\init.php:122

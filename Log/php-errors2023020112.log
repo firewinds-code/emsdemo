@@ -1,0 +1,40 @@
+[01-Feb-2023 12:12:10 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in C:\wamp64\www\emsdemo\View\index.php on line 356
+[01-Feb-2023 12:12:10 Asia/Kolkata] PHP Stack trace:
+[01-Feb-2023 12:12:10 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\emsdemo\View\index.php:0
+[01-Feb-2023 12:25:32 Asia/Kolkata] PHP Warning:  Undefined array key "__user_logid" in C:\wamp64\www\emsdemo\AppCode\nHead.php on line 2
+[01-Feb-2023 12:25:32 Asia/Kolkata] PHP Stack trace:
+[01-Feb-2023 12:25:32 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\emsdemo\View\index.php:0
+[01-Feb-2023 12:25:32 Asia/Kolkata] PHP   2. require() C:\wamp64\www\emsdemo\View\index.php:14
+[01-Feb-2023 12:25:59 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in C:\wamp64\www\emsdemo\View\index.php on line 356
+[01-Feb-2023 12:25:59 Asia/Kolkata] PHP Stack trace:
+[01-Feb-2023 12:25:59 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\emsdemo\View\index.php:0
+[01-Feb-2023 12:26:12 Asia/Kolkata] PHP Warning:  Undefined array key "__user_logid" in C:\wamp64\www\emsdemo\AppCode\nHead.php on line 2
+[01-Feb-2023 12:26:12 Asia/Kolkata] PHP Stack trace:
+[01-Feb-2023 12:26:12 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\emsdemo\View\changepwd.php:0
+[01-Feb-2023 12:26:12 Asia/Kolkata] PHP   2. require() C:\wamp64\www\emsdemo\View\changepwd.php:9
+[01-Feb-2023 12:26:20 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in C:\wamp64\www\emsdemo\View\index.php on line 356
+[01-Feb-2023 12:26:20 Asia/Kolkata] PHP Stack trace:
+[01-Feb-2023 12:26:20 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\emsdemo\View\index.php:0
+[01-Feb-2023 12:27:00 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in C:\wamp64\www\emsdemo\View\index.php on line 356
+[01-Feb-2023 12:27:00 Asia/Kolkata] PHP Stack trace:
+[01-Feb-2023 12:27:00 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\emsdemo\View\index.php:0
+[01-Feb-2023 12:34:08 Asia/Kolkata] PHP Fatal error:  Uncaught TypeError: mktime(): Argument #1 ($hour) must be of type int, string given in C:\wamp64\www\emsdemo\View\team_msg_report.php:114
+Stack trace:
+#0 C:\wamp64\www\emsdemo\View\team_msg_report.php(114): mktime('ok')
+#1 {main}
+  thrown in C:\wamp64\www\emsdemo\View\team_msg_report.php on line 114
+[01-Feb-2023 12:34:30 Asia/Kolkata] PHP Warning:  Undefined variable $emp_mail in C:\wamp64\www\emsdemo\View\employee_serach.php on line 347
+[01-Feb-2023 12:34:30 Asia/Kolkata] PHP Stack trace:
+[01-Feb-2023 12:34:30 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\emsdemo\View\employee_serach.php:0
+[01-Feb-2023 12:42:25 Asia/Kolkata] PHP Warning:  Undefined variable $emp_mail in C:\wamp64\www\emsdemo\View\employee_serach.php on line 347
+[01-Feb-2023 12:42:25 Asia/Kolkata] PHP Stack trace:
+[01-Feb-2023 12:42:25 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\emsdemo\View\employee_serach.php:0
+[01-Feb-2023 12:42:27 Asia/Kolkata] PHP Warning:  Undefined variable $sqlConnect in C:\wamp64\www\emsdemo\View\employee_serach.php on line 492
+[01-Feb-2023 12:42:27 Asia/Kolkata] PHP Stack trace:
+[01-Feb-2023 12:42:27 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\emsdemo\View\employee_serach.php:0
+[01-Feb-2023 12:42:27 Asia/Kolkata] PHP Fatal error:  Uncaught Exception: Problem preparing query () Query was empty in C:\wamp64\www\emsdemo\AppData\Class\MysqliDb.php:1514
+Stack trace:
+#0 C:\wamp64\www\emsdemo\AppData\Class\MysqliDb.php(414): MysqliDb->_prepareQuery()
+#1 C:\wamp64\www\emsdemo\View\employee_serach.php(492): MysqliDb->rawQuery(NULL)
+#2 {main}
+  thrown in C:\wamp64\www\emsdemo\AppData\Class\MysqliDb.php on line 1514

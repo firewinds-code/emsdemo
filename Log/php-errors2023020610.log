@@ -1,0 +1,48 @@
+[06-Feb-2023 10:06:03 Asia/Kolkata] PHP Warning:  Trying to access array offset on value of type null in C:\wamp64\www\emsdemo\View\index.php on line 356
+[06-Feb-2023 10:06:03 Asia/Kolkata] PHP Stack trace:
+[06-Feb-2023 10:06:03 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\emsdemo\View\index.php:0
+[06-Feb-2023 10:09:21 Asia/Kolkata] PHP Warning:  Undefined array key "txt_dateFrom" in C:\wamp64\www\emsdemo\View\message-popup.php on line 28
+[06-Feb-2023 10:09:21 Asia/Kolkata] PHP Stack trace:
+[06-Feb-2023 10:09:21 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\emsdemo\View\message-popup.php:0
+[06-Feb-2023 10:09:21 Asia/Kolkata] PHP Warning:  Undefined array key "txt_dateto" in C:\wamp64\www\emsdemo\View\message-popup.php on line 29
+[06-Feb-2023 10:09:21 Asia/Kolkata] PHP Stack trace:
+[06-Feb-2023 10:09:21 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\emsdemo\View\message-popup.php:0
+[06-Feb-2023 10:09:36 Asia/Kolkata] PHP Warning:  Undefined variable $emp_mail in C:\wamp64\www\emsdemo\View\employee_serach.php on line 347
+[06-Feb-2023 10:09:36 Asia/Kolkata] PHP Stack trace:
+[06-Feb-2023 10:09:36 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\emsdemo\View\employee_serach.php:0
+[06-Feb-2023 10:10:13 Asia/Kolkata] PHP Warning:  Undefined array key "location" in C:\wamp64\www\emsdemo\View\save_personal.php on line 27
+[06-Feb-2023 10:10:13 Asia/Kolkata] PHP Stack trace:
+[06-Feb-2023 10:10:13 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\emsdemo\View\save_personal.php:0
+[06-Feb-2023 10:10:14 Asia/Kolkata] PHP Warning:  Undefined array key "txt_Personal_First" in C:\wamp64\www\emsdemo\View\save_personal.php on line 112
+[06-Feb-2023 10:10:14 Asia/Kolkata] PHP Stack trace:
+[06-Feb-2023 10:10:14 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\emsdemo\View\save_personal.php:0
+[06-Feb-2023 10:10:14 Asia/Kolkata] PHP Warning:  Undefined array key "EmployeeID" in C:\wamp64\www\emsdemo\View\save_personal.php on line 113
+[06-Feb-2023 10:10:14 Asia/Kolkata] PHP Stack trace:
+[06-Feb-2023 10:10:14 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\emsdemo\View\save_personal.php:0
+[06-Feb-2023 10:10:14 Asia/Kolkata] PHP Warning:  Undefined array key "intid" in C:\wamp64\www\emsdemo\View\save_personal.php on line 122
+[06-Feb-2023 10:10:14 Asia/Kolkata] PHP Stack trace:
+[06-Feb-2023 10:10:14 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\emsdemo\View\save_personal.php:0
+[06-Feb-2023 10:10:35 Asia/Kolkata] PHP Warning:  Undefined array key "employment_type" in C:\wamp64\www\emsdemo\View\save_employeemap.php on line 126
+[06-Feb-2023 10:10:35 Asia/Kolkata] PHP Stack trace:
+[06-Feb-2023 10:10:35 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\emsdemo\View\save_employeemap.php:0
+[06-Feb-2023 10:10:35 Asia/Kolkata] PHP Warning:  Undefined array key "EmployeeID" in C:\wamp64\www\emsdemo\View\save_employeemap.php on line 169
+[06-Feb-2023 10:10:35 Asia/Kolkata] PHP Stack trace:
+[06-Feb-2023 10:10:35 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\emsdemo\View\save_employeemap.php:0
+[06-Feb-2023 10:10:37 Asia/Kolkata] PHP Warning:  Undefined array key "btn_empmap_Save" in C:\wamp64\www\emsdemo\View\save_employeemap.php on line 234
+[06-Feb-2023 10:10:37 Asia/Kolkata] PHP Stack trace:
+[06-Feb-2023 10:10:37 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\emsdemo\View\save_employeemap.php:0
+[06-Feb-2023 10:10:37 Asia/Kolkata] PHP Warning:  Undefined array key "rt_type" in C:\wamp64\www\emsdemo\View\save_employeemap.php on line 235
+[06-Feb-2023 10:10:37 Asia/Kolkata] PHP Stack trace:
+[06-Feb-2023 10:10:37 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\emsdemo\View\save_employeemap.php:0
+[06-Feb-2023 10:30:31 Asia/Kolkata] PHP Warning:  Undefined array key "employment_type" in C:\wamp64\www\emsdemo\View\save_employeemap.php on line 126
+[06-Feb-2023 10:30:31 Asia/Kolkata] PHP Stack trace:
+[06-Feb-2023 10:30:31 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\emsdemo\View\save_employeemap.php:0
+[06-Feb-2023 10:30:31 Asia/Kolkata] PHP Warning:  Undefined array key "EmployeeID" in C:\wamp64\www\emsdemo\View\save_employeemap.php on line 169
+[06-Feb-2023 10:30:31 Asia/Kolkata] PHP Stack trace:
+[06-Feb-2023 10:30:31 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\emsdemo\View\save_employeemap.php:0
+[06-Feb-2023 10:30:34 Asia/Kolkata] PHP Warning:  Undefined array key "btn_empmap_Save" in C:\wamp64\www\emsdemo\View\save_employeemap.php on line 234
+[06-Feb-2023 10:30:34 Asia/Kolkata] PHP Stack trace:
+[06-Feb-2023 10:30:34 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\emsdemo\View\save_employeemap.php:0
+[06-Feb-2023 10:30:34 Asia/Kolkata] PHP Warning:  Undefined array key "rt_type" in C:\wamp64\www\emsdemo\View\save_employeemap.php on line 235
+[06-Feb-2023 10:30:34 Asia/Kolkata] PHP Stack trace:
+[06-Feb-2023 10:30:34 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\emsdemo\View\save_employeemap.php:0

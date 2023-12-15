@@ -1,0 +1,384 @@
+[14-Jan-2023 15:00:02 Asia/Kolkata] PHP Notice:  Undefined index: __user_logid in /var/www/html/erpm/AppCode/nHead.php on line 2
+[14-Jan-2023 15:00:02 Asia/Kolkata] PHP Notice:  Undefined index: __user_logid in /var/www/html/erpm/AppCode/nHead.php on line 2
+[14-Jan-2023 15:13:02 Asia/Kolkata] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: YES) in /var/www/html/erpm/AppData/Class/MysqliDb.php on line 291
+[14-Jan-2023 15:13:02 Asia/Kolkata] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: YES) in /var/www/html/erpm/AppData/Class/MysqliDb.php on line 291
+[14-Jan-2023 15:13:02 Asia/Kolkata] PHP Warning:  mysqli_real_escape_string(): Couldn't fetch mysqli in /var/www/html/erpm/Config/init.php on line 108
+[14-Jan-2023 15:13:02 Asia/Kolkata] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: YES) in /var/www/html/erpm/AppData/Class/MysqliDb.php on line 291
+[14-Jan-2023 15:13:02 Asia/Kolkata] PHP Warning:  mysqli_real_escape_string(): Couldn't fetch mysqli in /var/www/html/erpm/Config/init.php on line 108
+[14-Jan-2023 15:13:02 Asia/Kolkata] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: YES) in /var/www/html/erpm/AppData/Class/MysqliDb.php on line 271
+[14-Jan-2023 15:13:02 Asia/Kolkata] PHP Fatal error:  Uncaught Exception: Connect Error 1045: Access denied for user 'root'@'localhost' (using password: YES) in /var/www/html/erpm/AppData/Class/MysqliDb.php:274
+Stack trace:
+#0 /var/www/html/erpm/AppData/Class/MysqliDb.php(307): MysqliDb->connect()
+#1 /var/www/html/erpm/AppData/Class/MysqliDb.php(1511): MysqliDb->mysqli()
+#2 /var/www/html/erpm/AppData/Class/MysqliDb.php(1127): MysqliDb->_prepareQuery()
+#3 /var/www/html/erpm/AppData/Class/MysqliDb.php(495): MysqliDb->_buildQuery()
+#4 /var/www/html/erpm/Services/Get_Login.php(18): MysqliDb->query()
+#5 {main}
+  thrown in /var/www/html/erpm/AppData/Class/MysqliDb.php on line 274
+[14-Jan-2023 15:13:13 Asia/Kolkata] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: YES) in /var/www/html/erpm/AppData/Class/MysqliDb.php on line 291
+[14-Jan-2023 15:13:13 Asia/Kolkata] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: YES) in /var/www/html/erpm/AppData/Class/MysqliDb.php on line 291
+[14-Jan-2023 15:13:13 Asia/Kolkata] PHP Warning:  mysqli_real_escape_string(): Couldn't fetch mysqli in /var/www/html/erpm/Config/init.php on line 108
+[14-Jan-2023 15:13:13 Asia/Kolkata] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: YES) in /var/www/html/erpm/AppData/Class/MysqliDb.php on line 291
+[14-Jan-2023 15:13:13 Asia/Kolkata] PHP Warning:  mysqli_real_escape_string(): Couldn't fetch mysqli in /var/www/html/erpm/Config/init.php on line 108
+[14-Jan-2023 15:13:13 Asia/Kolkata] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: YES) in /var/www/html/erpm/AppData/Class/MysqliDb.php on line 271
+[14-Jan-2023 15:13:13 Asia/Kolkata] PHP Fatal error:  Uncaught Exception: Connect Error 1045: Access denied for user 'root'@'localhost' (using password: YES) in /var/www/html/erpm/AppData/Class/MysqliDb.php:274
+Stack trace:
+#0 /var/www/html/erpm/AppData/Class/MysqliDb.php(307): MysqliDb->connect()
+#1 /var/www/html/erpm/AppData/Class/MysqliDb.php(1511): MysqliDb->mysqli()
+#2 /var/www/html/erpm/AppData/Class/MysqliDb.php(1127): MysqliDb->_prepareQuery()
+#3 /var/www/html/erpm/AppData/Class/MysqliDb.php(495): MysqliDb->_buildQuery()
+#4 /var/www/html/erpm/Services/Get_Login.php(18): MysqliDb->query()
+#5 {main}
+  thrown in /var/www/html/erpm/AppData/Class/MysqliDb.php on line 274
+[14-Jan-2023 15:13:16 Asia/Kolkata] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: YES) in /var/www/html/erpm/AppData/Class/MysqliDb.php on line 291
+[14-Jan-2023 15:13:16 Asia/Kolkata] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: YES) in /var/www/html/erpm/AppData/Class/MysqliDb.php on line 291
+[14-Jan-2023 15:13:16 Asia/Kolkata] PHP Warning:  mysqli_real_escape_string(): Couldn't fetch mysqli in /var/www/html/erpm/Config/init.php on line 108
+[14-Jan-2023 15:13:16 Asia/Kolkata] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: YES) in /var/www/html/erpm/AppData/Class/MysqliDb.php on line 291
+[14-Jan-2023 15:13:16 Asia/Kolkata] PHP Warning:  mysqli_real_escape_string(): Couldn't fetch mysqli in /var/www/html/erpm/Config/init.php on line 108
+[14-Jan-2023 15:13:16 Asia/Kolkata] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: YES) in /var/www/html/erpm/AppData/Class/MysqliDb.php on line 271
+[14-Jan-2023 15:13:16 Asia/Kolkata] PHP Fatal error:  Uncaught Exception: Connect Error 1045: Access denied for user 'root'@'localhost' (using password: YES) in /var/www/html/erpm/AppData/Class/MysqliDb.php:274
+Stack trace:
+#0 /var/www/html/erpm/AppData/Class/MysqliDb.php(307): MysqliDb->connect()
+#1 /var/www/html/erpm/AppData/Class/MysqliDb.php(1511): MysqliDb->mysqli()
+#2 /var/www/html/erpm/AppData/Class/MysqliDb.php(1127): MysqliDb->_prepareQuery()
+#3 /var/www/html/erpm/AppData/Class/MysqliDb.php(495): MysqliDb->_buildQuery()
+#4 /var/www/html/erpm/Services/Get_Login.php(18): MysqliDb->query()
+#5 {main}
+  thrown in /var/www/html/erpm/AppData/Class/MysqliDb.php on line 274
+[14-Jan-2023 15:13:20 Asia/Kolkata] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: YES) in /var/www/html/erpm/AppData/Class/MysqliDb.php on line 291
+[14-Jan-2023 15:13:20 Asia/Kolkata] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: YES) in /var/www/html/erpm/AppData/Class/MysqliDb.php on line 291
+[14-Jan-2023 15:13:20 Asia/Kolkata] PHP Warning:  mysqli_real_escape_string(): Couldn't fetch mysqli in /var/www/html/erpm/Config/init.php on line 108
+[14-Jan-2023 15:13:20 Asia/Kolkata] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: YES) in /var/www/html/erpm/AppData/Class/MysqliDb.php on line 291
+[14-Jan-2023 15:13:20 Asia/Kolkata] PHP Warning:  mysqli_real_escape_string(): Couldn't fetch mysqli in /var/www/html/erpm/Config/init.php on line 108
+[14-Jan-2023 15:13:20 Asia/Kolkata] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: YES) in /var/www/html/erpm/AppData/Class/MysqliDb.php on line 271
+[14-Jan-2023 15:13:20 Asia/Kolkata] PHP Fatal error:  Uncaught Exception: Connect Error 1045: Access denied for user 'root'@'localhost' (using password: YES) in /var/www/html/erpm/AppData/Class/MysqliDb.php:274
+Stack trace:
+#0 /var/www/html/erpm/AppData/Class/MysqliDb.php(307): MysqliDb->connect()
+#1 /var/www/html/erpm/AppData/Class/MysqliDb.php(1511): MysqliDb->mysqli()
+#2 /var/www/html/erpm/AppData/Class/MysqliDb.php(1127): MysqliDb->_prepareQuery()
+#3 /var/www/html/erpm/AppData/Class/MysqliDb.php(495): MysqliDb->_buildQuery()
+#4 /var/www/html/erpm/Services/Get_Login.php(18): MysqliDb->query()
+#5 {main}
+  thrown in /var/www/html/erpm/AppData/Class/MysqliDb.php on line 274
+[14-Jan-2023 15:13:30 Asia/Kolkata] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: YES) in /var/www/html/erpm/AppData/Class/MysqliDb.php on line 291
+[14-Jan-2023 15:13:30 Asia/Kolkata] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: YES) in /var/www/html/erpm/AppData/Class/MysqliDb.php on line 291
+[14-Jan-2023 15:13:30 Asia/Kolkata] PHP Warning:  mysqli_real_escape_string(): Couldn't fetch mysqli in /var/www/html/erpm/Config/init.php on line 108
+[14-Jan-2023 15:13:30 Asia/Kolkata] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: YES) in /var/www/html/erpm/AppData/Class/MysqliDb.php on line 291
+[14-Jan-2023 15:13:30 Asia/Kolkata] PHP Warning:  mysqli_real_escape_string(): Couldn't fetch mysqli in /var/www/html/erpm/Config/init.php on line 108
+[14-Jan-2023 15:13:30 Asia/Kolkata] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: YES) in /var/www/html/erpm/AppData/Class/MysqliDb.php on line 271
+[14-Jan-2023 15:13:30 Asia/Kolkata] PHP Fatal error:  Uncaught Exception: Connect Error 1045: Access denied for user 'root'@'localhost' (using password: YES) in /var/www/html/erpm/AppData/Class/MysqliDb.php:274
+Stack trace:
+#0 /var/www/html/erpm/AppData/Class/MysqliDb.php(307): MysqliDb->connect()
+#1 /var/www/html/erpm/AppData/Class/MysqliDb.php(1511): MysqliDb->mysqli()
+#2 /var/www/html/erpm/AppData/Class/MysqliDb.php(1127): MysqliDb->_prepareQuery()
+#3 /var/www/html/erpm/AppData/Class/MysqliDb.php(495): MysqliDb->_buildQuery()
+#4 /var/www/html/erpm/Services/Get_Login.php(18): MysqliDb->query()
+#5 {main}
+  thrown in /var/www/html/erpm/AppData/Class/MysqliDb.php on line 274
+[14-Jan-2023 15:17:21 Asia/Kolkata] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'localconnect'@'localhost' (using password: YES) in /var/www/html/erpm/AppData/Class/MysqliDb.php on line 291
+[14-Jan-2023 15:17:21 Asia/Kolkata] PHP Notice:  Undefined index: __user_logid in /var/www/html/erpm/AppCode/nHead.php on line 2
+[14-Jan-2023 15:17:21 Asia/Kolkata] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'localconnect'@'localhost' (using password: YES) in /var/www/html/erpm/AppData/Class/MysqliDb.php on line 291
+[14-Jan-2023 15:18:00 Asia/Kolkata] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'localconnect'@'localhost' (using password: YES) in /var/www/html/erpm/AppData/Class/MysqliDb.php on line 291
+[14-Jan-2023 15:18:02 Asia/Kolkata] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'localconnect'@'localhost' (using password: YES) in /var/www/html/erpm/AppData/Class/MysqliDb.php on line 291
+[14-Jan-2023 15:18:49 Asia/Kolkata] PHP Warning:  mysqli_stmt::bind_param(): Number of elements in type definition string doesn't match number of bind variables in /var/www/html/erpm/Controller/ConLog.php on line 464
+[14-Jan-2023 15:18:50 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /var/www/html/erpm/View/index.php on line 346
+[14-Jan-2023 15:37:37 Asia/Kolkata] PHP Notice:  Undefined index: __user_logid in /var/www/html/erpm/AppCode/nHead.php on line 2
+[14-Jan-2023 15:37:40 Asia/Kolkata] PHP Warning:  mysqli_stmt::bind_param(): Number of elements in type definition string doesn't match number of bind variables in /var/www/html/erpm/Controller/ConLog.php on line 464
+[14-Jan-2023 15:37:40 Asia/Kolkata] PHP Warning:  Use of undefined constant EMS_CenterName - assumed 'EMS_CenterName' (this will throw an Error in a future version of PHP) in /var/www/html/erpm/Controller/ConLog.php on line 470
+[14-Jan-2023 15:37:40 Asia/Kolkata] PHP Warning:  Use of undefined constant EMAIL_HOST - assumed 'EMAIL_HOST' (this will throw an Error in a future version of PHP) in /var/www/html/erpm/Controller/ConLog.php on line 473
+[14-Jan-2023 15:37:40 Asia/Kolkata] PHP Warning:  Use of undefined constant EMAIL_AUTH - assumed 'EMAIL_AUTH' (this will throw an Error in a future version of PHP) in /var/www/html/erpm/Controller/ConLog.php on line 474
+[14-Jan-2023 15:37:40 Asia/Kolkata] PHP Warning:  Use of undefined constant EMAIL_USER - assumed 'EMAIL_USER' (this will throw an Error in a future version of PHP) in /var/www/html/erpm/Controller/ConLog.php on line 475
+[14-Jan-2023 15:37:40 Asia/Kolkata] PHP Warning:  Use of undefined constant EMAIL_PASS - assumed 'EMAIL_PASS' (this will throw an Error in a future version of PHP) in /var/www/html/erpm/Controller/ConLog.php on line 476
+[14-Jan-2023 15:37:40 Asia/Kolkata] PHP Warning:  Use of undefined constant EMAIL_SMTPSecure - assumed 'EMAIL_SMTPSecure' (this will throw an Error in a future version of PHP) in /var/www/html/erpm/Controller/ConLog.php on line 477
+[14-Jan-2023 15:37:40 Asia/Kolkata] PHP Warning:  Use of undefined constant EMAIL_PORT - assumed 'EMAIL_PORT' (this will throw an Error in a future version of PHP) in /var/www/html/erpm/Controller/ConLog.php on line 478
+[14-Jan-2023 15:37:40 Asia/Kolkata] PHP Warning:  Use of undefined constant EMAIL_FROM - assumed 'EMAIL_FROM' (this will throw an Error in a future version of PHP) in /var/www/html/erpm/Controller/ConLog.php on line 479
+[14-Jan-2023 15:37:40 Asia/Kolkata] PHP Warning:  Use of undefined constant EMS_CenterName - assumed 'EMS_CenterName' (this will throw an Error in a future version of PHP) in /var/www/html/erpm/Controller/ConLog.php on line 482
+[14-Jan-2023 15:37:43 Asia/Kolkata] PHP Notice:  Undefined index: txt_dateFrom in /var/www/html/erpm/View/message-popup.php on line 28
+[14-Jan-2023 15:37:43 Asia/Kolkata] PHP Notice:  Undefined index: txt_dateto in /var/www/html/erpm/View/message-popup.php on line 29
+[14-Jan-2023 15:37:54 Asia/Kolkata] PHP Notice:  Constant EMS_PASS already defined in /var/www/html/erpm/Config/DBConfig.php on line 7
+[14-Jan-2023 15:37:54 Asia/Kolkata] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: YES) in /var/www/html/erpm/AppData/Class/MysqliDb.php on line 291
+[14-Jan-2023 15:37:54 Asia/Kolkata] PHP Notice:  Constant EMS_PASS already defined in /var/www/html/erpm/Config/DBConfig.php on line 7
+[14-Jan-2023 15:37:54 Asia/Kolkata] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: YES) in /var/www/html/erpm/AppData/Class/MysqliDb.php on line 291
+[14-Jan-2023 15:37:58 Asia/Kolkata] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: YES) in /var/www/html/erpm/AppData/Class/MysqliDb.php on line 291
+[14-Jan-2023 15:38:02 Asia/Kolkata] PHP Warning:  Use of undefined constant EMS_HOST - assumed 'EMS_HOST' (this will throw an Error in a future version of PHP) in /var/www/html/erpm/AppData/Class/MysqliDb.php on line 212
+[14-Jan-2023 15:38:02 Asia/Kolkata] PHP Warning:  Use of undefined constant EMS_USER - assumed 'EMS_USER' (this will throw an Error in a future version of PHP) in /var/www/html/erpm/AppData/Class/MysqliDb.php on line 213
+[14-Jan-2023 15:38:02 Asia/Kolkata] PHP Warning:  Use of undefined constant EMS_PASS - assumed 'EMS_PASS' (this will throw an Error in a future version of PHP) in /var/www/html/erpm/AppData/Class/MysqliDb.php on line 214
+[14-Jan-2023 15:38:02 Asia/Kolkata] PHP Warning:  Use of undefined constant EMS_DB - assumed 'EMS_DB' (this will throw an Error in a future version of PHP) in /var/www/html/erpm/AppData/Class/MysqliDb.php on line 215
+[14-Jan-2023 15:38:02 Asia/Kolkata] PHP Warning:  Use of undefined constant EMS_CharSet - assumed 'EMS_CharSet' (this will throw an Error in a future version of PHP) in /var/www/html/erpm/AppData/Class/MysqliDb.php on line 218
+[14-Jan-2023 15:38:02 Asia/Kolkata] PHP Warning:  mysqli::__construct(): php_network_getaddresses: getaddrinfo failed: Temporary failure in name resolution in /var/www/html/erpm/AppData/Class/MysqliDb.php on line 291
+[14-Jan-2023 15:38:02 Asia/Kolkata] PHP Warning:  mysqli::__construct(): (HY000/2002): php_network_getaddresses: getaddrinfo failed: Temporary failure in name resolution in /var/www/html/erpm/AppData/Class/MysqliDb.php on line 291
+[14-Jan-2023 15:38:05 Asia/Kolkata] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: YES) in /var/www/html/erpm/AppData/Class/MysqliDb.php on line 291
+[14-Jan-2023 15:38:06 Asia/Kolkata] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: YES) in /var/www/html/erpm/AppData/Class/MysqliDb.php on line 291
+[14-Jan-2023 15:38:09 Asia/Kolkata] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: YES) in /var/www/html/erpm/AppData/Class/MysqliDb.php on line 291
+[14-Jan-2023 15:38:37 Asia/Kolkata] PHP Warning:  mysqli::__construct(): php_network_getaddresses: getaddrinfo failed: Temporary failure in name resolution in /var/www/html/erpm/AppData/Class/MysqliDb.php on line 291
+[14-Jan-2023 15:38:37 Asia/Kolkata] PHP Warning:  mysqli::__construct(): (HY000/2002): php_network_getaddresses: getaddrinfo failed: Temporary failure in name resolution in /var/www/html/erpm/AppData/Class/MysqliDb.php on line 291
+[14-Jan-2023 15:38:38 Asia/Kolkata] PHP Warning:  mysqli::__construct(): php_network_getaddresses: getaddrinfo failed: Temporary failure in name resolution in /var/www/html/erpm/AppData/Class/MysqliDb.php on line 291
+[14-Jan-2023 15:38:38 Asia/Kolkata] PHP Warning:  mysqli::__construct(): (HY000/2002): php_network_getaddresses: getaddrinfo failed: Temporary failure in name resolution in /var/www/html/erpm/AppData/Class/MysqliDb.php on line 291
+[14-Jan-2023 15:38:50 Asia/Kolkata] PHP Warning:  mysqli::__construct(): php_network_getaddresses: getaddrinfo failed: Temporary failure in name resolution in /var/www/html/erpm/AppData/Class/MysqliDb.php on line 291
+[14-Jan-2023 15:38:50 Asia/Kolkata] PHP Warning:  mysqli::__construct(): (HY000/2002): php_network_getaddresses: getaddrinfo failed: Temporary failure in name resolution in /var/www/html/erpm/AppData/Class/MysqliDb.php on line 291
+[14-Jan-2023 15:38:50 Asia/Kolkata] PHP Warning:  mysqli::__construct(): php_network_getaddresses: getaddrinfo failed: Temporary failure in name resolution in /var/www/html/erpm/AppData/Class/MysqliDb.php on line 291
+[14-Jan-2023 15:38:50 Asia/Kolkata] PHP Warning:  mysqli::__construct(): (HY000/2002): php_network_getaddresses: getaddrinfo failed: Temporary failure in name resolution in /var/www/html/erpm/AppData/Class/MysqliDb.php on line 291
+[14-Jan-2023 15:38:50 Asia/Kolkata] PHP Warning:  mysqli::__construct(): php_network_getaddresses: getaddrinfo failed: Temporary failure in name resolution in /var/www/html/erpm/AppData/Class/MysqliDb.php on line 291
+[14-Jan-2023 15:38:50 Asia/Kolkata] PHP Warning:  mysqli::__construct(): (HY000/2002): php_network_getaddresses: getaddrinfo failed: Temporary failure in name resolution in /var/www/html/erpm/AppData/Class/MysqliDb.php on line 291
+[14-Jan-2023 15:38:50 Asia/Kolkata] PHP Warning:  mysqli_real_escape_string(): Couldn't fetch mysqli in /var/www/html/erpm/Config/init.php on line 108
+[14-Jan-2023 15:38:50 Asia/Kolkata] PHP Warning:  mysqli::__construct(): php_network_getaddresses: getaddrinfo failed: Temporary failure in name resolution in /var/www/html/erpm/AppData/Class/MysqliDb.php on line 291
+[14-Jan-2023 15:38:50 Asia/Kolkata] PHP Warning:  mysqli::__construct(): (HY000/2002): php_network_getaddresses: getaddrinfo failed: Temporary failure in name resolution in /var/www/html/erpm/AppData/Class/MysqliDb.php on line 291
+[14-Jan-2023 15:38:50 Asia/Kolkata] PHP Warning:  mysqli_real_escape_string(): Couldn't fetch mysqli in /var/www/html/erpm/Config/init.php on line 108
+[14-Jan-2023 15:38:50 Asia/Kolkata] PHP Warning:  mysqli::__construct(): php_network_getaddresses: getaddrinfo failed: Temporary failure in name resolution in /var/www/html/erpm/AppData/Class/MysqliDb.php on line 291
+[14-Jan-2023 15:38:50 Asia/Kolkata] PHP Warning:  mysqli::__construct(): (HY000/2002): php_network_getaddresses: getaddrinfo failed: Temporary failure in name resolution in /var/www/html/erpm/AppData/Class/MysqliDb.php on line 291
+[14-Jan-2023 15:38:50 Asia/Kolkata] PHP Warning:  mysqli_real_escape_string(): Couldn't fetch mysqli in /var/www/html/erpm/Config/init.php on line 108
+[14-Jan-2023 15:38:50 Asia/Kolkata] PHP Warning:  mysqli::__construct(): php_network_getaddresses: getaddrinfo failed: Temporary failure in name resolution in /var/www/html/erpm/AppData/Class/MysqliDb.php on line 271
+[14-Jan-2023 15:38:50 Asia/Kolkata] PHP Warning:  mysqli::__construct(): (HY000/2002): php_network_getaddresses: getaddrinfo failed: Temporary failure in name resolution in /var/www/html/erpm/AppData/Class/MysqliDb.php on line 271
+[14-Jan-2023 15:38:50 Asia/Kolkata] PHP Fatal error:  Uncaught Exception: Connect Error 2002: php_network_getaddresses: getaddrinfo failed: Temporary failure in name resolution in /var/www/html/erpm/AppData/Class/MysqliDb.php:274
+Stack trace:
+#0 /var/www/html/erpm/AppData/Class/MysqliDb.php(307): MysqliDb->connect()
+#1 /var/www/html/erpm/AppData/Class/MysqliDb.php(1511): MysqliDb->mysqli()
+#2 /var/www/html/erpm/AppData/Class/MysqliDb.php(414): MysqliDb->_prepareQuery()
+#3 /var/www/html/erpm/Controller/ConLog.php(64): MysqliDb->rawQuery()
+#4 {main}
+  thrown in /var/www/html/erpm/AppData/Class/MysqliDb.php on line 274
+[14-Jan-2023 15:39:14 Asia/Kolkata] PHP Warning:  mysqli::__construct(): php_network_getaddresses: getaddrinfo failed: Temporary failure in name resolution in /var/www/html/erpm/AppData/Class/MysqliDb.php on line 291
+[14-Jan-2023 15:39:14 Asia/Kolkata] PHP Warning:  mysqli::__construct(): (HY000/2002): php_network_getaddresses: getaddrinfo failed: Temporary failure in name resolution in /var/www/html/erpm/AppData/Class/MysqliDb.php on line 291
+[14-Jan-2023 15:39:25 Asia/Kolkata] PHP Warning:  mysqli::__construct(): php_network_getaddresses: getaddrinfo failed: Temporary failure in name resolution in /var/www/html/erpm/AppData/Class/MysqliDb.php on line 291
+[14-Jan-2023 15:39:25 Asia/Kolkata] PHP Warning:  mysqli::__construct(): (HY000/2002): php_network_getaddresses: getaddrinfo failed: Temporary failure in name resolution in /var/www/html/erpm/AppData/Class/MysqliDb.php on line 291
+[14-Jan-2023 15:39:29 Asia/Kolkata] PHP Warning:  mysqli::__construct(): php_network_getaddresses: getaddrinfo failed: Temporary failure in name resolution in /var/www/html/erpm/AppData/Class/MysqliDb.php on line 291
+[14-Jan-2023 15:39:29 Asia/Kolkata] PHP Warning:  mysqli::__construct(): (HY000/2002): php_network_getaddresses: getaddrinfo failed: Temporary failure in name resolution in /var/www/html/erpm/AppData/Class/MysqliDb.php on line 291
+[14-Jan-2023 15:39:29 Asia/Kolkata] PHP Warning:  mysqli::__construct(): php_network_getaddresses: getaddrinfo failed: Temporary failure in name resolution in /var/www/html/erpm/AppData/Class/MysqliDb.php on line 291
+[14-Jan-2023 15:39:29 Asia/Kolkata] PHP Warning:  mysqli::__construct(): (HY000/2002): php_network_getaddresses: getaddrinfo failed: Temporary failure in name resolution in /var/www/html/erpm/AppData/Class/MysqliDb.php on line 291
+[14-Jan-2023 15:39:29 Asia/Kolkata] PHP Warning:  mysqli::__construct(): php_network_getaddresses: getaddrinfo failed: Temporary failure in name resolution in /var/www/html/erpm/AppData/Class/MysqliDb.php on line 291
+[14-Jan-2023 15:39:29 Asia/Kolkata] PHP Warning:  mysqli::__construct(): (HY000/2002): php_network_getaddresses: getaddrinfo failed: Temporary failure in name resolution in /var/www/html/erpm/AppData/Class/MysqliDb.php on line 291
+[14-Jan-2023 15:39:29 Asia/Kolkata] PHP Warning:  mysqli_real_escape_string(): Couldn't fetch mysqli in /var/www/html/erpm/Config/init.php on line 108
+[14-Jan-2023 15:39:29 Asia/Kolkata] PHP Warning:  mysqli::__construct(): php_network_getaddresses: getaddrinfo failed: Temporary failure in name resolution in /var/www/html/erpm/AppData/Class/MysqliDb.php on line 291
+[14-Jan-2023 15:39:29 Asia/Kolkata] PHP Warning:  mysqli::__construct(): (HY000/2002): php_network_getaddresses: getaddrinfo failed: Temporary failure in name resolution in /var/www/html/erpm/AppData/Class/MysqliDb.php on line 291
+[14-Jan-2023 15:39:29 Asia/Kolkata] PHP Warning:  mysqli_real_escape_string(): Couldn't fetch mysqli in /var/www/html/erpm/Config/init.php on line 108
+[14-Jan-2023 15:39:29 Asia/Kolkata] PHP Warning:  mysqli::__construct(): php_network_getaddresses: getaddrinfo failed: Temporary failure in name resolution in /var/www/html/erpm/AppData/Class/MysqliDb.php on line 291
+[14-Jan-2023 15:39:29 Asia/Kolkata] PHP Warning:  mysqli::__construct(): (HY000/2002): php_network_getaddresses: getaddrinfo failed: Temporary failure in name resolution in /var/www/html/erpm/AppData/Class/MysqliDb.php on line 291
+[14-Jan-2023 15:39:29 Asia/Kolkata] PHP Warning:  mysqli_real_escape_string(): Couldn't fetch mysqli in /var/www/html/erpm/Config/init.php on line 108
+[14-Jan-2023 15:39:29 Asia/Kolkata] PHP Warning:  mysqli::__construct(): php_network_getaddresses: getaddrinfo failed: Temporary failure in name resolution in /var/www/html/erpm/AppData/Class/MysqliDb.php on line 271
+[14-Jan-2023 15:39:29 Asia/Kolkata] PHP Warning:  mysqli::__construct(): (HY000/2002): php_network_getaddresses: getaddrinfo failed: Temporary failure in name resolution in /var/www/html/erpm/AppData/Class/MysqliDb.php on line 271
+[14-Jan-2023 15:39:29 Asia/Kolkata] PHP Fatal error:  Uncaught Exception: Connect Error 2002: php_network_getaddresses: getaddrinfo failed: Temporary failure in name resolution in /var/www/html/erpm/AppData/Class/MysqliDb.php:274
+Stack trace:
+#0 /var/www/html/erpm/AppData/Class/MysqliDb.php(307): MysqliDb->connect()
+#1 /var/www/html/erpm/AppData/Class/MysqliDb.php(1511): MysqliDb->mysqli()
+#2 /var/www/html/erpm/AppData/Class/MysqliDb.php(414): MysqliDb->_prepareQuery()
+#3 /var/www/html/erpm/Controller/ConLog.php(64): MysqliDb->rawQuery()
+#4 {main}
+  thrown in /var/www/html/erpm/AppData/Class/MysqliDb.php on line 274
+[14-Jan-2023 15:39:58 Asia/Kolkata] PHP Warning:  mysqli::__construct(): php_network_getaddresses: getaddrinfo failed: Temporary failure in name resolution in /var/www/html/erpm/AppData/Class/MysqliDb.php on line 291
+[14-Jan-2023 15:39:58 Asia/Kolkata] PHP Warning:  mysqli::__construct(): (HY000/2002): php_network_getaddresses: getaddrinfo failed: Temporary failure in name resolution in /var/www/html/erpm/AppData/Class/MysqliDb.php on line 291
+[14-Jan-2023 15:40:00 Asia/Kolkata] PHP Warning:  mysqli::__construct(): php_network_getaddresses: getaddrinfo failed: Temporary failure in name resolution in /var/www/html/erpm/AppData/Class/MysqliDb.php on line 291
+[14-Jan-2023 15:40:00 Asia/Kolkata] PHP Warning:  mysqli::__construct(): (HY000/2002): php_network_getaddresses: getaddrinfo failed: Temporary failure in name resolution in /var/www/html/erpm/AppData/Class/MysqliDb.php on line 291
+[14-Jan-2023 15:40:33 Asia/Kolkata] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'localconnect'@'localhost' (using password: YES) in /var/www/html/erpm/AppData/Class/MysqliDb.php on line 291
+[14-Jan-2023 15:40:33 Asia/Kolkata] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'localconnect'@'localhost' (using password: YES) in /var/www/html/erpm/AppData/Class/MysqliDb.php on line 291
+[14-Jan-2023 15:40:33 Asia/Kolkata] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'localconnect'@'localhost' (using password: YES) in /var/www/html/erpm/AppData/Class/MysqliDb.php on line 291
+[14-Jan-2023 15:40:33 Asia/Kolkata] PHP Warning:  mysqli_real_escape_string(): Couldn't fetch mysqli in /var/www/html/erpm/Config/init.php on line 108
+[14-Jan-2023 15:40:33 Asia/Kolkata] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'localconnect'@'localhost' (using password: YES) in /var/www/html/erpm/AppData/Class/MysqliDb.php on line 291
+[14-Jan-2023 15:40:33 Asia/Kolkata] PHP Warning:  mysqli_real_escape_string(): Couldn't fetch mysqli in /var/www/html/erpm/Config/init.php on line 108
+[14-Jan-2023 15:40:33 Asia/Kolkata] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'localconnect'@'localhost' (using password: YES) in /var/www/html/erpm/AppData/Class/MysqliDb.php on line 291
+[14-Jan-2023 15:40:33 Asia/Kolkata] PHP Warning:  mysqli_real_escape_string(): Couldn't fetch mysqli in /var/www/html/erpm/Config/init.php on line 108
+[14-Jan-2023 15:40:33 Asia/Kolkata] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'localconnect'@'localhost' (using password: YES) in /var/www/html/erpm/AppData/Class/MysqliDb.php on line 271
+[14-Jan-2023 15:40:33 Asia/Kolkata] PHP Fatal error:  Uncaught Exception: Connect Error 1045: Access denied for user 'localconnect'@'localhost' (using password: YES) in /var/www/html/erpm/AppData/Class/MysqliDb.php:274
+Stack trace:
+#0 /var/www/html/erpm/AppData/Class/MysqliDb.php(307): MysqliDb->connect()
+#1 /var/www/html/erpm/AppData/Class/MysqliDb.php(1511): MysqliDb->mysqli()
+#2 /var/www/html/erpm/AppData/Class/MysqliDb.php(414): MysqliDb->_prepareQuery()
+#3 /var/www/html/erpm/Controller/ConLog.php(64): MysqliDb->rawQuery()
+#4 {main}
+  thrown in /var/www/html/erpm/AppData/Class/MysqliDb.php on line 274
+[14-Jan-2023 15:40:47 Asia/Kolkata] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: YES) in /var/www/html/erpm/AppData/Class/MysqliDb.php on line 291
+[14-Jan-2023 15:40:47 Asia/Kolkata] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: YES) in /var/www/html/erpm/AppData/Class/MysqliDb.php on line 291
+[14-Jan-2023 15:40:47 Asia/Kolkata] PHP Warning:  mysqli_real_escape_string(): Couldn't fetch mysqli in /var/www/html/erpm/Config/init.php on line 108
+[14-Jan-2023 15:40:47 Asia/Kolkata] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: YES) in /var/www/html/erpm/AppData/Class/MysqliDb.php on line 291
+[14-Jan-2023 15:40:47 Asia/Kolkata] PHP Warning:  mysqli_real_escape_string(): Couldn't fetch mysqli in /var/www/html/erpm/Config/init.php on line 108
+[14-Jan-2023 15:40:47 Asia/Kolkata] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: YES) in /var/www/html/erpm/AppData/Class/MysqliDb.php on line 291
+[14-Jan-2023 15:40:47 Asia/Kolkata] PHP Warning:  mysqli_real_escape_string(): Couldn't fetch mysqli in /var/www/html/erpm/Config/init.php on line 108
+[14-Jan-2023 15:40:47 Asia/Kolkata] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: YES) in /var/www/html/erpm/AppData/Class/MysqliDb.php on line 291
+[14-Jan-2023 15:40:47 Asia/Kolkata] PHP Warning:  mysqli_real_escape_string(): Couldn't fetch mysqli in /var/www/html/erpm/Config/init.php on line 108
+[14-Jan-2023 15:40:47 Asia/Kolkata] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: YES) in /var/www/html/erpm/AppData/Class/MysqliDb.php on line 291
+[14-Jan-2023 15:40:47 Asia/Kolkata] PHP Warning:  mysqli_real_escape_string(): Couldn't fetch mysqli in /var/www/html/erpm/Config/init.php on line 108
+[14-Jan-2023 15:40:47 Asia/Kolkata] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: YES) in /var/www/html/erpm/AppData/Class/MysqliDb.php on line 291
+[14-Jan-2023 15:40:47 Asia/Kolkata] PHP Warning:  mysqli_real_escape_string(): Couldn't fetch mysqli in /var/www/html/erpm/Config/init.php on line 108
+[14-Jan-2023 15:40:47 Asia/Kolkata] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: YES) in /var/www/html/erpm/AppData/Class/MysqliDb.php on line 291
+[14-Jan-2023 15:40:47 Asia/Kolkata] PHP Warning:  mysqli_real_escape_string(): Couldn't fetch mysqli in /var/www/html/erpm/Config/init.php on line 108
+[14-Jan-2023 15:40:47 Asia/Kolkata] PHP Warning:  mysqli::prepare(): Couldn't fetch mysqli in /var/www/html/erpm/Services/getAgentList.php on line 71
+[14-Jan-2023 15:40:47 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Call to a member function bind_param() on bool in /var/www/html/erpm/Services/getAgentList.php:72
+Stack trace:
+#0 {main}
+  thrown in /var/www/html/erpm/Services/getAgentList.php on line 72
+[14-Jan-2023 15:40:48 Asia/Kolkata] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: YES) in /var/www/html/erpm/AppData/Class/MysqliDb.php on line 291
+[14-Jan-2023 15:40:48 Asia/Kolkata] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: YES) in /var/www/html/erpm/AppData/Class/MysqliDb.php on line 291
+[14-Jan-2023 15:40:48 Asia/Kolkata] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: YES) in /var/www/html/erpm/AppData/Class/MysqliDb.php on line 291
+[14-Jan-2023 15:40:48 Asia/Kolkata] PHP Warning:  mysqli_real_escape_string(): Couldn't fetch mysqli in /var/www/html/erpm/Config/init.php on line 108
+[14-Jan-2023 15:40:48 Asia/Kolkata] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: YES) in /var/www/html/erpm/AppData/Class/MysqliDb.php on line 291
+[14-Jan-2023 15:40:48 Asia/Kolkata] PHP Warning:  mysqli_real_escape_string(): Couldn't fetch mysqli in /var/www/html/erpm/Config/init.php on line 108
+[14-Jan-2023 15:40:48 Asia/Kolkata] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: YES) in /var/www/html/erpm/AppData/Class/MysqliDb.php on line 291
+[14-Jan-2023 15:40:48 Asia/Kolkata] PHP Warning:  mysqli_real_escape_string(): Couldn't fetch mysqli in /var/www/html/erpm/Config/init.php on line 108
+[14-Jan-2023 15:40:48 Asia/Kolkata] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: YES) in /var/www/html/erpm/AppData/Class/MysqliDb.php on line 271
+[14-Jan-2023 15:40:48 Asia/Kolkata] PHP Fatal error:  Uncaught Exception: Connect Error 1045: Access denied for user 'root'@'localhost' (using password: YES) in /var/www/html/erpm/AppData/Class/MysqliDb.php:274
+Stack trace:
+#0 /var/www/html/erpm/AppData/Class/MysqliDb.php(307): MysqliDb->connect()
+#1 /var/www/html/erpm/AppData/Class/MysqliDb.php(1511): MysqliDb->mysqli()
+#2 /var/www/html/erpm/AppData/Class/MysqliDb.php(414): MysqliDb->_prepareQuery()
+#3 /var/www/html/erpm/Controller/ConLog.php(64): MysqliDb->rawQuery()
+#4 {main}
+  thrown in /var/www/html/erpm/AppData/Class/MysqliDb.php on line 274
+[14-Jan-2023 15:42:35 Asia/Kolkata] PHP Warning:  mysqli::__construct(): (HY000/2002): Connection timed out in /var/www/html/erpm/AppData/Class/MysqliDb.php on line 291
+[14-Jan-2023 15:42:53 Asia/Kolkata] PHP Warning:  mysqli::__construct(): (HY000/2002): Connection timed out in /var/www/html/erpm/AppData/Class/MysqliDb.php on line 291
+[14-Jan-2023 15:43:08 Asia/Kolkata] PHP Warning:  mysqli::__construct(): (HY000/2002): Connection timed out in /var/www/html/erpm/AppData/Class/MysqliDb.php on line 291
+[14-Jan-2023 15:43:28 Asia/Kolkata] PHP Warning:  mysqli::__construct(): (HY000/2002): Connection timed out in /var/www/html/erpm/AppData/Class/MysqliDb.php on line 291
+[14-Jan-2023 15:43:28 Asia/Kolkata] PHP Warning:  mysqli::prepare(): Couldn't fetch mysqli in /var/www/html/erpm/AppCode/left_menu.php on line 767
+[14-Jan-2023 15:43:28 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Call to a member function bind_param() on bool in /var/www/html/erpm/AppCode/left_menu.php:768
+Stack trace:
+#0 /var/www/html/erpm/AppCode/nHead.php(291): require_once()
+#1 /var/www/html/erpm/View/index.php(14): require('/var/www/html/e...')
+#2 {main}
+  thrown in /var/www/html/erpm/AppCode/left_menu.php on line 768
+[14-Jan-2023 15:43:35 Asia/Kolkata] PHP Warning:  mysqli::__construct(): (HY000/2002): Connection timed out in /var/www/html/erpm/AppData/Class/MysqliDb.php on line 291
+[14-Jan-2023 15:43:35 Asia/Kolkata] PHP Notice:  Undefined index: __user_logid in /var/www/html/erpm/AppCode/nHead.php on line 2
+[14-Jan-2023 15:44:08 Asia/Kolkata] PHP Warning:  mysqli::__construct(): (HY000/2002): Connection timed out in /var/www/html/erpm/AppData/Class/MysqliDb.php on line 291
+[14-Jan-2023 15:44:08 Asia/Kolkata] PHP Warning:  mysqli_real_escape_string(): Couldn't fetch mysqli in /var/www/html/erpm/Config/init.php on line 108
+[14-Jan-2023 15:44:35 Asia/Kolkata] PHP Warning:  mysqli::__construct(): (HY000/2002): Connection timed out in /var/www/html/erpm/AppData/Class/MysqliDb.php on line 291
+[14-Jan-2023 15:44:40 Asia/Kolkata] PHP Warning:  mysqli::__construct(): (HY000/2002): No route to host in /var/www/html/erpm/AppData/Class/MysqliDb.php on line 291
+[14-Jan-2023 15:44:40 Asia/Kolkata] PHP Warning:  mysqli_real_escape_string(): Couldn't fetch mysqli in /var/www/html/erpm/Config/init.php on line 108
+[14-Jan-2023 15:44:42 Asia/Kolkata] PHP Warning:  mysqli::__construct(): (HY000/2002): No route to host in /var/www/html/erpm/AppData/Class/MysqliDb.php on line 291
+[14-Jan-2023 15:44:42 Asia/Kolkata] PHP Notice:  Undefined index: __user_logid in /var/www/html/erpm/AppCode/nHead.php on line 2
+[14-Jan-2023 15:45:06 Asia/Kolkata] PHP Warning:  mysqli::__construct(): (HY000/2002): Connection timed out in /var/www/html/erpm/AppData/Class/MysqliDb.php on line 291
+[14-Jan-2023 15:45:06 Asia/Kolkata] PHP Warning:  mysqli::prepare(): Couldn't fetch mysqli in /var/www/html/erpm/AppCode/left_menu.php on line 767
+[14-Jan-2023 15:45:06 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Call to a member function bind_param() on bool in /var/www/html/erpm/AppCode/left_menu.php:768
+Stack trace:
+#0 /var/www/html/erpm/AppCode/nHead.php(291): require_once()
+#1 /var/www/html/erpm/View/index.php(14): require('/var/www/html/e...')
+#2 {main}
+  thrown in /var/www/html/erpm/AppCode/left_menu.php on line 768
+[14-Jan-2023 15:45:06 Asia/Kolkata] PHP Warning:  Use of undefined constant EMS_HOST - assumed 'EMS_HOST' (this will throw an Error in a future version of PHP) in /var/www/html/erpm/AppData/Class/MysqliDb.php on line 212
+[14-Jan-2023 15:45:06 Asia/Kolkata] PHP Warning:  Use of undefined constant EMS_USER - assumed 'EMS_USER' (this will throw an Error in a future version of PHP) in /var/www/html/erpm/AppData/Class/MysqliDb.php on line 213
+[14-Jan-2023 15:45:06 Asia/Kolkata] PHP Warning:  Use of undefined constant EMS_PASS - assumed 'EMS_PASS' (this will throw an Error in a future version of PHP) in /var/www/html/erpm/AppData/Class/MysqliDb.php on line 214
+[14-Jan-2023 15:45:06 Asia/Kolkata] PHP Warning:  Use of undefined constant EMS_DB - assumed 'EMS_DB' (this will throw an Error in a future version of PHP) in /var/www/html/erpm/AppData/Class/MysqliDb.php on line 215
+[14-Jan-2023 15:45:06 Asia/Kolkata] PHP Warning:  Use of undefined constant EMS_CharSet - assumed 'EMS_CharSet' (this will throw an Error in a future version of PHP) in /var/www/html/erpm/AppData/Class/MysqliDb.php on line 218
+[14-Jan-2023 15:45:06 Asia/Kolkata] PHP Warning:  mysqli::__construct(): php_network_getaddresses: getaddrinfo failed: Temporary failure in name resolution in /var/www/html/erpm/AppData/Class/MysqliDb.php on line 291
+[14-Jan-2023 15:45:06 Asia/Kolkata] PHP Warning:  mysqli::__construct(): (HY000/2002): php_network_getaddresses: getaddrinfo failed: Temporary failure in name resolution in /var/www/html/erpm/AppData/Class/MysqliDb.php on line 291
+[14-Jan-2023 15:45:06 Asia/Kolkata] PHP Warning:  mysqli::prepare(): Couldn't fetch mysqli in /var/www/html/erpm/AppCode/left_menu.php on line 767
+[14-Jan-2023 15:45:06 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Call to a member function bind_param() on bool in /var/www/html/erpm/AppCode/left_menu.php:768
+Stack trace:
+#0 /var/www/html/erpm/AppCode/nHead.php(291): require_once()
+#1 /var/www/html/erpm/View/index.php(14): require('/var/www/html/e...')
+#2 {main}
+  thrown in /var/www/html/erpm/AppCode/left_menu.php on line 768
+[14-Jan-2023 15:45:15 Asia/Kolkata] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: YES) in /var/www/html/erpm/AppData/Class/MysqliDb.php on line 291
+[14-Jan-2023 15:45:15 Asia/Kolkata] PHP Notice:  Undefined index: __user_logid in /var/www/html/erpm/AppCode/nHead.php on line 2
+[14-Jan-2023 15:45:15 Asia/Kolkata] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: YES) in /var/www/html/erpm/AppData/Class/MysqliDb.php on line 291
+[14-Jan-2023 15:45:40 Asia/Kolkata] PHP Warning:  mysqli::__construct(): (HY000/2002): Connection timed out in /var/www/html/erpm/AppData/Class/MysqliDb.php on line 271
+[14-Jan-2023 15:45:40 Asia/Kolkata] PHP Fatal error:  Uncaught Exception: Connect Error 2002: Connection timed out in /var/www/html/erpm/AppData/Class/MysqliDb.php:274
+Stack trace:
+#0 /var/www/html/erpm/AppData/Class/MysqliDb.php(307): MysqliDb->connect()
+#1 /var/www/html/erpm/AppData/Class/MysqliDb.php(1511): MysqliDb->mysqli()
+#2 /var/www/html/erpm/AppData/Class/MysqliDb.php(1127): MysqliDb->_prepareQuery()
+#3 /var/www/html/erpm/AppData/Class/MysqliDb.php(495): MysqliDb->_buildQuery()
+#4 /var/www/html/erpm/Services/Get_Login.php(18): MysqliDb->query()
+#5 {main}
+  thrown in /var/www/html/erpm/AppData/Class/MysqliDb.php on line 274
+[14-Jan-2023 15:47:41 Asia/Kolkata] PHP Warning:  mysqli::__construct(): (HY000/2002): Connection timed out in /var/www/html/erpm/AppData/Class/MysqliDb.php on line 291
+[14-Jan-2023 15:48:56 Asia/Kolkata] PHP Warning:  mysqli::__construct(): (HY000/2002): Connection timed out in /var/www/html/erpm/AppData/Class/MysqliDb.php on line 291
+[14-Jan-2023 15:49:02 Asia/Kolkata] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: YES) in /var/www/html/erpm/AppData/Class/MysqliDb.php on line 291
+[14-Jan-2023 15:49:02 Asia/Kolkata] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: YES) in /var/www/html/erpm/AppData/Class/MysqliDb.php on line 291
+[14-Jan-2023 15:49:02 Asia/Kolkata] PHP Warning:  mysqli_real_escape_string(): Couldn't fetch mysqli in /var/www/html/erpm/Config/init.php on line 108
+[14-Jan-2023 15:49:02 Asia/Kolkata] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: YES) in /var/www/html/erpm/AppData/Class/MysqliDb.php on line 291
+[14-Jan-2023 15:49:02 Asia/Kolkata] PHP Warning:  mysqli_real_escape_string(): Couldn't fetch mysqli in /var/www/html/erpm/Config/init.php on line 108
+[14-Jan-2023 15:49:02 Asia/Kolkata] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: YES) in /var/www/html/erpm/AppData/Class/MysqliDb.php on line 271
+[14-Jan-2023 15:49:02 Asia/Kolkata] PHP Fatal error:  Uncaught Exception: Connect Error 1045: Access denied for user 'root'@'localhost' (using password: YES) in /var/www/html/erpm/AppData/Class/MysqliDb.php:274
+Stack trace:
+#0 /var/www/html/erpm/AppData/Class/MysqliDb.php(307): MysqliDb->connect()
+#1 /var/www/html/erpm/AppData/Class/MysqliDb.php(1511): MysqliDb->mysqli()
+#2 /var/www/html/erpm/AppData/Class/MysqliDb.php(1127): MysqliDb->_prepareQuery()
+#3 /var/www/html/erpm/AppData/Class/MysqliDb.php(495): MysqliDb->_buildQuery()
+#4 /var/www/html/erpm/Services/Get_Login.php(18): MysqliDb->query()
+#5 {main}
+  thrown in /var/www/html/erpm/AppData/Class/MysqliDb.php on line 274
+[14-Jan-2023 15:49:16 Asia/Kolkata] PHP Warning:  mysqli::__construct(): (HY000/2002): Connection timed out in /var/www/html/erpm/AppData/Class/MysqliDb.php on line 291
+[14-Jan-2023 15:49:16 Asia/Kolkata] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: YES) in /var/www/html/erpm/AppData/Class/MysqliDb.php on line 291
+[14-Jan-2023 15:49:16 Asia/Kolkata] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: YES) in /var/www/html/erpm/AppData/Class/MysqliDb.php on line 291
+[14-Jan-2023 15:50:04 Asia/Kolkata] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: YES) in /var/www/html/erpm/AppData/Class/MysqliDb.php on line 291
+[14-Jan-2023 15:50:04 Asia/Kolkata] PHP Notice:  Undefined index: __user_logid in /var/www/html/erpm/AppCode/nHead.php on line 2
+[14-Jan-2023 15:50:04 Asia/Kolkata] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: YES) in /var/www/html/erpm/AppData/Class/MysqliDb.php on line 291
+[14-Jan-2023 15:50:30 Asia/Kolkata] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: YES) in /var/www/html/erpm/AppData/Class/MysqliDb.php on line 291
+[14-Jan-2023 15:50:34 Asia/Kolkata] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: YES) in /var/www/html/erpm/AppData/Class/MysqliDb.php on line 291
+[14-Jan-2023 15:50:51 Asia/Kolkata] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: YES) in /var/www/html/erpm/AppData/Class/MysqliDb.php on line 291
+[14-Jan-2023 15:51:00 Asia/Kolkata] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: YES) in /var/www/html/erpm/AppData/Class/MysqliDb.php on line 291
+[14-Jan-2023 15:51:02 Asia/Kolkata] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: YES) in /var/www/html/erpm/AppData/Class/MysqliDb.php on line 291
+[14-Jan-2023 15:51:02 Asia/Kolkata] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: YES) in /var/www/html/erpm/AppData/Class/MysqliDb.php on line 291
+[14-Jan-2023 15:51:03 Asia/Kolkata] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: YES) in /var/www/html/erpm/AppData/Class/MysqliDb.php on line 291
+[14-Jan-2023 15:51:03 Asia/Kolkata] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: YES) in /var/www/html/erpm/AppData/Class/MysqliDb.php on line 291
+[14-Jan-2023 15:51:20 Asia/Kolkata] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: YES) in /var/www/html/erpm/AppData/Class/MysqliDb.php on line 291
+[14-Jan-2023 15:51:42 Asia/Kolkata] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: YES) in /var/www/html/erpm/AppData/Class/MysqliDb.php on line 291
+[14-Jan-2023 15:52:13 Asia/Kolkata] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: YES) in /var/www/html/erpm/AppData/Class/MysqliDb.php on line 291
+[14-Jan-2023 15:52:27 Asia/Kolkata] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: YES) in /var/www/html/erpm/AppData/Class/MysqliDb.php on line 291
+[14-Jan-2023 15:52:31 Asia/Kolkata] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: YES) in /var/www/html/erpm/AppData/Class/MysqliDb.php on line 291
+[14-Jan-2023 15:52:31 Asia/Kolkata] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: YES) in /var/www/html/erpm/AppData/Class/MysqliDb.php on line 291
+[14-Jan-2023 15:52:31 Asia/Kolkata] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: YES) in /var/www/html/erpm/AppData/Class/MysqliDb.php on line 291
+[14-Jan-2023 15:52:31 Asia/Kolkata] PHP Warning:  mysqli_real_escape_string(): Couldn't fetch mysqli in /var/www/html/erpm/Config/init.php on line 108
+[14-Jan-2023 15:52:31 Asia/Kolkata] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: YES) in /var/www/html/erpm/AppData/Class/MysqliDb.php on line 291
+[14-Jan-2023 15:52:31 Asia/Kolkata] PHP Warning:  mysqli_real_escape_string(): Couldn't fetch mysqli in /var/www/html/erpm/Config/init.php on line 108
+[14-Jan-2023 15:52:31 Asia/Kolkata] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: YES) in /var/www/html/erpm/AppData/Class/MysqliDb.php on line 291
+[14-Jan-2023 15:52:31 Asia/Kolkata] PHP Warning:  mysqli_real_escape_string(): Couldn't fetch mysqli in /var/www/html/erpm/Config/init.php on line 108
+[14-Jan-2023 15:52:31 Asia/Kolkata] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: YES) in /var/www/html/erpm/AppData/Class/MysqliDb.php on line 271
+[14-Jan-2023 15:52:31 Asia/Kolkata] PHP Fatal error:  Uncaught Exception: Connect Error 1045: Access denied for user 'root'@'localhost' (using password: YES) in /var/www/html/erpm/AppData/Class/MysqliDb.php:274
+Stack trace:
+#0 /var/www/html/erpm/AppData/Class/MysqliDb.php(307): MysqliDb->connect()
+#1 /var/www/html/erpm/AppData/Class/MysqliDb.php(1511): MysqliDb->mysqli()
+#2 /var/www/html/erpm/AppData/Class/MysqliDb.php(414): MysqliDb->_prepareQuery()
+#3 /var/www/html/erpm/Controller/ConLog.php(64): MysqliDb->rawQuery()
+#4 {main}
+  thrown in /var/www/html/erpm/AppData/Class/MysqliDb.php on line 274
+[14-Jan-2023 15:53:47 Asia/Kolkata] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: YES) in /var/www/html/erpm/AppData/Class/MysqliDb.php on line 291
+[14-Jan-2023 15:53:47 Asia/Kolkata] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: YES) in /var/www/html/erpm/AppData/Class/MysqliDb.php on line 291
+[14-Jan-2023 15:53:47 Asia/Kolkata] PHP Warning:  mysqli_real_escape_string(): Couldn't fetch mysqli in /var/www/html/erpm/Config/init.php on line 108
+[14-Jan-2023 15:53:47 Asia/Kolkata] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: YES) in /var/www/html/erpm/AppData/Class/MysqliDb.php on line 291
+[14-Jan-2023 15:53:47 Asia/Kolkata] PHP Warning:  mysqli_real_escape_string(): Couldn't fetch mysqli in /var/www/html/erpm/Config/init.php on line 108
+[14-Jan-2023 15:53:47 Asia/Kolkata] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: YES) in /var/www/html/erpm/AppData/Class/MysqliDb.php on line 271
+[14-Jan-2023 15:53:47 Asia/Kolkata] PHP Fatal error:  Uncaught Exception: Connect Error 1045: Access denied for user 'root'@'localhost' (using password: YES) in /var/www/html/erpm/AppData/Class/MysqliDb.php:274
+Stack trace:
+#0 /var/www/html/erpm/AppData/Class/MysqliDb.php(307): MysqliDb->connect()
+#1 /var/www/html/erpm/AppData/Class/MysqliDb.php(1511): MysqliDb->mysqli()
+#2 /var/www/html/erpm/AppData/Class/MysqliDb.php(1127): MysqliDb->_prepareQuery()
+#3 /var/www/html/erpm/AppData/Class/MysqliDb.php(495): MysqliDb->_buildQuery()
+#4 /var/www/html/erpm/Services/Get_Login.php(18): MysqliDb->query()
+#5 {main}
+  thrown in /var/www/html/erpm/AppData/Class/MysqliDb.php on line 274
+[14-Jan-2023 15:54:41 Asia/Kolkata] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: YES) in /var/www/html/erpm/AppData/Class/MysqliDb.php on line 291
+[14-Jan-2023 15:54:41 Asia/Kolkata] PHP Notice:  Undefined index: __user_logid in /var/www/html/erpm/AppCode/nHead.php on line 2
+[14-Jan-2023 15:54:41 Asia/Kolkata] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: YES) in /var/www/html/erpm/AppData/Class/MysqliDb.php on line 291
+[14-Jan-2023 15:55:55 Asia/Kolkata] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: YES) in /var/www/html/erpm/AppData/Class/MysqliDb.php on line 291
+[14-Jan-2023 15:55:55 Asia/Kolkata] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: YES) in /var/www/html/erpm/AppData/Class/MysqliDb.php on line 291
+[14-Jan-2023 15:55:55 Asia/Kolkata] PHP Warning:  mysqli_real_escape_string(): Couldn't fetch mysqli in /var/www/html/erpm/Config/init.php on line 108
+[14-Jan-2023 15:55:55 Asia/Kolkata] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: YES) in /var/www/html/erpm/AppData/Class/MysqliDb.php on line 291
+[14-Jan-2023 15:55:55 Asia/Kolkata] PHP Warning:  mysqli_real_escape_string(): Couldn't fetch mysqli in /var/www/html/erpm/Config/init.php on line 108
+[14-Jan-2023 15:55:55 Asia/Kolkata] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: YES) in /var/www/html/erpm/AppData/Class/MysqliDb.php on line 271
+[14-Jan-2023 15:55:55 Asia/Kolkata] PHP Fatal error:  Uncaught Exception: Connect Error 1045: Access denied for user 'root'@'localhost' (using password: YES) in /var/www/html/erpm/AppData/Class/MysqliDb.php:274
+Stack trace:
+#0 /var/www/html/erpm/AppData/Class/MysqliDb.php(307): MysqliDb->connect()
+#1 /var/www/html/erpm/AppData/Class/MysqliDb.php(1511): MysqliDb->mysqli()
+#2 /var/www/html/erpm/AppData/Class/MysqliDb.php(1127): MysqliDb->_prepareQuery()
+#3 /var/www/html/erpm/AppData/Class/MysqliDb.php(495): MysqliDb->_buildQuery()
+#4 /var/www/html/erpm/Services/Get_Login.php(18): MysqliDb->query()
+#5 {main}
+  thrown in /var/www/html/erpm/AppData/Class/MysqliDb.php on line 274
+[14-Jan-2023 15:57:28 Asia/Kolkata] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: YES) in /var/www/html/erpm/AppData/Class/MysqliDb.php on line 291
+[14-Jan-2023 15:57:28 Asia/Kolkata] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: YES) in /var/www/html/erpm/AppData/Class/MysqliDb.php on line 291
+[14-Jan-2023 15:57:28 Asia/Kolkata] PHP Warning:  mysqli_real_escape_string(): Couldn't fetch mysqli in /var/www/html/erpm/Config/init.php on line 108
+[14-Jan-2023 15:57:28 Asia/Kolkata] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: YES) in /var/www/html/erpm/AppData/Class/MysqliDb.php on line 291
+[14-Jan-2023 15:57:28 Asia/Kolkata] PHP Warning:  mysqli_real_escape_string(): Couldn't fetch mysqli in /var/www/html/erpm/Config/init.php on line 108
+[14-Jan-2023 15:57:28 Asia/Kolkata] PHP Warning:  mysqli::__construct(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: YES) in /var/www/html/erpm/AppData/Class/MysqliDb.php on line 271
+[14-Jan-2023 15:57:28 Asia/Kolkata] PHP Fatal error:  Uncaught Exception: Connect Error 1045: Access denied for user 'root'@'localhost' (using password: YES) in /var/www/html/erpm/AppData/Class/MysqliDb.php:274
+Stack trace:
+#0 /var/www/html/erpm/AppData/Class/MysqliDb.php(307): MysqliDb->connect()
+#1 /var/www/html/erpm/AppData/Class/MysqliDb.php(1511): MysqliDb->mysqli()
+#2 /var/www/html/erpm/AppData/Class/MysqliDb.php(1127): MysqliDb->_prepareQuery()
+#3 /var/www/html/erpm/AppData/Class/MysqliDb.php(495): MysqliDb->_buildQuery()
+#4 /var/www/html/erpm/Services/Get_Login.php(18): MysqliDb->query()
+#5 {main}
+  thrown in /var/www/html/erpm/AppData/Class/MysqliDb.php on line 274
+[14-Jan-2023 15:59:30 Asia/Kolkata] PHP Warning:  mysqli::__construct(): (HY000/2002): Connection timed out in /var/www/html/erpm/AppData/Class/MysqliDb.php on line 291
+[14-Jan-2023 15:59:57 Asia/Kolkata] PHP Warning:  mysqli::__construct(): (HY000/2002): Connection timed out in /var/www/html/erpm/AppData/Class/MysqliDb.php on line 291
+[14-Jan-2023 15:59:57 Asia/Kolkata] PHP Notice:  Undefined index: __user_logid in /var/www/html/erpm/AppCode/nHead.php on line 2
+[14-Jan-2023 16:00:30 Asia/Kolkata] PHP Warning:  mysqli::__construct(): (HY000/2002): Connection timed out in /var/www/html/erpm/AppData/Class/MysqliDb.php on line 291
+[14-Jan-2023 16:00:57 Asia/Kolkata] PHP Warning:  mysqli::__construct(): (HY000/2002): Connection timed out in /var/www/html/erpm/AppData/Class/MysqliDb.php on line 291

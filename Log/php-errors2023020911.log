@@ -1,0 +1,106 @@
+[09-Feb-2023 11:14:59 Asia/Kolkata] PHP Notice:  Undefined index: __user_logid in C:\wamp64\www\emsdemo\AppCode\nHead.php on line 2
+[09-Feb-2023 11:14:59 Asia/Kolkata] PHP Stack trace:
+[09-Feb-2023 11:14:59 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\emsdemo\View\releiving_experience_letter_manual.php:0
+[09-Feb-2023 11:14:59 Asia/Kolkata] PHP   2. require() C:\wamp64\www\emsdemo\View\releiving_experience_letter_manual.php:6
+[09-Feb-2023 11:15:09 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in C:\wamp64\www\emsdemo\View\index.php on line 356
+[09-Feb-2023 11:15:09 Asia/Kolkata] PHP Stack trace:
+[09-Feb-2023 11:15:09 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\emsdemo\View\index.php:0
+[09-Feb-2023 11:15:22 Asia/Kolkata] PHP Notice:  Undefined index: searchID in C:\wamp64\www\emsdemo\View\releiving_experience_letter_manual.php on line 26
+[09-Feb-2023 11:15:22 Asia/Kolkata] PHP Stack trace:
+[09-Feb-2023 11:15:22 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\emsdemo\View\releiving_experience_letter_manual.php:0
+[09-Feb-2023 11:23:51 Asia/Kolkata] PHP Notice:  Undefined variable: EduLevel in C:\wamp64\www\emsdemo\View\ijp_creation.php on line 286
+[09-Feb-2023 11:23:51 Asia/Kolkata] PHP Stack trace:
+[09-Feb-2023 11:23:51 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\emsdemo\View\ijp_creation.php:0
+[09-Feb-2023 11:23:51 Asia/Kolkata] PHP Notice:  Undefined variable: dateDOJ in C:\wamp64\www\emsdemo\View\ijp_creation.php on line 293
+[09-Feb-2023 11:23:51 Asia/Kolkata] PHP Stack trace:
+[09-Feb-2023 11:23:51 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\emsdemo\View\ijp_creation.php:0
+[09-Feb-2023 11:23:51 Asia/Kolkata] PHP Notice:  Undefined variable: VerSant in C:\wamp64\www\emsdemo\View\ijp_creation.php on line 310
+[09-Feb-2023 11:23:51 Asia/Kolkata] PHP Stack trace:
+[09-Feb-2023 11:23:51 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\emsdemo\View\ijp_creation.php:0
+[09-Feb-2023 11:23:51 Asia/Kolkata] PHP Notice:  Undefined variable: sqlConnect in C:\wamp64\www\emsdemo\View\ijp_creation.php on line 316
+[09-Feb-2023 11:23:51 Asia/Kolkata] PHP Stack trace:
+[09-Feb-2023 11:23:51 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\emsdemo\View\ijp_creation.php:0
+[09-Feb-2023 11:23:51 Asia/Kolkata] PHP Fatal error:  Uncaught Exception: Problem preparing query (SELECT EmployeeID,month,year,(case when D1='A' then 1 else 0 end+case when D2='P(BiometricIssue)' then 1 else 0 end+case when D3='A' then 1 else 0 end+case when D4='A' then 1 else 0 end+case when D5='A' then 1 else 0 end+case when D6='A' then 1 else 0 end+case when D7='A' then 1 else 0 end+case when D8='A' then 1 else 0 end+case when D9='A' then 1 else 0 end+case when D10='A' then 1 else 0 end+case when D11='A' then 1 else 0 end+case when D12='A' then 1 else 0 end+case when D13='A' then 1 else 0 end+case when D14='A' then 1 else 0 end+case when D14='A' then 1 else 0 end+case when D16='A' then 1 else 0 end+case when D17='A' then 1 else 0 end+case when D18='A' then 1 else 0 end+case when D19='A' then 1 else 0 end+case when D20='A' then 1 else 0 end+case when D21='A' then 1 else 0 end+case when D22='A' then 1 else 0 end+case when D23='A' then 1 else 0 end+case when D24='A' then 1 else 0 end+case when D25='A' then 1 else 0 end+case when D26='A' then 1 else 0 end+case w in C:\wamp64\www\emsdemo\AppData\Class\MysqliDb.php on line 1514
+[09-Feb-2023 11:24:15 Asia/Kolkata] PHP Notice:  Undefined variable: EduLevel in C:\wamp64\www\emsdemo\View\ijp_creation.php on line 286
+[09-Feb-2023 11:24:15 Asia/Kolkata] PHP Stack trace:
+[09-Feb-2023 11:24:15 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\emsdemo\View\ijp_creation.php:0
+[09-Feb-2023 11:24:15 Asia/Kolkata] PHP Notice:  Undefined variable: dateDOJ in C:\wamp64\www\emsdemo\View\ijp_creation.php on line 291
+[09-Feb-2023 11:24:15 Asia/Kolkata] PHP Stack trace:
+[09-Feb-2023 11:24:15 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\emsdemo\View\ijp_creation.php:0
+[09-Feb-2023 11:24:15 Asia/Kolkata] PHP Notice:  Undefined variable: VerSant in C:\wamp64\www\emsdemo\View\ijp_creation.php on line 310
+[09-Feb-2023 11:24:15 Asia/Kolkata] PHP Stack trace:
+[09-Feb-2023 11:24:15 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\emsdemo\View\ijp_creation.php:0
+[09-Feb-2023 11:24:15 Asia/Kolkata] PHP Notice:  Undefined variable: sqlConnect in C:\wamp64\www\emsdemo\View\ijp_creation.php on line 316
+[09-Feb-2023 11:24:15 Asia/Kolkata] PHP Stack trace:
+[09-Feb-2023 11:24:15 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\emsdemo\View\ijp_creation.php:0
+[09-Feb-2023 11:24:17 Asia/Kolkata] PHP Notice:  Undefined variable: notemp in C:\wamp64\www\emsdemo\View\ijp_creation.php on line 54
+[09-Feb-2023 11:24:17 Asia/Kolkata] PHP Stack trace:
+[09-Feb-2023 11:24:17 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\emsdemo\View\ijp_creation.php:0
+[09-Feb-2023 11:24:17 Asia/Kolkata] PHP   2. calcAtnd($flag = NULL, $loc = '2') C:\wamp64\www\emsdemo\View\ijp_creation.php:332
+[09-Feb-2023 11:24:17 Asia/Kolkata] PHP Warning:  array_unique() expects parameter 1 to be array, null given in C:\wamp64\www\emsdemo\View\ijp_creation.php on line 54
+[09-Feb-2023 11:24:17 Asia/Kolkata] PHP Stack trace:
+[09-Feb-2023 11:24:17 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\emsdemo\View\ijp_creation.php:0
+[09-Feb-2023 11:24:17 Asia/Kolkata] PHP   2. calcAtnd($flag = NULL, $loc = '2') C:\wamp64\www\emsdemo\View\ijp_creation.php:332
+[09-Feb-2023 11:24:17 Asia/Kolkata] PHP   3. array_unique($arg = NULL) C:\wamp64\www\emsdemo\View\ijp_creation.php:54
+[09-Feb-2023 11:24:17 Asia/Kolkata] PHP Notice:  Undefined variable: AllEmp in C:\wamp64\www\emsdemo\View\ijp_creation.php on line 56
+[09-Feb-2023 11:24:17 Asia/Kolkata] PHP Stack trace:
+[09-Feb-2023 11:24:17 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\emsdemo\View\ijp_creation.php:0
+[09-Feb-2023 11:24:17 Asia/Kolkata] PHP   2. calcAtnd($flag = NULL, $loc = '2') C:\wamp64\www\emsdemo\View\ijp_creation.php:332
+[09-Feb-2023 11:24:17 Asia/Kolkata] PHP Warning:  array_unique() expects parameter 1 to be array, null given in C:\wamp64\www\emsdemo\View\ijp_creation.php on line 56
+[09-Feb-2023 11:24:17 Asia/Kolkata] PHP Stack trace:
+[09-Feb-2023 11:24:17 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\emsdemo\View\ijp_creation.php:0
+[09-Feb-2023 11:24:17 Asia/Kolkata] PHP   2. calcAtnd($flag = NULL, $loc = '2') C:\wamp64\www\emsdemo\View\ijp_creation.php:332
+[09-Feb-2023 11:24:17 Asia/Kolkata] PHP   3. array_unique($arg = NULL) C:\wamp64\www\emsdemo\View\ijp_creation.php:56
+[09-Feb-2023 11:24:17 Asia/Kolkata] PHP Warning:  array_diff(): Expected parameter 1 to be an array, null given in C:\wamp64\www\emsdemo\View\ijp_creation.php on line 58
+[09-Feb-2023 11:24:17 Asia/Kolkata] PHP Stack trace:
+[09-Feb-2023 11:24:17 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\emsdemo\View\ijp_creation.php:0
+[09-Feb-2023 11:24:17 Asia/Kolkata] PHP   2. calcAtnd($flag = NULL, $loc = '2') C:\wamp64\www\emsdemo\View\ijp_creation.php:332
+[09-Feb-2023 11:24:17 Asia/Kolkata] PHP   3. array_diff($arr1 = NULL, ...$arrays = variadic()) C:\wamp64\www\emsdemo\View\ijp_creation.php:58
+[09-Feb-2023 11:24:17 Asia/Kolkata] PHP Warning:  implode(): Invalid arguments passed in C:\wamp64\www\emsdemo\View\ijp_creation.php on line 61
+[09-Feb-2023 11:24:17 Asia/Kolkata] PHP Stack trace:
+[09-Feb-2023 11:24:17 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\emsdemo\View\ijp_creation.php:0
+[09-Feb-2023 11:24:17 Asia/Kolkata] PHP   2. calcAtnd($flag = NULL, $loc = '2') C:\wamp64\www\emsdemo\View\ijp_creation.php:332
+[09-Feb-2023 11:24:17 Asia/Kolkata] PHP   3. implode($glue = '\',\'', $pieces = NULL) C:\wamp64\www\emsdemo\View\ijp_creation.php:61
+[09-Feb-2023 11:25:16 Asia/Kolkata] PHP Notice:  Undefined variable: EduLevel in C:\wamp64\www\emsdemo\View\ijp_creation.php on line 288
+[09-Feb-2023 11:25:16 Asia/Kolkata] PHP Stack trace:
+[09-Feb-2023 11:25:16 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\emsdemo\View\ijp_creation.php:0
+[09-Feb-2023 11:25:17 Asia/Kolkata] PHP Notice:  Undefined variable: dateDOJ in C:\wamp64\www\emsdemo\View\ijp_creation.php on line 293
+[09-Feb-2023 11:25:17 Asia/Kolkata] PHP Stack trace:
+[09-Feb-2023 11:25:17 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\emsdemo\View\ijp_creation.php:0
+[09-Feb-2023 11:25:17 Asia/Kolkata] PHP Notice:  Undefined variable: VerSant in C:\wamp64\www\emsdemo\View\ijp_creation.php on line 304
+[09-Feb-2023 11:25:17 Asia/Kolkata] PHP Stack trace:
+[09-Feb-2023 11:25:17 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\emsdemo\View\ijp_creation.php:0
+[09-Feb-2023 11:25:17 Asia/Kolkata] PHP Notice:  Undefined variable: sqlConnect in C:\wamp64\www\emsdemo\View\ijp_creation.php on line 316
+[09-Feb-2023 11:25:17 Asia/Kolkata] PHP Stack trace:
+[09-Feb-2023 11:25:17 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\emsdemo\View\ijp_creation.php:0
+[09-Feb-2023 11:25:18 Asia/Kolkata] PHP Notice:  Undefined variable: notemp in C:\wamp64\www\emsdemo\View\ijp_creation.php on line 54
+[09-Feb-2023 11:25:18 Asia/Kolkata] PHP Stack trace:
+[09-Feb-2023 11:25:18 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\emsdemo\View\ijp_creation.php:0
+[09-Feb-2023 11:25:18 Asia/Kolkata] PHP   2. calcAtnd($flag = '1', $loc = '1') C:\wamp64\www\emsdemo\View\ijp_creation.php:332
+[09-Feb-2023 11:25:18 Asia/Kolkata] PHP Warning:  array_unique() expects parameter 1 to be array, null given in C:\wamp64\www\emsdemo\View\ijp_creation.php on line 54
+[09-Feb-2023 11:25:18 Asia/Kolkata] PHP Stack trace:
+[09-Feb-2023 11:25:18 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\emsdemo\View\ijp_creation.php:0
+[09-Feb-2023 11:25:18 Asia/Kolkata] PHP   2. calcAtnd($flag = '1', $loc = '1') C:\wamp64\www\emsdemo\View\ijp_creation.php:332
+[09-Feb-2023 11:25:18 Asia/Kolkata] PHP   3. array_unique($arg = NULL) C:\wamp64\www\emsdemo\View\ijp_creation.php:54
+[09-Feb-2023 11:25:18 Asia/Kolkata] PHP Notice:  Undefined variable: AllEmp in C:\wamp64\www\emsdemo\View\ijp_creation.php on line 56
+[09-Feb-2023 11:25:18 Asia/Kolkata] PHP Stack trace:
+[09-Feb-2023 11:25:18 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\emsdemo\View\ijp_creation.php:0
+[09-Feb-2023 11:25:18 Asia/Kolkata] PHP   2. calcAtnd($flag = '1', $loc = '1') C:\wamp64\www\emsdemo\View\ijp_creation.php:332
+[09-Feb-2023 11:25:18 Asia/Kolkata] PHP Warning:  array_unique() expects parameter 1 to be array, null given in C:\wamp64\www\emsdemo\View\ijp_creation.php on line 56
+[09-Feb-2023 11:25:18 Asia/Kolkata] PHP Stack trace:
+[09-Feb-2023 11:25:18 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\emsdemo\View\ijp_creation.php:0
+[09-Feb-2023 11:25:18 Asia/Kolkata] PHP   2. calcAtnd($flag = '1', $loc = '1') C:\wamp64\www\emsdemo\View\ijp_creation.php:332
+[09-Feb-2023 11:25:18 Asia/Kolkata] PHP   3. array_unique($arg = NULL) C:\wamp64\www\emsdemo\View\ijp_creation.php:56
+[09-Feb-2023 11:25:18 Asia/Kolkata] PHP Warning:  array_diff(): Expected parameter 1 to be an array, null given in C:\wamp64\www\emsdemo\View\ijp_creation.php on line 58
+[09-Feb-2023 11:25:18 Asia/Kolkata] PHP Stack trace:
+[09-Feb-2023 11:25:18 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\emsdemo\View\ijp_creation.php:0
+[09-Feb-2023 11:25:18 Asia/Kolkata] PHP   2. calcAtnd($flag = '1', $loc = '1') C:\wamp64\www\emsdemo\View\ijp_creation.php:332
+[09-Feb-2023 11:25:18 Asia/Kolkata] PHP   3. array_diff($arr1 = NULL, ...$arrays = variadic()) C:\wamp64\www\emsdemo\View\ijp_creation.php:58
+[09-Feb-2023 11:25:18 Asia/Kolkata] PHP Warning:  implode(): Invalid arguments passed in C:\wamp64\www\emsdemo\View\ijp_creation.php on line 61
+[09-Feb-2023 11:25:18 Asia/Kolkata] PHP Stack trace:
+[09-Feb-2023 11:25:18 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\emsdemo\View\ijp_creation.php:0
+[09-Feb-2023 11:25:18 Asia/Kolkata] PHP   2. calcAtnd($flag = '1', $loc = '1') C:\wamp64\www\emsdemo\View\ijp_creation.php:332
+[09-Feb-2023 11:25:18 Asia/Kolkata] PHP   3. implode($glue = '\',\'', $pieces = NULL) C:\wamp64\www\emsdemo\View\ijp_creation.php:61
+[09-Feb-2023 11:25:48 Asia/Kolkata] PHP Notice:  Undefined variable: post_int in C:\wamp64\www\emsdemo\View\ijp_acknowledge_hr.php on line 56
+[09-Feb-2023 11:25:48 Asia/Kolkata] PHP Stack trace:
+[09-Feb-2023 11:25:48 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\emsdemo\View\ijp_acknowledge_hr.php:0

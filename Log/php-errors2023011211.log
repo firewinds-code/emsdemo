@@ -1,0 +1,124 @@
+[12-Jan-2023 11:12:13 Asia/Kolkata] PHP Notice:  Undefined index: __user_logid in /var/www/html/erpm/AppCode/nHead.php on line 2
+[12-Jan-2023 11:12:39 Asia/Kolkata] PHP Warning:  mysqli_stmt::bind_param(): Number of elements in type definition string doesn't match number of bind variables in /var/www/html/erpm/Controller/ConLog.php on line 464
+[12-Jan-2023 11:12:40 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /var/www/html/erpm/View/index.php on line 346
+[12-Jan-2023 11:23:11 Asia/Kolkata] PHP Warning:  mysqli_stmt::bind_param(): Number of elements in type definition string doesn't match number of bind variables in /var/www/html/erpm/Controller/ConLog.php on line 464
+[12-Jan-2023 11:23:11 Asia/Kolkata] PHP Warning:  Use of undefined constant EMS_CenterName - assumed 'EMS_CenterName' (this will throw an Error in a future version of PHP) in /var/www/html/erpm/Controller/ConLog.php on line 470
+[12-Jan-2023 11:23:11 Asia/Kolkata] PHP Warning:  Use of undefined constant EMAIL_HOST - assumed 'EMAIL_HOST' (this will throw an Error in a future version of PHP) in /var/www/html/erpm/Controller/ConLog.php on line 473
+[12-Jan-2023 11:23:11 Asia/Kolkata] PHP Warning:  Use of undefined constant EMAIL_AUTH - assumed 'EMAIL_AUTH' (this will throw an Error in a future version of PHP) in /var/www/html/erpm/Controller/ConLog.php on line 474
+[12-Jan-2023 11:23:11 Asia/Kolkata] PHP Warning:  Use of undefined constant EMAIL_USER - assumed 'EMAIL_USER' (this will throw an Error in a future version of PHP) in /var/www/html/erpm/Controller/ConLog.php on line 475
+[12-Jan-2023 11:23:11 Asia/Kolkata] PHP Warning:  Use of undefined constant EMAIL_PASS - assumed 'EMAIL_PASS' (this will throw an Error in a future version of PHP) in /var/www/html/erpm/Controller/ConLog.php on line 476
+[12-Jan-2023 11:23:11 Asia/Kolkata] PHP Warning:  Use of undefined constant EMAIL_SMTPSecure - assumed 'EMAIL_SMTPSecure' (this will throw an Error in a future version of PHP) in /var/www/html/erpm/Controller/ConLog.php on line 477
+[12-Jan-2023 11:23:11 Asia/Kolkata] PHP Warning:  Use of undefined constant EMAIL_PORT - assumed 'EMAIL_PORT' (this will throw an Error in a future version of PHP) in /var/www/html/erpm/Controller/ConLog.php on line 478
+[12-Jan-2023 11:23:11 Asia/Kolkata] PHP Warning:  Use of undefined constant EMAIL_FROM - assumed 'EMAIL_FROM' (this will throw an Error in a future version of PHP) in /var/www/html/erpm/Controller/ConLog.php on line 479
+[12-Jan-2023 11:23:11 Asia/Kolkata] PHP Warning:  Use of undefined constant EMS_CenterName - assumed 'EMS_CenterName' (this will throw an Error in a future version of PHP) in /var/www/html/erpm/Controller/ConLog.php on line 482
+[12-Jan-2023 11:26:42 Asia/Kolkata] PHP Warning:  mysqli_stmt::bind_param(): Number of elements in type definition string doesn't match number of bind variables in /var/www/html/erpm/Controller/ConLog.php on line 464
+[12-Jan-2023 11:29:48 Asia/Kolkata] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /var/www/html/erpm/View/ref_registration.php on line 306
+[12-Jan-2023 11:29:48 Asia/Kolkata] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /var/www/html/erpm/View/ref_registration.php on line 328
+[12-Jan-2023 11:30:48 Asia/Kolkata] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /var/www/html/erpm/View/ref_registration.php on line 306
+[12-Jan-2023 11:30:48 Asia/Kolkata] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /var/www/html/erpm/View/ref_registration.php on line 328
+[12-Jan-2023 11:31:16 Asia/Kolkata] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /var/www/html/erpm/View/ref_registration.php on line 306
+[12-Jan-2023 11:31:16 Asia/Kolkata] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /var/www/html/erpm/View/ref_registration.php on line 328
+[12-Jan-2023 11:31:16 Asia/Kolkata] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /var/www/html/erpm/View/ref_registration.php on line 306
+[12-Jan-2023 11:31:16 Asia/Kolkata] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /var/www/html/erpm/View/ref_registration.php on line 328
+[12-Jan-2023 11:33:32 Asia/Kolkata] PHP Notice:  Undefined index: lvl in /var/www/html/erpm/Controller/getprocess.php on line 8
+[12-Jan-2023 11:33:51 Asia/Kolkata] PHP Notice:  Undefined index: hiddentype in /var/www/html/erpm/View/manual_client_movement.php on line 18
+[12-Jan-2023 11:33:51 Asia/Kolkata] PHP Notice:  Undefined index: txt_location in /var/www/html/erpm/View/manual_client_movement.php on line 373
+[12-Jan-2023 11:33:51 Asia/Kolkata] PHP Notice:  Undefined index: txt_subProcess in /var/www/html/erpm/View/manual_client_movement.php on line 375
+[12-Jan-2023 11:33:55 Asia/Kolkata] PHP Notice:  Undefined index: mode in /var/www/html/erpm/Controller/getalignmentforbatchmaster.php on line 10
+[12-Jan-2023 11:33:55 Asia/Kolkata] PHP Notice:  Undefined index: client in /var/www/html/erpm/Controller/getalignmentforbatchmaster.php on line 13
+[12-Jan-2023 11:33:55 Asia/Kolkata] PHP Notice:  Undefined index: process in /var/www/html/erpm/Controller/getalignmentforbatchmaster.php on line 14
+[12-Jan-2023 11:33:55 Asia/Kolkata] PHP Notice:  Undefined index: subprocess in /var/www/html/erpm/Controller/getalignmentforbatchmaster.php on line 15
+[12-Jan-2023 11:33:58 Asia/Kolkata] PHP Notice:  Undefined index: mode in /var/www/html/erpm/Controller/getalignmentforbatchmaster.php on line 10
+[12-Jan-2023 11:33:58 Asia/Kolkata] PHP Notice:  Undefined index: process in /var/www/html/erpm/Controller/getalignmentforbatchmaster.php on line 14
+[12-Jan-2023 11:33:58 Asia/Kolkata] PHP Notice:  Undefined index: subprocess in /var/www/html/erpm/Controller/getalignmentforbatchmaster.php on line 15
+[12-Jan-2023 11:34:07 Asia/Kolkata] PHP Notice:  Undefined index: txt_type in /var/www/html/erpm/View/manual_client_movement.php on line 248
+[12-Jan-2023 11:34:46 Asia/Kolkata] PHP Notice:  Undefined index: __user_logid in /var/www/html/erpm/AppCode/nHead.php on line 2
+[12-Jan-2023 11:34:54 Asia/Kolkata] PHP Warning:  mysqli_stmt::bind_param(): Number of elements in type definition string doesn't match number of bind variables in /var/www/html/erpm/Controller/ConLog.php on line 464
+[12-Jan-2023 11:34:55 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /var/www/html/erpm/View/index.php on line 346
+[12-Jan-2023 11:36:34 Asia/Kolkata] PHP Warning:  mysqli_stmt::bind_param(): Number of elements in type definition string doesn't match number of bind variables in /var/www/html/erpm/Controller/ConLog.php on line 464
+[12-Jan-2023 11:37:11 Asia/Kolkata] PHP Notice:  Undefined index: handler in /var/www/html/erpm/View/add_issue.php on line 23
+[12-Jan-2023 11:37:22 Asia/Kolkata] PHP Notice:  Undefined index: handler in /var/www/html/erpm/View/add_issue.php on line 23
+[12-Jan-2023 11:37:30 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /var/www/html/erpm/View/index.php on line 346
+[12-Jan-2023 11:37:44 Asia/Kolkata] PHP Notice:  Undefined variable: gender in /var/www/html/erpm/View/salary_certificate.php on line 33
+[12-Jan-2023 11:37:44 Asia/Kolkata] PHP Notice:  Undefined variable: gender1 in /var/www/html/erpm/View/salary_certificate.php on line 34
+[12-Jan-2023 11:37:44 Asia/Kolkata] PHP Notice:  Undefined variable: function in /var/www/html/erpm/View/salary_certificate.php on line 35
+[12-Jan-2023 11:37:44 Asia/Kolkata] PHP Notice:  Undefined variable: page1 in /var/www/html/erpm/View/salary_certificate.php on line 128
+[12-Jan-2023 11:37:44 Asia/Kolkata] PHP Warning:  chr() expects parameter 1 to be int, string given in /var/www/html/erpm/TCPDF/include/tcpdf_fonts.php on line 1671
+[12-Jan-2023 11:37:44 Asia/Kolkata] PHP Deprecated:  The each() function is deprecated. This message will be suppressed on further calls in /var/www/html/erpm/TCPDF/tcpdf.php on line 16548
+[12-Jan-2023 11:38:49 Asia/Kolkata] PHP Notice:  Undefined variable: gender in /var/www/html/erpm/View/salary_certificate.php on line 33
+[12-Jan-2023 11:38:49 Asia/Kolkata] PHP Notice:  Undefined variable: gender1 in /var/www/html/erpm/View/salary_certificate.php on line 34
+[12-Jan-2023 11:38:49 Asia/Kolkata] PHP Notice:  Undefined variable: function in /var/www/html/erpm/View/salary_certificate.php on line 35
+[12-Jan-2023 11:38:49 Asia/Kolkata] PHP Notice:  Undefined variable: page1 in /var/www/html/erpm/View/salary_certificate.php on line 128
+[12-Jan-2023 11:38:49 Asia/Kolkata] PHP Warning:  chr() expects parameter 1 to be int, string given in /var/www/html/erpm/TCPDF/include/tcpdf_fonts.php on line 1671
+[12-Jan-2023 11:38:50 Asia/Kolkata] PHP Deprecated:  The each() function is deprecated. This message will be suppressed on further calls in /var/www/html/erpm/TCPDF/tcpdf.php on line 16548
+[12-Jan-2023 11:41:06 Asia/Kolkata] PHP Warning:  mysqli_stmt::bind_param(): Number of elements in type definition string doesn't match number of bind variables in /var/www/html/erpm/Controller/ConLog.php on line 464
+[12-Jan-2023 11:41:06 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type null in /var/www/html/erpm/View/index.php on line 346
+[12-Jan-2023 11:42:24 Asia/Kolkata] PHP Notice:  Undefined variable: locationdir in /var/www/html/erpm/View/EmployeInfo.php on line 160
+[12-Jan-2023 11:42:25 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type int in /var/www/html/erpm/View/EmployeInfo.php on line 879
+[12-Jan-2023 11:42:25 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type int in /var/www/html/erpm/View/EmployeInfo.php on line 879
+[12-Jan-2023 11:42:25 Asia/Kolkata] PHP Notice:  Trying to access array offset on value of type int in /var/www/html/erpm/View/EmployeInfo.php on line 879
+[12-Jan-2023 11:42:25 Asia/Kolkata] PHP Notice:  Undefined variable: imsrc_rrt in /var/www/html/erpm/View/EmployeInfo.php on line 1356
+[12-Jan-2023 11:42:25 Asia/Kolkata] PHP Notice:  Undefined variable: imsrc_rrrt in /var/www/html/erpm/View/EmployeInfo.php on line 1367
+[12-Jan-2023 11:46:10 Asia/Kolkata] PHP Notice:  Undefined variable: employee_id in /var/www/html/erpm/View/salary_master.php on line 123
+[12-Jan-2023 11:46:10 Asia/Kolkata] PHP Warning:  mysqli_stmt::bind_param(): Number of variables doesn't match number of parameters in prepared statement in /var/www/html/erpm/View/salary_master.php on line 136
+[12-Jan-2023 11:48:34 Asia/Kolkata] PHP Notice:  Undefined index: __user_logid in /var/www/html/erpm/AppCode/nHead.php on line 2
+[12-Jan-2023 11:48:36 Asia/Kolkata] PHP Warning:  mysqli_stmt::bind_param(): Number of elements in type definition string doesn't match number of bind variables in /var/www/html/erpm/Controller/ConLog.php on line 464
+[12-Jan-2023 11:48:36 Asia/Kolkata] PHP Warning:  Use of undefined constant EMS_CenterName - assumed 'EMS_CenterName' (this will throw an Error in a future version of PHP) in /var/www/html/erpm/Controller/ConLog.php on line 470
+[12-Jan-2023 11:48:36 Asia/Kolkata] PHP Warning:  Use of undefined constant EMAIL_HOST - assumed 'EMAIL_HOST' (this will throw an Error in a future version of PHP) in /var/www/html/erpm/Controller/ConLog.php on line 473
+[12-Jan-2023 11:48:36 Asia/Kolkata] PHP Warning:  Use of undefined constant EMAIL_AUTH - assumed 'EMAIL_AUTH' (this will throw an Error in a future version of PHP) in /var/www/html/erpm/Controller/ConLog.php on line 474
+[12-Jan-2023 11:48:36 Asia/Kolkata] PHP Warning:  Use of undefined constant EMAIL_USER - assumed 'EMAIL_USER' (this will throw an Error in a future version of PHP) in /var/www/html/erpm/Controller/ConLog.php on line 475
+[12-Jan-2023 11:48:36 Asia/Kolkata] PHP Warning:  Use of undefined constant EMAIL_PASS - assumed 'EMAIL_PASS' (this will throw an Error in a future version of PHP) in /var/www/html/erpm/Controller/ConLog.php on line 476
+[12-Jan-2023 11:48:36 Asia/Kolkata] PHP Warning:  Use of undefined constant EMAIL_SMTPSecure - assumed 'EMAIL_SMTPSecure' (this will throw an Error in a future version of PHP) in /var/www/html/erpm/Controller/ConLog.php on line 477
+[12-Jan-2023 11:48:36 Asia/Kolkata] PHP Warning:  Use of undefined constant EMAIL_PORT - assumed 'EMAIL_PORT' (this will throw an Error in a future version of PHP) in /var/www/html/erpm/Controller/ConLog.php on line 478
+[12-Jan-2023 11:48:36 Asia/Kolkata] PHP Warning:  Use of undefined constant EMAIL_FROM - assumed 'EMAIL_FROM' (this will throw an Error in a future version of PHP) in /var/www/html/erpm/Controller/ConLog.php on line 479
+[12-Jan-2023 11:48:36 Asia/Kolkata] PHP Warning:  Use of undefined constant EMS_CenterName - assumed 'EMS_CenterName' (this will throw an Error in a future version of PHP) in /var/www/html/erpm/Controller/ConLog.php on line 482
+[12-Jan-2023 11:48:52 Asia/Kolkata] PHP Warning:  include_once(/var/www/html/erpm/View/../Services/sendsms_API1.php): failed to open stream: No such file or directory in /var/www/html/erpm/View/Covid.php on line 12
+[12-Jan-2023 11:48:52 Asia/Kolkata] PHP Warning:  include_once(): Failed opening '/var/www/html/erpm/View/../Services/sendsms_API1.php' for inclusion (include_path='.:/usr/share/php') in /var/www/html/erpm/View/Covid.php on line 12
+[12-Jan-2023 11:49:45 Asia/Kolkata] PHP Warning:  include_once(/var/www/html/erpm/View/../Services/sendsms_API1.php): failed to open stream: No such file or directory in /var/www/html/erpm/View/Covid.php on line 12
+[12-Jan-2023 11:49:45 Asia/Kolkata] PHP Warning:  include_once(): Failed opening '/var/www/html/erpm/View/../Services/sendsms_API1.php' for inclusion (include_path='.:/usr/share/php') in /var/www/html/erpm/View/Covid.php on line 12
+[12-Jan-2023 11:49:52 Asia/Kolkata] PHP Warning:  include_once(/var/www/html/erpm/View/../Services/sendsms_API1.php): failed to open stream: No such file or directory in /var/www/html/erpm/View/Covid.php on line 12
+[12-Jan-2023 11:49:52 Asia/Kolkata] PHP Warning:  include_once(): Failed opening '/var/www/html/erpm/View/../Services/sendsms_API1.php' for inclusion (include_path='.:/usr/share/php') in /var/www/html/erpm/View/Covid.php on line 12
+[12-Jan-2023 11:49:52 Asia/Kolkata] PHP Warning:  move_uploaded_file(/var/www/html/erpm/Config/../MedicalCertificate/CE0921939837CurriculumVitae_11262022_56.jpg): failed to open stream: No such file or directory in /var/www/html/erpm/View/Covid.php on line 42
+[12-Jan-2023 11:49:52 Asia/Kolkata] PHP Warning:  move_uploaded_file(): Unable to move '/tmp/phpEUaiTt' to '/var/www/html/erpm/Config/../MedicalCertificate/CE0921939837CurriculumVitae_11262022_56.jpg' in /var/www/html/erpm/View/Covid.php on line 42
+[12-Jan-2023 11:49:55 Asia/Kolkata] PHP Warning:  include_once(/var/www/html/erpm/View/../Services/sendsms_API1.php): failed to open stream: No such file or directory in /var/www/html/erpm/View/Covid.php on line 12
+[12-Jan-2023 11:49:55 Asia/Kolkata] PHP Warning:  include_once(): Failed opening '/var/www/html/erpm/View/../Services/sendsms_API1.php' for inclusion (include_path='.:/usr/share/php') in /var/www/html/erpm/View/Covid.php on line 12
+[12-Jan-2023 11:49:55 Asia/Kolkata] PHP Warning:  move_uploaded_file(/var/www/html/erpm/Config/../MedicalCertificate/CE0921939837CurriculumVitae_11262022_56.jpg): failed to open stream: No such file or directory in /var/www/html/erpm/View/Covid.php on line 42
+[12-Jan-2023 11:49:55 Asia/Kolkata] PHP Warning:  move_uploaded_file(): Unable to move '/tmp/phpmWfAVg' to '/var/www/html/erpm/Config/../MedicalCertificate/CE0921939837CurriculumVitae_11262022_56.jpg' in /var/www/html/erpm/View/Covid.php on line 42
+[12-Jan-2023 11:49:55 Asia/Kolkata] PHP Warning:  move_uploaded_file(/var/www/html/erpm/Config/../MedicalCertificate/AE01183397VoterIDCard_11242022_07.jpg): failed to open stream: No such file or directory in /var/www/html/erpm/View/Covid.php on line 66
+[12-Jan-2023 11:49:55 Asia/Kolkata] PHP Warning:  move_uploaded_file(): Unable to move '/tmp/phpoz7LHj' to '/var/www/html/erpm/Config/../MedicalCertificate/AE01183397VoterIDCard_11242022_07.jpg' in /var/www/html/erpm/View/Covid.php on line 66
+[12-Jan-2023 11:50:01 Asia/Kolkata] PHP Warning:  include_once(/var/www/html/erpm/View/../Services/sendsms_API1.php): failed to open stream: No such file or directory in /var/www/html/erpm/View/Covid.php on line 12
+[12-Jan-2023 11:50:01 Asia/Kolkata] PHP Warning:  include_once(): Failed opening '/var/www/html/erpm/View/../Services/sendsms_API1.php' for inclusion (include_path='.:/usr/share/php') in /var/www/html/erpm/View/Covid.php on line 12
+[12-Jan-2023 11:50:01 Asia/Kolkata] PHP Warning:  move_uploaded_file(/var/www/html/erpm/Config/../MedicalCertificate/CE0921939837CurriculumVitae_11262022_56.jpg): failed to open stream: No such file or directory in /var/www/html/erpm/View/Covid.php on line 42
+[12-Jan-2023 11:50:01 Asia/Kolkata] PHP Warning:  move_uploaded_file(): Unable to move '/tmp/phpOAdGXq' to '/var/www/html/erpm/Config/../MedicalCertificate/CE0921939837CurriculumVitae_11262022_56.jpg' in /var/www/html/erpm/View/Covid.php on line 42
+[12-Jan-2023 11:50:01 Asia/Kolkata] PHP Warning:  move_uploaded_file(/var/www/html/erpm/Config/../MedicalCertificate/AE01183397VoterIDCard_11242022_07.jpg): failed to open stream: No such file or directory in /var/www/html/erpm/View/Covid.php on line 66
+[12-Jan-2023 11:50:01 Asia/Kolkata] PHP Warning:  move_uploaded_file(): Unable to move '/tmp/phpc8N1up' to '/var/www/html/erpm/Config/../MedicalCertificate/AE01183397VoterIDCard_11242022_07.jpg' in /var/www/html/erpm/View/Covid.php on line 66
+[12-Jan-2023 11:50:52 Asia/Kolkata] PHP Warning:  include_once(/var/www/html/erpm/View/../Services/sendsms_API1.php): failed to open stream: No such file or directory in /var/www/html/erpm/View/Covid.php on line 12
+[12-Jan-2023 11:50:52 Asia/Kolkata] PHP Warning:  include_once(): Failed opening '/var/www/html/erpm/View/../Services/sendsms_API1.php' for inclusion (include_path='.:/usr/share/php') in /var/www/html/erpm/View/Covid.php on line 12
+[12-Jan-2023 11:50:52 Asia/Kolkata] PHP Warning:  move_uploaded_file(/var/www/html/erpm/Config/../MedicalCertificate/CE0921939837CurriculumVitae_11262022_56.jpg): failed to open stream: No such file or directory in /var/www/html/erpm/View/Covid.php on line 42
+[12-Jan-2023 11:50:52 Asia/Kolkata] PHP Warning:  move_uploaded_file(): Unable to move '/tmp/phpjjITva' to '/var/www/html/erpm/Config/../MedicalCertificate/CE0921939837CurriculumVitae_11262022_56.jpg' in /var/www/html/erpm/View/Covid.php on line 42
+[12-Jan-2023 11:50:52 Asia/Kolkata] PHP Warning:  move_uploaded_file(/var/www/html/erpm/Config/../MedicalCertificate/AE01183397VoterIDCard_11242022_07.jpg): failed to open stream: No such file or directory in /var/www/html/erpm/View/Covid.php on line 66
+[12-Jan-2023 11:50:52 Asia/Kolkata] PHP Warning:  move_uploaded_file(): Unable to move '/tmp/php1mSzX9' to '/var/www/html/erpm/Config/../MedicalCertificate/AE01183397VoterIDCard_11242022_07.jpg' in /var/www/html/erpm/View/Covid.php on line 66
+[12-Jan-2023 11:51:24 Asia/Kolkata] PHP Warning:  include_once(/var/www/html/erpm/View/../Services/sendsms_API1.php): failed to open stream: No such file or directory in /var/www/html/erpm/View/Covid.php on line 12
+[12-Jan-2023 11:51:24 Asia/Kolkata] PHP Warning:  include_once(): Failed opening '/var/www/html/erpm/View/../Services/sendsms_API1.php' for inclusion (include_path='.:/usr/share/php') in /var/www/html/erpm/View/Covid.php on line 12
+[12-Jan-2023 11:52:09 Asia/Kolkata] PHP Warning:  include_once(/var/www/html/erpm/View/../Services/sendsms_API1.php): failed to open stream: No such file or directory in /var/www/html/erpm/View/Covid.php on line 12
+[12-Jan-2023 11:52:09 Asia/Kolkata] PHP Warning:  include_once(): Failed opening '/var/www/html/erpm/View/../Services/sendsms_API1.php' for inclusion (include_path='.:/usr/share/php') in /var/www/html/erpm/View/Covid.php on line 12
+[12-Jan-2023 11:52:09 Asia/Kolkata] PHP Warning:  Use of undefined constant SMS_URL - assumed 'SMS_URL' (this will throw an Error in a future version of PHP) in /var/www/html/erpm/View/Covid.php on line 142
+[12-Jan-2023 11:52:09 Asia/Kolkata] PHP Warning:  Use of undefined constant SMS_TOKEN - assumed 'SMS_TOKEN' (this will throw an Error in a future version of PHP) in /var/www/html/erpm/View/Covid.php on line 143
+[12-Jan-2023 11:52:09 Asia/Kolkata] PHP Warning:  Use of undefined constant SMS_CREDIT - assumed 'SMS_CREDIT' (this will throw an Error in a future version of PHP) in /var/www/html/erpm/View/Covid.php on line 144
+[12-Jan-2023 11:52:09 Asia/Kolkata] PHP Warning:  Use of undefined constant SMS_SENDER - assumed 'SMS_SENDER' (this will throw an Error in a future version of PHP) in /var/www/html/erpm/View/Covid.php on line 145
+[12-Jan-2023 11:52:09 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Class 'sendsms' not found in /var/www/html/erpm/View/Covid.php:148
+Stack trace:
+#0 {main}
+  thrown in /var/www/html/erpm/View/Covid.php on line 148
+[12-Jan-2023 11:52:31 Asia/Kolkata] PHP Warning:  include_once(/var/www/html/erpm/View/../Services/sendsms_API1.php): failed to open stream: No such file or directory in /var/www/html/erpm/View/Covid.php on line 12
+[12-Jan-2023 11:52:31 Asia/Kolkata] PHP Warning:  include_once(): Failed opening '/var/www/html/erpm/View/../Services/sendsms_API1.php' for inclusion (include_path='.:/usr/share/php') in /var/www/html/erpm/View/Covid.php on line 12
+[12-Jan-2023 11:52:31 Asia/Kolkata] PHP Warning:  Use of undefined constant SMS_URL - assumed 'SMS_URL' (this will throw an Error in a future version of PHP) in /var/www/html/erpm/View/Covid.php on line 142
+[12-Jan-2023 11:52:31 Asia/Kolkata] PHP Warning:  Use of undefined constant SMS_TOKEN - assumed 'SMS_TOKEN' (this will throw an Error in a future version of PHP) in /var/www/html/erpm/View/Covid.php on line 143
+[12-Jan-2023 11:52:31 Asia/Kolkata] PHP Warning:  Use of undefined constant SMS_CREDIT - assumed 'SMS_CREDIT' (this will throw an Error in a future version of PHP) in /var/www/html/erpm/View/Covid.php on line 144
+[12-Jan-2023 11:52:31 Asia/Kolkata] PHP Warning:  Use of undefined constant SMS_SENDER - assumed 'SMS_SENDER' (this will throw an Error in a future version of PHP) in /var/www/html/erpm/View/Covid.php on line 145
+[12-Jan-2023 11:52:31 Asia/Kolkata] PHP Fatal error:  Uncaught Error: Class 'sendsms' not found in /var/www/html/erpm/View/Covid.php:148
+Stack trace:
+#0 {main}
+  thrown in /var/www/html/erpm/View/Covid.php on line 148
+[12-Jan-2023 11:53:04 Asia/Kolkata] PHP Warning:  include_once(/var/www/html/erpm/View/../Services/sendsms_API1.php): failed to open stream: No such file or directory in /var/www/html/erpm/View/Covid.php on line 12
+[12-Jan-2023 11:53:04 Asia/Kolkata] PHP Warning:  include_once(): Failed opening '/var/www/html/erpm/View/../Services/sendsms_API1.php' for inclusion (include_path='.:/usr/share/php') in /var/www/html/erpm/View/Covid.php on line 12

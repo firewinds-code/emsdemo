@@ -1,0 +1,45 @@
+[21-Feb-2023 12:00:25 Asia/Kolkata] PHP Fatal error:  Uncaught Error: mysqli_stmt::bind_param(): Argument #3 cannot be passed by reference in C:\wamp64\www\emsdemo\View\rpt_AttendanceTrack.php:421
+Stack trace:
+#0 {main}
+  thrown in C:\wamp64\www\emsdemo\View\rpt_AttendanceTrack.php on line 421
+[21-Feb-2023 12:01:18 Asia/Kolkata] PHP Fatal error:  Uncaught Error: mysqli_stmt::bind_param(): Argument #3 cannot be passed by reference in C:\wamp64\www\emsdemo\View\rpt_AttendanceTrack.php:421
+Stack trace:
+#0 {main}
+  thrown in C:\wamp64\www\emsdemo\View\rpt_AttendanceTrack.php on line 421
+[21-Feb-2023 12:02:55 Asia/Kolkata] PHP Fatal error:  Uncaught Error: mysqli_stmt::bind_param(): Argument #3 cannot be passed by reference in C:\wamp64\www\emsdemo\View\rpt_AttendanceTrack.php:419
+Stack trace:
+#0 {main}
+  thrown in C:\wamp64\www\emsdemo\View\rpt_AttendanceTrack.php on line 419
+[21-Feb-2023 12:25:01 Asia/Kolkata] PHP Warning:  Undefined array key "__user_logid" in C:\wamp64\www\emsdemo\AppCode\nHead.php on line 2
+[21-Feb-2023 12:25:01 Asia/Kolkata] PHP Stack trace:
+[21-Feb-2023 12:25:01 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\emsdemo\View\rpt_AttendanceTrack.php:0
+[21-Feb-2023 12:25:01 Asia/Kolkata] PHP   2. require() C:\wamp64\www\emsdemo\View\rpt_AttendanceTrack.php:9
+[21-Feb-2023 12:25:21 Asia/Kolkata] PHP Warning:  Undefined array key "txt_dateFrom" in C:\wamp64\www\emsdemo\View\message-popup.php on line 28
+[21-Feb-2023 12:25:21 Asia/Kolkata] PHP Stack trace:
+[21-Feb-2023 12:25:21 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\emsdemo\View\message-popup.php:0
+[21-Feb-2023 12:25:21 Asia/Kolkata] PHP Warning:  Undefined array key "txt_dateto" in C:\wamp64\www\emsdemo\View\message-popup.php on line 29
+[21-Feb-2023 12:25:21 Asia/Kolkata] PHP Stack trace:
+[21-Feb-2023 12:25:21 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\emsdemo\View\message-popup.php:0
+[21-Feb-2023 12:25:53 Asia/Kolkata] PHP Fatal error:  Uncaught Error: mysqli_stmt::bind_param(): Argument #3 cannot be passed by reference in C:\wamp64\www\emsdemo\View\rpt_AttendanceTrack.php:420
+Stack trace:
+#0 {main}
+  thrown in C:\wamp64\www\emsdemo\View\rpt_AttendanceTrack.php on line 420
+[21-Feb-2023 12:26:26 Asia/Kolkata] PHP Fatal error:  Uncaught Error: mysqli_stmt::bind_param(): Argument #3 cannot be passed by reference in C:\wamp64\www\emsdemo\View\rpt_AttendanceTrack.php:420
+Stack trace:
+#0 {main}
+  thrown in C:\wamp64\www\emsdemo\View\rpt_AttendanceTrack.php on line 420
+[21-Feb-2023 12:34:42 Asia/Kolkata] PHP Fatal error:  Uncaught ArgumentCountError: The number of variables must match the number of parameters in the prepared statement in C:\wamp64\www\emsdemo\View\rpt_AttendanceTrack.php:419
+Stack trace:
+#0 C:\wamp64\www\emsdemo\View\rpt_AttendanceTrack.php(419): mysqli_stmt->bind_param('ssss', 'CE10091236', '2023-01-30', '2023-01-30', '2023-01-30')
+#1 {main}
+  thrown in C:\wamp64\www\emsdemo\View\rpt_AttendanceTrack.php on line 419
+[21-Feb-2023 12:48:56 Asia/Kolkata] PHP Warning:  Undefined array key "__user_logid" in C:\wamp64\www\emsdemo\AppCode\nHead.php on line 2
+[21-Feb-2023 12:48:56 Asia/Kolkata] PHP Stack trace:
+[21-Feb-2023 12:48:56 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\emsdemo\View\rpt_AttendanceTrack.php:0
+[21-Feb-2023 12:48:56 Asia/Kolkata] PHP   2. require() C:\wamp64\www\emsdemo\View\rpt_AttendanceTrack.php:9
+[21-Feb-2023 12:49:19 Asia/Kolkata] PHP Warning:  Undefined array key "txt_dateFrom" in C:\wamp64\www\emsdemo\View\message-popup.php on line 28
+[21-Feb-2023 12:49:19 Asia/Kolkata] PHP Stack trace:
+[21-Feb-2023 12:49:19 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\emsdemo\View\message-popup.php:0
+[21-Feb-2023 12:49:19 Asia/Kolkata] PHP Warning:  Undefined array key "txt_dateto" in C:\wamp64\www\emsdemo\View\message-popup.php on line 29
+[21-Feb-2023 12:49:19 Asia/Kolkata] PHP Stack trace:
+[21-Feb-2023 12:49:19 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\emsdemo\View\message-popup.php:0

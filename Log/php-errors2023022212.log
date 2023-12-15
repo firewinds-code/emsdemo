@@ -1,0 +1,10 @@
+[22-Feb-2023 12:24:04 Asia/Kolkata] PHP Warning:  Undefined array key "__user_logid" in C:\wamp64\www\emsdemo\AppCode\nHead.php on line 2
+[22-Feb-2023 12:24:04 Asia/Kolkata] PHP Stack trace:
+[22-Feb-2023 12:24:04 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\emsdemo\View\transfer_report.php:0
+[22-Feb-2023 12:24:04 Asia/Kolkata] PHP   2. require() C:\wamp64\www\emsdemo\View\transfer_report.php:9
+[22-Feb-2023 12:24:20 Asia/Kolkata] PHP Warning:  Undefined variable $date_From in C:\wamp64\www\emsdemo\View\transfer_report.php on line 101
+[22-Feb-2023 12:24:20 Asia/Kolkata] PHP Stack trace:
+[22-Feb-2023 12:24:20 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\emsdemo\View\transfer_report.php:0
+[22-Feb-2023 12:24:20 Asia/Kolkata] PHP Warning:  Undefined variable $date_To in C:\wamp64\www\emsdemo\View\transfer_report.php on line 105
+[22-Feb-2023 12:24:20 Asia/Kolkata] PHP Stack trace:
+[22-Feb-2023 12:24:20 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\emsdemo\View\transfer_report.php:0

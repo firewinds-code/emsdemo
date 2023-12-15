@@ -1,0 +1,21 @@
+[02-Feb-2023 14:42:37 Asia/Kolkata] PHP Warning:  Undefined array key "__user_logid" in C:\wamp64\www\emsdemo\Controller\ConLog.php on line 31
+[02-Feb-2023 14:42:37 Asia/Kolkata] PHP Stack trace:
+[02-Feb-2023 14:42:37 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\emsdemo\Controller\ConLog.php:0
+[02-Feb-2023 14:42:40 Asia/Kolkata] PHP Warning:  Undefined array key "__user_logid" in C:\wamp64\www\emsdemo\Controller\ConLog.php on line 31
+[02-Feb-2023 14:42:40 Asia/Kolkata] PHP Stack trace:
+[02-Feb-2023 14:42:40 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\emsdemo\Controller\ConLog.php:0
+[02-Feb-2023 14:42:43 Asia/Kolkata] PHP Warning:  Undefined array key "__user_logid" in C:\wamp64\www\emsdemo\Controller\ConLog.php on line 31
+[02-Feb-2023 14:42:43 Asia/Kolkata] PHP Stack trace:
+[02-Feb-2023 14:42:43 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\emsdemo\Controller\ConLog.php:0
+[02-Feb-2023 14:42:55 Asia/Kolkata] PHP Warning:  Undefined array key "__user_logid" in C:\wamp64\www\emsdemo\Controller\ConLog.php on line 31
+[02-Feb-2023 14:42:55 Asia/Kolkata] PHP Stack trace:
+[02-Feb-2023 14:42:55 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\emsdemo\Controller\ConLog.php:0
+[02-Feb-2023 14:42:58 Asia/Kolkata] PHP Warning:  Undefined array key "__user_logid" in C:\wamp64\www\emsdemo\Controller\ConLog.php on line 31
+[02-Feb-2023 14:42:58 Asia/Kolkata] PHP Stack trace:
+[02-Feb-2023 14:42:58 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\emsdemo\Controller\ConLog.php:0
+[02-Feb-2023 14:43:00 Asia/Kolkata] PHP Warning:  Undefined array key "__user_logid" in C:\wamp64\www\emsdemo\Controller\ConLog.php on line 31
+[02-Feb-2023 14:43:00 Asia/Kolkata] PHP Stack trace:
+[02-Feb-2023 14:43:00 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\emsdemo\Controller\ConLog.php:0
+[02-Feb-2023 14:43:04 Asia/Kolkata] PHP Warning:  Undefined array key "__user_logid" in C:\wamp64\www\emsdemo\Controller\ConLog.php on line 31
+[02-Feb-2023 14:43:04 Asia/Kolkata] PHP Stack trace:
+[02-Feb-2023 14:43:04 Asia/Kolkata] PHP   1. {main}() C:\wamp64\www\emsdemo\Controller\ConLog.php:0
